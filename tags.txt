@@ -60,11 +60,11 @@ GirlA	romantic schoolgirl
 GirlB	a romance questioning schoolgirl
 GreeneHouse	a party scene for [Jenny Greene](#jennygreene)
 Gyno	the exams [Ash](#ash) tries to skip
-Harry	Harry Walsh, racers’ auto engineer, owner [Aries](#aries) auto workshop
+Harry	'Harry' (Henry) Walsh, racers’ auto engineer, owner [Aries](#aries) auto workshop
 Heather	Heather Walsh, [Harry](#harry)’s niece, drives a yellow ZX3
 HeatherHome	where Heather lurks; doorway has changed
 Hit	punch / kick / chase
-IRsensor	a remote infrared & motion sensing camera 
+IRsensor	a remote infrared & motion sensing camera
 Ivan	the self-proclaimed ‘Ice King’
 JaguarXKR	Kate's ride, tuned by Harry, license "Kate 3"
 James	nailed [Ash](#ash), but only in [flashback](#flashback), drives a Mitsubishi 3000GT VR4
@@ -76,7 +76,7 @@ Jenny	a conceited model
 JennyGreene	a member of the Tempest High 'rich bitch squad'
 JennySnr	[Jenny](#jenny)’s-the-model's conceited Mom
 Kate	'Kamikaze' Kate, the Demon of Greylock Mountain (has mellowed...); drives a Jaguar XKR
-KateKid	Kate's son, yet to be named. [Harry](#harry) may have been involved
+KateKid	Kate's son, Harry. Another [Harry](#harry) may have been involved
 Kay	Kay Wheeler, model, works for [Marie](#marie), drives a Miata
 Kevin	a reconnaissance [Sheldonista](#sheldonista)
 KidB	some boy at school
@@ -88,7 +88,7 @@ Logan	racer, homeschooled, sees angels
 M3000GT	Mitsubishi 3000GT VR4 sports car, as driven by James
 MacsBar	a bar
 Marie	Marie Upton, [Ash](#ash)’s Mom, ex-model, ex-wife of [Edward Upton](#edward)
-MarieHouse	Marie Upton's home, with access to the beach, at [Dennis](https://en.wikipedia.org/wiki/Dennis,_Massachusetts), Cape Cod: [WoG](#wog), 
+MarieHouse	Marie Upton's home, with access to the beach, at [Dennis](https://en.wikipedia.org/wiki/Dennis,_Massachusetts), Cape Cod: [WoG](#wog),
 MarieWork	where Marie runs a fashion/lingerie business
 Maude	canteen catering & hair advice
 McArthurRes	The McArthur residence – [Emily](#emily)’s home, [house no. 124](http://www.misfile.com/?date=2007-05-29)
