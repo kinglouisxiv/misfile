@@ -1,4 +1,12 @@
 ; --- tags.txt ---
+; reminder: this is comment - in case you need to flag changes, etc...
+; internal formatting is a mix of Markdown plus html (for <br> etc)
+; **bold**
+; _italic_
+; [internal link text](#sometag)
+; [external link text](http://www.gunnerkrigg.com)
+;
+;
 Acura	[Tom](#tom) drives an Acura, licence plate: TOMSTER
 Aiden	Aiden Brewster, car-whisperer; rebuilds & drives Nissan 240/260/280 series cars
 AleHouse	bar-bistro on Cape Cod near [Marie Upton's](#marie) [house](#mariehouse)
@@ -88,7 +96,7 @@ Logan	racer, homeschooled, sees angels
 M3000GT	Mitsubishi 3000GT VR4 sports car, as driven by James
 MacsBar	a bar
 Marie	Marie Upton, [Ash](#ash)’s Mom, ex-model, ex-wife of [Edward Upton](#edward)
-MarieHouse	Marie Upton's home, with access to the beach, at [Dennis](https://en.wikipedia.org/wiki/Dennis,_Massachusetts), Cape Cod: [WoG](#wog),
+MarieHouse	Marie Upton's home, with access to the beach, at [Dennis](https://en.wikipedia.org/wiki/Dennis,_Massachusetts), Cape Cod: [WoG](#wog)
 MarieWork	where Marie runs a fashion/lingerie business
 Maude	canteen catering & hair advice
 McArthurRes	The McArthur residence – [Emily](#emily)’s home, [house no. 124](http://www.misfile.com/?date=2007-05-29)

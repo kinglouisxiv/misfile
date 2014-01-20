@@ -1,3 +1,13 @@
+; --- INDEX ---
+; reminder: this is comment - in case you need to flag changes, etc...
+; internal formatting is a mix of [Markdown](http://daringfireball.net/projects/markdown) plus html (for <br> etc)
+; **bold**
+; _italic_
+; [internal link text](#sometag) - tag links are lower case
+; [external link text](http://www.gunnerkrigg.com)
+; tags starting ch- are chapter identifiers
+2014-01-20	ch-20	Ash	Emily	School	#I was thinking some more about Valentine's Day...
+2014-01-17	ch-20	Ash	Emily	School	#Ash! I just heard about Kate!
 2014-01-16	ch-20	Harry	Hospital	Kate	KateKid	#You should beg forgiveness now while I'm still high on endorphins
 2014-01-15	ch-20	Ash	KateKid	Rumisiel	#So was it a boy or a girl?
 2014-01-14	ch-20	Ash	Edward	Hospital	Rumisiel	#You're almost there. I can see the head
@@ -2546,3 +2556,4 @@
 2004-02-23	ch-01	Ash	Cover	Rumisiel	#<br>**Book 1**<br>March – April '04<br><br>_Misfile — Ash — Rumisiel — Emily — in re: filing — racing Tom — AutoModerZ — Dr Edward Upton — Molly — racing Tom II_
 ;
 2004-02-22	Ash	Cover	#<br>**Misfile** cover
+; --- index eof ----
