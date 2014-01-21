@@ -6,6 +6,7 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+2014-01-21	ch-20	Ash	Bacon	Emily	Flashback	School	#She trusts you at home all week by yourself?
 2014-01-20	ch-20	Ash	Emily	School	#I was thinking some more about Valentine's Day...
 2014-01-17	ch-20	Ash	Emily	School	#Ash! I just heard about Kate!
 2014-01-16	ch-20	Harry	Hospital	Kate	KateKid	#You should beg forgiveness now while I'm still high on endorphins
@@ -61,7 +62,7 @@
 2013-11-07	ch-20	Ash	Heather	HeatherHome	#Seriously? You just show up at my house now?
 2013-11-06	ch-20	Ash	Missi	#_I will find him and expose him, and then I will crush him_
 2013-11-05	ch-20	Ash	IRsensor	Missi	#Operation Stalker Smack Down is underway!
-2013-11-04	ch-20	Cover	Emily	#<br>**Book 20**<br>February ’05<br><br>_Valentine – Baby Shower_<br>
+2013-11-04	ch-20	Cover	Emily	#<br>**Book 20**<br>February ’05<br><br>_Valentine – Baby Shower – Early_<br>
 2013-11-01	ch-19	Ash	#I've got to find out who is leaving those letters
 2013-10-31	Ash	Filler	#Halloween 2013
 2013-10-30	ch-19	Ash	ChainSaw	Dream	Kate	Shotgun	Zombies	#THE BABY IS COMING! POINT ME AT THE ZOMBIES!
@@ -2510,8 +2511,8 @@
 2004-05-05	ch-01	Ash	Emily	#It’s not funny! That hurt!
 2004-05-03	ch-01	Ash	Emily	XR4Ti	#Don’t feel like you have to stick around
 2004-04-30	ch-01	Rumisiel	#Oh, my head
-2004-04-28	ch-01	Ash	Emily	#the porn mags
-2004-04-26	ch-01	Ash	Emily	#What’s that smell
+2004-04-28	ch-01	Ash	Bacon	Emily	#the porn mags
+2004-04-26	ch-01	Ash	Bacon	Emily	#What’s that smell
 2004-04-23	ch-01	Ash	Dates	#<span class="dt">Sunday</span><br>Please be a dream
 2004-04-21	ch-01	Ash	Emily	#What kind of guy
 2004-04-19	ch-01	Ash	Emily	#I had a big fight with my mom
@@ -2550,7 +2551,7 @@
 2004-02-28	ch-01	Angel	Ash	Rumisiel	#The problem is these TITS
 2004-02-27	ch-01	Angel	Ash	Rumisiel	#How about an angel?
 2004-02-26	ch-01	Ash	Rumisiel	#You are not why I’m screaming
-2004-02-25	ch-01	Ash	Dates	#a <span class="dt">10:30am, a Saturday in March 2004</span><br>Have I got laryngitis?
+2004-02-25	ch-01	Ash	Dates	#a <span class="dt">10:38am, a Saturday in March 2004</span><br>Have I got laryngitis?
 2004-02-24	ch-01	Fillaniel	Rumisiel	Terrael	#(dark, scenesetter, voiceover)
 ;
 2004-02-23	ch-01	Ash	Cover	Rumisiel	#<br>**Book 1**<br>March – April '04<br><br>_Misfile — Ash — Rumisiel — Emily — in re: filing — racing Tom — AutoModerZ — Dr Edward Upton — Molly — racing Tom II_
