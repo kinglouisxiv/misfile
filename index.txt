@@ -6,6 +6,7 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+2014-01-22	ch-20	Ash	Emily	School	#"Blimp Bras"!
 2014-01-21	ch-20	Ash	Bacon	Emily	Flashback	School	#She trusts you at home all week by yourself?
 2014-01-20	ch-20	Ash	Emily	School	#I was thinking some more about Valentine's Day...
 2014-01-17	ch-20	Ash	Emily	School	#Ash! I just heard about Kate!
