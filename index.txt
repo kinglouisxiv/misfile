@@ -1,11 +1,13 @@
 ; --- INDEX ---
-; reminder: this is comment - in case you need to flag changes, etc...
+; this is comment - in case you need to flag changes, etc...
 ; internal formatting is a mix of [Markdown](http://daringfireball.net/projects/markdown) plus html (for <br> etc)
 ; **bold**
 ; _italic_
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+2014-01-24	ch-20	Aries	Ash	Harry	#’Arry ... I mean "other ’Arry", is still in the NICU
+2014-01-23	ch-20	Emily	McArthurRes	Mustang	#Why did I suggest cooking?
 2014-01-22	ch-20	Ash	Emily	School	#"Blimp Bras"!
 2014-01-21	ch-20	Ash	Bacon	Emily	Flashback	School	#She trusts you at home all week by yourself?
 2014-01-20	ch-20	Ash	Emily	School	#I was thinking some more about Valentine's Day...
@@ -85,19 +87,19 @@
 2013-10-08	ch-19	Ash	Rumisiel	#Another looooooove letter?
 2013-10-07	ch-19	Ash	Rumisiel	School	GirlA	GirlB	Valentine	#It has terrible handwriting and it’s only signed "your secret admirer"
 2013-10-04	ch-19	Ash	Rumisiel	School	Valentine	#A challenge with a bow? That's new...
-2013-10-03	ch-19	Ash	Emily	#Should we make a grand unromantic gesture?
-2013-10-02	ch-19	Ash	Emily	#Aren't you SORT of in a relationship now?
-2013-10-01	ch-19	Ash	Emily	James	Molly	#I wonder if Molly knows how it works.
-2013-09-30	ch-19	Ash	Emily	James	#If James and I could do it in the front seat of his 3000GT...
-2013-09-27	ch-19	Ash	Emily	#How did people have sex in the back of these things?
-2013-09-26	ch-19	Ash	Emily	#So come on. Do you like it?
+2013-10-03	ch-19	Ash	Emily	Mustang	OldRoad	#Should we make a grand unromantic gesture?
+2013-10-02	ch-19	Ash	Emily	Mustang	OldRoad	#Aren't you SORT of in a relationship now?
+2013-10-01	ch-19	Ash	Emily	James	Molly	Mustang	OldRoad	#I wonder if Molly knows how it works.
+2013-09-30	ch-19	Ash	Emily	James	Mustang	OldRoad	#If James and I could do it in the front seat of his 3000GT...
+2013-09-27	ch-19	Ash	Emily	Mustang	OldRoad	#How did people have sex in the back of these things?
+2013-09-26	ch-19	Ash	Emily	Mustang	OldRoad	#So come on. Do you like it?
 2013-09-25	ch-19	Angel	Cassiel	Rumisiel	#We had lots of fun together; great times.
 2013-09-24	ch-19	Missi	Rumisiel	#Would you even KNOW if it was your thing?
 2013-09-23	ch-19	Missi	Rumisiel	#I mean, have you ever BEEN with a girl?
 2013-09-20	ch-19	Missi	Rumisiel	#Good thing I know you’re gay, or I’d totally think you’re checking me out
 2013-09-19	ch-19	Missi	Rumisiel	#What are you doing here all by yourself?
-2013-09-18	ch-19	ArchonKiller	Heaven	#This halo grows heavy upon my head
-2013-09-17	ch-19	Aries	Emily	Harry	#My favorite of the Yank Tanks
+2013-09-18	ch-19	ArchonKiller	Heaven	Sword	#Keys...
+2013-09-17	ch-19	Aries	Emily	Harry	Mustang	#My favorite of the Yank Tanks
 2013-09-16	ch-19	Aries	Ash	Emily	#Yeah. But I wanted it to bite HER, not ME!
 2013-09-13	ch-19	Ash	Emily	School	#I thought the only bad fallout from that party would be from my mom
 2013-09-12	ch-19	Emily	School	#… Jenny … this weekend … total closet case … always suspected …
@@ -499,13 +501,13 @@
 2012-03-16	ch-16	Ash	Emily	Rumisiel	School	#
 2012-03-15	ch-16	Ash	Emily	Rumisiel	School	#
 2012-03-14	ch-16	Ash	Emily	School	#
-2012-03-13	ch-16	Emily	MsMcArthur	#
-2012-03-12	ch-16	Emily	MsMcArthur	#
-2012-03-09	ch-16	MsMcArthur	#
+2012-03-13	ch-16	Emily	MsMcArthur	McArthurRes	Mustang	#My father had one of these when I was growing up
+2012-03-12	ch-16	Emily	MsMcArthur	McArthurRes	Mustang	#Uh... Hi, It's kind of cold out. Can we do this inside?
+2012-03-09	ch-16	MsMcArthur	McArthurRes	Mustang	#Oh, Emily? Could you come out here for a minute?
 2012-03-08	ch-16	Ash	Dates	Marie	Phone	#<span class="dt">nearly Christmas 2004</span><br>Marie's Bathtime
 2012-03-07	ch-16	Ash	Edward	Marie	Phone	#
 2012-03-06	ch-16	Ash	Emily	ShoulderAngel	#
-2012-03-05	ch-16	Ash	Emily	#
+2012-03-05	ch-16	Ash	Emily	McArthurRes	Mustang	#My mom is going to flip when she sees this in the driveway
 2012-03-02	ch-16	Ash	Rumisiel	School	#
 2012-03-01	ch-16	Ash	Eponine	Rumisiel	School	#
 2012-02-29	ch-16	Ash	Rumisiel	School	#
@@ -514,15 +516,15 @@
 2012-02-24	ch-16	Ash	Rumisiel	#Slush
 2012-02-23	ch-16	Ash	Rumisiel	#
 2012-02-22	ch-16	Ash	Rumisiel	#
-2012-02-21	ch-16	Ash	Emily	#
-2012-02-20	ch-16	Ash	Emily	Rumisiel	#
-2012-02-17	ch-16	Ash	#
-2012-02-16	ch-16	Ash	Burt	Emily	Roy	Speedway	#
-2012-02-15	ch-16	Ash	Burt	Kate	Roy	Speedway	#
-2012-02-14	ch-16	Burt	Kate	Roy	Speedway	#
-2012-02-13	ch-16	Ash	Burt	Kate	Speedway	#
-2012-02-10	ch-16	Ash	Burt	Emily	Speedway	#
-2012-02-09	ch-16	Race	Speedway	#
+2012-02-21	ch-16	Ash	Emily	Mustang	#I'll sign the title over to you.
+2012-02-20	ch-16	Ash	Emily	Mustang	Rumisiel	#But doesn't it feel good having stuck it to that screw job, Burt?
+2012-02-17	ch-16	Ash	Mustang	#I own a pile of old Mustang parts
+2012-02-16	ch-16	Ash	Burt	Emily	Roy	Speedway	#Hey! There's only thirty seven dollars here!
+2012-02-15	ch-16	Ash	Burt	Emily	Roy	Speedway	#Huh? Roy? But why would...
+2012-02-14	ch-16	Burt	Kate	Roy	Speedway	#How dare you make that insinuation in front of all these people?
+2012-02-13	ch-16	Ash	Burt	Kate	Speedway	#You buy all the parts you need from me and it's yours
+2012-02-10	ch-16	Ash	Burt	Emily	Speedway	#You! What the hell was that?
+2012-02-09	ch-16	Race	Speedway	#And the challenger crosses the line
 2012-02-08	ch-16	Ash	Burt	Emily	Missi	Race	Speedway	#
 2012-02-07	ch-16	Ash	Race	#
 2012-02-06	ch-16	Ash	Race	Speedway	Roy	#
@@ -603,9 +605,9 @@
 2011-10-24	ch-15	BurtsYard	Emily	Rumisiel	#
 2011-10-21	ch-15	BurtsYard	Emily	Rumisiel	#
 2011-10-20	ch-15	BurtsYard	Emily	Rumisiel	#
-2011-10-19	ch-15	Ash	BurtsYard	Emily	Missi	Rumisiel	#
-2011-10-18	ch-15	Ash	Burt	BurtsYard	#
-2011-10-17	ch-15	Ash	BurtsYard	Emily	Missi	#
+2011-10-19	ch-15	Ash	BurtsYard	Emily	Missi	Mustang	Rumisiel	#
+2011-10-18	ch-15	Ash	Burt	BurtsYard	Mustang	#
+2011-10-17	ch-15	Ash	BurtsYard	Emily	Missi	Mustang	#
 2011-10-14	ch-15	Ash	BurtsYard	Emily	Missi	Rumisiel	#
 2011-10-13	ch-15	Ash	Dates	Emily	Missi	Rumisiel	#<span class="dt">Saturday</span>
 2011-10-12	ch-15	Ash	Emily	#
