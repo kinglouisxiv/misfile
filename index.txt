@@ -6,6 +6,8 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+2014-01-31	ch-20	Ash	Rumisiel	#So do I just hang out while you two are awkwarding over each other?
+2014-01-30	ch-20	Ash	Rumisiel	#Plausible deniability
 2014-01-29	ch-20	Ash	Rumisiel	Vashiel	#I know two people who ARE dating
 2014-01-28	ch-20	Ash	Bubbles	Valentine	Vashiel	#HAPPY VALENTINES DAY
 2014-01-27	ch-20	Aries	Ash	Harry	#By the way do you babysit?
