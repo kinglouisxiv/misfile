@@ -6,10 +6,15 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+2014-02-07	ch-20	Ash	Emily	McArthurRes	#Let me bring out dinner
+2014-02-06	ch-20	Ash	Emily	McArthurRes	#I'm still not sure about the food, but I can coordinate a table
+2014-02-05	ch-20	Ash	Rumisiel	#I cannot WAIT to watch your sexy girl date go down, Ash
+2014-02-04	ch-20	Ash	Rumisiel	#Ok, we're clear of the house. Where do you want to get out?
+2014-02-03	ch-20	Emily	#I still have to find something to cook!
 2014-01-31	ch-20	Ash	Rumisiel	#So do I just hang out while you two are awkwarding over each other?
 2014-01-30	ch-20	Ash	Rumisiel	#Plausible deniability
 2014-01-29	ch-20	Ash	Rumisiel	Vashiel	#I know two people who ARE dating
-2014-01-28	ch-20	Ash	Bubbles	Valentine	Vashiel	#HAPPY VALENTINES DAY
+2014-01-28	ch-20	Ash	Bubbles	Dates	Valentine	Vashiel	#<span class="dt">2005-02-14 Monday</span>HAPPY VALENTINES DAY
 2014-01-27	ch-20	Aries	Ash	Harry	#By the way do you babysit?
 2014-01-24	ch-20	Aries	Ash	Harry	#’Arry ... I mean "other ’Arry", is still in the NICU
 2014-01-23	ch-20	Emily	McArthurRes	Mustang	#Why did I suggest cooking?
@@ -1865,15 +1870,15 @@
 2007-02-22	ch-06	Cassiel	Hit	Jenny	Party	Security	#We've got two girls in a tear up fight down here
 2007-02-21	ch-06	Cassiel	Jenny	Party	#You're disgusting
 2007-02-20	ch-06	Cassiel	Party	#Mmmmmm... Free party food!
-2007-02-19	ch-06	Casper	Emily	Kiss	#S then why so I feel... Nothing
+2007-02-19	ch-06	Casper	Emily	Kiss	#So then why so I feel... Nothing
 2007-02-16	ch-06	Casper	Emily	#I hadn't really thought much past dinner
 2007-02-15	ch-06	Ash	Blush	Kay	Party	#I think I fixed my problem for the night.
 2007-02-14	ch-06	Ash	Kay	Party	#Let me walk you to your throne, m'lady.
 2007-02-13	ch-06	Ash	Kay	Party	#You've spent the last fifteen minutes visually spelunking every crevice of cleavage
 2007-02-12	ch-06	Ash	Kay	Party	#I'm sure you can tell which guys are the best looking even though you're gay
 2007-02-09	ch-06	Ash	Jenny	JennySnr	Marie	Party	#Ash, I want you to meet Jenny and her daughter Jenny
-2007-02-08	ch-06	Casper	Emily	Marie	#I'm not really a beach person
-2007-02-07	ch-06	Casper	Diner	Emily	#You feeling ok? You seem kind of distant.
+2007-02-08	ch-06	Beach	Casper	Emily	Marie	#I'm not really a beach person
+2007-02-07	ch-06	Beach	Casper	Diner	Emily	#You feeling ok? You seem kind of distant.
 2007-02-06	ch-06	Cassiel	Emily	ModelGirl	#I HAVE EVERY RIGHT TO BE HERE!
 2007-02-05	ch-06	Ash	Cassiel	Kay	Party	#A friend of yours?
 2007-02-02	ch-06	Ash	Blush	Cassiel	Party	#Well... At least the scenery is nice.
@@ -1892,7 +1897,6 @@
 2007-01-16	ch-06	James	JamesHouse	Rumisiel	Vashiel	#Wow. One of my least favourite people and his brother
 2007-01-15	ch-06	Ash	Emily	JamesHouse	MarieHouse	Rumisiel	Vashiel	#Don't let him try anything funny or do anything that,
 2007-01-12	ch-06	Ash	Emily	MarieHouse	#The day of reckoning has arrived.
-;summer (there's a day and night skyshot indicting _much_ time passing?) Friday/still/again - time reckoning is a bit wonky here really)
 2007-01-11	ch-06	Ash	Emily	MarieHouse	#I didn't see the humor in this whole situation until this moment, but this is funny
 2007-01-10	ch-06	Ash	Emily	Flashback	MarieHouse	#A pillar of my early adolescence was just wrenched out from under me
 2007-01-09	ch-06	Ash	Emily	MarieHouse	#Don't joke like that! He's not gay!
@@ -1901,14 +1905,11 @@
 2007-01-04	ch-06	Ash	Marie	Kay	MarieWork	#When you show up with Kay you'll make the most PERFECT couple
 2007-01-03	ch-06	Ash	Marie	JennySnr	Jenny	MarieWork	#I fenally get to show my daughter off at one of these things
 2007-01-02	ch-06	Ash	Marie	MarieWork	#You can't even comprehend how happy you are making me right now.
-; another day here
 2007-01-01	ch-06	Cassiel	Truro	#I wonder how I might attain an invitation
 2006-12-29	ch-06	Ash	Emily	Truro	#You realize that modeling is more than just putting on some pretty clothes, right?
 2006-12-28	ch-06	Ash	Emily	Truro	#Don't get all worked up like it is some horrible thing
 2006-12-27	ch-06	Ash	Blush	Emily	Truro	#You're way more confident than me
-2006-12-26	ch-06	Ash	Emily	Truro	#Walking this course has helped a lot
-; also ref to Friday...
-; d nn sunset
+2006-12-26	ch-06	Ash	Beach	Emily	Truro	#Walking this course has helped a lot
 2006-12-25	Ash	Emily	Filler	Rumisiel	# Xmas 2006
 ;
 2006-12-22	ch-06	Cover	Ash	#<br>**Book 6**<br>July – August ’04<br><br>_Preparations — a lift – a dinner and a party – the Jennies – catfight – the rescuer – racing Brent – going home_
@@ -1916,24 +1917,20 @@
 2006-12-21	ch-05	Ash	Marie	MarieHouse	#Mom? Can we talk?
 2006-12-20	ch-05	Ash	ShoulderAngel	MarieHouse	#My job sucks and now I'm losing Emily to some guy
 2006-12-19	ch-05	Ash	Emily	MarieHouse	#Actually, I'm sort of picking out clothes for my date on Friday
-; refs date on Friday
 2006-12-18	ch-05	AleHouse	Ash	Emily	KidConvertable	MarieHouse	#Ok, first of all you're frikkin' dreaming, ok?
 2006-12-15	ch-05	AleHouse	Ash	KidConvertable	#What's with this hard to get, tease bullshit
 2006-12-14	ch-05	AleHouse	Ash	KidConvertable	Rose	#Did you see the way she was eyeing me?
 2006-12-13	ch-05	AleHouse	Ash	Casper	Emily	KidConvertable	Phone	#I'll pick you up at five on Friday then
-; is this a flashback or a day count error - this should be a Friday: there must be an unnoticed week here somewhere...
 2006-12-12	ch-05	Casper	Emily	Phone	#Hey. Cas? This is Emily.
 2006-12-11	ch-05	Ash	Marie	MarieHouse	#Remember, even if you can't do this one little thing for me, I still love you
 2006-12-08	ch-05	Ash	Bubbles	Marie	MarieHouse	#Just be be my little girl for one night
 2006-12-07	ch-05	Ash	Marie	MarieHouse	#I have THE most FABULOUS dress that needs a model
 2006-12-06	ch-05	Ash	Marie	MarieHouse	#Well, let's just say, if boys wore bras, they'd wear bras like these.
 2006-12-05	ch-05	Ash	Marie	MarieHouse	#And frankly I could have gotten you better bras
-; summer d11 - Friday??
 2006-12-04	ch-05	Rumisiel	Vashiel	#Well I just figured if we spiralled out, we'd get there eventually
 2006-12-01	ch-05	Ash	Emily	Vashiel	Truro	#What do you MEAN you don't now the way to Cape Cod?!
-2006-11-30	ch-05	Ash	Emily	Truro	#Actually, I meant the race course.
-; summer d10 night
-2006-11-29	ch-05	Ash	Emily	Truro	#(Ash practicing, Emily watching on a fence)
+2006-11-30	ch-05	Ash	Beach	Emily	Truro	#Actually, I meant the race course.
+2006-11-29	ch-05	Ash	Beach	Emily	Truro	#(Ash practicing, Emily watching on a fence)
 2006-11-28	ch-05	Ash	ClothesShop	Emily	#Would you like to join the bra and panty club?
 2006-11-27	ch-05	Ash	ClothesShop	Emily	#Happy would be the wrong word, but we've been here for two and a half hours
 2006-11-24	ch-05	Ash	ClothesShop	Emily	#But it's a 34-C!
@@ -1943,19 +1940,16 @@
 2006-11-20	ch-05	Ash	ClothesShop	Emily	#Just imagine if boys had to wear bras, and think what they'd pick
 2006-11-17	Filler	#Remembrance
 2006-11-16	ch-05	Ash	ClothesShop	Emily	#All my bras are the same size anyway
-2006-11-15	ch-05	Ash	Emily	Truro	#Well, I DID promise to take you shopping for some new bras
-2006-11-14	ch-05	Ash	Emily	Truro	#Any clue how to win?
-2006-11-13	ch-05	Ash	Emily	Truro	#Wow. This is so much worse than I expected.
-; summer d10 Thursday (after a 'tomorrow')
-2006-11-10	ch-05	Ash	Emily	Truro	#Shifting gears… I'm going to check out that race course tomorrow.
+2006-11-15	ch-05	Ash	Beach	Emily	Truro	#Well, I DID promise to take you shopping for some new bras
+2006-11-14	ch-05	Ash	Beach	Emily	Truro	#Any clue how to win?
+2006-11-13	ch-05	Ash	Beach	Emily	Truro	#Wow. This is so much worse than I expected.
+2006-11-10	ch-05	Ash	Beach	Emily	Truro	#Shifting gears… I'm going to check out that race course tomorrow.
 2006-11-09	ch-05	Ash	Emily	Nosebleed	#Did I cross a line?
 2006-11-08	ch-05	Ash	Blush	Emily	#NO! I mean, don't jump to conclusions
 2006-11-07	ch-05	Ash	Blush	Emily	#You were dreaming about me weren't you?
 2006-11-06	ch-05	Ash	Blush	Emily	#Just because I hate the idea of you going on a date with some guy
 2006-11-03	ch-05	Ash	Emily	#Don't be sorry. You have every right to go on that date
 2006-11-02	ch-05	AleHouse	Ash	Emily	Rose	#an innumerable number of instances that pit me in a bad mood
-; end of Wednesday - off tomorrow/see you Friday -- recheck the summer dNN here on
-; summer d09 night (assumed continuity again)
 2006-11-01	ch-05	AleHouse	Ash	Rose	#Off already? Time flies when you are having fun, eh?
 2006-10-31	Ash	Emily	Filler	#Halloween 2006
 2006-10-30	ch-05	Rumisiel	Vashiel	#TO CAPE COD!
@@ -1964,7 +1958,6 @@
 2006-10-25	ch-05	Cassiel	Rumisiel	Vashiel	#Just remember Cassiel. We can always take a shower.
 2006-10-24	ch-05	Ash	Blush	Emily	MarieHouse	#It was… Nothing! I mean… Just a nightmare!
 2006-10-23	ch-05	Ash	Bubbles	Dream	Emily	MarieHouse	#MNYAAAAA! / … What the heck was THAT?!
-; summer d08 night
 2006-10-20	ch-05	Ash	Bubbles	Dream	Emily	MarieHouse	#Shit! Shit! SHIT! Why couldn't it be me!?
 2006-10-19	ch-05	Ash	Emily	MarieHouse	#You mean you're ok with it then?
 2006-10-18	ch-05	Ash	Bubbles	Emily	MarieHouse	#Apparently he and Brent are like a sort of local racing team thing
@@ -1973,12 +1966,10 @@
 2006-10-13	ch-05	Casper	Emily	MarieHouse	#That’s why we race at night
 2006-10-12	ch-05	Ash	Brent	Casper	Emily	Marie	MarieHouse	#Ash! Some boys are here for you!
 2006-10-11	ch-05	Ash	Brent	Casper	Emily	Marie	MarieHouse	#Oh, and Brent is stopping by tonight to drop off a map of how to get to the race area
-; summer d08 evening
 2006-10-10	ch-05	AleHouse	Ash	Brent	Emily	#We've _got_ to race then
 2006-10-09	ch-05	AleHouse	Ash	Brent	Casper	#I _live_ round here. What the hell are _you_ doing here
 2006-10-06	ch-05	AleHouse	Ash	Brent	Casper	Rose	#Could you take table seven? There's a guy there creeping me out
 2006-10-05	ch-05	AleHouse	Ash	Rose	ShoulderAngel	#Tough shift? / My feet are killing me
-; summer d08? (no text continuity "yesterday"/"tomorrow" but no implied break either
 2006-10-04	ch-05	Ash	Emily	#You help me with that, and I'll help get you some new bras
 2006-10-03	ch-05	Ash	Emily	#It's just, James’ was always making that hissing sound…
 2006-10-02	ch-05	Ash	Emily	#That’s just the turbo kicking in
@@ -1991,7 +1982,6 @@
 2006-09-21	ch-05	Ash	Cinema	Emily	#They were all dirty
 2006-09-20	ch-05	Ash	Emily	#You're not wearing a bra!
 2006-09-19	ch-05	Ash	Emily	#Black bra gone? / Yeah. I...
-; summer d07 evening
 2006-09-18	ch-05	Ash	Emily	#If it's your only shirt you'll have to change your bra like the wind!
 2006-09-15	ch-05	Ash	Emily	#You can't wear a black bra and a white shirt!
 2006-09-14	ch-05	Ash	Emily	MarieHouse	#Throw on a non-work shirt and let’s go...
@@ -2001,9 +1991,7 @@
 2006-09-08	ch-05	AleHouse	Ash	Emily	MarieHouse	#If I feel any better, maybe we can catch a movie
 2006-09-07	ch-05	Ash	Emily	MarieHouse	#Pygmies were stealing water out of my mouth and you drowned them
 2006-09-06	ch-05	Ash	Beach	Emily	MarieHouse	#I mean I FEEL better but my mouth is like the Sahara Desert
-; summer d07
 2006-09-05	ch-05	Ash	Blush	Emily	MarieHouse	#Were you even talking to me or some imaginary midget water boy?!
-; summer d06 night
 2006-09-04	ch-05	Ash	Emily	MarieHouse	#The little people drank my last water. I had to set traps.
 2006-09-01	ch-05	Ash	Marie	MarieHouse	#How was your first night?
 2006-08-31	ch-05	AleHouse	Ash	Rose	#You’ve got god-given assets
@@ -2015,9 +2003,7 @@
 2006-08-23	ch-05	Edward	Rumisiel	#FINALLY! The roof is done.
 2006-08-22	ch-05	AleHouse	Ash	Beach	Tyler	Emily	#The “Uniform” is just a company shirt and any kind of khakis
 2006-08-21	ch-05	AleHouse	Ash	Tyler	#Hey there miss. You’re here about the job?
-; summer d06
 2006-08-17	ch-05	AleHouse	Ash	Emily	MarieHouse	#Usually I just studied all summer
-; Summer d05 night
 2006-08-16	ch-05	Ash	Emily	MarieHouse	#I saw a restaurant with a “Help Wanted” sign
 2006-08-15	ch-05	Ash	Emily	Marie	MarieHouse	#Isn’t this room just perfect?
 2006-08-14	ch-05	Ash	Bubbles	Emily	Marie	MarieHouse	#Ash, honey!
@@ -2028,7 +2014,6 @@
 2006-08-07	ch-05	Ash	Dates	Rumisiel	Period	#<span class="dt">July 2004</span> (4 months / 3 periods since the Misfile)<br>WHAT?! You’re leaving?!
 2006-08-04	ch-05	Ash	Marie	Phone	#Well, bring her with you then.
 2006-08-03	ch-05	Ash	Marie	Phone	#Hi, Mom. Look I’ve been thinking about this summer and your offer…
-; summer d05
 2006-08-02	ch-05	Phone	Rumisiel	Vashiel	#… can’t I use my powers just a LITTLE bit
 2006-08-01	ch-05	Cassiel	Rumisiel	Vashiel	#HOW is THIS perfect?
 2006-07-31	ch-05	Rumisiel	Vashiel	#Good evening, brother.
@@ -2038,7 +2023,6 @@
 2006-07-25	ch-05	Ash	Blush	Emily	#Are you just staring at me sleep…
 2006-07-24	ch-05	Ash	Blush	Emily	#Ash, Ash… What are you doing?
 2006-07-21	ch-05	Ash	Emily	#I have the feeling my house is going to be a bit, what's the best word, tense?
-; night of summer d04
 2006-07-20	ch-05	Ash	Edward	Emily	Rumisiel	#You really had lunch with the president of the university?
 2006-07-19	ch-05	Edward	Emily	MsMcArthur	#Hmmm. Yes, I suppose it is blackmail.
 2006-07-18	ch-05	Dates	Edward	Emily	MsMcArthur	#I lecture there every few months
