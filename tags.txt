@@ -117,6 +117,7 @@ N240Z	Nissan 240Z sportscar, junker restored by [Aiden](#aiden)
 Nissan240SX	Emily's car, manual transmission upgrade by Ash
 Nosebleed	you need a girlfriend, laddie!
 OldRoad	local race site, a.k.a the Mountain
+Pager	receive-only text messager
 Party	let’s …
 Patient	Ms J Random …
 Period	don’t say …
@@ -158,7 +159,9 @@ Spirit	spooky stuff
 SuicideGuy	tried to check out
 Swim	-place & -wear
 Sword	for angelic smitings
+Tarot	playing cards, with mystical properties when used with insight
 Teacher	generic, unnamed, of math, gym, sport, _etc_
+Tears	and crying
 Tempest	small (pop ~8,000) town, est. 1879, in western Massachusetts, scene of most of the action
 TempestHealth	[Dr Upton](#edward)’s workplace
 Terrael	angel, [Rumisiel](#rumisiel)’s [CFS](#cfs) boss

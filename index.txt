@@ -6,6 +6,11 @@
 ; [internal link text](#sometag) - tag links are lower case
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
+2014-02-21	ch-20	McArthurRes	Missi	Rumisiel	#If you weren't so busy pining after Ash you'd have probably been in a dozen relationships by now
+2014-02-20	ch-20	McArthurRes	Missi	Rumisiel	Tears	#Oh no! Spaghetti! They are going to do the spaghetti kissing thing!
+2014-02-19	ch-20	Ash	Emily	McArthurRes	#If this is all some elaborate plan to do the Lady and the Tramp spaghetti kiss thing...
+2014-02-18	ch-20	Ash	McArthurRes	Missi	Rumisiel	#No! The inevitable sexy love-fest that follows!
+2014-02-17	ch-20	McArthurRes	Missi	Rumisiel	Tears	#... Dinner?
 2014-02-14	ch-20	Ash	Emily	Filler	#Valentines Day 2014
 2014-02-13	ch-20	Rumisiel	Missi	McArthurRes	#I made it... I can't feel my fingers, but I made it.
 2014-02-12	ch-20	Ash	Emily	McArthurRes	#What's simple to cook?
@@ -251,8 +256,8 @@
 2013-03-18	ch-18	Ash	Edward	Rumisiel	#snip…
 2013-03-15	ch-18	Ash	Dates	Edward	Rumisiel	#<span class="dt">2005-01-10 Monday</span><br>Welcome to your last day as a minor
 2013-03-14	ch-18	Ash	#Snow again?
-2013-03-13	ch-18	Cassiel	CFS	Xaphrael	#You will tell him nothing
-2013-03-12	ch-18	Cassiel	CFS	Xaphrael	#Any news of Ramael’s wherabouts?
+2013-03-13	ch-18	Cassiel	CFS	Heaven	Xaphrael	#You will tell him nothing
+2013-03-12	ch-18	Cassiel	CFS	Heaven	Xaphrael	#Any news of Ramael’s wherabouts?
 2013-03-11	ch-18	Ash	Emily	Missi	Rumisiel	#A ‘legal gray area’!
 2013-03-08	ch-18	Ash	Missi	#You have to warn me about these things!
 2013-03-07	ch-18	Ash	Emily	Missi	Rumisiel	#So explain this again. Nobody won?
@@ -1145,8 +1150,8 @@
 2009-10-15	ch-11	Ash	Emily	#
 2009-10-14	ch-11	Ash	Emily	Missi	#
 2009-10-13	ch-11	Ash	Emily	Missi	#
-2009-10-12	ch-11	AngelBoy	Archon	CFS	Xaphrael	#Archons locations file
-2009-10-09	ch-11	AngelBoy	CFS	Xaphrael	#
+2009-10-12	ch-11	AngelBoy	Archon	CFS	Heaven	Xaphrael	#Archons locations file
+2009-10-09	ch-11	AngelBoy	CFS	Heaven	Xaphrael	#
 2009-10-08	ch-11	Ash	Rumisiel	School	#
 2009-10-07	ch-11	Andy	Ash	Rumisiel	School	#
 2009-10-06	ch-11	Andy	Ash	Rumisiel	School	#
@@ -1335,9 +1340,9 @@
 2009-01-26	ch-10	Ash	Missi	#
 2009-01-23	ch-10	Ash	Missi	#
 2009-01-22	ch-10	Ash	Missi	#
-2009-01-21	ch-10	Ash	Cassiel	CFS	Missi	Xaphrael	#
-2009-01-20	ch-10	Cassiel	CFS	Xaphrael	#
-2009-01-19	ch-10	Cassiel	CFS	Xaphrael	#
+2009-01-21	ch-10	Ash	Cassiel	CFS	Heaven	Missi	Xaphrael	#Lockdown 
+2009-01-20	ch-10	Cassiel	CFS	Heaven	Xaphrael	#
+2009-01-19	ch-10	Cassiel	CFS	Heaven	Xaphrael	#
 2009-01-16	ch-10	Emily	MsMcArthur	#
 2009-01-15	ch-10	Emily	MsMcArthur	#
 2009-01-14	ch-10	Ash	Missi	Rumisiel	#
@@ -1348,7 +1353,6 @@
 2009-01-07	ch-10	Ash	Emily	MsMcArthur	#
 2009-01-06	ch-10	Emily	MsMcArthur	#
 2009-01-05	ch-10	Cover	Marie	#<br>**Book 10**<br>September ’04<br><br>_Boston — lockdown — nude or naked — split — alone now — the wedding — Heather — the angel of sub-par snacks — the coach_
-;
 2009-01-02	ch-09	Ash	Emily	MsMcArthur	#
 2009-01-01	ch-09	Ash	Emily	#
 2008-12-31	ch-09	Ash	Emily	#
@@ -1549,7 +1553,7 @@
 2008-04-01	ch-08	Ash	Dates	Rumisiel	#<span class="dt">Saturday</span><br>Weekend
 ; Saturday 4 - Ash V Aiden race date set in p2008-01-28
 2008-03-31	ch-08	Vashiel	#
-2008-03-28	ch-08	Angel	Flashback	Ramael	Vashiel	Xaphrael	#(Ramael - tentative ID)
+2008-03-28	ch-08	Angel	Flashback	Heaven	Ramael	Vashiel	Xaphrael	#(Ramael - tentative ID)
 2008-03-27	ch-08	Aiden	Angel	Flashback	Vashiel	Xaphrael	#
 2008-03-26	ch-08	Aiden	Bronwyn	#
 2008-03-25	ch-08	Aiden	Bronwyn	#
