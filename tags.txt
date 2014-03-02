@@ -56,7 +56,7 @@ Doris	caterer _extrordinaire!_
 Dream	_"fancyes, dreams and spirits"_
 Dweeb	Robin to [Colin](#colin)’s Batman
 Edward	Dr Edward Upton, [Ash](#ash)’s father; drives an [Audi](#audi)
-Emily	Emily McArthur, “Blues”; our other protagonist; drives a Nissan 240SX
+Emily	Emily McArthur, “Blues”; our other protagonist; drives a [Nissan 240SX](#nissan240sx) and classic [Mustang](#mustang)
 Eponine	a friend of [Ash](#ash)
 Fillaniel	angel, a [CFS](#cfs) boss
 Filler	non-story pages: Xmas, Remembrance, crossovers, etc
@@ -114,7 +114,7 @@ MsFlanery	a teacher
 MsMcArthur	[Emily](#emily)’s Mom
 Myrael	missing [Archon](#archon) (3rd Branch)
 N240Z	Nissan 240Z sportscar, junker restored by [Aiden](#aiden)
-Nissan240SX	Emily's car, manual transmission upgrade by Ash
+Nissan240SX	[Emily's](#emily) car, manual transmission upgrade by [Ash](#ash)
 Nosebleed	you need a girlfriend, laddie!
 OldRoad	local race site, a.k.a the Mountain
 Pager	receive-only text messager
