@@ -23,6 +23,18 @@
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch-* are treated separately as chapter identifiers
 ;
+page:2014-03-03
+	url: http://www.misfile.com/?date={0}
+	tag: ch-20
+	tag: Ash
+	tag: Bubbles
+	tag: Emily
+	tag: Kiss
+	tag: Missi
+	tag: McArthurRes
+	tag: Rumisiel
+	desc: I'm not going to be able to explain this one away am I?
+	note: "POP..."
 page:2014-02-28
 	url: http://www.misfile.com/?date={0}
 	tag: ch-20
