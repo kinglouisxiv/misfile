@@ -23,6 +23,23 @@
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch-* are treated separately as chapter identifiers
 ;
+page:2014-03-11
+	url: http://www.misfile.com/?date={0}
+	tag: ch-20
+	tag: Ash
+	tag: Emily
+	tag: Rumisiel
+	tag: School
+	desc: Seriously? Am I not sending enough sub text about "coming back to my place"?
+page:2014-03-10
+	url: http://www.misfile.com/?date={0}
+	tag: ch-20
+	tag: Ash
+	tag: Emily
+	tag: Missi
+	tag: School
+	desc: I keep looking at people and feeling like they know
+	note: (Missi mention)
 page:2014-03-07
 	url: http://www.misfile.com/?date={0}
 	tag: ch-20
@@ -66,7 +83,7 @@ page:2014-03-03
 	tag: McArthurRes
 	tag: Rumisiel
 	desc: I'm not going to be able to explain this one away am I?
-	note: Note: "POP..."
+	note: ("POP...")
 page:2014-02-28
 	url: http://www.misfile.com/?date={0}
 	tag: ch-20
@@ -88,7 +105,7 @@ page:2014-02-26
 	tag: Emily
 	tag: McArthurRes
 	tag: Missi
-	tag: Rumisisel
+	tag: Rumisiel
 	desc: I saw Ash in her braaaa agaaaaaain...
 page:2014-02-25
 	url: http://www.misfile.com/?date={0}
@@ -176,7 +193,7 @@ page:2014-02-10
 	tag: Ash
 	tag: Emily
 	tag: McArthurRes
-	desc: It's... Did I cook leather
+	desc: It's... Did I cook leather?
 page:2014-02-07
 	url: http://www.misfile.com/?date={0}
 	tag: ch-20
