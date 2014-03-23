@@ -9927,12 +9927,13 @@ page:2008-04-01
 	tag: Ash
 	tag: Dates
 	tag: Rumisiel
-	desc: <span class="dt">Saturday</span> Weekend
-; Saturday 4 - Ash V Aiden race date set in p2008-01-28
+	desc: What do you want... And why are you up before noon on a weekend?
+	note: <span class="dt">Saturday 10:13am</span> Ash vs Aiden race date set [2008-01-28](#p2008-01-28)
 page:2008-03-31
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Vashiel
+	desc: This is ludicrous to think I can track down an angel this way
 page:2008-03-28
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
@@ -9942,54 +9943,68 @@ page:2008-03-28
 	tag: Ramael
 	tag: Vashiel
 	tag: Xaphrael
-	desc: (Ramael - tentative ID)
+	desc: They can't do this!
+	note: (Ramael identification is tentative )
 page:2008-03-27
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Aiden
 	tag: Angel
 	tag: Flashback
+	tag: N240Z
+	tag: Spirit
 	tag: Vashiel
 	tag: Xaphrael
+	desc: At least there is still you
 page:2008-03-26
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Aiden
 	tag: Bronwyn
 	tag: Tears
+	desc: Liar! All these years... Wasted on a lie...
 page:2008-03-25
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Aiden
 	tag: Bronwyn
+	tag: Hit
+	tag: Tears
+	desc: When we were nine. The board. I moved it. It wasn't a spirit.
 page:2008-03-24
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Aiden
 	tag: Bronwyn
 	tag: Flashback
+	desc: When we were nine, and we played with that ouija board
 page:2008-03-21
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Aiden
+	tag: Aidenhome
 	tag: Bronwyn
+	desc: Answer me honestly, Aiden. Are we through?
 page:2008-03-20
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Ash
 	tag: Emily
 	tag: Missi
+	desc: So... When's Ash coming back?
 page:2008-03-19
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Emily
 	tag: Missi
+	desc: Is it beacuse we both like Ash?
 page:2008-03-18
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Ash
 	tag: Emily
 	tag: Missi
+	desc: Anyway, I'm thirsty. Anyone want anything to drink?
 page:2008-03-17
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
@@ -9997,6 +10012,7 @@ page:2008-03-17
 	tag: Emily
 	tag: Missi
 	tag: Rumisiel
+	desc: <I thought you two were breaking up>
 page:2008-03-14
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
@@ -10005,6 +10021,7 @@ page:2008-03-14
 	tag: Bronwyn
 	tag: Emily
 	tag: Missi
+	desc: Still walking, I see.
 page:2008-03-13
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
@@ -10013,6 +10030,7 @@ page:2008-03-13
 	tag: Emily
 	tag: Kate
 	tag: Rumisiel
+	desc: Hey, grease monkey.
 page:2008-03-12
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
@@ -10020,37 +10038,45 @@ page:2008-03-12
 	tag: Aries
 	tag: Kate
 	tag: Rumisiel
+	tag: Chains
+	desc: There's not even enough haunt residue left in her for me to study
 page:2008-03-11
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Aries
 	tag: Kate
 	tag: Rumisiel
+	desc: She... Actually doesn't know I'm here.
 page:2008-03-10
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Aries
 	tag: Kate
 	tag: Rumisiel
+	desc: Welcome to Aries. Harry is in the garage. Where is Ash? 
 page:2008-03-07
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Ash
+	tag: Bubbles
 	tag: Missi
 	tag: Rumisiel
 	tag: School
+	desc: So you don't want to go out with me anymore
 page:2008-03-06
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Ash
 	tag: Missi
 	tag: School
+	desc: You're breaking up with me, aren't you?
 page:2008-03-05
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Ash
 	tag: Missi
 	tag: School
+	desc: I'm totally wearing a push-up bra today
 page:2008-03-04
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
@@ -10058,12 +10084,14 @@ page:2008-03-04
 	tag: Missi
 	tag: Rumisiel
 	tag: School
+	desc: Not enough experience with posessed people, eh? 
 page:2008-03-03
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
 	tag: Aiden
 	tag: Ash
 	tag: Rumisiel
+	desc: Ok, first of all she thinks you're gay
 page:2008-02-29
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
@@ -10071,7 +10099,7 @@ page:2008-02-29
 	tag: Blush
 	tag: Hit
 	tag: Rumisiel
-	tag: That's your fault agai. I like her but I can't... You know...
+	Desc: That's your fault again. I like her but I can't... You know...
 page:2008-02-28
 	url: http://www.misfile.com/?date={0}
 	tag: ch-08
@@ -16583,7 +16611,7 @@ page:2004-08-12
 	tag: Rumisiel
 	tag: Tears
 	desc: Wasn’t my mom about my age when you got her pregnant
-	note: _(**NB** link broken: page missing)_
+	note: (**NB** _link broken: page missing_)
 page:2004-08-11
 	url: http://www.misfile.com/?date={0}
 	tag: ch-01
@@ -16798,7 +16826,8 @@ page:2004-06-09
 	tag: Rumisiel
 	tag: School
 	tag: Tom
-	desc: <span class="dt">Tuesday</span><br>a little more thought into this
+	desc: a little more thought into this
+	note: (<span class="dt">Tuesday</span><br>)
 page:2004-06-07
 	url: http://www.misfile.com/?date={0}
 	tag: ch-01
