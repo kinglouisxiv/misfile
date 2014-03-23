@@ -9,6 +9,7 @@
 ;
 Acura	[Tom](#tom) drives an Acura, licence plate: TOMSTER
 Aiden	Aiden Brewster, car-whisperer; rebuilds & drives Nissan 240/260/280 series cars
+AidenHome	house number 1066; Aiden lives opposite [Bronwyn](#bronwyn) 		
 AleHouse	bar-bistro on Cape Cod near [Marie Upton's](#marie) [house](#mariehouse)
 AlsDiner	Al’s Diner, [Tempest](#tempest) area
 Amara	models for [Marie](#marie)
@@ -30,7 +31,7 @@ Blobs	floating background -- opaque [Bubbles](#bubbles)?
 Blush	shows happiness / embarrassment / emotion
 BreakfastAnytime	ill-named diner (only open 5am-midnight)
 Brent	Brent Westcott, racer from [Falmouth](https://en.wikipedia.org/wiki/Falmouth%2C_Massachusetts),  at college in California with [James](#james)
-Bronwyn	[Aiden](#aiden)’s psychic girlfriend
+Bronwyn	[Aiden](#aiden)’s psychic girlfriend; lives opposite his (parent's) home
 Bubbles	a happy floaty background
 Burt	Burt Clayton, car &amp; parts sales
 BurtsYard	one place where Burt does business
@@ -117,6 +118,7 @@ N240Z	Nissan 240Z sportscar, junker restored by [Aiden](#aiden)
 Nissan240SX	[Emily's](#emily) car, manual transmission upgrade by [Ash](#ash)
 Nosebleed	you need a girlfriend, laddie!
 OldRoad	local race site, a.k.a the Mountain
+Oscar	looks surprisingly like [Emily](#emily)
 Pager	receive-only text messager
 Party	let’s …
 Patient	Ms J Random …
