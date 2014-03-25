@@ -23,9 +23,25 @@
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch-* are treated separately as chapter identifiers
 ;
+page:2014-03-25
+	url: http://www.misfile.com/?date={0}
+	tag: ch-20
+	tag: Ash
+	tag: Oscar
+	tag: Monster
+	tag: OldRoad
+	desc: We took forever to get together and I've wanted to be physical for the longest time
+page:2014-03-24
+	url: http://www.misfile.com/?date={0}
+	tag: ch-20
+	tag: Ash
+	tag: Oscar
+	tag: Monster
+	tag: OldRoad
+	desc: "sometimes it helps to tell your problems to a total stranger on a bus"
 page:2014-03-21
 	url: http://www.misfile.com/?date={0}
-	tag: ch-20?
+	tag: ch-20
 	tag: Ash
 	tag: Oscar
 	tag: Monster
