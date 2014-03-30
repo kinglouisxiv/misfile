@@ -24,16 +24,18 @@ ArchonKiller	a mystery
 Aries	’[Arry](#harry)’s auto workshop
 Arthur	a racer boy
 Ash	Ash Upton “King of the Mountain”; our protagonist; drives a Merkur XR4Ti & "The Monster" an XR4Ti / Sierra Cosworth hybrid
+Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. never existed – WoG)
 Audi	[Edward Upton](#edward)'s car, licence plate DR-U
 AutoModerZ	car supplies emporium
 BaldingDude	party-goer
 Blobs	floating background -- opaque [Bubbles](#bubbles)?
 Blush	shows happiness / embarrassment / emotion
+BostonLogan	Boston Logan airport, identified by the twin pillar control tower
 BreakfastAnytime	ill-named diner (only open 5am-midnight)
 Brent	Brent Westcott, racer from [Falmouth](https://en.wikipedia.org/wiki/Falmouth%2C_Massachusetts),  at college in California with [James](#james)
 Bronwyn	[Aiden](#aiden)’s psychic girlfriend; lives opposite his (parent's) home
 Bubbles	a happy floaty background
-Burt	Burt Clayton, car &amp; parts sales
+Burt	Burt Clayton, car & parts sales
 BurtsYard	one place where Burt does business
 CafeMarat	café in [Tempest](#tempest)
 Cantina32	restaurant in [Tempest](#tempest)'s main street
@@ -48,10 +50,11 @@ Chains	a unhappy bind-y background
 Chocolate	mmmm!
 Cinema	generic: popcorn sales outlets
 ClockTower	the highest central point in [Tempest](#tempest)
-Colin	an heroic ‘Everyman’ figure, works at [AutoModerZ](#automoderz); drives a Camaro
+Colin	an heroic ‘Everyman’ figure, works at [AutoModerZ](#automoderz); drives a Camaro "with 20 inch rims and a Borla  exhaust"
 Cover	start of a new book/chapter
 Dates	entries with days, dates, ages, etc
 Diner	generic: diners, cafe, restaurant
+DMV	Department of Motor Vehicles (?) driver testing site
 DogWalsh	[Dog](#mrmuffy)-owning Walsh clan member
 Doris	caterer _extrordinaire!_
 Dream	_"fancyes, dreams and spirits"_
@@ -61,8 +64,9 @@ Emily	Emily McArthur, “Blues”; our other protagonist; drives a [Nissan 240SX
 Eponine	a friend of [Ash](#ash)
 Fillaniel	angel, a [CFS](#cfs) boss
 Filler	non-story pages: Xmas, Remembrance, crossovers, etc
-Flashback	to a past that likely everyone but [Ash](#ash) and [Emily](#emily) remember
-Fred	hi Fred!
+Flashback	sometimes to a past that everyone but [Ash](#ash) and [Emily](#emily) remembers
+Fred	a footballer at the school
+Fresh-Mart	a supermarket / store in the Tempest area
 FullerHome	[Missi](#missi)’s lair (& [Tom](#tom) too)
 Gabriel	angel, father to [Rumisiel](#rumisiel), [Vashiel](#vashiel)
 GirlA	romantic schoolgirl
@@ -84,7 +88,9 @@ Jen	a waitperson at the [Breakfast Anytime](#breakfastanytime) [diner](#diner)
 Jenny	a conceited model
 JennyGreene	a member of the Tempest High 'rich bitch squad'
 JennySnr	[Jenny](#jenny)’s-the-model's conceited Mom
-Kate	'Kamikaze' Kate, the Demon of Greylock Mountain (has mellowed...); drives a Jaguar XKR
+Junkyard	a source of parts
+JunkyardGuy	a supplier of parts
+Kate	'Kamikaze' Kate, the Demon of Greylock Mountain (has mellowed...); drives a Jaguar XKR, licence plate: KATE 3
 KateKid	Kate's son, Harry. Another [Harry](#harry) may have been involved
 Kay	Kay Wheeler, model, works for [Marie](#marie), drives a Miata
 Kevin	a reconnaissance [Sheldonista](#sheldonista)
@@ -136,7 +142,7 @@ Rachel	a friend of [Emily](#emily)’s, a secret votary of Terpsichore
 Raechiel	angel, [Archon](#archon) of the [CFS](#cfs) [4th Branch](#cfs4), [Cassiel](#cassiel)’s boss
 Rafael	an angel (archangel?), sent a message by Ramael
 Ramael	angel, [Vashiel](#vashiel)’s erstwhile comrade
-RandomLady	unimpressed by a proposal from [Ramael](#ramael)’s
+RandomLady	unimpressed by a proposition from [Ramael](#ramael)’s
 Randy	a racer
 Rapists	would-be bad dudes
 Receptionist	at [Thorin Medical](#thorin)
