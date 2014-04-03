@@ -42,6 +42,7 @@ Cantina32	restaurant in [Tempest](#tempest)'s main street
 CapKid	generic: some kid wearing a cap
 Casper	racer in Cape Cod, friend of [Brent](#brent); drives an MR2
 Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-, more bother. Lucifer's niece.
+Cassi	Cassiel's dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
 CFS	Celestial Filing System (properly the Celestial File _Depository_). Divided into five branches, four of which have an [Archon](#archon)
 CFS1-3	Branches of the CFS maintaining the physical laws of the Creation
 CFS4	takes measurements on Earth and compares them to extrapolations from the filing system a.k.a. Oversight
