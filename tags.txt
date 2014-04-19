@@ -26,13 +26,15 @@ Arthur	a racer boy
 Ash	Ash Upton “King of the Mountain”; our protagonist; drives a Merkur XR4Ti & "The Monster" an XR4Ti / Sierra Cosworth hybrid
 Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. never existed – WoG)
 Audi	[Edward Upton](#edward)'s car, licence plate DR-U
+AudiS4	Sheldon’s ride
 AutoModerZ	car supplies emporium
 BaldingDude	party-goer
 Blobs	floating background -- opaque [Bubbles](#bubbles)?
 Blush	shows happiness / embarrassment / emotion
 BostonLogan	Boston Logan airport, identified by the twin pillar control tower
 BreakfastAnytime	ill-named diner (only open 5am-midnight)
-Brent	Brent Westcott, racer from [Falmouth](https://en.wikipedia.org/wiki/Falmouth%2C_Massachusetts),  at college in California with [James](#james)
+Brent	Brent Westcott, racer from [Falmouth](https://en.wikipedia.org/wiki/Falmouth%2C_Massachusetts),  at college in California with [James](#james); drives an (M3)[#m3]
+BrentCar	licence HNDA ETR -- see (M3)[#m3]
 Bronwyn	[Aiden](#aiden)’s psychic girlfriend; lives opposite his (parent's) home
 Bubbles	a happy floaty background
 Burt	Burt Clayton, car & parts sales
@@ -43,10 +45,12 @@ CapKid	generic: some kid wearing a cap
 Casper	racer in Cape Cod, friend of [Brent](#brent); drives an MR2
 Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-, more bother. Lucifer's niece.
 Cassi	Cassiel's dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
-CFS	Celestial Filing System (properly the Celestial File _Depository_). Divided into five branches, four of which have an [Archon](#archon)
-CFS1-3	Branches of the CFS maintaining the physical laws of the Creation
-CFS4	takes measurements on Earth and compares them to extrapolations from the filing system a.k.a. Oversight
-CFS5	branch dealing with actual records and filing. Unimportant, no [Archon](#archon). [Rumisiel](#rumisiel) worked here.
+CFS	Celestial Filing System (properly the _[Celestial Filing Depository](http://web.archive.org/web/20060326052535/http://www.misfile.com/?menu=filing)_). Divided into five branches, four of which have an [Archon](#archon)
+CFS1	facets of time, space and celestial motion
+CFS2	} Branches of the CFS maintaining the physical laws of the Creation
+CFS3	} Branches of the CFS maintaining the physical laws of the Creation
+CFS4	takes measurements on Earth and compares them to extrapolations from the filing system a.k.a. Oversight.
+CFS5	deals with fairly mundane aspects of life on earth. Unimportant, no [Archon](#archon) [[ref](http://www.misfile.com/?date=2007-09-13)]. [Rumisiel](#rumisiel) worked here.
 Chains	a unhappy bind-y background
 Chocolate	mmmm!
 Cinema	generic: popcorn sales outlets
@@ -59,16 +63,18 @@ DMV	Department of Motor Vehicles (?) driver testing site
 DogWalsh	[Dog](#mrmuffy)-owning Walsh clan member
 Doris	caterer _extrordinaire!_
 Dream	_"fancyes, dreams and spirits"_
+Dress	Ash in a ...
 Dweeb	Robin to [Colin](#colin)’s Batman
 Edward	Dr Edward Upton, [Ash](#ash)’s father; drives an [Audi](#audi)
 Emily	Emily McArthur, “Blues”; our other protagonist; drives a [Nissan 240SX](#nissan240sx) and classic [Mustang](#mustang)
 Eponine	a friend of [Ash](#ash)
-Fillaniel	angel, a [CFS](#cfs) boss
+FilingTool	5th Branch issue, stored in the ether
+Fillaniel	angel, a [CFS](#cfs) boss, joint administrator of [5th Branch](#cfs5) with Terrael
 Filler	non-story pages: Xmas, Remembrance, crossovers, etc
-Flashback	sometimes to a past that everyone but [Ash](#ash) and [Emily](#emily) remembers
+Flashback	sometimes to a past that everyone remembers but [Ash](#ash) and [Emily](#emily)
 Fred	a footballer at the school
 Fresh-Mart	a supermarket / store in the Tempest area
-FullerHome	[Missi](#missi)’s lair (& [Tom](#tom) too)
+FullerHome	[Missi](#missi)’s lair (& [Tom's](#tom) too)
 Gabriel	angel, father to [Rumisiel](#rumisiel), [Vashiel](#vashiel)
 GirlA	romantic schoolgirl
 GirlB	a romance questioning schoolgirl
@@ -76,12 +82,12 @@ GreeneHouse	a party scene for [Jenny Greene](#jennygreene)
 Gyno	the exams [Ash](#ash) tries to skip
 Harry	'Harry' (Henry) Walsh, racers’ auto engineer, owner [Aries](#aries) auto workshop
 Heather	Heather Walsh, [Harry](#harry)’s niece, drives a yellow ZX3
-HeatherHome	where Heather lurks; doorway has changed
+HeatherHome	where Heather lurks; (Art Note: doorway has changed)
 Hit	punch / kick / chase
 IRsensor	a remote infrared & motion sensing camera
 Ivan	the self-proclaimed ‘Ice King’
 JaguarXKR	Kate's ride, tuned by Harry, license "Kate 3"
-James	nailed [Ash](#ash), but only in [flashback](#flashback), drives a Mitsubishi 3000GT VR4
+James	nailed [Ash](#ash), but only in [flashback](#flashback), drives a [Mitsubishi 3000GT VR4](#m3000gt)
 JamesHouse	a couple of houses down from the Upton residence
 Jason	a local racer kid
 Jazz	a restaurant
@@ -101,6 +107,7 @@ Kiss	… is just a kiss, a sigh is just …
 Lisa	a waitperson
 LocationTBA	unclear whether Kate's family's or Kate & Harry's place
 Logan	racer, homeschooled, sees angels
+M3	Brent's car
 M3000GT	Mitsubishi 3000GT VR4 sports car, as driven by James
 MacsBar	a bar
 Marie	Marie Upton, [Ash](#ash)’s Mom, ex-model, ex-wife of [Edward Upton](#edward)
@@ -120,11 +127,11 @@ MrMuffy	a [Walsh-clan](#dogwalsh) dog with an inquisitive nose
 MrWalker	auto class teacher
 MsFlanery	a teacher
 MsMcArthur	[Emily](#emily)’s Mom
-Myrael	missing [Archon](#archon) (3rd Branch)
+Myrael	missing [Archon](#archon) of [3rd Branch](#cfs3)
 N240Z	Nissan 240Z sportscar, junker restored by [Aiden](#aiden)
 Nissan240SX	[Emily's](#emily) car, manual transmission upgrade by [Ash](#ash)
 Nosebleed	you need a girlfriend, laddie!
-OldRoad	local race site, a.k.a the Mountain
+OldRoad	local race site, a.k.a the Mountain. [A brief history](http://web.archive.org/web/20060326052520/http://www.misfile.com/?menu=oldroad)
 Oscar	looks surprisingly like [Emily](#emily)
 Pager	receive-only text messager
 Party	let’s …
@@ -151,11 +158,12 @@ Rose	[Ale House](#alehouse) [waitperson](#waitperson), [Tyler](#tyler)’s siste
 Roy	owner/operator of [Speedway](#speedway) dirt track
 Rumisiel	angel; "son of Gabriel, Angel of the 3rd Circle, 437 years old, and unmarried" – used to work in the astral wing of [5th Branch](#cfs5) of the celestial filing depository; the cause of all the bother
 Ryan	nailed [Emily](#emily)
-Salesman	car sales dude, not [Burt](#burt)
+Salesman	a car sales dude, not [Burt](#burt)
 School	Tempest High
+SchoolRoad	the long walk between the Upton home and Tempest High
 Security	private security staff
 ShawsSteak	Shaw’s Steakhouse
-Sheldon	Machiavellian racer
+Sheldon	Machiavellian racer, drives an [Audi S4](#audis4)
 Sheldonista	Sheldon’s bully boys: "just muscle"
 ShopAsst	shop staff
 Shopping	recreational retail therapy
@@ -173,13 +181,14 @@ Teacher	generic, unnamed, of math, gym, sport, _etc_
 Tears	and crying
 Tempest	small (pop ~8,000) town, est. 1879, in western Massachusetts, scene of most of the action
 TempestHealth	[Dr Upton](#edward)’s workplace
-Terrael	angel, [Rumisiel](#rumisiel)’s [CFS](#cfs) boss
+Terrael	angel, co-administrator of [5th Branch](#cfs5) with [Fillaniel](#fillaneal)
 Teshiel	a hefty angel once answered truthfully by [Vashiel](#vashiel)
 Thorin	Thorin Medical practice, [Dr Frist](#melissa)’s workplace
 Tom	Tom Fuller, [Missi](#missi)’s brother, adopted, [Ash](#ash)’s early rival, drives an Acura
 TriangleMall	a mall
 Truro	[town](https://en.wikipedia.org/wiki/Truro,_Massachusetts) on Cape Cod, with beachfront parking areas suitable for racing
 Tyler	runs [The Ale House](#alehouse), [Rose](#rose)’s brother
+UptonHouse	[Edward](#edward) and [Ash](#ash) live here
 Valentine	"... and 18 a letter of love"
 Vashiel	angel, [Rumisiel](#rumisiel)’s truthful brother; “of the second order of holy swords, divine punishment division”
 VW	Volkswagen – Beetle, modern edition: [Molly's](#molly) car
