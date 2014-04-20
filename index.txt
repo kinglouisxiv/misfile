@@ -1,7 +1,7 @@
 ; --- INDEX ---
 ;
 ; lines starting with ; as first non-whitespace are comments
-; 
+;
 ; File format is single lines formatted as Key:Value
 ;
 ; KEYS
@@ -11,8 +11,8 @@
 ;    desc:  text relevant to the page (title / description / line of dialogue, etc)
 ;    note:  footnotes, links, etc
 ;    tag:   tags for the page's story items of note: character, item, location, etc.
-;    url:   the actual comic page url 
-;  baseurl: default url applies to any following page: without a url: key  
+;    url:   the actual comic page url
+;  baseurl: default url applies to any following page: without a url: key
 ;           (to insert pageID replace in baseurl/url with {0} )
 ;
 ; Can use multiple tags per page, but only one of each of the other keys
@@ -32,7 +32,7 @@ page:2014-04-18
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-04-17
-	desc: Maybe youjust don't realize how important I am... 
+	desc: Maybe youjust don't realize how important I am...
 	tag: Missi
 	tag: Rumisiel
 	tag: School
@@ -77,7 +77,7 @@ page:2014-04-08
 	tag: Edward
 	tag: Hickey
 	tag: UptonHouse
-	note: (warm, inland Massachussets, mid-February?)
+	note: Warm? inland Massachussets, mid-February?
 page:2014-04-07
 	desc: There's nothing for Oversight to even DO with the branches closed
 	tag: AngelGirl2
@@ -187,7 +187,7 @@ page:2014-03-17
 	tag: Monster
 	tag: OldRoad
 	desc: Pants! Pants! Pants...
-	note: (unidentified car and figure in the road)
+	note: Unidentified car and figure in the road
 page:2014-03-14
 	tag: ch-20
 	tag: Ash
@@ -232,7 +232,7 @@ page:2014-03-10
 	tag: Missi
 	tag: School
 	desc: I keep looking at people and feeling like they know
-	note: (Missi mention)
+	note: Missi mention
 page:2014-03-07
 	tag: ch-20
 	tag: Ash
@@ -1284,7 +1284,7 @@ page:2013-07-24
 	tag: McArthurRes
 	tag: MsMcArthur
 	desc: I let you be friends with that Ash girl, but you need to broaden your horizons.
-	note: (mention of the Rich Bitch squad: [Jenny Greene](#jennygreene), Abigail LaFontain, Brittany Wu)
+	note: (mention of the Rich Bitch squad: [Jenny Greene](#jennygreene), Abigail LaFontain, Brittany Wu
 page:2013-07-23
 	tag: ch-19
 	tag: Emily
@@ -1596,7 +1596,7 @@ page:2013-05-22
 	tag: Heather
 	tag: OldRoad
 	desc: Looks like we’re ready to go
-	note: <span class="dt">2005-01-15 Saturday</span> (ref: [2013-04-30](#p2013-04-30))
+	note: <span class="dt">2005-01-15 Saturday</span> ref: [2013-04-30](#p2013-04-30)
 page:2013-05-21
 	tag: ch-19
 	tag: Ash
@@ -2345,7 +2345,7 @@ page:2012-11-29
 	tag: Cassiel
 	tag: Xaphrael
 	desc: What's IN this thing?
-	note: (Xaphrael mention)
+	note: Xaphrael mention
 page:2012-11-28
 	tag: ch-18
 	tag: Ivan
@@ -3798,7 +3798,7 @@ page:2011-11-29
 	tag: Fillaniel
 	tag: Terrael
 	tag: Sword
-	note: (one of the 5th Branch administrators: Fillaniel or Terrael)
+	note: (one of the 5th Branch administrators: Fillaniel or Terrael
 page:2011-11-28
 	tag: ch-16
 	tag: Cover
@@ -5939,7 +5939,7 @@ page:2010-05-12
 	tag: Dates
 	tag: Emily
 	tag: MsMcArthur
-	note: (<span class="dt">“Friday” night</span> _text error: this race is Saturday night_)
+	note: <span class="dt">“Friday” night</span> _text error: this race is Saturday night_
 page:2010-05-11
 	tag: ch-12
 	tag: McArthurRes
@@ -5955,7 +5955,7 @@ page:2010-05-06
 	tag: ch-12
 	tag: Ash
 	tag: Dates
-	note: (<span class="dt">Wall calendar shows 16th marked: Race Day. Saturday <time>2004-10-16</time></span>)
+	note: <span class="dt">Wall calendar shows 16th marked: Race Day. Saturday <time>2004-10-16</time></span>
 page:2010-05-05
 	tag: ch-12
 	tag: Emily
@@ -7707,7 +7707,7 @@ page:2009-01-21
 	tag: Heaven
 	tag: Missi
 	tag: Xaphrael
-	desc: Lockdown 
+	desc: Lockdown
 page:2009-01-20
 	tag: ch-10
 	tag: Cassiel
@@ -8807,7 +8807,7 @@ page:2008-03-28
 	tag: Vashiel
 	tag: Xaphrael
 	desc: They can't do this!
-	note: (Ramael identification is tentative )
+	note: Ramael identification is tentative
 page:2008-03-27
 	tag: ch-08
 	tag: Aiden
@@ -8902,7 +8902,7 @@ page:2008-03-10
 	tag: Aries
 	tag: Kate
 	tag: Rumisiel
-	desc: Welcome to Aries. Harry is in the garage. Where is Ash? 
+	desc: Welcome to Aries. Harry is in the garage. Where is Ash?
 page:2008-03-07
 	tag: ch-08
 	tag: Ash
@@ -8929,7 +8929,7 @@ page:2008-03-04
 	tag: Missi
 	tag: Rumisiel
 	tag: School
-	desc: Not enough experience with posessed people, eh? 
+	desc: Not enough experience with posessed people, eh?
 page:2008-03-03
 	tag: ch-08
 	tag: Aiden
@@ -8965,7 +8965,7 @@ page:2008-02-25
 	tag: ch-08
 	tag: Bronwyn
 	tag: Emily
-	desc: He's just doing some work on my car is all 
+	desc: He's just doing some work on my car is all
 page:2008-02-22
 	tag: ch-08
 	tag: Bronwyn
@@ -9093,7 +9093,7 @@ page:2008-01-28
 	tag: Missi
 	tag: Rumisiel
 	desc: I expect you to still put in Emily's turbo
-	note: (race date set for Saturday at 10pm, old road)
+	note: race date set for Saturday at 10pm, old road
 page:2008-01-25
 	tag: ch-08
 	tag: Aiden
@@ -9125,7 +9125,7 @@ page:2008-01-22
 	tag: Emily
 	tag: Monster
 	tag: Nissan240SX
-	desc: She thinks you're afraid of her 
+	desc: She thinks you're afraid of her
 page:2008-01-21
 	tag: ch-08
 	tag: Aiden
@@ -10492,12 +10492,13 @@ page:2007-04-16
 	tag: Cassiel
 	tag: Emily
 	desc: Sorry you have to sit in the back seat again
-	note: (Cassiel mention)
+	note: Cassiel mention
 page:2007-04-13
 	tag: ch-06
 	tag: Beach
 	tag: Race
-	desc: XR4TI vs M3<br>(Road sign: Provincetown 21, Truro 10)
+	desc: XR4TI vs M3<br>
+	note: Road sign: Provincetown 21, Truro 10
 page:2007-04-12
 	tag: ch-06
 	tag: Ash
@@ -10540,7 +10541,8 @@ page:2007-04-05
 	tag: Nosebleed
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Somewhat unnerved by the view<br>(The Day of the Race)
+	desc: Somewhat unnerved by the view
+	note: The Day of the Race
 page:2007-04-04
 	tag: ch-06
 	tag: Ash
@@ -11718,7 +11720,7 @@ page:2006-08-01
 	tag: Vashiel
 	tag: UptonHouse
 	desc: HOW is THIS perfect?
-	note: (Cassiel mentioned)
+	note: Cassiel mentioned
 page:2006-07-31
 	tag: ch-05
 	tag: Rumisiel
@@ -11885,7 +11887,7 @@ page:2006-06-30
 	tag: ShopAsst
 	tag: WaitPerson
 	desc: SCREW YOU, ASSHOLE!
-	note: (hardware Depot, Wok This Way (Chinese restaurant?))
+	note: also: Hardware Depot, Wok This Way (aChinese restaurant?
 page:2006-06-29
 	desc: You sure this isn’t just a poly to spend more time with me?
 	tag: Ash
@@ -12022,7 +12024,7 @@ page:2006-06-06
 	tag: Emily
 	tag: School
 	desc: It's just, this should have been my last day of high school ever
-	note: (mention of Emily's pre-Misfile gang, Jen and Katie, as _vassals of sluttitude_)
+	note: mention of Emily's pre-Misfile gang, Jen and Katie, as _vassals of sluttitude_
 page:2006-06-05
 	tag: ch-04
 	tag: Ash
@@ -12517,7 +12519,7 @@ page:2006-03-07
 	tag: Rumisiel
 	tag: UptonHouse
 	desc: You want to play a less one dimensional game, maybe?
-	note: (Emily's aunt mentioned)
+	note: Emily's aunt mentioned
 page:2006-03-06
 	tag: ch-04
 	tag: Ash
@@ -12763,7 +12765,7 @@ page:2006-01-19
 	tag: Rumisiel
 	tag: School
 	desc: You are aware that the school year ends in like a few weeks
-	note: (<span class="dt">late May / early June 2004</span>)
+	note: <span class="dt">late May / early June 2004</span>
 page:2006-01-18
 	tag: Ash
 	tag: Cassiel
@@ -12963,7 +12965,7 @@ page:2005-12-14
 	tag: Teacher
 	tag: School
 	desc: His brother stopped coming to school. Did he go back to Canada?
-	note:  (<span class="dt">(reference to the past weekend)</span>)
+	note:  <span class="dt">(reference to the past weekend)</span>
 page:2005-12-13
 	tag: ch-03
 	tag: Ash
@@ -12988,7 +12990,7 @@ page:2005-12-09
 	tag: Rumisiel
 	tag: Vashiel
 	desc: I'm only days from […] culmination of a 28-day cycle!
-	note: (<span class="dt">7 weeks since Misfile?</span>)
+	note: <span class="dt">7 weeks since Misfile?</span>
 page:2005-12-08
 	tag: ch-03
 	tag: Ash
@@ -13168,7 +13170,7 @@ page:2005-11-14
 	tag: Race
 	tag: OldRoad
 	tag: Spirit
-	note: (the spirit is dragged out of Kate's Jaguar)
+	note: The spirit is dragged out of Kate's Jaguar
 page:2005-11-11
 	tag: ch-03
 	tag: Ash
@@ -13245,7 +13247,7 @@ page:2005-11-02
 	tag: UptonHouse
 	tag: Vashiel
 	desc: That's about as good as the car is going to get.
-	note: (<span class="dt">Friday, race day</span>)
+	note: <span class="dt">Friday, race day</span>
 page:2005-11-01
 	tag: ch-03
 	tag: Ash
@@ -13520,7 +13522,7 @@ page:2005-09-06
 	tag: Emily
 	tag: UptonHouse
 	desc: Ford made a few similar cars in this family, in Europe anyway
-	note: (pedigree of The Monster)
+	note: pedigree of The Monster
 page:2005-09-05
 	tag: ch-03
 	tag: Ash
@@ -13657,7 +13659,7 @@ page:2005-08-10
 	tag: Dates
 	tag: Marie
 	desc: a letter from a confused thirteen year old
-	note: (<span class="dt">sometime in 2000</span>)
+	note: <span class="dt">sometime in 2000</span>
 page:2005-08-09
 	tag: ch-03
 	tag: Ash
@@ -13884,7 +13886,7 @@ page:2005-06-27
 	desc: the lingerie catalog
 page:2005-06-24
 	desc: It’s a photo of my mother and me
-	note: (<span class="dt">summer 2003</span>)
+	note: <span class="dt">summer 2003</span>
 	tag: Ash
 	tag: Ashley
 	tag: ch-02
@@ -13924,7 +13926,7 @@ page:2005-06-20
 	tag: McArthurRes
 	tag: UptonHouse
 	desc: I knew I forgot something
-	note: (<span class="dt">Sunday morning</span>)
+	note: <span class="dt">Sunday morning</span>
 page:2005-06-17
 	tag: ch-02
 	tag: Ash
@@ -14037,7 +14039,7 @@ page:2005-05-18
 	tag: McArthurRes
 	tag: MsMcArthur
 	tag: AuntNatalie
-	note: (Em's Aunt Natalie mentioned)
+	note: Em's Aunt Natalie mentioned
 page:2005-05-16
 	tag: ch-02
 	tag: Ash
@@ -14199,8 +14201,8 @@ page:2005-04-01
 	tag: Emily
 	tag: Period
 	tag: UptonHouse
-	desc: You know you can't just hide from Kate... 
-	note: (Almost <span class="dt">28 days</span> since the Misfile, reference to 'the Kate thing' [last night](#p2005-03-28))
+	desc: You know you can't just hide from Kate...
+	note: Almost <span class="dt">28 days</span> since the Misfile, reference to 'the Kate thing' [last night](#p2005-03-28))
 page:2005-03-30
 	tag: ch-02
 	tag: Emily
@@ -14260,7 +14262,7 @@ page:2005-03-14
 	tag: Ash
 	tag: Rumisiel
 	tag: School
-	desc: Kate… 
+	desc: Kate…
 page:2005-03-11
 	tag: ch-02
 	tag: Ash
@@ -14268,8 +14270,8 @@ page:2005-03-11
 	tag: Teshiel
 	tag: UptonHouse
 	tag: Vashiel
-	desc: You’re not mad? 
-	note: (Teshiel mention)
+	desc: You’re not mad?
+	note: Teshiel mention
 page:2005-03-09
 	tag: ch-02
 	tag: Rumisiel
@@ -14369,7 +14371,7 @@ page:2005-02-09
 	tag: Rumisiel
 	tag: School
 	tag: Vashiel
-	desc: Morning, Fred 
+	desc: Morning, Fred
 	note: [Yesterday?](#p2005-02-07)
 page:2005-02-07
 	tag: ch-02
@@ -14417,7 +14419,7 @@ page:2005-01-28
 	tag: Kate
 	tag: Nissan240SX
 	desc: in re: Kate and Angelica
-	note: (<span class="dt">1996</span>)
+	note: <span class="dt">1996</span>
 page:2005-01-26
 	tag: ch-02
 	tag: Angelica
@@ -14428,7 +14430,7 @@ page:2005-01-26
 	tag: Kate
 	tag: Nissan240SX
 	desc: Any weaknesses? Any at all?
-	note: (ref to Kate's history <span class="dt">1996</span>)
+	note: ref to Kate's history <span class="dt">1996</span>
 page:2005-01-24
 	tag: ch-02
 	tag: Aries
@@ -14474,7 +14476,7 @@ page:2005-01-14
 	tag: MsMcArthur
 	tag: Nissan240SX
 	desc: Well, this all seems fairly old hat for you.
-	note: (Emily's drivers test)
+	note: Emily's drivers test
 page:2005-01-12
 	tag: ch-02
 	tag: Ash
@@ -14960,7 +14962,7 @@ page:2004-08-12
 	tag: Tears
 	tag: UptonHouse
 	desc: Wasn’t my mom about my age when you got her pregnant
-	note: (**NB** _link broken: page missing_)
+	note: **NB** _link broken: page missing_
 page:2004-08-11
 	tag: ch-01
 	tag: Ash
@@ -15159,7 +15161,7 @@ page:2004-06-09
 	tag: School
 	tag: Tom
 	desc: a little more thought into this
-	note: (<span class="dt">Tuesday</span>)
+	note: <span class="dt">Tuesday</span>
 page:2004-06-07
 	tag: ch-01
 	tag: Ash
@@ -15293,7 +15295,7 @@ page:2004-04-23
 	tag: Dates
 	tag: UptonHouse
 	desc: Please be a dream! DAMMIT!
-	note: (<span class="dt">Sunday</span>)
+	note: <span class="dt">Sunday</span>
 page:2004-04-21
 	tag: ch-01
 	tag: Ash
