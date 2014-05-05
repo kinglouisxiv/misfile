@@ -26,18 +26,84 @@
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
+page:2014-05-05
+	desc: Go ahead Say "I told you so."
+	tag: ch-21
+	tag: Missi
+	tag: Tears
+	tag: Rumisiel
+page:2014-05-02
+	desc: That doesn't sound like something you came up with...
+	tag: Ash
+	tag: Emily
+	tag: McArthurRes
+page:2014-05-01
+	desc: Emily... If your yardstick for logic and possibilities is this past year for us, then I don't know
+	tag: Ash
+	tag: Emily
+	tag: McArthurRes
+page:2014-04-30
+	desc: What? Blech! Emily, I don't like guys!
+	tag: Ash
+	tag: Emily
+	tag: McArthurRes
+page:2014-04-29
+	desc: You went out to LUNCH with him?
+	tag: Ash
+	tag: Emily
+	tag: McArthurRes
+page:2014-04-28
+	desc: Fine! Ok... But I'm reserving my "I told you so" in advance.
+	tag: Cassiel
+	tag: ch-21
+	tag: Missi
+	tag: Rumisiel
+page:2014-04-25
+	desc: Hero time!
+	tag: ch-21
+	tag: Missi
+	tag: Rumisiel
+page:2014-04-24
+	desc: I'm glad I ran into you
+	tag: Ash
+	tag: ch-21
+	tag: GasStation
+	tag: Monster
+	tag: Oscar
+page:2014-04-23
+	desc: (A chance meeting at the pump)
+	tag: Ash
+	tag: ch-21
+	tag: GasStation
+	tag: Monster
+	tag: Oscar
+page:2014-04-22
+	desc: <br>**Book 21**<br><br>February - March ’05
+	tag: Angel
+	tag: Cassiel
+	tag: ch-21
+	tag: Cover
+page:2014-04-21
+	desc: Everyone thinks they are the protagonist
+	tag: Ash
+	tag: ch-20
+	tag: Rumisiel
+	tag: UptonHouse
 page:2014-04-18
 	desc: Ash, do I have a hero personality?
 	tag: Ash
+	tag: ch-20
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-04-17
 	desc: Maybe youjust don't realize how important I am...
+	tag: ch-20
 	tag: Missi
 	tag: Rumisiel
 	tag: School
 page:2014-04-16
 	desc: It's our new secret "Sidekicks" handshake
+	tag: ch-20
 	tag: Missi
 	tag: Rumisiel
 	tag: School
@@ -49,6 +115,7 @@ page:2014-04-14
 	desc: If seeing me is wierd for you, you could wear a blindfold
 	tag: Ash
 	tag: Blush
+	tag: ch-20
 	tag: Emily
 	tag: SchoolRoad
 page:2014-04-11
@@ -56,17 +123,20 @@ page:2014-04-11
 	tag: Ash
 	tag: Blush
 	tag: Bubbles
+	tag: ch-20
 	tag: Emily
 	tag: SchoolRoad
 page:2014-04-10
 	desc: Please, Ash, PLEASE tell me you used protection!
 	tag: Ash
+	tag: ch-20
 	tag: Edward
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-04-09
 	desc: That's an invasion of privacy!
 	tag: Ash
+	tag: ch-20
 	tag: Edward
 	tag: Hickey
 	tag: Rumisiel
@@ -74,16 +144,17 @@ page:2014-04-09
 page:2014-04-08
 	desc: It's supposed to be warm today. You may want to wear a t-shirt
 	tag: Ash
+	tag: ch-20
 	tag: Edward
 	tag: Hickey
 	tag: UptonHouse
-	note: Warm? inland Massachussets, mid-February?
 page:2014-04-07
 	desc: There's nothing for Oversight to even DO with the branches closed
 	tag: AngelGirl2
 	tag: Cassiel
 	tag: CFS
 	tag: CFS4
+	tag: ch-20
 	tag: Heaven
 	tag: Tempest
 	tag: Xaphrael
@@ -94,153 +165,155 @@ page:2014-04-04
 	tag: CFS
 	tag: CFS4
 	tag: CFS5
+	tag: ch-20
 	tag: Heaven
 page:2014-04-03
-	tag: Ash
-	tag: Emily
-	tag: McArthurRes
 	desc: Did you just use the "L" word?
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
 page:2014-04-02
-	tag: Ash
-	tag: Emily
-	tag: McArthurRes
 	desc: You realize he's going to think he has a chance at dating you now, right?
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
 page:2014-04-01
-	tag: Ash
-	tag: Filler
-	tag: Emily
-	tag: Rumisiel
 	desc: April Fools Day 2014
+	tag: Ash
+	tag: Emily
+	tag: Filler
+	tag: Rumisiel
 page:2014-03-31
-	tag: Ash
-	tag: ch-20
-	tag: Emily
-	tag: McArthurRes
 	desc: Hello, I've got my shirt off here...
-page:2014-03-28
 	tag: Ash
 	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
+page:2014-03-28
 	desc: That was... Unexpected.
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
 page:2014-03-27
+	desc: Ash? I didn't think...
 	tag: Ash
 	tag: Bubbles
 	tag: ch-20
 	tag: Emily
 	tag: Kiss
 	tag: McArthurRes
-	desc: Ash? I didn't think...
 page:2014-03-26
-	tag: ch-20
-	tag: Ash
-	tag: Oscar
-	tag: Monster
-	tag: OldRoad
 	desc: Here's your jack, by the way
+	tag: Ash
+	tag: ch-20
+	tag: Monster
+	tag: OldRoad
+	tag: Oscar
 page:2014-03-25
-	tag: ch-20
-	tag: Ash
-	tag: Oscar
-	tag: Monster
-	tag: OldRoad
 	desc: We took forever to get together and I've wanted to be physical for the longest time
+	tag: Ash
+	tag: ch-20
+	tag: Monster
+	tag: OldRoad
+	tag: Oscar
 page:2014-03-24
-	tag: ch-20
-	tag: Ash
-	tag: Oscar
-	tag: Monster
-	tag: OldRoad
 	desc: "sometimes it helps to tell your problems to a total stranger on a bus"
+	tag: Ash
+	tag: ch-20
+	tag: Monster
+	tag: OldRoad
+	tag: Oscar
 page:2014-03-21
-	tag: ch-20
-	tag: Ash
-	tag: Oscar
-	tag: Monster
-	tag: OldRoad
 	desc: I don't suppose you can change a tire
+	tag: Ash
+	tag: ch-20
+	tag: Monster
+	tag: OldRoad
+	tag: Oscar
 page:2014-03-20
-	tag: Filler
-	tag: Ash
 	desc: Ten Years of Misfile
+	tag: Ash
+	tag: Filler
 page:2014-03-19
-	tag: ch-20
-	tag: Ash
-	tag: Oscar
-	tag: Monster
-	tag: OldRoad
 	desc: I'm sorry... You look like someone I know
-page:2014-03-18
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
+	tag: Monster
+	tag: OldRoad
 	tag: Oscar
-	tag: Monster
-	tag: OldRoad
+page:2014-03-18
 	desc: Emily?! What the heck are you...
+	tag: Ash
+	tag: ch-20
+	tag: Monster
+	tag: OldRoad
+	tag: Oscar
 page:2014-03-17
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: Flashback
-	tag: Kiss
-	tag: McArthurRes
-	tag: Monster
-	tag: OldRoad
 	desc: Pants! Pants! Pants...
-	note: Unidentified car and figure in the road
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: Flashback
+	tag: Kiss
+	tag: McArthurRes
+	tag: Monster
+	tag: OldRoad
 page:2014-03-14
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: Flashback
-	tag: Kiss
-	tag: McArthurRes
-	tag: Monster
-	tag: OldRoad
 	desc: So... Does this change your opinion of Valentines day?
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: Flashback
+	tag: Kiss
+	tag: McArthurRes
+	tag: Monster
+	tag: OldRoad
 page:2014-03-13
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: Flashback
-	tag: Kiss
-	tag: McArthurRes
-	tag: Monster
-	tag: OldRoad
 	desc: I feel... Weak? Like PHYSICALLY Weak. Like I just want to lay here.
-page:2014-03-12
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
 	tag: Emily
 	tag: Flashback
 	tag: Kiss
 	tag: McArthurRes
 	tag: Monster
 	tag: OldRoad
+page:2014-03-12
 	desc: Just drive... No! Just DRIVE!
-page:2014-03-11
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: Flashback
+	tag: Kiss
+	tag: McArthurRes
+	tag: Monster
+	tag: OldRoad
+page:2014-03-11
+	desc: Seriously? Am I not sending enough sub text about "coming back to my place"?
+	tag: Ash
+	tag: ch-20
 	tag: Emily
 	tag: Rumisiel
 	tag: School
-	desc: Seriously? Am I not sending enough sub text about "coming back to my place"?
 page:2014-03-10
-	tag: ch-20
+	desc: I keep looking at people and feeling like they know
+	note: Missi mention
 	tag: Ash
+	tag: ch-20
 	tag: Emily
 	tag: Missi
 	tag: School
-	desc: I keep looking at people and feeling like they know
-	note: Missi mention
 page:2014-03-07
-	tag: ch-20
+	desc: You're... Unusually bright this morning
+	note: <span class="dt"><time>2005-02-15</time> Tuesday</span>
 	tag: Ash
+	tag: ch-20
 	tag: Dates
 	tag: Emily
 	tag: School
-	desc: You're... Unusually bright this morning
-	note: <span class="dt"><time>2005-02-15</time> Tuesday</span>
 page:2014-03-06
 	desc: Also, you have lipstick on your ear... And a hicky
 	tag: Ash
@@ -249,29 +322,29 @@ page:2014-03-06
 	tag: Rumisiel
 	tag: XR4Ti
 page:2014-03-05
-	tag: ch-20
-	tag: Ash
-	tag: XR4Ti
-	tag: Rumisiel
 	desc: Wow. You're on time. How was your night out?
-page:2014-03-04
-	tag: ch-20
 	tag: Ash
-	tag: Emily
-	tag: Missi
-	tag: McArthurRes
-	tag: Rumisiel
-	desc: if it was wrong to be doing this the universe would do SOMEthing to let us know
-page:2014-03-03
 	tag: ch-20
+	tag: Rumisiel
+	tag: XR4Ti
+page:2014-03-04
+	desc: if it was wrong to be doing this the universe would do SOMEthing to let us know
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
+	tag: Missi
+	tag: Rumisiel
+page:2014-03-03
+	desc: I'm not going to be able to explain this one away am I?
 	tag: Ash
 	tag: Bubbles
+	tag: ch-20
 	tag: Emily
 	tag: Kiss
-	tag: Missi
 	tag: McArthurRes
+	tag: Missi
 	tag: Rumisiel
-	desc: I'm not going to be able to explain this one away am I?
 page:2014-02-28
 	tag: ch-20
 	tag: Ash
@@ -15585,6 +15658,7 @@ page:2004-02-23
 page:2004-02-22
 	tag: Ash
 	tag: XR4Ti
+	tag: Filler
 	tag: Cover
 	desc: <br>**Misfile** cover
 ; --- index eof ----

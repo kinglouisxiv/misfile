@@ -29,12 +29,12 @@ Audi	[Edward Upton](#edward)'s car, licence plate DR-U
 AudiS4	Sheldon’s ride
 AutoModerZ	car supplies emporium
 BaldingDude	party-goer
-Blobs	floating background -- opaque [Bubbles](#bubbles)?
+Blobs	floating background - opaque [Bubbles](#bubbles)?
 Blush	shows happiness / embarrassment / emotion
 BostonLogan	Boston Logan airport, identified by the twin pillar control tower
 BreakfastAnytime	ill-named diner (only open 5am-midnight)
 Brent	Brent Westcott, racer from [Falmouth](https://en.wikipedia.org/wiki/Falmouth%2C_Massachusetts),  at college in California with [James](#james); drives an [M3](#m3)
-BrentCar	licence HNDA ETR -- see [M3](#m3)
+BrentCar	licence HNDA ETR - see [M3](#m3)
 Bronwyn	[Aiden](#aiden)’s psychic girlfriend; lives opposite his (parent's) home
 Bubbles	a happy floaty background
 Burt	Burt Clayton, car & parts sales
@@ -200,12 +200,13 @@ XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
 ; --- Chapters / Books ---
+ch-21	Book 21: February - March ’05 _(tbc)_
 ch-20	Book 20: February ’05
 ch-19	Book 19: January ’05
-ch-18	Book 18: December ’04 – January ’05
+ch-18	Book 18: December ’04 - January ’05
 ch-17	Book 17: Christmas ’04
 ch-16	Book 16: December ’04
-ch-15	Book 15: November – December ’04
+ch-15	Book 15: November - December ’04
 ch-14	Book 14: November ’04
 ch-13	Book 13: Halloween ’04
 ch-12	Book 12: October ’04
@@ -214,10 +215,10 @@ ch-10	Book 10: September ’04
 ch-09	Book 09: September ’04
 ch-08	Book 08: September ’04
 ch-07	Book 07: August ’04
-ch-06	Book 06: July – August ’04
-ch-05	Book 05: June – July ’04
-ch-04	Book 04: May – June ’04
+ch-06	Book 06: July - August ’04
+ch-05	Book 05: June - July ’04
+ch-04	Book 04: May - June ’04
 ch-03	Book 03: May ’04
-ch-02	Book 02: April—May ’04
-ch-01	Book 01: March – April ’04
+ch-02	Book 02: April - May ’04
+ch-01	Book 01: March - April ’04
 ; --- tags.txt EOF ---
