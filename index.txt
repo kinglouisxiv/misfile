@@ -26,6 +26,70 @@
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
+page:2014-05-29
+	desc: Then what's so important about one year?
+	tag: Dates
+	tag: Ash
+	tag: UptonHouse
+	tag: Rumisiel
+page:2014-05-28
+	desc: It's going to be March twenthieth soon
+	note: [Misfile day](http://www.misfile.com/?date=2004-02-25): <span class="dt">2004-03-20</span><br>Ash's 12th period
+	tag: Period
+	tag: Dates
+	tag: Ash
+	tag: UptonHouse
+	tag: Rumisiel
+page:2014-05-27
+	desc: Have you seen a calendar lately?
+	tag: Ash
+	tag: UptonHouse
+	tag: Rumisiel
+page:2014-05-26
+	desc: Life isn't simple because you have so many choices
+	note: 'flashback' view of pre-industial period Ash, with kids
+	tag: Ash
+	tag: Bubbles
+	tag: ch-21
+	tag: Flashback
+	tag: UptonHouse
+	tag: Vashiel
+page:2014-05-23
+	desc: You're like the anti-Emily
+	tag: Ash
+	tag: ch-21
+	tag: Monster
+	tag: UptonHouse
+	tag: Vashiel
+page:2014-05-22
+	desc: Are you... Feeling ok?
+	tag: Ash
+	tag: ch-21
+	tag: Monster
+	tag: UptonHouse
+	tag: Vashiel
+page:2014-05-21
+	desc: "He?" That's new for you
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2014-05-20
+	desc: You put that stupid thought about Oscar and me
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Period
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2014-05-19
+	desc: Don't really want to get into it
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Rumisiel
+	tag: SchoolRoad
 page:2014-05-16
 	desc: Ssshhh! My dad is home.
 	tag: Ash
@@ -137,7 +201,7 @@ page:2014-04-23
 	tag: Monster
 	tag: Oscar
 page:2014-04-22
-	desc: <br>**Book 21**<br><br>February - March ’05
+	desc: <br>**Book 21**<br><br>late February - March ’05
 	tag: Angel
 	tag: Cassiel
 	tag: ch-21
@@ -11491,42 +11555,54 @@ page:2006-10-19
 	tag: MarieHouse
 	tag: Tears
 	desc: You mean you're ok with it then?
+;
+; ###
+;
 page:2006-10-18
-	tag: ch-05
+	desc: Apparently he and Brent are like a sort of local racing team thing
 	tag: Ash
+	tag: BrentCar
 	tag: Bubbles
+	tag: ch-05
 	tag: Emily
 	tag: MarieHouse
-	desc: Apparently he and Brent are like a sort of local racing team thing
+	tag: MR2
 page:2006-10-17
-	tag: ch-05
+	desc: I LOVED that part! / You should read the next one
 	tag: Ash
 	tag: Casper
+	tag: ch-05
 	tag: Emily
 	tag: MarieHouse
-	desc: I LOVED that part! / You should read the next one
+	tag: MR2
 page:2006-10-16
-	tag: ch-05
+	desc: I can't wait to get a shot at that monster of yours
 	tag: Ash
 	tag: Brent
 	tag: Cassiel
-	tag: MarieHouse
-	desc: I can't wait to get a shot at that monster of yours
-page:2006-10-13
 	tag: ch-05
+	tag: MarieHouse
+	tag: XR4Ti
+page:2006-10-13
+	desc: That’s why we race at night
+	tag: Beach
 	tag: Casper
+	tag: ch-05
 	tag: Emily
 	tag: MarieHouse
-	desc: That’s why we race at night
+	tag: Truro
 page:2006-10-12
-	tag: ch-05
+	desc: ASH! Some boys are here for you!
+	note: (Truro mentioned)
 	tag: Ash
 	tag: Brent
 	tag: Casper
+	tag: MR2
+	tag: ch-05
 	tag: Emily
 	tag: Marie
 	tag: MarieHouse
-	desc: Ash! Some boys are here for you!
+	tag: XR4Ti
 page:2006-10-11
 	tag: ch-05
 	tag: Ash
@@ -11537,27 +11613,28 @@ page:2006-10-11
 	tag: MarieHouse
 	desc: Oh, and Brent is stopping by tonight to drop off a map of how to get to the race area
 page:2006-10-10
-	tag: ch-05
+	desc: We've GOT to race then
 	tag: AleHouse
 	tag: Ash
 	tag: Brent
+	tag: ch-05
 	tag: Emily
-	desc: We've _got_ to race then
+	tag: MarieHouse
 page:2006-10-09
-	tag: ch-05
-	tag: AleHouse
-	tag: Ash
-	tag: Brent
-	tag: Casper
 	desc: I _live_ round here. What the hell are _you_ doing here
-page:2006-10-06
-	tag: ch-05
 	tag: AleHouse
 	tag: Ash
 	tag: Brent
 	tag: Casper
-	tag: Rose
+	tag: ch-05
+page:2006-10-06
 	desc: Could you take table seven? There's a guy there creeping me out
+	tag: AleHouse
+	tag: Ash
+	tag: Brent
+	tag: Casper
+	tag: ch-05
+	tag: Rose
 page:2006-10-05
 	tag: ch-05
 	tag: AleHouse
@@ -11566,97 +11643,114 @@ page:2006-10-05
 	tag: ShoulderAngel
 	desc: Tough shift? / My feet are killing me
 page:2006-10-04
-	tag: ch-05
-	tag: Ash
-	tag: Emily
 	desc: You help me with that, and I'll help get you some new bras
+	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: XR4Ti
 page:2006-10-03
-	tag: ch-05
-	tag: Ash
-	tag: Emily
 	desc: It's just, James’ was always making that hissing sound…
+	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: XR4Ti
 page:2006-10-02
-	tag: ch-05
-	tag: Ash
-	tag: Emily
 	desc: That’s just the turbo kicking in
+	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: XR4Ti
 page:2006-09-29
-	tag: ch-05
-	tag: Ash
-	tag: Emily
 	desc: Take it for a spin. See how you like it.
+	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: XR4Ti
 page:2006-09-28
-	tag: ch-05
-	tag: Ash
-	tag: Emily
-	tag: Cinema
 	desc: Hey there, Lady. Wanna ride in a fast car?
+	tag: Ash
+	tag: ch-05
+	tag: Cinema
+	tag: Emily
+	tag: XR4Ti
 page:2006-09-27
-	tag: ch-05
-	tag: Ash
-	tag: Emily
-	tag: Cinema
 	desc: Hand me the keys, I guess
+	tag: Ash
+	tag: ch-05
+	tag: Cinema
+	tag: Emily
+	tag: XR4Ti
 page:2006-09-26
-	tag: ch-05
-	tag: Ash
-	tag: Emily
-	tag: Cinema
 	desc: So I say we wait for the crowd to clear
+	tag: Ash
+	tag: ch-05
+	tag: Cinema
+	tag: Emily
 page:2006-09-25
-	tag: ch-05
-	tag: Ash
-	tag: Cinema
-	tag: Emily
 	desc: It's raining. You're wearing a white shirt, and no bra
+	tag: Ash
+	tag: ch-05
+	tag: Cinema
+	tag: Emily
 page:2006-09-22
-	tag: ch-05
-	tag: Ash
-	tag: Cinema
-	tag: Emily
 	desc: This popcorn is WAY too salty
-page:2006-09-21
-	tag: ch-05
 	tag: Ash
+	tag: Blush
+	tag: ch-05
 	tag: Cinema
 	tag: Emily
+page:2006-09-21
 	desc: They were all dirty
+	note: Cinema sign: Big 16 
+	tag: Ash
+	tag: ch-05
+	tag: Cinema
+	tag: Emily
 page:2006-09-20
-	tag: ch-05
-	tag: Ash
-	tag: Emily
 	desc: You're not wearing a bra!
+	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: XR4Ti
 page:2006-09-19
-	tag: ch-05
-	tag: Ash
-	tag: Emily
 	desc: Black bra gone? / Yeah. I...
+	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: XR4Ti
 page:2006-09-18
-	tag: ch-05
-	tag: Ash
-	tag: Emily
 	desc: If it's your only shirt you'll have to change your bra like the wind!
-page:2006-09-15
-	tag: ch-05
 	tag: Ash
-	tag: Emily
-	desc: You can't wear a black bra and a white shirt!
-page:2006-09-14
 	tag: ch-05
-	tag: Ash
 	tag: Emily
 	tag: MarieHouse
+	tag: XR4Ti
+page:2006-09-15
+	desc: You can't wear a black bra and a white shirt!
+	note: (fashions have changed in ten years...)
+	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: XR4Ti
+page:2006-09-14
 	desc: Throw on a non-work shirt and let’s go...
+	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: MarieHouse
+	tag: XR4Ti
 page:2006-09-13
 	tag: ch-05
 	tag: AleHouse
 	tag: Ash
 	tag: ShoulderAngel
+	tag: SpeccyKid
 	desc: Calm down. Dead women leave no tips
 page:2006-09-12
 	tag: ch-05
 	tag: AleHouse
 	tag: Ash
+	tag: DangBlastedIdiot
 	desc: And I want a bacon cheeseburger with no bacon and no cheese...
 page:2006-09-11
 	tag: ch-05
@@ -11672,11 +11766,12 @@ page:2006-09-08
 	tag: MarieHouse
 	desc: If I feel any better, maybe we can catch a movie
 page:2006-09-07
-	tag: ch-05
+	desc: Pygmies were stealing water out of my mouth and you drowned them
 	tag: Ash
+	tag: Beach
+	tag: ch-05
 	tag: Emily
 	tag: MarieHouse
-	desc: Pygmies were stealing water out of my mouth and you drowned them
 page:2006-09-06
 	tag: ch-05
 	tag: Ash
@@ -11685,18 +11780,21 @@ page:2006-09-06
 	tag: MarieHouse
 	desc: I mean I FEEL better but my mouth is like the Sahara Desert
 page:2006-09-05
-	tag: ch-05
+	desc: Were you even talking to me or some imaginary midget water boy?!
 	tag: Ash
 	tag: Blush
-	tag: Emily
-	tag: MarieHouse
-	desc: Were you even talking to me or some imaginary midget water boy?!
-page:2006-09-04
+	tag: Bubbles
 	tag: ch-05
-	tag: Ash
 	tag: Emily
 	tag: MarieHouse
+	tag: SunPoisoning
+page:2006-09-04
 	desc: The little people drank my last water. I had to set traps.
+	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: MarieHouse
+	tag: SunPoisoning
 page:2006-09-01
 	tag: ch-05
 	tag: Ash
@@ -11704,17 +11802,18 @@ page:2006-09-01
 	tag: MarieHouse
 	desc: How was your first night?
 page:2006-08-31
-	tag: ch-05
-	tag: AleHouse
-	tag: Ash
-	tag: Rose
 	desc: You’ve got god-given assets
-page:2006-08-30
-	tag: ch-05
 	tag: AleHouse
 	tag: Ash
+	tag: Blush
+	tag: ch-05
 	tag: Rose
-	desc: Remember, there’s only one letter difference between “tits” and “tips”
+page:2006-08-30
+	desc: Remember, there’s only one letter difference between "tits" and "tips"
+	tag: AleHouse
+	tag: Ash
+	tag: ch-05
+	tag: Rose
 page:2006-08-29
 	tag: ch-05
 	tag: AleHouse
@@ -11722,24 +11821,26 @@ page:2006-08-29
 	tag: Rose
 	desc: There are a few cheaters towards getting a good tip
 page:2006-08-28
-	tag: ch-05
+	desc: Here’s your shirt, and you might want to wear one of these aprons
+	note: Rose is under 18
 	tag: AleHouse
 	tag: Ash
-	tag: Rose
-	desc: Here’s your shirt, and you might want to wear one of these aprons
-page:2006-08-25
 	tag: ch-05
+	tag: Rose
+page:2006-08-25
+	desc: Perfect fit. We have the same build.
 	tag: Ash
+	tag: ch-05
 	tag: Emily
 	tag: Marie
 	tag: MarieHouse
-	desc: Perfect fit. We have the same build.
+	tag: SunPoisoning
 page:2006-08-24
-	tag: ch-05
+	desc: Who’d have ever thought I’d be borrowing clothes from my mother…
 	tag: Ash
+	tag: ch-05
 	tag: Marie
 	tag: MarieHouse
-	desc: Who’d have ever thought I’d be borrowing clothes from my mother…
 page:2006-08-23
 	tag: ch-05
 	tag: Edward
@@ -11755,11 +11856,18 @@ page:2006-08-22
 	tag: Emily
 	desc: The “Uniform” is just a company shirt and any kind of khakis
 page:2006-08-21
-	tag: ch-05
+	desc: Hey there miss. You’re here about the job?
 	tag: AleHouse
 	tag: Ash
+	tag: ch-05
 	tag: Tyler
-	desc: Hey there miss. You’re here about the job?
+page:2006-08-18
+	desc: Actually.. I was kind of here about your "Help Wanted" sign
+	tag: AleHouse
+	tag: Ash
+	tag: ch-05
+	tag: Rose
+	tag: Tyler
 page:2006-08-17
 	tag: ch-05
 	tag: AleHouse
@@ -11776,6 +11884,7 @@ page:2006-08-16
 page:2006-08-15
 	tag: ch-05
 	tag: Ash
+	tag: Bubbles
 	tag: Emily
 	tag: Marie
 	tag: MarieHouse
@@ -11793,124 +11902,131 @@ page:2006-08-11
 	tag: Ash
 	tag: Emily
 	tag: MarieHouse
+	tag: XR4Ti
 	desc: I’m supposed to have been here at least once before
+	note: [Dennis, Mas](https://en.wikipedia.org/wiki/Dennis,_Massachusetts)
 page:2006-08-10
-	tag: ch-05
+	desc: I can’t believe she’s letting you take this vacation with me
 	tag: Ash
 	tag: Bubbles
+	tag: ch-05
 	tag: Emily
-	desc: I can’t believe she’s letting you take this vacation with me
+	tag: XR4Ti
 page:2006-08-09
-	tag: ch-05
+	desc: I may be gone for a bit this summer and I’m SO worried that my "Darling" may fall off the wagon…
 	tag: Ash
+	tag: ch-05
 	tag: Rumisiel
-	tag: Vashiel
 	tag: UptonHouse
-	desc: I may be gone for a bit this summer and I’m SO worried that my “Darling” may fall off the wagon…
+	tag: Vashiel
+	tag: XR4Ti
 page:2006-08-08
-	tag: ch-05
-	tag: Ash
-	tag: Rumisiel
-	tag: Vashiel
-	tag: UptonHouse
 	desc: And just for good measure, I’ll be checking in
-page:2006-08-07
-	tag: ch-05
 	tag: Ash
-	tag: Dates
+	tag: ch-05
 	tag: Rumisiel
-	tag: Period
 	tag: UptonHouse
+	tag: Vashiel
+page:2006-08-07
 	desc: WHAT?! You’re leaving?!
 	note: <span class="dt">July 2004</span> (4 months / 3 periods since the Misfile)
+	tag: Ash
+	tag: ch-05
+	tag: Dates
+	tag: Period
+	tag: Rumisiel
+	tag: UptonHouse
 page:2006-08-04
-	tag: ch-05
-	tag: Ash
-	tag: Marie
-	tag: Phone
-	tag: MarieHouse
 	desc: Well, bring her with you then.
-page:2006-08-03
-	tag: ch-05
 	tag: Ash
+	tag: ch-05
 	tag: Marie
-	tag: Phone
-	tag: UptonHouse
 	tag: MarieHouse
-	desc: Hi, Mom. Look I’ve been thinking about this summer and your offer…
-page:2006-08-02
+	tag: Phone
+page:2006-08-03
+	desc: Hi, Mom. Look, I’ve been thinking about this summer and your offer…
+	tag: Ash
 	tag: ch-05
+	tag: Marie
+	tag: MarieHouse
+	tag: Phone
+	tag: UptonHouse
+page:2006-08-02
+	desc: … can’t I use my powers just a LITTLE bit
+	tag: ch-05
+	tag: MarieHouse
 	tag: Phone
 	tag: Rumisiel
-	tag: Vashiel
 	tag: UptonHouse
-	desc: … can’t I use my powers just a LITTLE bit
+	tag: Vashiel
 page:2006-08-01
-	tag: ch-05
-	tag: Cassiel
-	tag: Rumisiel
-	tag: Vashiel
-	tag: UptonHouse
 	desc: HOW is THIS perfect?
 	note: Cassiel mentioned
-page:2006-07-31
+	tag: Cassiel
 	tag: ch-05
 	tag: Rumisiel
+	tag: UptonHouse
 	tag: Vashiel
-	tag: UptonHouse
+page:2006-07-31
 	desc: Good evening, brother
+	tag: ch-05
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Vashiel
 page:2006-07-28
-	tag: ch-05
-	tag: Ash
-	tag: Emily
-	tag: UptonHouse
 	desc: No… I’m sorry. I… Thanks, Ash
+	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: UptonHouse
 page:2006-07-27
-	tag: ch-05
-	tag: Ash
-	tag: Blush
-	tag: Emily
 	desc: I should probably shut up now
+	tag: Ash
+	tag: Blush
+	tag: ch-05
+	tag: Emily
+	tag: UptonHouse
 page:2006-07-26
-	tag: ch-05
-	tag: Ash
-	tag: Emily
-	tag: UptonHouse
 	desc: Don’t pretend! It’s right there. I hate it!
+	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: UptonHouse
 page:2006-07-25
-	tag: ch-05
-	tag: Ash
-	tag: Blush
-	tag: Emily
-	tag: UptonHouse
 	desc: Are you just staring at me sleep…
-page:2006-07-24
-	tag: ch-05
 	tag: Ash
 	tag: Blush
+	tag: ch-05
 	tag: Emily
 	tag: UptonHouse
+page:2006-07-24
 	desc: Ash, Ash… What are you doing?
-page:2006-07-21
-	tag: ch-05
 	tag: Ash
+	tag: Blush
+	tag: ch-05
 	tag: Emily
 	tag: UptonHouse
+page:2006-07-21
 	desc: I have the feeling my house is going to be a bit, what's the best word, tense?
-page:2006-07-20
-	tag: ch-05
 	tag: Ash
+	tag: ch-05
+	tag: Emily
+	tag: UptonHouse
+page:2006-07-20
+	desc: You really had lunch with the president of the university?
+	tag: Ash
+	tag: ch-05
 	tag: Edward
 	tag: Emily
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: You really had lunch with the president of the university?
 page:2006-07-19
+	desc: Hmmm. Yes, I suppose it is Blackmail.
 	tag: ch-05
 	tag: Edward
 	tag: Emily
 	tag: MsMcArthur
-	desc: Hmmm. Yes, I suppose it is blackmail.
+	tag: UptonHouse
 page:2006-07-18
 	tag: ch-05
 	tag: Dates
@@ -11919,9 +12035,7 @@ page:2006-07-18
 	tag: MsMcArthur
 	tag: UptonHouse
 	desc: I lecture there every few months
-;
-; ###
-;
+	note: a view of a Harvard gateway
 page:2006-07-17
 	desc: Doctor! Are you aware that your daughter has been contributing to my daughter's delinquency?
 	tag: ch-05
@@ -14058,7 +14172,7 @@ page:2005-06-20
 	tag: McArthurRes
 	tag: UptonHouse
 	desc: I knew I forgot something
-	note: <span class="dt">Sunday morning</span>
+	note: <span class="dt">Sunday morning, 2004-04-18</span>
 page:2005-06-17
 	tag: ch-02
 	tag: Ash
@@ -14149,13 +14263,13 @@ page:2005-05-25
 	tag: UptonHouse
 	desc: You need a sister, huh?
 page:2005-05-23
+	desc: What the hell happened last night
+	note: <span class="dt">Saturday, 2004-04-17</span> 28 days since Misfile (2004-03-20)
 	tag: ch-02
 	tag: Dates
 	tag: Edward
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: What the hell happened last night
-	note: <span class="dt">Saturday, dawn</span>
 page:2005-05-20
 	tag: ch-02
 	tag: Emily
@@ -14166,12 +14280,13 @@ page:2005-05-19
 	tag: Filler
 	desc: Kate = rage monster
 page:2005-05-18
+	desc: You're in awfully late
+	note: Em's Aunt Natalie mentioned
+	tag: AuntNatalie
 	tag: ch-02
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
-	tag: AuntNatalie
-	note: Em's Aunt Natalie mentioned
 page:2005-05-16
 	tag: ch-02
 	tag: Ash
@@ -15672,7 +15787,7 @@ page:2004-03-01
 	tag: Ash
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: Let’s not talk about who’s fault
+	desc: Let's not talk about who's fault
 page:2004-02-28
 	tag: ch-01
 	tag: Angel
@@ -15692,14 +15807,14 @@ page:2004-02-26
 	tag: Ash
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: You are not why I’m screaming
+	desc: You are not why I'm screaming
 page:2004-02-25
 	tag: ch-01
 	tag: Ash
 	tag: Dates
 	tag: UptonHouse
 	desc: Have I got laryngitis?
-	note: <span class="dt">10:38am, a Saturday in March 2004</span>
+	note: <span class="dt">2004-03-20 10:38</span> see [page 2014-05-27](http://www.misfile.com/?date=2014-05-27)
 page:2004-02-24
 	tag: ch-01
 	tag: Fillaniel

@@ -42,7 +42,7 @@ BurtsYard	one place where Burt does business
 CafeMarat	café in [Tempest](#tempest)
 Cantina32	restaurant in [Tempest](#tempest)'s main street
 CapKid	generic: some kid wearing a cap
-Casper	racer in Cape Cod, friend of [Brent](#brent); drives an MR2
+Casper	'Cas', racer in Cape Cod, friend of [Brent](#brent); drives an MR2
 Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-, more bother. Lucifer's niece.
 Cassi	Cassiel's dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
 CFS	Celestial Filing System (properly the _[Celestial Filing Depository](http://web.archive.org/web/20060326052535/http://www.misfile.com/?menu=filing)_). Divided into five branches, four of which have an [Archon](#archon)
@@ -121,6 +121,7 @@ ModelGirl	a victim of [Cassiel](#cassiel)
 Molly	Molly Taber, bitch/tart (with a heart), drives a [Volkswagen](#vw)
 Monster	The Monster: Ash's frankencar, 4 wheel drive racer, built from various Cosworth models
 Morgan	a bit of a slapper
+MR2	[Casper's](#casper) car
 MrCuddles	[Missi](#missi)’s confidant & comforter
 MrMacMannus	a teacher of 19th century literature
 MrMuffy	a [Walsh-clan](#dogwalsh) dog with an inquisitive nose
@@ -154,9 +155,9 @@ RandomLady	unimpressed by a proposition from [Ramael](#ramael)’s
 Randy	a racer
 Rapists	would-be bad dudes
 Receptionist	at [Thorin Medical](#thorin)
-Rose	[Ale House](#alehouse) [waitperson](#waitperson), [Tyler](#tyler)’s sister
+Rose	[Ale House](#alehouse) [waitperson](#waitperson), [Tyler](#tyler)’s sister, under 18
 Roy	owner/operator of [Speedway](#speedway) dirt track
-Rumisiel	angel; "son of Gabriel, Angel of the 3rd Circle, 437 years old, and unmarried" – used to work in the astral wing of [5th Branch](#cfs5) of the celestial filing depository; the cause of all the bother
+Rumisiel	angel; "son of Gabriel, Angel of the 3rd Circle, 437 years old, and unmarried" - used to work in the astral wing of [5th Branch](#cfs5) of the celestial filing depository; the cause of all the bother
 Ryan	nailed [Emily](#emily)
 Salesman	a car sales dude, not [Burt](#burt)
 School	Tempest High
