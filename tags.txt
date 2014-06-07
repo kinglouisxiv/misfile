@@ -33,7 +33,7 @@ Blobs	floating background - opaque [Bubbles](#bubbles)?
 Blush	shows happiness / embarrassment / emotion
 BostonLogan	Boston Logan airport, identified by the twin pillar control tower
 BreakfastAnytime	ill-named diner (only open 5am-midnight)
-Brent	Brent Westcott, racer from [Falmouth](https://en.wikipedia.org/wiki/Falmouth%2C_Massachusetts),  at college in California with [James](#james); drives an [M3](#m3)
+Brent	Brent Westcott, racer from [Falmouth](https://en.wikipedia.org/wiki/Falmouth%2C_Massachusetts), at college in California with [James](#james); drives an [M3](#m3)
 BrentCar	licence HNDA ETR - see [M3](#m3)
 Bronwyn	[Aiden](#aiden)’s psychic girlfriend; lives opposite his (parent's) home
 Bubbles	a happy floaty background
@@ -55,7 +55,8 @@ Chains	a unhappy bind-y background
 Chocolate	mmmm!
 Cinema	generic: popcorn sales outlets
 ClockTower	the highest central point in [Tempest](#tempest)
-Colin	an heroic ‘Everyman’ figure, works at [AutoModerZ](#automoderz); drives a Camaro "with 20 inch rims and a Borla  exhaust"
+ClothesShop	generic
+Colin	an heroic ‘Everyman’ figure, works at [AutoModerZ](#automoderz); drives a Camaro "with 20 inch rims and a Borla exhaust"
 Cover	start of a new book/chapter
 Dates	entries with days, dates, ages, etc
 Diner	generic: diners, cafe, restaurant

@@ -26,27 +26,66 @@
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
+page:2014-06-06
+	desc: Ash: I just wanted to say sorry for the way I was moping around...
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: McArthurRes
+	tag: Phone
+	tag: UptonHouse
+page:2014-06-05
+	desc: Ash: Doesn't that hurt?
+	tag: Aries
+	tag: Ash
+	tag: Blush
+	tag: ch-21
+	tag: Kate
+	tag: KateKid
+page:2014-06-04
+	desc: Kate: Could you hand him to me
+	tag: Aries
+	tag: Ash
+	tag: ch-21
+	tag: Kate
+	tag: KateKid
+page:2014-06-03
+	desc: Kate: The baby was up all hours
+	tag: Aries
+	tag: Ash
+	tag: ch-21
+	tag: Kate
+	tag: KateKid
+page:2014-06-02
+	desc: Ash: Kate... Is this a bad time?
+	tag: Aries
+	tag: Ash
+	tag: ch-21
+	tag: Kate
 page:2014-05-29
-	desc: Then what's so important about one year?
-	tag: Dates
+	desc: Rumisiel: Then what's so important about one year?
 	tag: Ash
-	tag: UptonHouse
+	tag: ch-21
+	tag: Dates
 	tag: Rumisiel
+	tag: UptonHouse
 page:2014-05-28
-	desc: It's going to be March twenthieth soon
+	desc: Ash: It's going to be March twenthieth soon
 	note: [Misfile day](http://www.misfile.com/?date=2004-02-25): <span class="dt">2004-03-20</span><br>Ash's 12th period
-	tag: Period
+	tag: Ash
+	tag: ch-21
 	tag: Dates
-	tag: Ash
-	tag: UptonHouse
+	tag: Period
 	tag: Rumisiel
+	tag: UptonHouse
 page:2014-05-27
-	desc: Have you seen a calendar lately?
+	desc: Ash: Have you seen a calendar lately?
 	tag: Ash
-	tag: UptonHouse
+	tag: ch-21
 	tag: Rumisiel
+	tag: UptonHouse
 page:2014-05-26
-	desc: Life isn't simple because you have so many choices
+	desc: Vashiel: Life isn't simple because you have so many choices
 	note: 'flashback' view of pre-industial period Ash, with kids
 	tag: Ash
 	tag: Bubbles
@@ -55,28 +94,28 @@ page:2014-05-26
 	tag: UptonHouse
 	tag: Vashiel
 page:2014-05-23
-	desc: You're like the anti-Emily
+	desc: Ash: You're like the anti-Emily
 	tag: Ash
 	tag: ch-21
 	tag: Monster
 	tag: UptonHouse
 	tag: Vashiel
 page:2014-05-22
-	desc: Are you... Feeling ok?
+	desc: Vashiel: Are you... Feeling ok?
 	tag: Ash
 	tag: ch-21
 	tag: Monster
 	tag: UptonHouse
 	tag: Vashiel
 page:2014-05-21
-	desc: "He?" That's new for you
+	desc: Rumisiel: "He?" That's new for you
 	tag: Ash
 	tag: ch-21
 	tag: Emily
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-05-20
-	desc: You put that stupid thought about Oscar and me
+	desc: Ash: You put that stupid thought about Oscar and me
 	tag: Ash
 	tag: ch-21
 	tag: Emily
@@ -84,21 +123,21 @@ page:2014-05-20
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-05-19
-	desc: Don't really want to get into it
+	desc: Emily: You look tired
 	tag: Ash
 	tag: ch-21
 	tag: Emily
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-05-16
-	desc: Ssshhh! My dad is home.
+	desc: Ash: Ssshhh! My dad is home.
 	tag: Ash
 	tag: ch-21
 	tag: Dream
 	tag: Oscar
 	tag: UptonHouse
 page:2014-05-15
-	desc: He is NOT a HERO!
+	desc: Cassiel: He is NOT a HERO!
 	tag: ch-21
 	tag: Cassi
 	tag: Cassiel
@@ -106,7 +145,7 @@ page:2014-05-15
 	tag: Missi
 	tag: Rumisiel
 page:2014-05-14
-	desc: Oh WOW! You totally SAVED her!
+	desc: Missi: Oh WOW! You totally SAVED her!
 	tag: ch-21
 	tag: Cassi
 	tag: Cassiel
@@ -114,15 +153,16 @@ page:2014-05-14
 	tag: Missi
 	tag: Rumisiel
 page:2014-05-13
-	desc: Cassie? Is that you? Where have you been? ...and what are you wearing
+	desc: Eponine: Cassie? Is that you? Where have you been? ...and what are you wearing
 	tag: ch-21
+	tag: Blush
 	tag: Cassi
 	tag: Cassiel
 	tag: Eponine
 	tag: Honda
 	tag: Rumisiel
 page:2014-05-12
-	desc: Ok... Picking up trash is... Nice. But it is hardly heroic
+	desc: Missi: Ok... Picking up trash is... Nice. But it is hardly heroic
 	tag: ch-21
 	tag: Cassi
 	tag: Cassiel
@@ -133,61 +173,61 @@ page:2014-05-09
 	tag: Filler
 	tag: Emily
 page:2014-05-08
-	desc: My vows can't be allowed to get in the way of my duty, so there are loopholes
+	desc: Vashiel: My vows can't be allowed to get in the way of my duty, so there are loopholes
 	tag: Ash
 	tag: ch-21
 	tag: Vashiel
 	tag: UptonHouse
 page:2014-05-07
-	desc: Rough day?
+	desc: Vashiel: Rough day?
 	tag: Ash
 	tag: ch-21
 	tag: Vashiel
 	tag: UptonHouse
 page:2014-05-06
-	desc: You'd have been fine if you'd just handed it back to her
+	desc: Missi: You'd have been fine if you'd just handed it back to her
 	tag: ch-21
 	tag: Missi
 	tag: Rumisiel
 page:2014-05-05
-	desc: Go ahead Say "I told you so."
+	desc: Rumisiel: Go ahead Say "I told you so."
 	tag: ch-21
 	tag: Missi
 	tag: Tears
 	tag: Rumisiel
 page:2014-05-02
-	desc: That doesn't sound like something you came up with...
+	desc: Emily: That doesn't sound like something you came up with...
 	tag: Ash
 	tag: Emily
 	tag: McArthurRes
 page:2014-05-01
-	desc: Emily... If your yardstick for logic and possibilities is this past year for us, then I don't know
+	desc: Ash: Emily... If your yardstick for logic and possibilities is this past year for us, then I don't know
 	tag: Ash
 	tag: Emily
 	tag: McArthurRes
 page:2014-04-30
-	desc: What? Blech! Emily, I don't like guys!
+	desc: Ash: What? Blech! Emily, I don't like guys!
 	tag: Ash
 	tag: Emily
 	tag: McArthurRes
 page:2014-04-29
-	desc: You went out to LUNCH with him?
+	desc: Emily: You went out to LUNCH with him? That's like "first date" stuff!
 	tag: Ash
 	tag: Emily
 	tag: McArthurRes
 page:2014-04-28
-	desc: Fine! Ok... But I'm reserving my "I told you so" in advance.
+	desc: Missi: Fine! Ok... But I'm reserving my "I told you so" in advance.
 	tag: Cassiel
 	tag: ch-21
 	tag: Missi
 	tag: Rumisiel
 page:2014-04-25
-	desc: Hero time!
+	desc: Rumisiel: Hero time!
 	tag: ch-21
 	tag: Missi
 	tag: Rumisiel
 page:2014-04-24
-	desc: I'm glad I ran into you
+	desc: Ash: I'm glad I ran into you
 	tag: Ash
 	tag: ch-21
 	tag: GasStation
@@ -11264,290 +11304,333 @@ page:2006-12-22
 	tag: Cover
 	tag: Ash
 	desc: <br>**Book 6**<br>July – August ’04<br><br>_Preparations — a lift – a dinner and a party – the Jennies – catfight – the rescuer – racing Brent – going home_
+; ###
 page:2006-12-21
-	tag: ch-05
+	desc: Ash: Mom? Can we talk?
 	tag: Ash
+	tag: ch-05
 	tag: Marie
 	tag: MarieHouse
-	desc: Mom? Can we talk?
 page:2006-12-20
-	tag: ch-05
+	desc: Ash: My job sucks and now I'm losing Emily to some guy
 	tag: Ash
+	tag: ch-05
+	tag: MarieHouse
 	tag: ShoulderAngel
-	tag: MarieHouse
-	desc: My job sucks and now I'm losing Emily to some guy
 page:2006-12-19
-	tag: ch-05
+	desc: Emily: Actually, I'm sort of picking out clothes for my date on Friday
 	tag: Ash
+	tag: ch-05
 	tag: Emily
 	tag: MarieHouse
-	desc: Actually, I'm sort of picking out clothes for my date on Friday
 page:2006-12-18
-	tag: ch-05
+	desc: Ash: Ok, first of all you're frikkin' dreaming, ok?
 	tag: AleHouse
 	tag: Ash
+	tag: ch-05
 	tag: Emily
+	tag: GoateeKid
 	tag: KidConvertable
 	tag: MarieHouse
-	desc: Ok, first of all you're frikkin' dreaming, ok?
 page:2006-12-15
-	tag: ch-05
+	desc: KidConvertable: What's with this hard to get, tease bullshit
 	tag: AleHouse
 	tag: Ash
+	tag: ch-05
 	tag: KidConvertable
-	desc: What's with this hard to get, tease bullshit
 page:2006-12-14
-	tag: ch-05
+	desc: KidConvertable: Did you see the way she was eyeing me?
 	tag: AleHouse
 	tag: Ash
+	tag: ch-05
+	tag: GoateeKid
 	tag: KidConvertable
 	tag: Rose
-	desc: Did you see the way she was eyeing me?
 page:2006-12-13
-	tag: ch-05
+	desc: Casper: I'll pick you up at five on Friday then
 	tag: AleHouse
 	tag: Ash
+	tag: CasHome
 	tag: Casper
+	tag: ch-05
 	tag: Emily
 	tag: KidConvertable
+	tag: MarieHouse
 	tag: Phone
-	desc: I'll pick you up at five on Friday then
 page:2006-12-12
-	tag: ch-05
+	desc: Emily: Hey. Cas? This is Emily.
 	tag: Casper
-	tag: Emily
-	tag: Phone
-	desc: Hey. Cas? This is Emily.
-page:2006-12-11
+	tag: CasHome
 	tag: ch-05
+	tag: Emily
+	tag: MarieHouse
+	tag: Phone
+page:2006-12-11
+	desc: Marie: Remember, even if you can't do this one little thing for me, I still love you
 	tag: Ash
+	tag: Blush
+	tag: ch-05
 	tag: Marie
 	tag: MarieHouse
-	desc: Remember, even if you can't do this one little thing for me, I still love you
 page:2006-12-08
-	tag: ch-05
+	desc: Marie: Just be be my little girl for one night
 	tag: Ash
 	tag: Bubbles
+	tag: ch-05
 	tag: Marie
 	tag: MarieHouse
-	desc: Just be be my little girl for one night
 page:2006-12-07
-	tag: ch-05
+	desc: Marie: I have THE most FABULOUS dress that needs a model
 	tag: Ash
+	tag: Bubbles
+	tag: ch-05
 	tag: Marie
 	tag: MarieHouse
-	desc: I have THE most FABULOUS dress that needs a model
 page:2006-12-06
-	tag: ch-05
+	desc: Marie: Well, let's just say, if boys wore bras, they'd wear bras like these.
 	tag: Ash
+	tag: ch-05
 	tag: Marie
 	tag: MarieHouse
-	desc: Well, let's just say, if boys wore bras, they'd wear bras like these.
 page:2006-12-05
-	tag: ch-05
+	desc: And frankly I could have gotten you better bras
 	tag: Ash
+	tag: ch-05
 	tag: Marie
 	tag: MarieHouse
-	desc: And frankly I could have gotten you better bras
 page:2006-12-04
+	desc: Well I just figured if we spiralled out, we'd get there eventually
 	tag: ch-05
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Well I just figured if we spiralled out, we'd get there eventually
 page:2006-12-01
-	tag: ch-05
+	desc: Vashiel: What do you MEAN you don't now the way to Cape Cod?!
 	tag: Ash
+	tag: ch-05
 	tag: Emily
+	tag: Truro
 	tag: Vashiel
-	tag: Truro
-	desc: What do you MEAN you don't now the way to Cape Cod?!
+	tag: XR4Ti
 page:2006-11-30
-	tag: ch-05
+	desc: Emily: Actually, I meant the race course.
 	tag: Ash
 	tag: Beach
+	tag: ch-05
 	tag: Emily
 	tag: Truro
-	desc: Actually, I meant the race course.
+	tag: XR4Ti
 page:2006-11-29
-	tag: ch-05
+	desc: (Ash practicing driving, Emily watching on a fence)
 	tag: Ash
 	tag: Beach
+	tag: ch-05
 	tag: Emily
 	tag: Truro
-	desc: (Ash practicing, Emily watching on a fence)
+	tag: XR4Ti
 page:2006-11-28
-	tag: ch-05
+	desc: Would you like to join the bra and panty club?
 	tag: Ash
+	tag: ch-05
 	tag: ClothesShop
 	tag: Emily
-	desc: Would you like to join the bra and panty club?
+	tag: Shopping
 page:2006-11-27
 	tag: ch-05
 	tag: Ash
 	tag: ClothesShop
+	tag: Shopping
 	tag: Emily
 	desc: Happy would be the wrong word, but we've been here for two and a half hours
+	note: 6:47pm
 page:2006-11-24
-	tag: ch-05
-	tag: Ash
-	tag: ClothesShop
-	tag: Emily
 	desc: But it's a 34-C!
-page:2006-11-23
-	tag: ch-05
 	tag: Ash
+	tag: ch-05
 	tag: ClothesShop
 	tag: Emily
+	tag: Shopping
+page:2006-11-23
 	desc: I can feel her staring at me from behind
+	tag: Ash
+	tag: Blush
+	tag: ch-05
+	tag: ClothesShop
+	tag: Emily
+	tag: Shopping
 page:2006-11-22
 	tag: ch-05
 	tag: Ash
 	tag: ClothesShop
 	tag: Emily
 	tag: Marie
+	tag: Shopping
 	desc: There's an old poster of my mom in here wearing nothing but a pair of panties
 page:2006-11-21
-	tag: ch-05
-	tag: Ash
-	tag: ClothesShop
-	tag: Emily
 	desc: Just try those two on
-page:2006-11-20
-	tag: ch-05
 	tag: Ash
+	tag: Blush
+	tag: ch-05
 	tag: ClothesShop
 	tag: Emily
+	tag: Shopping
+page:2006-11-20
 	desc: Just imagine if boys had to wear bras, and think what they'd pick
+	tag: Ash
+	tag: ch-05
+	tag: ClothesShop
+	tag: Emily
+	tag: Shopping
 page:2006-11-17
 	tag: Filler
 	desc: Remembrance
 page:2006-11-16
-	tag: ch-05
+	desc: All my bras are the same size anyway
 	tag: Ash
+	tag: ch-05
 	tag: ClothesShop
 	tag: Emily
-	desc: All my bras are the same size anyway
+	tag: Shopping
 page:2006-11-15
-	tag: ch-05
-	tag: Ash
-	tag: Beach
-	tag: Emily
-	tag: Truro
 	desc: Well, I DID promise to take you shopping for some new bras
+	note: Morro (something) Center
+	tag: Ash
+	tag: Beach
+	tag: ch-05
+	tag: ClothesShop
+	tag: Emily
+	tag: Shopping
+	tag: Truro
 page:2006-11-14
-	tag: ch-05
-	tag: Ash
-	tag: Beach
-	tag: Emily
-	tag: Truro
 	desc: Any clue how to win?
+	tag: Ash
+	tag: Beach
+	tag: ch-05
+	tag: Emily
+	tag: Truro
 page:2006-11-13
-	tag: ch-05
-	tag: Ash
-	tag: Beach
-	tag: Emily
-	tag: Truro
 	desc: Wow. This is so much worse than I expected.
-page:2006-11-10
-	tag: ch-05
 	tag: Ash
 	tag: Beach
+	tag: ch-05
 	tag: Emily
 	tag: Truro
+	tag: XR4Ti
+page:2006-11-10
 	desc: Shifting gears… I'm going to check out that race course tomorrow.
+	tag: Ash
+	tag: Beach
+	tag: Blush
+	tag: ch-05
+	tag: Emily
+	tag: MarieHouse
+	tag: Truro
+	tag: XR4Ti
 page:2006-11-09
-	tag: ch-05
+	desc: So, clinically speaking, and with only the most academic curiosities I assure you, is orgasm better as a boy or a girl?
 	tag: Ash
+	tag: ch-05
 	tag: Emily
+	tag: MarieHouse
 	tag: Nosebleed
-	desc: Did I cross a line?
 page:2006-11-08
-	tag: ch-05
-	tag: Ash
-	tag: Blush
-	tag: Emily
 	desc: NO! I mean, don't jump to conclusions
+	tag: Ash
+	tag: Blush
+	tag: ch-05
+	tag: Emily
+	tag: MarieHouse
 page:2006-11-07
-	tag: ch-05
-	tag: Ash
-	tag: Blush
-	tag: Emily
 	desc: You were dreaming about me weren't you?
-page:2006-11-06
-	tag: ch-05
 	tag: Ash
 	tag: Blush
+	tag: ch-05
 	tag: Emily
+	tag: MarieHouse
+page:2006-11-06
 	desc: Just because I hate the idea of you going on a date with some guy
+	tag: Ash
+	tag: Blush
+	tag: ch-05
+	tag: Emily
+	tag: MarieHouse
 page:2006-11-03
-	tag: ch-05
-	tag: Ash
-	tag: Emily
 	desc: Don't be sorry. You have every right to go on that date
-page:2006-11-02
+	tag: Ash
 	tag: ch-05
+	tag: Emily
+	tag: MarieHouse
+page:2006-11-02
+	desc: an innumerable number of instances that put me in a bad mood
 	tag: AleHouse
 	tag: Ash
+	tag: ch-05
 	tag: Emily
 	tag: Rose
-	desc: an innumerable number of instances that pit me in a bad mood
 page:2006-11-01
-	tag: ch-05
+	desc: Off already? Time flies when you are having fun, eh?
+	note: 10:05 (pm?) Wednesday (off tomorrow / see you ... Friday)
 	tag: AleHouse
 	tag: Ash
+	tag: ch-05
+	tag: MarieHouse
 	tag: Rose
-	desc: Off already? Time flies when you are having fun, eh?
 page:2006-10-31
 	tag: Ash
 	tag: Emily
 	tag: Filler
 	desc: Halloween 2006
 page:2006-10-30
-	tag: ch-05
-	tag: Rumisiel
-	tag: Vashiel
 	desc: TO CAPE COD!
+	tag: ch-05
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Vashiel
 page:2006-10-27
-	tag: ch-05
-	tag: Cassiel
-	tag: Rumisiel
 	desc: You'd best find your way east if you want to stop it
+	tag: Cassiel
+	tag: ch-05
+	tag: Rumisiel
+	tag: UptonHouse
 page:2006-10-26
-	tag: ch-05
-	tag: Cassiel
-	tag: Rumisiel
-	tag: Vashiel
 	desc: There's going to be… Well a bit of an accident in Cape Cod
-page:2006-10-25
-	tag: ch-05
 	tag: Cassiel
-	tag: Rumisiel
-	tag: Vashiel
-	desc: Just remember Cassiel. We can always take a shower.
-page:2006-10-24
 	tag: ch-05
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Vashiel
+page:2006-10-25
+	desc: Just remember Cassiel. We can always take a shower
+	note: digging
+	tag: Cassiel
+	tag: ch-05
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Vashiel
+page:2006-10-24
+	desc: It was… Nothing! I mean… Just a nightmare!
 	tag: Ash
 	tag: Blush
+	tag: ch-05
 	tag: Emily
 	tag: MarieHouse
-	desc: It was… Nothing! I mean… Just a nightmare!
 page:2006-10-23
-	tag: ch-05
+	desc: MNYAAAAA! / … What the heck was THAT?!
 	tag: Ash
+	tag: Blush
 	tag: Bubbles
+	tag: ch-05
 	tag: Dream
 	tag: Emily
 	tag: MarieHouse
-	desc: MNYAAAAA! / … What the heck was THAT?!
 page:2006-10-20
-	tag: ch-05
+	desc: Shit! Shit! SHIT! Why couldn't it be me!?
 	tag: Ash
 	tag: Bubbles
+	tag: ch-05
 	tag: Dream
 	tag: Emily
 	tag: MarieHouse
 	tag: Tears
-	desc: Shit! Shit! SHIT! Why couldn't it be me!?
 page:2006-10-19
 	tag: ch-05
 	tag: Ash
@@ -11555,9 +11638,6 @@ page:2006-10-19
 	tag: MarieHouse
 	tag: Tears
 	desc: You mean you're ok with it then?
-;
-; ###
-;
 page:2006-10-18
 	desc: Apparently he and Brent are like a sort of local racing team thing
 	tag: Ash
