@@ -33,8 +33,8 @@ Blobs	floating background - opaque [Bubbles](#bubbles)?
 Blush	shows happiness / embarrassment / emotion
 BostonLogan	Boston Logan airport, identified by the twin pillar control tower
 BreakfastAnytime	ill-named diner (only open 5am-midnight)
-Brent	Brent Westcott, racer from [Falmouth](https://en.wikipedia.org/wiki/Falmouth%2C_Massachusetts), at college in California with [James](#james); drives an [M3](#m3)
-BrentCar	licence HNDA ETR - see [M3](#m3)
+Brent	Brent Westcott, racer from [Falmouth](https://en.wikipedia.org/wiki/Falmouth%2C_Massachusetts), at college in California with [James](#james); drives an [M3](#m3), licence HNDA ETR
+BrentCar	see [M3](#m3)
 Bronwyn	[Aiden](#aiden)’s psychic girlfriend; lives opposite his (parent's) home
 Bubbles	a happy floaty background
 Burt	Burt Clayton, car & parts sales
@@ -42,6 +42,7 @@ BurtsYard	one place where Burt does business
 CafeMarat	café in [Tempest](#tempest)
 Cantina32	restaurant in [Tempest](#tempest)'s main street
 CapKid	generic: some kid wearing a cap
+CasHome	where Casper lives, somewhere on Cape Cod
 Casper	'Cas', racer in Cape Cod, friend of [Brent](#brent); drives an MR2
 Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-, more bother. Lucifer's niece.
 Cassi	Cassiel's dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
@@ -61,24 +62,27 @@ Cover	start of a new book/chapter
 Dates	entries with days, dates, ages, etc
 Diner	generic: diners, cafe, restaurant
 DMV	Department of Motor Vehicles (?) driver testing site
+DangBlastedIdiot	a customer at [The Ale House](#alehouse)
 DogWalsh	[Dog](#mrmuffy)-owning Walsh clan member
 Doris	caterer _extrordinaire!_
 Dream	_"fancyes, dreams and spirits"_
 Dress	Ash in a ...
 Dweeb	Robin to [Colin](#colin)’s Batman
 Edward	Dr Edward Upton, [Ash](#ash)’s father; drives an [Audi](#audi)
+EnriqueSwan	Fashion clothes designer
 Emily	Emily McArthur, “Blues”; our other protagonist; drives a [Nissan 240SX](#nissan240sx) and classic [Mustang](#mustang)
 Eponine	a friend of [Ash](#ash)
 FilingTool	5th Branch issue, stored in the ether
 Fillaniel	angel, a [CFS](#cfs) boss, joint administrator of [5th Branch](#cfs5) with Terrael
 Filler	non-story pages: Xmas, Remembrance, crossovers, etc
-Flashback	sometimes to a past that everyone remembers but [Ash](#ash) and [Emily](#emily)
+Flashback	sometimes to a past that everyone but [Ash](#ash) and [Emily](#emily) remembers
 Fred	a footballer at the school
 Fresh-Mart	a supermarket / store in the Tempest area
-FullerHome	[Missi](#missi)’s lair (& [Tom's](#tom) too)
-Gabriel	angel, father to [Rumisiel](#rumisiel), [Vashiel](#vashiel)
+FullerHome	[Missi’s](#missi) lair (& [Tom's](#tom) too)
+Gabriel	archangel, 'father' to [Rumisiel](#rumisiel), [Vashiel](#vashiel)
 GirlA	romantic schoolgirl
 GirlB	a romance questioning schoolgirl
+GoateeKid	a customer at [The Ale House](#alehouse) with [KidConvertable](#kidconvertable)
 GreeneHouse	a party scene for [Jenny Greene](#jennygreene)
 Gyno	the exams [Ash](#ash) tries to skip
 Harry	'Harry' (Henry) Walsh, racers’ auto engineer, owner [Aries](#aries) auto workshop
@@ -103,13 +107,14 @@ KateKid	Kate's son, Harry. Another [Harry](#harry) may have been involved
 Kay	Kay Wheeler, model, works for [Marie](#marie), drives a Miata
 Kevin	a reconnaissance [Sheldonista](#sheldonista)
 KidB	some boy at school
-KidConvertable	boy tried to pick up Ash
+KidConvertable	tried to pick up Ash at [The Ale House](#alehouse)
 Kiss	… is just a kiss, a sigh is just …
 Lisa	a waitperson
 LocationTBA	unclear whether Kate's family's or Kate & Harry's place
 Logan	racer, homeschooled, sees angels
 M3	Brent's car
 M3000GT	Mitsubishi 3000GT VR4 sports car, as driven by James
+Mace	pepper spray
 MacsBar	a bar
 Marie	Marie Upton, [Ash](#ash)’s Mom, ex-model, ex-wife of [Edward Upton](#edward)
 MarieHouse	Marie Upton's home, with access to the beach, at [Dennis](https://en.wikipedia.org/wiki/Dennis,_Massachusetts), Cape Cod: [WoG](#wog)
@@ -117,8 +122,11 @@ MarieWork	where Marie runs a fashion/lingerie business
 Maude	canteen catering & hair advice
 McArthurRes	The McArthur residence – [Emily](#emily)’s home, [house no. 124](http://www.misfile.com/?date=2007-05-29)
 Melissa	Dr Melissa Frist, gynaecologist at [Thorin Medical](#thorin)
+Miata	[Kay's](#kay) ride
+MiniVan	[Mom McArthur's](#msmcarthur) ride
 Missi	Missi Fuller, adopted, hyperactive 14 year-old freshman, [Ash](#ash)-crush
 ModelGirl	a victim of [Cassiel](#cassiel)
+ModelGirl2	a fleeing [Cassiel](#cassiel)
 Molly	Molly Taber, bitch/tart (with a heart), drives a [Volkswagen](#vw)
 Monster	The Monster: Ash's frankencar, 4 wheel drive racer, built from various Cosworth models
 Morgan	a bit of a slapper
@@ -129,12 +137,14 @@ MrMuffy	a [Walsh-clan](#dogwalsh) dog with an inquisitive nose
 MrWalker	auto class teacher
 MsFlanery	a teacher
 MsMcArthur	[Emily](#emily)’s Mom
+Mustang	a ’68 fast back, [Emily's](#emily) other ride
 Myrael	missing [Archon](#archon) of [3rd Branch](#cfs3)
 N240Z	Nissan 240Z sportscar, junker restored by [Aiden](#aiden)
 Nissan240SX	[Emily's](#emily) car, manual transmission upgrade by [Ash](#ash)
 Nosebleed	you need a girlfriend, laddie!
 OldRoad	local race site, a.k.a the Mountain. [A brief history](http://web.archive.org/web/20060326052520/http://www.misfile.com/?menu=oldroad)
 Oscar	looks surprisingly like [Emily](#emily)
+OscarCar	unidentified model; has a spoiler
 Pager	receive-only text messager
 Party	let’s …
 Patient	Ms J Random …
@@ -156,6 +166,7 @@ RandomLady	unimpressed by a proposition from [Ramael](#ramael)’s
 Randy	a racer
 Rapists	would-be bad dudes
 Receptionist	at [Thorin Medical](#thorin)
+Roger	an unidentified colleague of [Marie](#marie)
 Rose	[Ale House](#alehouse) [waitperson](#waitperson), [Tyler](#tyler)’s sister, under 18
 Roy	owner/operator of [Speedway](#speedway) dirt track
 Rumisiel	angel; "son of Gabriel, Angel of the 3rd Circle, 437 years old, and unmarried" - used to work in the astral wing of [5th Branch](#cfs5) of the celestial filing depository; the cause of all the bother
@@ -172,6 +183,7 @@ Shopping	recreational retail therapy
 ShoulderAngel	conscience avatars
 Shower	steaminess and high emotions
 Shrimpy	rich bitch party-goer who hasn't quite 'got' the memo
+Smoothie	a puréed fruit drink
 SomeMom	trying to get a word in, edgeways
 Speedway	dirtstrip race track
 Spirit	spooky stuff

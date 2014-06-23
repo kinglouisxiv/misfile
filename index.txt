@@ -5,15 +5,15 @@
 ; File format is single lines formatted as Key:Value
 ;
 ; KEYS
-;  page:    comic page ID and link: heads a comic page entry.
-;    auth:  Author / artist page comment or note
-;    date:  date of the page, preferably YYYY-MM-DD
-;    desc:  text relevant to the page (title / description / line of dialogue, etc)
-;    note:  footnotes, links, etc
-;    tag:   tags for the page's story items of note: character, item, location, etc.
-;    url:   the actual comic page url
-;  baseurl: default url applies to any following page: without a url: key
-;           (to insert pageID replace in baseurl/url with {0} )
+; page: comic page ID and link: heads a comic page entry.
+; auth: Author / artist page comment or note
+; date: date of the page, preferably YYYY-MM-DD
+; desc: text relevant to the page (title / description / line of dialogue, etc)
+; note: footnotes, links, etc
+; tag: tags for the page's story items of note: character, item, location, etc.
+; url: the actual comic page url
+; baseurl: default url applies to any following page: without a url: key
+; (to insert pageID replace in baseurl/url with {0} )
 ;
 ; Can use multiple tags per page, but only one of each of the other keys
 ;
@@ -26,6 +26,99 @@
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
+;
+
+page:2014-06-23
+	desc: Oscar: Just wanted to ask you something. It's... Kind of awkward
+	tag: Ash
+	tag: Blush
+	tag: ch-21
+	tag: Oscar
+	tag: Phone
+	tag: UptonHouse
+page:2014-06-20
+	desc: Rumisiel: Do you have any idea how much a sibling would complicate your situation right now?
+	tag: Ash
+	tag: ch-21
+	tag: Phone
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-06-19
+	desc: Rumisiel: Harsh... Not denying it, but still harsh
+	tag: Ash
+	tag: ch-21
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-06-18
+	desc: Ash: Is this an awkward pause in the conversation?
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: IceCreamStall
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-06-17
+	desc: Ash: Can I get a scoop of chocolate?
+	tag: Ash
+	tag: ch-21
+	tag: Chocolate
+	tag: Emily
+	tag: IceCream
+	tag: IceCreamStall
+	tag: Oscar
+	tag: Smoothie
+page:2014-06-16
+	desc: Ash: Not THAT much. Not much at ALL actually
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: IceCream
+	tag: IceCreamStall
+	tag: Oscar
+	tag: OscarCar
+page:2014-06-13
+	desc: Emily: Oscar. I've heard SO much about you
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: IceCream
+	tag: IceCreamStall
+	tag: Oscar
+page:2014-06-12
+	desc: Emily: I even promise I won't bring up Oscar unless you do
+	note: Oscar mentioned
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: IceCream
+	tag: IceCreamStall
+	tag: Oscar
+	tag: XR4Ti
+page:2014-06-11
+	desc: Emily: There were days growing up when we didn't have power because we needed to eat
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Mustang
+	tag: XR4Ti
+page:2014-06-10
+	desc: Ash: I still don't understand why I couldn't just buy you gas
+	note: Talking about the Mustang
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Mustang
+	tag: XR4Ti
+page:2014-06-09
+	desc: Emily: Does this mean your Oscar thing is over?
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: McArthurRes
+	tag: Mustang
+	tag: Oscar
+	tag: Phone
+	tag: UptonHouse
 page:2014-06-06
 	desc: Ash: I just wanted to say sorry for the way I was moping around...
 	tag: Ash
@@ -382,6 +475,7 @@ page:2014-03-25
 	tag: Monster
 	tag: OldRoad
 	tag: Oscar
+	tag: OscarCar
 page:2014-03-24
 	desc: "sometimes it helps to tell your problems to a total stranger on a bus"
 	tag: Ash
@@ -389,6 +483,7 @@ page:2014-03-24
 	tag: Monster
 	tag: OldRoad
 	tag: Oscar
+	tag: OscarCar
 page:2014-03-21
 	desc: I don't suppose you can change a tire
 	tag: Ash
@@ -1113,7 +1208,7 @@ page:2013-10-23
 	tag: Aries
 	tag: Ash
 	tag: Kate
-	desc: You'll be working with Harry's niece  Heather
+	desc: You'll be working with Harry's niece Heather
 page:2013-10-22
 	tag: ch-19
 	tag: Aries
@@ -1361,7 +1456,7 @@ page:2013-08-29
 	tag: Blush
 	tag: Rumisiel
 	tag: Shower
-	desc: I'll take that as a "yes". How was it?  I mean, comparatively...
+	desc: I'll take that as a "yes". How was it? I mean, comparatively...
 page:2013-08-28
 	tag: ch-19
 	tag: Angel
@@ -1856,7 +1951,7 @@ page:2013-05-16
 	tag: Cover
 	tag: ShoulderAngel
 	desc: <br>**Book 19**<br>January ’05<br><br>_Heather–Ivan race II — lunch with mom — Jenny Greene's party – 68 Mustang – Fruit Fly – Valentine – Baby Shower_
-	auth: Ash must choose a successor to keep a usurper who fancies himself an "ice racing specialist" from stealing the title of "King of the Mountain".  Is Heather an enemy, or an ally?
+	auth: Ash must choose a successor to keep a usurper who fancies himself an "ice racing specialist" from stealing the title of "King of the Mountain". Is Heather an enemy, or an ally?
 page:2013-05-15
 	tag: ch-18
 	tag: Ash
@@ -2639,7 +2734,7 @@ page:2012-11-14
 	tag: Cover
 	tag: Flashback
 	desc: <br>**Book 18**<br>December ’04 – January ’05<br><br>_Ivan the Ice King — the New Year — the gynaecologist — Heather – Ivan race — birthday surprises_
-	auth: Christmas has come and gone.  After all this time, is Ramael the mysterious force that's been slaying the Archons of Heaven?  To Ash, that's less important than the inevitability of her first appointment with her dad's "lady doctor" friend.
+	auth: Christmas has come and gone. After all this time, is Ramael the mysterious force that's been slaying the Archons of Heaven? To Ash, that's less important than the inevitability of her first appointment with her dad's "lady doctor" friend.
 page:2012-11-13
 	desc: Wow! Bed, Bath and Body Works!
 	tag: ch-17
@@ -3034,10 +3129,13 @@ page:2012-08-09
 	desc: Turkish prison
 	tag: UptonHouse
 page:2012-08-08
+	desc: It's your health, Ash
+	note: Ice cream mentioned
 	tag: ch-17
 	tag: Ash
 	tag: Edward
 	tag: Gyno
+	tag: IceCream
 	tag: Melissa
 	tag: UptonHouse
 page:2012-08-07
@@ -3410,7 +3508,7 @@ page:2012-05-15
 	tag: Cover
 	tag: Emily
 	desc: <br>**Book 17**<br>December ’04<br><br>_Christmas past — Christmas plans — roots — relationships — hot chocolate — the breakup — ok with mean — Christmas party — the checkout Christmas present_
-	auth: It's Christmas time in Tempest!  Can Ash live up to Dr. Uptons expectations from Christmases past?  James is back in town... And apparently dating Casiel.  Can Ash let that stand?  Worse than that, Ash has to wear a dress... In public.
+	auth: It's Christmas time in Tempest! Can Ash live up to Dr. Uptons expectations from Christmases past? James is back in town... And apparently dating Casiel. Can Ash let that stand? Worse than that, Ash has to wear a dress... In public.
 page:2012-05-14
 	tag: ch-16
 	tag: Emily
@@ -3762,24 +3860,32 @@ page:2012-02-10
 	tag: Ash
 	tag: Burt
 	tag: Emily
+	tag: Monster
+	tag: AllTrac
+	tag: Mustang
 	tag: Speedway
 	desc: You! What the hell was that?
 page:2012-02-09
 	tag: ch-16
 	tag: Race
 	tag: Speedway
+	tag: Monster
+	tag: AllTrac
 	desc: And the challenger crosses the line
 page:2012-02-08
 	tag: ch-16
 	tag: Ash
 	tag: Burt
 	tag: Emily
+	tag: Monster
+	tag: AllTrac
 	tag: Missi
 	tag: Race
 	tag: Speedway
 page:2012-02-07
 	tag: ch-16
 	tag: Ash
+	tag: Monster
 	tag: Race
 page:2012-02-06
 	tag: ch-16
@@ -3791,6 +3897,8 @@ page:2012-02-03
 	tag: ch-16
 	tag: Ash
 	tag: Burt
+	tag: AllTrac
+	tag: Monster
 	tag: Race
 	tag: Speedway
 page:2012-02-02
@@ -3800,16 +3908,23 @@ page:2012-02-02
 	tag: Emily
 	tag: Race
 	tag: Speedway
+	tag: Monster
+	tag: Mustang
+	tag: AllTrac
 page:2012-02-01
 	tag: ch-16
 	tag: Ash
 	tag: Burt
+	tag: Monster
+	tag: AllTrac
 	tag: Race
 	tag: Speedway
 page:2012-01-31
 	tag: ch-16
 	tag: Ash
 	tag: Burt
+	tag: Monster
+	tag: AllTrac
 	tag: Race
 	tag: Speedway
 page:2012-01-30
@@ -3825,6 +3940,8 @@ page:2012-01-27
 	tag: Missi
 	tag: Race
 	tag: Speedway
+	tag: Monster
+	tag: AllTrac
 page:2012-01-26
 	tag: ch-16
 	tag: Ash
@@ -3832,14 +3949,18 @@ page:2012-01-26
 	tag: Missi
 	tag: Race
 	tag: Speedway
+	tag: Monster
 page:2012-01-25
 	tag: ch-16
 	tag: Ash
 	tag: Burt
 	tag: Speedway
 	tag: Roy
+	tag: AllTrac
+	tag: Monster
 page:2012-01-24
 	tag: ch-16
+	tag: AllTrac
 	tag: Ash
 	tag: Burt
 	tag: Speedway
@@ -3848,6 +3969,8 @@ page:2012-01-23
 	tag: Ash
 	tag: Burt
 	tag: Speedway
+	tag: Mustang
+	note: Mustang mention
 page:2012-01-20
 	tag: ch-16
 	tag: Ash
@@ -4040,7 +4163,7 @@ page:2011-11-28
 	tag: Cover
 	tag: Emily
 	desc: <br>**Book 16**<br>December ’04<br><br>_Fifth Branch — business ethics — practice — racing Burt — shopping with mother — James returns — in flagrante delicto — my enemy's enemy_
-	auth: Ash and Emily challenge a crooked car dealer and wanna be racer to save a classic Mustang from being sold for parts.  Meanwhile, can Ash repair his friendship with Eponine?  What could be worse than that?  Christmas shopping with mom...
+	auth: Ash and Emily challenge a crooked car dealer and wanna be racer to save a classic Mustang from being sold for parts. Meanwhile, can Ash repair his friendship with Eponine? What could be worse than that? Christmas shopping with mom...
 page:2011-11-25
 	tag: ch-15
 	tag: Burt
@@ -4152,6 +4275,8 @@ page:2011-10-27
 	tag: BurtsYard
 	tag: Emily
 	tag: Missi
+	tag: Mustang
+	note: Mustang mentioned
 page:2011-10-26
 	tag: ch-15
 	tag: Ash
@@ -4193,14 +4318,15 @@ page:2011-10-18
 	tag: Burt
 	tag: BurtsYard
 	tag: Mustang
+	desc: Burt: That there's a 1968.
 page:2011-10-17
-	tag: ch-15
+	desc: Ash: Whoa...
 	tag: Ash
 	tag: BurtsYard
+	tag: ch-15
 	tag: Emily
 	tag: Missi
 	tag: Mustang
-	desc: That there's a 1968.
 page:2011-10-14
 	tag: ch-15
 	tag: Ash
@@ -4215,7 +4341,7 @@ page:2011-10-13
 	tag: Emily
 	tag: Missi
 	tag: Rumisiel
-	desc: <span class="dt">Saturday</span>
+	note: <span class="dt">Saturday</span>
 page:2011-10-12
 	tag: ch-15
 	tag: Ash
@@ -4734,7 +4860,7 @@ page:2011-05-26
 	tag: Cover
 	tag: Rumisiel
 	desc: <br>**Book 15**<br>November – December ’04<br><br>_Two to the cinema – to Al's Diner — a rescue — every picture tells a story — on the fence — Burt Clayton_
-	auth: Missi tries to come to grips with her relationship with Ash.  Logan saves Ash from a horrible situation, but he may have been secretly exploiting Eponine.  Can Ash figure out who to side with?  Can he make either choice without losing or betraying a friend?
+	auth: Missi tries to come to grips with her relationship with Ash. Logan saves Ash from a horrible situation, but he may have been secretly exploiting Eponine. Can Ash figure out who to side with? Can he make either choice without losing or betraying a friend?
 page:2011-05-25
 	tag: ch-14
 	tag: Ash
@@ -5384,7 +5510,7 @@ page:2010-12-09
 	tag: Cover
 	tag: Emily
 	desc: <br>**Book 14**<br>November ’04<br><br>_The challenge — scratchy bush girl — doing a great job – the pyjama game — dreams and fancyes — racing Logan — heart of gold - an exemplar_
-	auth: Heather returns with a vengeance to coach a new challenger to take on Ash, and Cassiel may help the challenger cheat.  Can Rumisiel keep Ash from losing without breaking his promise not to use his powers on her during a race?
+	auth: Heather returns with a vengeance to coach a new challenger to take on Ash, and Cassiel may help the challenger cheat. Can Rumisiel keep Ash from losing without breaking his promise not to use his powers on her during a race?
 page:2010-12-08
 	tag: ch-13
 	tag: Heather
@@ -5549,11 +5675,14 @@ page:2010-10-22
 	tag: Tom
 	tag: Party
 page:2010-10-21
+	desc: Cassiel: You humans only live for seventy or so years
+	note: Ice cream mention
 	tag: ch-13
 	tag: Cassiel
 	tag: Cassi
 	tag: Eponine
 	tag: FullerHome
+	tag: IceCream
 	tag: Party
 	tag: Tears
 page:2010-10-20
@@ -5985,8 +6114,8 @@ page:2010-06-30
 	tag: ch-13
 	tag: Cover
 	tag: Ash
-	desc: <br>**Book 13**<br>October ’04<br><br>_Looking for the boy — costume — something rotten — road mending — not a date — Halloween party — experimental chocolate — the  catspaw_
-	auth:  The gang gear up for the big Halloween party while Ash tries to repair the race track to live up to her title of "King of the Old Road".
+	desc: <br>**Book 13**<br>October ’04<br><br>_Looking for the boy — costume — something rotten — road mending — not a date — Halloween party — experimental chocolate — the catspaw_
+	auth: The gang gear up for the big Halloween party while Ash tries to repair the race track to live up to her title of "King of the Old Road".
 page:2010-06-29
 	tag: ch-12
 	tag: Ash
@@ -8504,7 +8633,7 @@ page:2008-08-26
 	tag: Xaphrael
 page:2008-08-25
 	tag: Filler
-	desc:  guest cartoon by ??
+	desc: guest cartoon by ??
 page:2008-08-22
 	tag: ch-09
 	tag: Cassiel
@@ -9760,19 +9889,19 @@ page:2007-10-31
 	desc: Like she was in some "tag and release program" on a nature show<br>"We catch ’em, tattoo ’em and let them go" --- ‘Wild’ Ed
 page:2007-10-30
 	tag: Filler
-	desc:  guest comic by ???
+	desc: guest comic by ???
 page:2007-10-29
 	tag: Filler
-	desc:  guest comic by ???
+	desc: guest comic by ???
 page:2007-10-26
 	tag: Filler
-	desc:  guest comic by ???
+	desc: guest comic by ???
 page:2007-10-25
 	tag: Filler
-	desc:  guest comic by ???
+	desc: guest comic by ???
 page:2007-10-24
 	tag: Filler
-	desc:  guest comic by ???
+	desc: guest comic by ???
 page:2007-10-23
 	tag: ch-07
 	tag: Ash
@@ -10003,12 +10132,12 @@ page:2007-09-10
 	tag: McArthurRes
 	desc: Wow! Spontaneous hug. You getting all touchy-feely on me?
 page:2007-09-07
-	tag: ch-07
+	desc: That's cool! I've never seen a toy Merkur
 	tag: Ash
 	tag: Blush
+	tag: ch-07
 	tag: Emily
 	tag: McArthurRes
-	desc: That's cool! I've never seen a toy Merkur
 page:2007-09-06
 	tag: ch-07
 	tag: Ash
@@ -10057,6 +10186,7 @@ page:2007-08-29
 	tag: ClockTower
 	tag: Rumisiel
 	tag: Vashiel
+	tag: Smoothie
 	desc: I apologise. I shouldn't have blown up like that
 page:2007-08-28
 	tag: ch-07
@@ -10654,657 +10784,730 @@ page:2007-05-01
 	tag: Emily
 	tag: Race
 	desc: It's not that easy!
+; ###
 page:2007-04-30
-	tag: ch-06
-	tag: Casper
-	tag: Emily
-	tag: Race
 	desc: So... Have you two, like...
+	tag: Casper
+	tag: ch-06
+	tag: Emily
+	tag: M3
+	tag: Race
+	tag: XR4Ti
 page:2007-04-27
-	tag: ch-06
+	desc: Casper: Awkward, isn't it?
 	tag: Ash
 	tag: Brent
 	tag: Casper
+	tag: ch-06
 	tag: Emily
+	tag: M3
 	tag: Race
-	desc: Awkward, isn't it? Yyyyyyep
+	tag: XR4Ti
 page:2007-04-26
-	tag: ch-06
+	desc: Emily: Umm... I think I might like Ash
 	tag: Casper
+	tag: ch-06
 	tag: Emily
+	tag: M3
 	tag: Race
-	desc: Umm... I think I might like Ash
+	tag: XR4Ti
 page:2007-04-25
-	tag: ch-06
+	desc: Brent: Shit. This wind is a killer
 	tag: Ash
+	tag: Beach
 	tag: Brent
-	tag: Race
-	desc: Shit. This wind is a killer
-page:2007-04-24
 	tag: ch-06
-	tag: Angel
+	tag: M3
+	tag: Race
+	tag: XR4Ti
+page:2007-04-24
+	desc: Casper: Everything seems normal enough so far
 	tag: Cassiel
+	tag: ch-06
+	tag: M3
 	tag: Race
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Everything seems normal enough so far
+	tag: XR4Ti
 page:2007-04-23
-	tag: ch-06
+	desc: Casper: I think I might like Brent
 	tag: Casper
+	tag: ch-06
 	tag: Emily
 	tag: James
 	tag: Race
-	desc: I think I might like Brent
 page:2007-04-20
-	tag: ch-06
+	desc: Casper: I've been thinking about it and it's kinda important to me.
 	tag: Ash
 	tag: Brent
 	tag: Casper
+	tag: ch-06
 	tag: Emily
 	tag: James
+	tag: M3
 	tag: Race
-	desc: I've been thinking about it and it's kinda important to me.
+	tag: XR4Ti
 page:2007-04-19
-	tag: ch-06
+	desc: Brent: I've only driven with the wind this way twice myself.
 	tag: Ash
 	tag: Brent
+	tag: ch-06
 	tag: James
-	desc: I've only driven with the wind this way twice myself.
 page:2007-04-18
-	tag: ch-06
+	desc: Ash: That's it... It's blowing the wrong way...
 	tag: Ash
+	tag: Beach
 	tag: Brent
+	tag: ch-06
 	tag: Emily
-	desc: That's it... It's blowing the wrong way...
 page:2007-04-17
-	tag: ch-06
+	desc: Emily: I sort of regret not having seen you in your dress
 	tag: Ash
-	tag: Emily
-	desc: I sort of regret not having seen you in your dress
-page:2007-04-16
 	tag: ch-06
+	tag: Emily
+	tag: XR4Ti
+page:2007-04-16
+	desc: Ash: Sorry you have to sit in the back seat again
+	note: Cassiel mention
 	tag: Angel
 	tag: Ash
 	tag: Cassiel
+	tag: ch-06
 	tag: Emily
-	desc: Sorry you have to sit in the back seat again
-	note: Cassiel mention
+	tag: XR4Ti
 page:2007-04-13
-	tag: ch-06
-	tag: Beach
-	tag: Race
-	desc: XR4TI vs M3<br>
+	desc: XR4TI vs M3
 	note: Road sign: Provincetown 21, Truro 10
+	tag: Beach
+	tag: ch-06
+	Tag: M3
+	tag: Race
+	tag: XR4Ti
 page:2007-04-12
-	tag: ch-06
+	desc: James: Good luck kiss then?
 	tag: Ash
+	tag: Blush
+	tag: ch-06
 	tag: James
 	tag: MarieHouse
-	desc: Good luck kiss then?
 page:2007-04-11
-	tag: ch-06
+	desc: How's your nose?
 	tag: Ash
+	tag: ch-06
 	tag: James
 	tag: MarieHouse
-	desc: How's your nose?
+	tag: XR4Ti
 page:2007-04-10
-	tag: ch-06
+	desc: Ash: You came over to my bed while I was sleeping and kissed me
 	tag: Ash
+	tag: ch-06
 	tag: Dream
 	tag: Emily
 	tag: Kiss
 	tag: MarieHouse
-	desc: You came over to my bed while I was sleeping and kissed me.
 page:2007-04-09
-	tag: ch-06
+	desc: Cassiel: Hehehe! They all came.
 	tag: Ash
 	tag: Cassiel
+	tag: ch-06
 	tag: Dream
 	tag: Emily
 	tag: MarieHouse
-	desc: Hehehe! They all came.
 page:2007-04-06
-	tag: ch-06
+	desc: Ash: What a strange dream. That's so bizarre. My lips are still all tingly?
 	tag: Ash
+	tag: Blush
+	tag: ch-06
 	tag: Dream
 	tag: MarieHouse
-	desc: What a strange dream. That's so bizarre. My lips are still all tingly?
 page:2007-04-05
+	desc: James: somewhat unnerved by the view
+	note: The Day of the Race
 	tag: ch-06
 	tag: James
 	tag: Marie
 	tag: MarieHouse
 	tag: Nosebleed
+	tag: Pancakes
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Somewhat unnerved by the view
-	note: The Day of the Race
 page:2007-04-04
-	tag: ch-06
+	desc: (sleeping beauty)
 	tag: Ash
+	tag: ch-06
 	tag: Emily
 	tag: MarieHouse
-	desc: (sleeping beauty)
 page:2007-04-03
-	tag: ch-06
+	desc: Clock: Tick... Tick.. Tick...
+	note: 01:08am
 	tag: Ash
+	tag: ch-06
 	tag: Emily
 	tag: James
 	tag: MarieHouse
 	tag: Rumisiel
 	tag: Vashiel
-	desc: (01:08am) Tick... Tick.. Tick...
 page:2007-04-02
-	tag: ch-06
+	desc: Kay: Ok, this car lingo is making my head spin.
 	tag: Brent
 	tag: BrentHouse
 	tag: Casper
+	tag: ch-06
 	tag: Kay
 	tag: MarieHouse
-	desc: Ok, this car lingo is making my head spin.
 page:2007-03-30
-	tag: ch-06
+	desc: Ash: He's not a racer, James
 	tag: Ash
+	tag: ch-06
 	tag: James
 	tag: MarieHouse
-	desc: He's not a racer, James
+	tag: Miata
 page:2007-03-29
-	tag: ch-06
+	desc: Marie: Why don't I just throw some bedding down in the living room and all your boyfriends can stay here?
 	tag: Ash
+	tag: ch-06
 	tag: James
 	tag: Kay
 	tag: Marie
 	tag: MarieHouse
+	tag: Miata
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Why don't I just throw some bedding down in the living room and all your boyfriends can stay here?
 page:2007-03-28
-	tag: ch-06
+	desc: Marie: Yeeee! It's James! What a pleasant surprise!
+	note: 10:27pm
 	tag: Ash
+	tag: ch-06
 	tag: James
 	tag: Marie
 	tag: MarieHouse
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Yeeee! It's James!
 page:2007-03-27
-	tag: ch-06
+	desc: Kay: Tried it. Didn't like it.
 	tag: Ash
 	tag: Blush
+	tag: ch-06
 	tag: Emily
 	tag: Kay
 	tag: MarieHouse
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Tried it. Didn't like it.
 page:2007-03-26
+	desc: Kay: Well, you were probably a fan of the "idea of Kay" invented by my agent
 	tag: ch-06
 	tag: Emily
 	tag: Kay
 	tag: MarieHouse
-	desc: Well, you were probably a fan of the "idea of Kay" invented by my agent.
 page:2007-03-23
-	tag: ch-06
+	desc: Kay: Are you ok? You don't look well.
 	tag: Blush
+	tag: Bubbles
+	tag: ch-06
 	tag: Emily
 	tag: Kay
 	tag: MarieHouse
-	desc: I've always been... a fan
 page:2007-03-22
-	tag: ch-06
+	desc: Emily: Oh... Sorry. I should have knocked
 	tag: Ash
+	tag: Blush
+	tag: ch-06
 	tag: Emily
 	tag: MarieHouse
-	desc: Oh... Sorry. I should have knocked
 page:2007-03-21
-	tag: ch-06
+	desc: Emily: I'll be back in a minute...
 	tag: Ash
+	tag: ch-06
+	tag: Dress
 	tag: Emily
 	tag: MarieHouse
-	desc: I'll be back in a minute...
 page:2007-03-20
+	desc: Emily: Ash? You home?
+	tag: Blush
 	tag: ch-06
 	tag: Emily
 	tag: James
 	tag: Kay
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Ash? You home?
 page:2007-03-19
-	tag: ch-06
+	desc: ????: Well, here we are
+	note: Marie's house number: 225
 	tag: Casper
+	tag: CasperCar
+	tag: ch-06
 	tag: Emily
 	tag: MarieHouse
 	tag: Tears
-	desc: Well, here we are
 page:2007-03-16
+	desc: Rumisiel: You missed your chance for a peek, dude?
 	tag: ch-06
 	tag: MarieHouse
 	tag: Rumisiel
 	tag: Vashiel
-	desc: You missed your chance for a peek, dude?
 page:2007-03-15
-	tag: ch-06
+	desc: Ash: You DO NOT want to make me any more pissed at you right now
 	tag: Ash
+	tag: ch-06
 	tag: Dress
 	tag: MarieHouse
 	tag: Rumisiel
 	tag: Vashiel
-	desc: You DO NOT want to make me any more pissed at you right now
 page:2007-03-14
-	tag: ch-06
+	desc: Kay: Ash, you should take of that dress before Romeo here bleeds all over it
 	tag: Ash
+	tag: ch-06
 	tag: Dress
 	tag: James
 	tag: Kay
 	tag: MarieHouse
+	tag: Nosebleed
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Ash, you should take of that dress before Romeo here bleeds all over it
 page:2007-03-13
-	tag: ch-06
+	desc: James: I am such an ass
 	tag: Ash
+	tag: ch-06
 	tag: Dress
 	tag: James
 	tag: Kay
 	tag: MarieHouse
-	desc: I am such an ass
+	tag: Nosebleed
 page:2007-03-12
+	desc: Kay: Now wait just a minute...
 	tag: ch-06
-	tag: James
-	tag: Kay
 	tag: Hit
+	tag: James
+	tag: Kay
 	tag: MarieHouse
-	desc: Now wait just a minute...
+	tag: Nosebleed
 page:2007-03-09
-	tag: ch-06
+	desc: James: _You there! Get your hands off of her!_
 	tag: Ash
+	tag: ch-06
 	tag: James
 	tag: MarieHouse
-	desc: _You there! Get your hands off of her!_
 page:2007-03-08
-	tag: ch-06
+	desc: Rumisiel: Wow! He caught her by the bajoongas
 	tag: Ash
+	tag: Blush
+	tag: ch-06
 	tag: Dress
 	tag: James
 	tag: Kay
 	tag: MarieHouse
 	tag: Rumisiel
-	desc: Wow! He caught her by the bajoongas
 page:2007-03-07
-	tag: ch-06
+	desc: Kay: Here, let me help you
 	tag: Ash
+	tag: ch-06
 	tag: Dress
 	tag: James
 	tag: Kay
 	tag: MarieHouse
-	desc: Here, let me help you
 page:2007-03-06
-	tag: ch-06
+	desc: It's... some dude and some chick
 	tag: Ash
+	tag: ch-06
+	tag: Dress
 	tag: James
 	tag: Kay
 	tag: MarieHouse
+	tag: Miata
 	tag: Rumisiel
 	tag: Vashiel
-	desc: It's... some dude and some chick
 page:2007-03-05
+	desc: Rumisiel: Park down the street
 	tag: ch-06
 	tag: James
+	tag: Miata
 	tag: MarieHouse
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Park down the street
 page:2007-03-02
 	tag: ch-06
 	tag: Ash
 	tag: Dress
 	tag: James
 	tag: Kay
+	tag: M3000GT
+	tag: Miata
 	tag: Rumisiel
 	tag: Vashiel
-	desc: How did I guess you drove a Miata?
+	desc: Ash: How did I guess you drove a Miata?
 page:2007-03-01
-	tag: ch-06
+	desc: Casper: I'm kinda looking for a relationship at this point in my life, and you don't seem emotionally available
+	tag: Beach
 	tag: Casper
+	tag: CasperCar
+	tag: ch-06
 	tag: Emily
-	desc: I'm kinda looking for a relationship at this point in my life, and you don't seem emotionally available
 page:2007-02-28
-	tag: ch-06
+	desc: Emily: OH MY GOD! I got the "just friends" speech!
+	tag: Beach
 	tag: Casper
+	tag: CasperCar
+	tag: ch-06
 	tag: Emily
-	desc: OH MY GOD! I got the "just friends" speech!
 page:2007-02-27
-	tag: ch-06
+	desc: Emily: This isn't going to work...
 	tag: Casper
-	tag: Emily
-	desc: This isn't going to work...
-page:2007-02-26
+	tag: CasperCar
 	tag: ch-06
+	tag: Emily
+page:2007-02-26
+	desc: Ash: Oh... Mom... I'm SO sorry about your party
 	tag: Ash
-	tag: Cassiel
+	tag: Blush
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-06
 	tag: Dress
 	tag: Hit
 	tag: Jenny
 	tag: Marie
 	tag: Party
-	desc: Oh... Mom... I'm so sorry about your party.
 page:2007-02-23
-	tag: ch-06
+	desc: ModelGirl: They've already taken out two tables and most of the desserts
 	tag: Ash
+	tag: ch-06
+	tag: Dress
 	tag: Kay
 	tag: Marie
+	tag: ModelGirl2
 	tag: Party
-	desc: They've already taken out two tables and most of the desserts
+	tag: Roger
 page:2007-02-22
-	tag: ch-06
-	tag: Cassiel
+	desc: Security: We've got two girls in a tear up fight down here
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-06
 	tag: Hit
 	tag: Jenny
 	tag: Party
 	tag: Security
-	desc: We've got two girls in a tear up fight down here
 page:2007-02-21
-	tag: ch-06
-	tag: Cassiel
+	desc: Jenny: You're disgusting
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-06
 	tag: Jenny
 	tag: Party
-	desc: You're disgusting
 page:2007-02-20
-	tag: ch-06
-	tag: Cassiel
+	desc: Cassi: Mmmmmm... Free party food!
 	tag: Cassi
-	tag: Party
-	desc: Mmmmmm... Free party food!
-page:2007-02-19
+	tag: Cassiel
 	tag: ch-06
+	tag: Party
+page:2007-02-19
+	desc: Emily: So then why so I feel... Nothing
 	tag: Casper
+	tag: ch-06
 	tag: Emily
 	tag: Kiss
-	desc: So then why so I feel... Nothing
 page:2007-02-16
-	tag: ch-06
+	desc: Casper: I hadn't really thought much past dinner
 	tag: Casper
+	tag: ch-06
+	tag: Diner
 	tag: Emily
-	desc: I hadn't really thought much past dinner
 page:2007-02-15
-	tag: ch-06
+	desc: Ash: I think I fixed my problem for the night.
 	tag: Ash
-	tag: Dress
 	tag: Blush
+	tag: ch-06
+	tag: Dress
 	tag: Kay
 	tag: Party
-	desc: I think I fixed my problem for the night.
 page:2007-02-14
-	tag: ch-06
+	desc: Kay: Let me walk you to your throne, m'lady.
 	tag: Ash
+	tag: ch-06
 	tag: Dress
 	tag: Kay
 	tag: Party
-	desc: Let me walk you to your throne, m'lady.
 page:2007-02-13
-	tag: ch-06
+	desc: Kay: You've spent the last fifteen minutes visually spelunking every crevice of cleavage
 	tag: Ash
+	tag: Blush
+	tag: ch-06
 	tag: Dress
 	tag: Kay
 	tag: Party
-	desc: You've spent the last fifteen minutes visually spelunking every crevice of cleavage
 page:2007-02-12
-	tag: ch-06
+	desc: Kay: I'm sure you can tell which guys are the best looking even though you're gay
 	tag: Ash
+	tag: Blush
+	tag: ch-06
 	tag: Dress
 	tag: Kay
 	tag: Party
-	desc: I'm sure you can tell which guys are the best looking even though you're gay
 page:2007-02-09
-	tag: ch-06
+	desc: Marie: Ash, I want you to meet Jenny and her daughter Jenny
 	tag: Ash
+	tag: ch-06
 	tag: Jenny
 	tag: JennySnr
 	tag: Marie
 	tag: Party
-	desc: Ash, I want you to meet Jenny and her daughter Jenny
 page:2007-02-08
-	tag: ch-06
+	desc: Casper: I'm not really a beach person
 	tag: Beach
 	tag: Casper
-	tag: Emily
-	tag: Marie
-	desc: I'm not really a beach person
-page:2007-02-07
 	tag: ch-06
-	tag: Beach
-	tag: Casper
 	tag: Diner
 	tag: Emily
-	desc: You feeling ok? You seem kind of distant.
-page:2007-02-06
+	tag: Marie
+	tag: Party
+page:2007-02-07
+	desc: Casper: You feeling ok? You seem kind of distant.
+	tag: Beach
+	tag: Casper
 	tag: ch-06
-	tag: Cassiel
+	tag: Diner
+	tag: Emily
+page:2007-02-06
+	desc: Cassi: I HAVE EVERY RIGHT TO BE HERE!
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-06
 	tag: Emily
 	tag: ModelGirl
-	desc: I HAVE EVERY RIGHT TO BE HERE!
+	tag: Party
 page:2007-02-05
-	tag: ch-06
+	desc: Kay: A friend of yours?
 	tag: Ash
-	tag: Cassiel
+	tag: Dress
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-06
+	tag: EnriqueSwan
 	tag: Kay
 	tag: Party
-	desc: A friend of yours?
 page:2007-02-02
-	tag: ch-06
+	desc: Ash: Well... At least the scenery is nice.
 	tag: Ash
 	tag: Blush
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-06
 	tag: Dress
 	tag: Party
-	desc: Well... At least the scenery is nice.
 page:2007-02-01
-	tag: ch-06
+	desc: Marie: You two mingle
 	tag: Ash
+	tag: ch-06
+	tag: Dress
 	tag: Marie
 	tag: Party
-	desc: You two mingle
 page:2007-01-31
-	tag: ch-06
+	desc: Marie: Just hold on to Kay's arm while you go in
 	tag: Ash
-	tag: Dress
 	tag: Casper
+	tag: ch-06
+	tag: Dress
 	tag: Emily
 	tag: Kay
 	tag: Marie
-	desc: Just hold on to Kay's arm while you go in
+	tag: Party
 page:2007-01-30
-	tag: ch-06
+	desc: Emily: Why was I thinking of Ash?
 	tag: Casper
+	tag: ch-06
 	tag: Diner
 	tag: Emily
-	desc: Why was I thinking of Ash?
 page:2007-01-29
-	tag: ch-06
+	desc: Emily: So many choices
 	tag: Ash
 	tag: Casper
+	tag: ch-06
 	tag: Diner
 	tag: Emily
-	desc: So many choices
 page:2007-01-26
-	tag: ch-06
+	desc: Kay: You look uncomfortable. Would you like a seat?
 	tag: Ash
+	tag: ch-06
+	tag: Dress
 	tag: Kay
 	tag: MarieWork
-	desc: You look uncomfortable. Would you like a seat?
 page:2007-01-25
-	tag: ch-06
+	desc: Kay: You must be the beautiful daughter she's always going on about
 	tag: Ash
+	tag: ch-06
 	tag: Dress
 	tag: Kay
 	tag: Marie
 	tag: MarieWork
-	desc: You must be the beautiful daughter she's always going on about
 page:2007-01-24
-	tag: ch-06
+	desc: Ash: Also, this underwear is kind of riding up my butt
 	tag: Ash
+	tag: ch-06
 	tag: Dress
 	tag: Kay
 	tag: Marie
 	tag: MarieWork
-	desc: Also, this underwear is kind of riding up my butt
 page:2007-01-23
-	tag: ch-06
+	desc: Marie: You look SO GOOD!
 	tag: Ash
 	tag: Blush
+	tag: Camera
+	tag: ch-06
 	tag: Dress
 	tag: Marie
 	tag: MarieWork
-	desc: You look SO GOOD!
 page:2007-01-22
-	tag: ch-06
+	desc: Casper: You look... Wow.
 	tag: Blush
 	tag: Casper
+	tag: CasperCar
+	tag: ch-06
 	tag: Emily
 	tag: MarieHouse
-	desc: You look... Wow.
 page:2007-01-19
-	tag: ch-06
+	desc: Marie: Do you want to see your dress?
+	note: Ash's preparations
 	tag: Ash
+	tag: ch-06
 	tag: Marie
-	tag: Shower
-	desc: Do you want to see your dress?
 page:2007-01-18
+	note: Emily's preparations
 	tag: ch-06
 	tag: Emily
+	tag: MarieHouse
 	tag: Shower
-	tag: MarieHouse
 page:2007-01-17
+	desc: James: Come back at six... And take a shower first.
 	tag: ch-06
 	tag: James
 	tag: JamesHouse
 	tag: Rumisiel
-	desc: Come back at six... And take a shower first.
 page:2007-01-16
+	desc: James: Wow. One of my least favourite people and his brother
 	tag: ch-06
 	tag: James
 	tag: JamesHouse
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Wow. One of my least favourite people and his brother
 page:2007-01-15
-	tag: ch-06
+	desc: Ash: Don't let him try anything funny or do anything that,
 	tag: Ash
+	tag: ch-06
 	tag: Emily
+	tag: James
 	tag: JamesHouse
 	tag: MarieHouse
+	tag: Mace
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Don't let him try anything funny or do anything that,
 page:2007-01-12
-	tag: ch-06
+	desc: Ash: The day of reckoning has arrived.
 	tag: Ash
+	tag: ch-06
 	tag: Emily
 	tag: MarieHouse
-	desc: The day of reckoning has arrived.
 page:2007-01-11
-	tag: ch-06
+	desc: Ash: I didn't see the humor in this whole situation until this moment, but this is funny
 	tag: Ash
+	tag: ch-06
 	tag: Emily
 	tag: MarieHouse
-	desc: I didn't see the humor in this whole situation until this moment, but this is funny
 page:2007-01-10
-	tag: ch-06
+	desc: Emily: A pillar of my early adolescence was just wrenched out from under me
 	tag: Ash
+	tag: Blush
+	tag: ch-06
 	tag: Emily
 	tag: Flashback
+	tag: Kay
 	tag: MarieHouse
-	desc: A pillar of my early adolescence was just wrenched out from under me
 page:2007-01-09
-	tag: ch-06
+	desc: Emily: Don't joke like that! He's not gay!
 	tag: Ash
+	tag: ch-06
 	tag: Emily
+	tag: Kay
 	tag: MarieHouse
-	desc: Don't joke like that! He's not gay!
 page:2007-01-08
-	tag: ch-06
+	desc: Emily: So, wait, now you are going with some model guy?
 	tag: Ash
+	tag: ch-06
 	tag: Emily
 	tag: MarieHouse
-	desc: So, wait, now you are going with some model guy?
 page:2007-01-05
-	tag: ch-06
+	desc: Ash: He's gayer than Paris in the spring
+	note: Paris icons: Eiffel Tower, Arc de Triomphe
 	tag: Ash
-	tag: Marie
+	tag: ch-06
 	tag: Kay
+	tag: Marie
 	tag: MarieWork
-	desc: He's gayer than Paris in the spring
+	tag: Paris
 page:2007-01-04
-	tag: ch-06
+	desc: Marie: When you show up with Kay you'll make the most PERFECT couple
 	tag: Ash
-	tag: Marie
+	tag: ch-06
 	tag: Kay
+	tag: Marie
 	tag: MarieWork
-	desc: When you show up with Kay you'll make the most PERFECT couple
 page:2007-01-03
-	tag: ch-06
+	desc: Marie: I finally get to show my daughter off at one of these things
 	tag: Ash
-	tag: Marie
-	tag: JennySnr
+	tag: ch-06
 	tag: Jenny
-	tag: MarieWork
-	desc: I fenally get to show my daughter off at one of these things
-page:2007-01-02
-	tag: ch-06
-	tag: Ash
+	tag: JennySnr
 	tag: Marie
 	tag: MarieWork
-	desc: You can't even comprehend how happy you are making me right now.
+page:2007-01-02
+	desc: Marie: You can't even comprehend how happy you are making me right now.
+	tag: Ash
+	tag: ch-06
+	tag: Marie
+	tag: MarieWork
 page:2007-01-01
-	tag: ch-06
+	desc: Cassiel: I wonder how I might attain an invitation
 	tag: Cassiel
+	tag: ch-06
 	tag: Truro
-	desc: I wonder how I might attain an invitation
+	tag: XR4Ti
 page:2006-12-29
-	tag: ch-06
+	desc: Emily: You realize that modeling is more than just putting on some pretty clothes, right?
 	tag: Ash
+	tag: ch-06
 	tag: Emily
 	tag: Truro
-	desc: You realize that modeling is more than just putting on some pretty clothes, right?
 page:2006-12-28
-	tag: ch-06
-	tag: Ash
-	tag: Emily
-	tag: Truro
-	desc: Don't get all worked up like it is some horrible thing
-page:2006-12-27
-	tag: ch-06
-	tag: Ash
-	tag: Blush
-	tag: Emily
-	tag: Truro
-	desc: You're way more confident than me
-page:2006-12-26
-	tag: ch-06
+	desc: Ash: Don't get all worked up like it is some horrible thing
 	tag: Ash
 	tag: Beach
+	tag: ch-06
 	tag: Emily
 	tag: Truro
-	desc: Walking this course has helped a lot
+page:2006-12-27
+	desc: Ash: You're way more confident than me
+	tag: Ash
+	tag: Beach
+	tag: Blush
+	tag: ch-06
+	tag: Emily
+	tag: Truro
+page:2006-12-26
+	desc: Ash: Walking this course has helped a lot
+	tag: Ash
+	tag: Beach
+	tag: ch-06
+	tag: Emily
+	tag: Truro
 page:2006-12-25
+	desc: Xmas 2006
 	tag: Ash
 	tag: Emily
 	tag: Filler
 	tag: Rumisiel
-	desc:  Xmas 2006
 page:2006-12-22
 	tag: ch-06
 	tag: Cover
 	tag: Ash
 	desc: <br>**Book 6**<br>July – August ’04<br><br>_Preparations — a lift – a dinner and a party – the Jennies – catfight – the rescuer – racing Brent – going home_
-; ###
 page:2006-12-21
 	desc: Ash: Mom? Can we talk?
 	tag: Ash
@@ -13291,7 +13494,7 @@ page:2005-12-14
 	tag: Teacher
 	tag: School
 	desc: His brother stopped coming to school. Did he go back to Canada?
-	note:  <span class="dt">(reference to the past weekend)</span>
+	note: <span class="dt">(reference to the past weekend)</span>
 page:2005-12-13
 	tag: ch-03
 	tag: Ash
@@ -13797,18 +14000,21 @@ page:2005-09-16
 	tag: Dweeb
 	desc: COLIN! That girl you like is in the store!
 page:2005-09-15
-	tag: ch-03
+	desc: You bastard, You just knew I wanted to see tha' bloody monster run.
 	tag: Aries
 	tag: Ash
 	tag: AutoModerZ
-	tag: Harry
-	desc: You bastard, You just knew I wanted to see tha' bloody monster run.
-page:2005-09-14
 	tag: ch-03
+	tag: Harry
+page:2005-09-14
+	desc: It's for the monster XR...
+	note: Mentions of the Monster and a "Mustang five liter V8" engine
 	tag: Aries
 	tag: Ash
+	tag: ch-03
 	tag: Harry
-	desc: It's for the monster XR…
+	tag: Mustang
+	tag: Monster
 page:2005-09-13
 	tag: ch-03
 	tag: Aries
@@ -13829,12 +14035,13 @@ page:2005-09-09
 	tag: UptonHouse
 	desc: So where did it come from?
 page:2005-09-08
-	tag: ch-03
+	desc: Five... Liter... V8...
+	note: "A Ford five liter V8"
 	tag: Ash
+	tag: ch-03
 	tag: Emily
 	tag: Monster
 	tag: UptonHouse
-	desc: Five… Liter… V8…
 page:2005-09-07
 	tag: ch-03
 	tag: Ash
@@ -14496,6 +14703,7 @@ page:2005-04-11
 	tag: Ash
 	tag: Chocolate
 	tag: Emily
+	tag: IceCream
 	tag: Period
 	tag: UptonHouse
 	desc: Chocolate ice cream?

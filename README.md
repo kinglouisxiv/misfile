@@ -30,6 +30,7 @@ url:	| the actual comic page url
 desc: and note: are processed for Markdown formatting
 
 example index page entry:
+
 ```
 page:2013-07-24
 	url: http://www.misfile.com/?date={0}
@@ -40,6 +41,7 @@ page:2013-07-24
 	desc: I let you be friends with that Ash girl, but you need to broaden your horizons.
 	note: mention of the Rich Bitch squad: [Jenny Greene](#jennygreene), Abigail LaFontain, Brittany Wu
 ```
+
 url: http://www.misfile.com/?date={0} substitutes pageid value for {0} giving a valid link
 
 tags.txt
