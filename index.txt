@@ -27,6 +27,22 @@
 baseurl: http://www.misfile.com/?date={0}
 ;
 ;
+page:2014-07-16
+	desc: Emily: No, it's not a dream, silly
+	tag: Ash
+	tag: Emily
+	tag: UptonHouse
+page:2014-07-15
+	desc: Ash: Hello? Where is everybody?
+	tag: Ash
+	tag: Emily
+	tag: UptonHouse
+page:2014-07-14
+	desc: Ash: One full year...
+	note: Misfile anniversary day <span class="dt">2005-03-20</span>, Sunday
+	tag: Ash
+	tag: Dates
+	tag: UptonHouse
 page:2014-07-11
 	desc: Connecticon Filler
 	tag: Filler
@@ -10811,12 +10827,13 @@ page:2007-06-07
 	tag: Hospital
 	tag: Molly
 	desc: You were the last person I expected
+; ###
 page:2007-06-06
+	desc: Emily: Hello? Molly?
 	tag: ch-07
 	tag: Emily
 	tag: Hospital
 	tag: Molly
-	desc: Hello? Molly?
 page:2007-06-05
 	tag: ch-07
 	tag: Cover
@@ -10824,165 +10841,193 @@ page:2007-06-05
 	tag: ShoulderAngel
 	desc: <br>**Book 7**<br>August ’04<br><br>_Molly, broken — wedding bells — former indiscretions – car part shopping — a test — push comes to shove – one of our Archons is missing — the car whisperer — back to school — Missi — the good deed — Bronwyn_
 page:2007-06-04
-	tag: ch-06
+	desc: Edward: Well, it's the longest relationship you've ever had
 	tag: Ash
+	tag: ch-06
 	tag: Edward
 	tag: Rumisiel
+	tag: UptonHouse
 	tag: Vashiel
-	desc: Well, it's the longest relationship you've ever had
 page:2007-06-01
-	tag: ch-06
+	desc: Rumisiel: Before you say anything, there is a perfectly good explanation for why we left
 	tag: Ash
+	tag: ch-06
 	tag: Edward
 	tag: Rumisiel
-	desc: Before you say anything, there is a perfectly good explanation for why we left
+	tag: UptonHouse
 page:2007-05-31
+	desc: (various shocked or ominous pauses)
 	tag: ch-06
 	tag: Edward
 	tag: Emily
+	tag: McArthurRes
 	tag: Rumisiel
+	tag: UptonHouse
 	tag: Vashiel
-	desc: (various ominous pauses)
 page:2007-05-30
+	desc: Mom: There was an accident last night
 	tag: ch-06
 	tag: Emily
+	tag: McArthurRes
 	tag: Molly
 	tag: MsMcArthur
-	tag: McArthurRes
-	desc: There was an accident last night
 page:2007-05-29
-	tag: ch-06
+	desc: Rumisiel: Sixty-two bottles of beer on the wall...
+	note: View of the [Sagamore Bridge](https://en.wikipedia.org/wiki/Sagamore_Bridge) "carries U.S. Route 6 (US 6) across the Cape Cod Canal, connecting Cape Cod with the mainland of Massachusetts"
 	tag: Ash
+	tag: ch-06
 	tag: Emily
 	tag: Rumisiel
-	desc: Sixty-two bottles of beer on the wall...
+	tag: XR4Ti
 page:2007-05-28
-	tag: ch-06
+	desc: Ash: Oh, and thanks for all your tips
 	tag: Ash
+	tag: Blush
 	tag: Bubbles
+	tag: ch-06
 	tag: Marie
 	tag: MarieHouse
 	tag: Rose
-	desc: Oh, and thanks for all your tips
 page:2007-05-25
-	tag: ch-06
+	desc: Ash: Rose! ...I was just going to stop by...
 	tag: Ash
+	tag: ch-06
+	tag: MarieHouse
 	tag: Rose
-	tag: MarieHouse
-	desc: Rose! ...I was just going to stop by...
+	tag: XR4Ti
 page:2007-05-24
-	tag: ch-06
+	desc: Ash: Don't worry. I know the way. I'll visit
 	tag: Ash
+	tag: ch-06
 	tag: Marie
 	tag: MarieHouse
-	desc: Don't worry. I know the way. I'll visit
+	tag: Rose
+	tag: XR4Ti
 page:2007-05-23
-	tag: ch-06
+	desc: Marie: I'm sorry you can't stay longer
 	tag: Ash
+	tag: ch-06
 	tag: Marie
 	tag: MarieHouse
-	desc: I'm sorry you can't stay longer
+	tag: XR4Ti
 page:2007-05-22
-	tag: ch-06
+	desc: Cassiel: The brothers run out on their obligations to Dr. Upton
 	tag: Angel
 	tag: Cassiel
-	desc: The brothers run out on their obligations to Dr. Upton
-page:2007-05-21
 	tag: ch-06
+page:2007-05-21
+	desc: Casper: They always like this?
 	tag: Ash
+	tag: Beach
 	tag: Brent
 	tag: Casper
+	tag: ch-06
 	tag: Emily
 	tag: Rumisiel
-	desc: They always like this?
 page:2007-05-18
 	tag: ch-06
+	tag: M3000GT
 	tag: Ash
 	tag: Rumisiel
 	tag: Vashiel
-	desc: _You don't win points for not doing stupid things you should not have done in the first place!_
+	desc: Ash: _You don't win points for not doing stupid things you should not have done in the first place!_
 page:2007-05-17
-	tag: ch-06
+	desc: Ash: Did you guys see that?
 	tag: Ash
+	tag: ch-06
 	tag: James
-	desc: Did you guys see that?
 page:2007-05-16
+	desc: James: Yeah. Tell me. Was anything bad going to happen if I didn't drive you here?
+	tag: Beach
 	tag: ch-06
 	tag: James
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Yeah. Tell me. Was anything bad going to happen if I didn't drive you here?
 page:2007-05-15
+	desc: Rumisiel: Haha! See? Nothing happened. I was right!
 	tag: ch-06
 	tag: James
 	tag: Rumisiel
 	tag: Vashiel
-	desc: Haha! See? Nothing happened. I was right!
 page:2007-05-14
-	tag: ch-06
+	desc: Brent: I gotta admit, I'm impressed
 	tag: Ash
-	tag: Brent
 	tag: Beach
-	desc: I gotta admit, I'm impressed
+	tag: Brent
+	tag: ch-06
+	tag: XR4Ti
 page:2007-05-11
-	tag: ch-06
+	desc: Ash: ... _I won_
 	tag: Ash
-	tag: Brent
-	tag: Race
 	tag: Beach
-	desc: ... _I won_
+	tag: Brent
+	tag: ch-06
+	tag: M3
+	tag: Race
+	tag: XR4Ti
 page:2007-05-10
-	tag: ch-06
+	desc: Brent: I... I can't make the last left onto the beach with a car there...
 	tag: Brent
+	tag: ch-06
+	tag: M3
 	tag: Race
-	desc: I... I can't make the last left onto the beach with a car there...
+	tag: XR4Ti
 page:2007-05-09
-	tag: ch-06
+	desc: Brent: A valiant effort, but you have nowhere to go
 	tag: Ash
 	tag: Brent
+	tag: ch-06
+	tag: M3
 	tag: Race
-	desc: A valiant effort, but you have nowhere to go
+	tag: XR4Ti
 page:2007-05-08
-	tag: ch-06
+	desc: Ash: The sand... There's a chance.
 	tag: Ash
+	tag: ch-06
+	tag: M3
 	tag: Race
-	desc: The sand... There's a chance.
+	tag: XR4Ti
 page:2007-05-07
-	tag: ch-06
+	desc: Ash: Wha... He passed me without even accelerating!
 	tag: Ash
 	tag: Brent
+	tag: ch-06
+	tag: M3
 	tag: Race
-	desc: Wha... He passed me without even accelerating!
+	tag: XR4Ti
 page:2007-05-04
-	tag: ch-06
+	desc: Brent: You raced a good race, Ash, but it's time to make my move
 	tag: Ash
 	tag: Brent
-	tag: Race
-	desc: You raced a good race, Ash, but it's time to make my move
-page:2007-05-03
 	tag: ch-06
+	tag: M3
+	tag: Race
+	tag: XR4Ti
+page:2007-05-03
+	desc: Vashiel: _Did I not warn you?_
 	tag: Angel
 	tag: Cassiel
+	tag: ch-06
 	tag: Race
 	tag: Rumisiel
 	tag: Vashiel
-	desc: _Did I not warn you?_
 page:2007-05-02
-	tag: ch-06
+	desc: Rumisiel: Okay, I'm sick of waiting! What's going to happen and when?!
 	tag: Angel
 	tag: Cassiel
+	tag: ch-06
 	tag: Race
 	tag: Rumisiel
-	desc: Okay, I'm sick of waiting! What's going to happen and when?!
 page:2007-05-01
-	tag: ch-06
+	desc: Emily: It's not that easy!
 	tag: Casper
+	tag: ch-06
 	tag: Emily
+	tag: M3
 	tag: Race
-	desc: It's not that easy!
-; ###
+	tag: XR4Ti
 page:2007-04-30
-	desc: So... Have you two, like...
+	desc: Casper: So... Have you two, like...
 	tag: Casper
 	tag: ch-06
 	tag: Emily
