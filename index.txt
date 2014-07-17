@@ -27,19 +27,29 @@
 baseurl: http://www.misfile.com/?date={0}
 ;
 ;
+page:2014-07-17
+	desc: Ash: It's awesome, thank you
+	tag: ch-21
+	tag: Ash
+	tag: Computer
+	tag: Emily
+	tag: UptonHouse
 page:2014-07-16
 	desc: Emily: No, it's not a dream, silly
+	tag: ch-21
 	tag: Ash
 	tag: Emily
 	tag: UptonHouse
 page:2014-07-15
 	desc: Ash: Hello? Where is everybody?
+	tag: ch-21
 	tag: Ash
 	tag: Emily
 	tag: UptonHouse
 page:2014-07-14
 	desc: Ash: One full year...
 	note: Misfile anniversary day <span class="dt">2005-03-20</span>, Sunday
+	tag: ch-21
 	tag: Ash
 	tag: Dates
 	tag: UptonHouse
@@ -48,27 +58,32 @@ page:2014-07-11
 	tag: Filler
 page:2014-07-10
 	desc: Emily: You'd be surprised what I believe in after this last year
+	tag: ch-21
 	tag: Ash
 	tag: Emily
 	tag: UptonHouse
 page:2014-07-09
 	desc: Ash: When the heck did I become Obi-Wan Kenobi?
+	tag: ch-21
 	tag: Ash
 	tag: Emily
 	tag: UptonHouse
 page:2014-07-08
 	desc: Emily: No! Just trust me...
+	tag: ch-21
 	tag: Ash
 	tag: Computer
 	tag: Emily
 	tag: UptonHouse
 page:2014-07-07
 	desc: RacerD: I've been having some trouble in the third cornering
+	tag: ch-21
 	tag: Ash
 	tag: RacerD
 	tag: School
 page:2014-07-04
 	desc: 4th July 2014
+	tag: ch-21
 	tag: Filler
 	tag: Fireworks
 	tag: Rumisiel
