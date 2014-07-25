@@ -10,6 +10,7 @@
 Acura	[Tom](#tom) drives an Acura, licence plate: TOMSTER
 Aiden	Aiden Brewster, car-whisperer; rebuilds & drives Nissan 240/260/280 series cars
 AidenHome	house number 1066; Aiden lives opposite [Bronwyn](#bronwyn) 		
+Alleyway	dumpster-filled dead-end 
 AllTrac	[Burt's](#burt) race car
 AleHouse	bar-bistro on Cape Cod near [Marie Upton's](#marie) [house](#mariehouse)
 AlsDiner	Al’s Diner, [Tempest](#tempest) area
@@ -27,27 +28,39 @@ Aries	’[Arry](#harry)’s auto workshop
 Arthur	a racer boy
 Ash	Ash Upton “King of the Mountain”; our protagonist; drives a Merkur XR4Ti & "The Monster" an XR4Ti / Sierra Cosworth hybrid
 Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. never existed – WoG)
+AshMale	representation of Ash as male
 Audi	[Edward Upton](#edward)'s car, licence plate DR-U
 AudiS4	Sheldon’s ride
 AuntNatalie	[Emily's](#emily) [mother's](#msmcarthur) sister
 AutoModerZ	car supplies emporium
+Bacon	traditional breakfast food
 BaldingDude	party-goer
 Beach	"too much sand in my shoes, and the seaweed and salt water ... grossed me out"
+Bed	-
 Blobs	floating background - opaque [Bubbles](#bubbles)?
 Blush	shows happiness / embarrassment / emotion
+Boston	US city
 BostonLogan	Boston Logan airport, identified by the twin pillar control tower
+BoyA	fan of Fuller parties	
 BreakfastAnytime	ill-named diner (only open 5am-midnight)
 Brent	Brent Westcott, racer from [Falmouth](https://en.wikipedia.org/wiki/Falmouth%2C_Massachusetts), at college in California with [James](#james); drives an [M3](#m3), licence HNDA ETR
 BrentCar	see [M3](#m3)
+BrentHouse	where Brent lives on Cape Cod
 Bronwyn	[Aiden](#aiden)’s psychic girlfriend; lives opposite his (parent's) home
+BronwynHome	across the road from [AidenHome](#aidenhome)
 Bubbles	a happy floaty background
 Burt	Burt Clayton, car & parts sales
 BurtsYard	one place where Burt does business
 CafeMarat	café in [Tempest](#tempest)
+Camera	takes pictures
+Candle	decorative/romantic light & scent source
 Cantina32	restaurant in [Tempest](#tempest)'s main street
 CapKid	generic: some kid wearing a cap
+CardShop	selling greeting cards
+CarSale	car sale lots
 CasHome	where Casper lives, somewhere on Cape Cod
 Casper	'Cas', racer in Cape Cod, friend of [Brent](#brent); drives an MR2
+CasperCar	an [MR2](https://en.wikipedia.org/wiki/Toyota_MR2) 
 Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-, more bother. Lucifer's niece.
 Cassi	Cassiel's dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
 CFS	Celestial Filing System (properly the _[Celestial Filing Depository](http://web.archive.org/web/20060326052535/http://www.misfile.com/?menu=filing)_). Divided into five branches, four of which have an [Archon](#archon)
@@ -57,12 +70,16 @@ CFS3	} Branches of the CFS maintaining the physical laws of the Creation
 CFS4	takes measurements on Earth and compares them to extrapolations from the filing system a.k.a. Oversight.
 CFS5	deals with fairly mundane aspects of life on earth. Unimportant, no [Archon](#archon) [[ref](http://www.misfile.com/?date=2007-09-13)]. [Rumisiel](#rumisiel) worked here.
 Chains	a unhappy bind-y background
+ChainSaw	for cutting trees or zombies
 Chocolate	mmmm!
 Cinema	generic: popcorn sales outlets
 ClockTower	the highest central point in [Tempest](#tempest)
 ClothesShop	generic
 Colin	an heroic ‘Everyman’ figure, works at [AutoModerZ](#automoderz); drives a Camaro "with 20 inch rims and a Borla exhaust"
+Computer	generic, probably a consumer grade Windows XP Home box
+CostumeShop	"Another Face"
 Cover	start of a new book/chapter
+CupidBow	stylised bow and arrow
 Dates	entries with days, dates, ages, etc
 Diner	generic: diners, cafe, restaurant
 DMV	Department of Motor Vehicles (?) driver testing site
@@ -79,6 +96,7 @@ Eponine	a friend of [Ash](#ash)
 FilingTool	5th Branch issue, stored in the ether
 Fillaniel	angel, a [CFS](#cfs) boss, joint administrator of [5th Branch](#cfs5) with Terrael
 Filler	non-story pages: Xmas, Remembrance, crossovers, etc
+Fireworks	skyrockets and mortars
 Flashback	sometimes to a past that everyone but [Ash](#ash) and [Emily](#emily) remembers
 Fred	a footballer at the school
 Fresh-Mart	a supermarket / store in the Tempest area
@@ -129,6 +147,7 @@ Melissa	Dr Melissa Frist, gynaecologist at [Thorin Medical](#thorin)
 Miata	[Kay's](#kay) ride
 MiniVan	[Mom McArthur's](#msmcarthur) ride
 Missi	Missi Fuller, adopted, hyperactive 14 year-old freshman, [Ash](#ash)-crush
+MMO	Massive Multiplayer Online game
 ModelGirl	a victim of [Cassiel](#cassiel)
 ModelGirl2	a fleeing [Cassiel](#cassiel)
 Molly	Molly Taber, bitch/tart (with a heart), drives a [Volkswagen](#vw)
@@ -159,7 +178,9 @@ Police	the long arm of the law
 Race	what [Ash](#ash) is all about
 RacerA	a guy
 RacerB	some guy
-RacerC	some other guy
+RacerC	some other guy -- short light hair
+RacerD	yet another guy
+RacerF	dark shiny hair
 Racers	the local crew
 RacerSpecs	a racer with specs?
 Rachel	a friend of [Emily](#emily)’s, a secret votary of Terpsichore
