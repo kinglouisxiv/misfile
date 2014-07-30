@@ -10,12 +10,12 @@
 Acura	[Tom](#tom) drives an Acura, licence plate: TOMSTER
 Aiden	Aiden Brewster, car-whisperer; rebuilds & drives Nissan 240/260/280 series cars
 AidenHome	house number 1066; Aiden lives opposite [Bronwyn](#bronwyn) 		
+AleHouse	bar-bistro on Cape Cod near [Marie Upton's](#marie) [house](#mariehouse)
 Alleyway	dumpster-filled dead-end 
 AllTrac	[Burt's](#burt) race car
-AleHouse	bar-bistro on Cape Cod near [Marie Upton's](#marie) [house](#mariehouse)
 AlsDiner	Al’s Diner, [Tempest](#tempest) area
 Amara	models for [Marie](#marie)
-Andy	Andy Sherman, chivalrous to a fault
+AndySherman	Andy Sherman, chivalrous to a fault
 Angel	manifestin’ wingz, halo, powerz
 AngelBoy	a [CFS](#cfs) minion
 AngelGirl	a [CFS](#cfs) minion
@@ -61,13 +61,13 @@ CarSale	car sale lots
 CasHome	where Casper lives, somewhere on Cape Cod
 Casper	'Cas', racer in Cape Cod, friend of [Brent](#brent); drives an MR2
 CasperCar	an [MR2](https://en.wikipedia.org/wiki/Toyota_MR2) 
-Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-, more bother. Lucifer's niece.
 Cassi	Cassiel's dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
+Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-, more bother. Lucifer's niece.
 CFS	Celestial Filing System (properly the _[Celestial Filing Depository](http://web.archive.org/web/20060326052535/http://www.misfile.com/?menu=filing)_). Divided into five branches, four of which have an [Archon](#archon)
-CFS1	facets of time, space and celestial motion
-CFS2	} Branches of the CFS maintaining the physical laws of the Creation
-CFS3	} Branches of the CFS maintaining the physical laws of the Creation
-CFS4	takes measurements on Earth and compares them to extrapolations from the filing system a.k.a. Oversight.
+CFS1	First Branch: facets of time, space and celestial motion
+CFS2	Second Branch: maintaining physical laws of the Creation
+CFS3	Third Branch:  maintaining the physical laws of the Creation
+CFS4	Fourth Branch: takes measurements on Earth and compares them to extrapolations from the filing system
 CFS5	deals with fairly mundane aspects of life on earth. Unimportant, no [Archon](#archon) [[ref](http://www.misfile.com/?date=2007-09-13)]. [Rumisiel](#rumisiel) worked here.
 Chains	a unhappy bind-y background
 ChainSaw	for cutting trees or zombies
@@ -80,18 +80,18 @@ Computer	generic, probably a consumer grade Windows XP Home box
 CostumeShop	"Another Face"
 Cover	start of a new book/chapter
 CupidBow	stylised bow and arrow
+DangBlastedIdiot	a customer at [The Ale House](#alehouse)
 Dates	entries with days, dates, ages, etc
 Diner	generic: diners, cafe, restaurant
 DMV	Department of Motor Vehicles (?) driver testing site
-DangBlastedIdiot	a customer at [The Ale House](#alehouse)
 DogWalsh	[Dog](#mrmuffy)-owning Walsh clan member
 Doris	caterer _extrordinaire!_
 Dream	_"fancyes, dreams and spirits"_
 Dress	Ash in a ...
 Dweeb	Robin to [Colin](#colin)’s Batman
 Edward	Dr Edward Upton, [Ash](#ash)’s father; drives an [Audi](#audi)
-EnriqueSwan	Fashion clothes designer
 Emily	Emily McArthur, “Blues”; our other protagonist; drives a [Nissan 240SX](#nissan240sx) and classic [Mustang](#mustang)
+EnriqueSwan	Fashion clothes designer
 Eponine	a friend of [Ash](#ash)
 FilingTool	5th Branch issue, stored in the ether
 Fillaniel	angel, a [CFS](#cfs) boss, joint administrator of [5th Branch](#cfs5) with Terrael
@@ -116,6 +116,7 @@ Ivan	the self-proclaimed ‘Ice King’
 JaguarXKR	Kate's ride, tuned by Harry, license "Kate 3"
 James	nailed [Ash](#ash), but only in [flashback](#flashback), drives a [Mitsubishi 3000GT VR4](#m3000gt)
 JamesHouse	a couple of houses down from the Upton residence
+Janine	unseen friend of Missi(#missi)
 Jason	a local racer kid
 Jazz	a restaurant
 Jen	a waitperson at the [Breakfast Anytime](#breakfastanytime) [diner](#diner)
@@ -131,6 +132,7 @@ Kevin	a reconnaissance [Sheldonista](#sheldonista)
 KidB	some boy at school
 KidConvertable	tried to pick up Ash at [The Ale House](#alehouse)
 Kiss	… is just a kiss, a sigh is just …
+LeicesterPark	outdoor wedding venue
 Lisa	a waitperson
 LocationTBA	unclear whether Kate's family's or Kate & Harry's place
 Logan	racer, homeschooled, sees angels
@@ -169,6 +171,7 @@ OldRoad	local race site, a.k.a the Mountain. [A brief history](http://web.archiv
 Oscar	looks surprisingly like [Emily](#emily)
 OscarCar	unidentified model; has a spoiler
 Pager	receive-only text messager
+ParkingLot	race/practice ground, after hours
 Party	let’s …
 Patient	Ms J Random …
 Period	don’t say …
@@ -179,22 +182,21 @@ Race	what [Ash](#ash) is all about
 RacerA	a guy
 RacerB	some guy
 RacerC	some other guy -- short light hair
-RacerD	yet another guy
-RacerF	dark shiny hair
+RacerF	dark shiny hair guy
 Racers	the local crew
 RacerSpecs	a racer with specs?
 Rachel	a friend of [Emily](#emily)’s, a secret votary of Terpsichore
-Raechiel	angel, [Archon](#archon) of the [CFS](#cfs) [4th Branch](#cfs4), [Cassiel](#cassiel)’s boss
+Raechiel	angel, [Archon](#archon) of the [CFS](#cfs) [4th Branch](#cfs4), [Cassiel's](#cassiel) boss
 Rafael	an angel (archangel?), sent a message by Ramael
-Ramael	angel, [Vashiel](#vashiel)’s erstwhile comrade
-RandomLady	unimpressed by a proposition from [Ramael](#ramael)’s
+Ramael	angel, [Vashiel](#vashiel)’s erstwhile comrade, field op for heaven's 'oversight'
+RandomLady	unimpressed by a proposition from [Ramael](#ramael)
 Randy	a racer
 Rapists	would-be bad dudes
 Receptionist	at [Thorin Medical](#thorin)
 Roger	an unidentified colleague of [Marie](#marie)
 Rose	[Ale House](#alehouse) [waitperson](#waitperson), [Tyler](#tyler)’s sister, under 18
 Roy	owner/operator of [Speedway](#speedway) dirt track
-Rumisiel	angel; "son of Gabriel, Angel of the 3rd Circle, 437 years old, and unmarried" - used to work in the astral wing of [5th Branch](#cfs5) of the celestial filing depository; the cause of all the bother
+Rumisiel	angel; "son of Gabriel, Angel of the 3rd Circle, 437 years old, and unmarried" -- used to work in the astral wing of [5th Branch](#cfs5) of the celestial filing depository; the cause of all the bother
 Ryan	nailed [Emily](#emily)
 Salesman	a car sales dude, not [Burt](#burt)
 School	Tempest High
@@ -212,6 +214,7 @@ Smoothie	a puréed fruit drink
 SomeMom	trying to get a word in, edgeways
 Speedway	dirtstrip race track
 Spirit	spooky stuff
+StripMall	"the strip mall parking lot over on Route 2"
 SuicideGuy	tried to check out
 Swim	-place & -wear
 Sword	for angelic smitings
@@ -234,12 +237,13 @@ VW	Volkswagen – Beetle, modern edition: [Molly's](#molly) car
 WaitPerson	a burger bearer
 Wei	a hospital medical worker
 WoG	Word of God: information from Chris Hazelton, not necessarily in the online comics
+X-ray	A racer guy at Tempest High (named from a shirt logo)
 Xaphrael	angel, [CFS](#cfs) security?, [Vashiel](#vashiel)’s erstwhile comrade
 XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
 ; --- Chapters / Books ---
-ch-21	Book 21: February - March ’05 _(tbc)_
+ch-21	Book 21: February - March ’05
 ch-20	Book 20: February ’05
 ch-19	Book 19: January ’05
 ch-18	Book 18: December ’04 - January ’05
