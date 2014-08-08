@@ -29,6 +29,52 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-08-08
+	desc: Emily: I used almost all of your eggs
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: SchoolRoad
+page:2014-08-07
+	desc: Rachel: Total deal killer. Discuss it with HIM first
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Rachel
+	tag: School
+	tag: SchoolRoad
+page:2014-08-06
+	desc: Rachel: You're kidding, right?
+	tag: ch-21
+	tag: Emily
+	tag: Rachel
+	tag: School
+page:2014-08-05
+	desc: Ash: Should I hook him up with one of the vast array of girls I get along with?
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: OldRoad
+page:2014-08-04
+	desc: Ash: Me?! No way! I already told you he reminds me of you
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: OldRoad
+page:2014-08-01
+	desc: Emily: So, did you enjoy your "man-night"?
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Monster
+	tag: Mustang
+	tag: OldRoad
+page:2014-07-31
+	desc: Oscar: "Adorkably cute" hasn't really gotten me far.
+	tag: ch-21
+	tag: Emily
+	tag: OldRoad
+	tag: Oscar
 page:2014-07-30
 	desc: Emily: < ... Awkward ... > Uh, hey... Oscar. Ash, like, told you I was seeing someone, right?
 	tag: ch-21
@@ -158,7 +204,6 @@ page:2014-07-07
 	tag: School
 page:2014-07-04
 	desc: 4th July 2014
-	tag: ch-21
 	tag: Filler
 	tag: Fireworks
 	tag: Rumisiel
@@ -16312,7 +16357,7 @@ page:2004-12-13
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
-	desc: No he can’t stay here
+	desc: No he can't stay here
 page:2004-12-10
 	tag: ch-02
 	tag: Ash
@@ -16320,14 +16365,14 @@ page:2004-12-10
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
-	desc: But he’s your brother!
+	desc: But he's your brother!
 page:2004-12-08
 	tag: ch-02
 	tag: Ash
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
-	desc: As soon as I heard you’d been exiled
+	desc: As soon as I heard you'd been exiled
 page:2004-12-06
 	tag: ch-02
 	tag: Ash
@@ -16357,6 +16402,7 @@ page:2004-11-30
 	tag: Emily
 	tag: Nissan240SX
 	desc: <br>**Book 2**<br>April—May '04<br><br>_Vashiel — Emily's birthday — car shopping — Aries garage — Harry — Kate & Angelica — 28 days — racing Kate — the unrequited — disaster in a kiss_
+; ---- book 2 ----
 page:2004-11-29
 	tag: ch-01
 	tag: Ash
@@ -16381,14 +16427,14 @@ page:2004-11-24
 	tag: Acura
 	tag: OldRoad
 	tag: Tom
-	desc: Dad? You know that car you bought me?
+	desc: Tom: Dad? You know that car you bought me?
 page:2004-11-22
 	tag: ch-01
 	tag: Ash
 	tag: Emily
 	tag: OldRoad
 	tag: Rumisiel
-	desc: How about “Empress”?
+	desc: How about "Empress"?
 page:2004-11-20
 	tag: Emily
 	tag: Filler
@@ -16570,7 +16616,7 @@ page:2004-10-01
 	tag: Rumisiel
 	tag: School
 	tag: Tom
-	desc: NOS… don’t trust your engine?
+	desc: NOS... don’t trust your engine?
 page:2004-09-29
 	tag: ch-01
 	tag: Acura
@@ -16585,13 +16631,13 @@ page:2004-09-27
 	tag: Emily
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: Figures… I finally found a girl I really like who
+	desc: Figures... I finally found a girl I really like who
 page:2004-09-25
 	tag: ch-01
 	tag: Ash
 	tag: Emily
 	tag: XR4Ti
-	desc: Harvard… I forgot
+	desc: Harvard... I forgot
 page:2004-09-22
 	tag: ch-01
 	tag: Ash
@@ -16608,7 +16654,7 @@ page:2004-09-20
 	tag: Rumisiel
 	tag: XR4Ti
 	tag: UptonHouse
-	desc: Here’s $40
+	desc: Here's $40
 page:2004-09-17
 	tag: ch-01
 	tag: Ash
@@ -16689,28 +16735,27 @@ page:2004-08-20
 	tag: Rumisiel
 	tag: School
 	tag: Swim
-	desc: I’m such a girl
+	desc: I'm such a girl
 page:2004-08-17
 	tag: ch-01
 	tag: Ash
 	tag: UptonHouse
 	desc: You never paid attention to me when I was a boy
-page:2004-08-12
+page:2004-08-15
 	tag: ch-01
 	tag: Ash
 	tag: Edward
 	tag: Rumisiel
 	tag: Tears
 	tag: UptonHouse
-	desc: Wasn’t my mom about my age when you got her pregnant
-	note: **NB** _link broken: page missing_
+	desc: Wasn't my mom about my age when you got her pregnant
 page:2004-08-11
 	tag: ch-01
 	tag: Ash
 	tag: Edward
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: He’s clean. Hell has officialy frozen over
+	desc: He's clean. Hell has officialy frozen over
 page:2004-08-09
 	tag: ch-01
 	tag: Ash
@@ -16736,7 +16781,7 @@ page:2004-08-04
 	tag: Emily
 	tag: XR4Ti
 	desc: How is Daddy’s little girl?!
-	note: Edward Upton, <span class="dt">age:45</span>
+	note: Edward Upton, <span class="dt">age: 45</span>
 page:2004-08-02
 	tag: ch-01
 	tag: Ash
