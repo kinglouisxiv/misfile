@@ -29,6 +29,41 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-08-15
+	desc: Emily: Don't think of it as wierd. Just think of it as... Adventurous
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: McArthurRes
+page:2014-08-14
+	desc: Ash: Apparently I need quantitative measurement of my tits and ass and you're the only person I trust to help
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: McArthurRes
+page:2014-08-13
+	desc: Ash: Apparently I need quantitative measurement of my tits and ass and you're the only person I trust to help
+	tag: Ash
+	tag: ch-21
+	tag: Marie
+	tag: MarieHouse
+	tag: Phone
+	tag: UptonHouse
+page:2014-08-12
+	desc: Ash: I HATE shopping for clothes
+	tag: Ash
+	tag: ch-21
+	tag: Marie
+	tag: MarieHouse
+	tag: Phone
+	tag: UptonHouse
+	tag: Vashiel
+page:2014-08-11
+	desc: Ash: Warning. Doing laundry. There will be underthings involved.
+	tag: Ash
+	tag: ch-21
+	tag: UptonHouse
+	tag: Vashiel
 page:2014-08-08
 	desc: Emily: I used almost all of your eggs
 	tag: Ash
@@ -598,6 +633,7 @@ page:2014-04-18
 	desc: Ash, do I have a hero personality?
 	tag: Ash
 	tag: ch-20
+	tag: MaxSpeed
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-04-17
@@ -8789,11 +8825,13 @@ page:2009-02-27
 page:2009-02-26
 	tag: Ash
 	tag: ch-10
+	tag: MaxSpeed
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-02-25
 	tag: Ash
 	tag: ch-10
+	tag: MaxSpeed
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-02-24
@@ -8973,6 +9011,7 @@ page:2009-01-14
 	tag: Missi
 	tag: Rumisiel
 	tag: UptonHouse
+	tag: MaxSpeed
 page:2009-01-13
 	tag: Ash
 	tag: ch-10
