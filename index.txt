@@ -28,7 +28,83 @@ baseurl: http://www.misfile.com/?date={0}
 ;
 ; add:-
 ; 	carpark/racetrack on the Cape
-;
+;	rain
+
+page:2014-08-29
+	desc: Ash: Everybody? How does my mom win in all this?
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: UptonHouse
+page:2014-08-28
+	desc: Ash: How do these count as pants?
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: UptonHouse
+page:2014-08-27
+	desc: Ash: That's... A big box
+	tag: Ash
+	tag: ch-21
+	tag: Marie
+	tag: Rain
+	tag: UptonHouse
+page:2014-08-26
+	desc: Marie: Do a couple of pretty girls need a ride?
+	note: MarieCar = Lexus SC 430
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Marie
+	tag: MarieCar
+	tag: Rain
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2014-08-25
+	desc: Emily: I will be patient and reap the rewards in time
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Rain
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2014-08-22
+	desc: Rumisiel: I seem to recall some old saying about April showers
+	note: Date: April
+	tag: Ash
+	tag: ch-21
+	tag: Dates
+	tag: Emily
+	tag: Rain
+	tag: Rumisiel
+	tag: School
+page:2014-08-21
+	desc: Ash: You know all those racers. Why don't you just ask them?
+	tag: Lab
+	tag: Ash
+	tag: ch-21
+	tag: Rumisiel
+	tag: School
+page:2014-08-20
+	desc: Ash: Ask them why people are snickering at Emily, or me or us.
+	tag: Ash
+	tag: ch-21
+	tag: Lab
+	tag: Rumisiel
+	tag: School
+page:2014-08-19
+	desc: Emily: Something must be up. I'll have to check my sources
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: School
+	tag: UNbuilding
+page:2014-08-18
+	desc: Rumisiel: My socks all have holes in them
+	tag: ch-21
+	tag: Edward
+	tag: Rumisiel
+	tag: UptonHouse
 page:2014-08-15
 	desc: Emily: Don't think of it as wierd. Just think of it as... Adventurous
 	tag: Ash
@@ -1263,6 +1339,7 @@ page:2013-12-12
 	tag: ch-20
 	tag: Ash
 	tag: Rumisiel
+	tag: Rain
 	tag: Valentine
 	desc: I still don't know what to do for the actual day though
 page:2013-12-11
@@ -1349,6 +1426,7 @@ page:2013-11-26
 	tag: ch-20
 	tag: IRsensor
 	tag: Camera
+	tag: Rain
 	tag: UptonHouse
 	desc: Shkk... Shkk... Shkk...
 page:2013-11-25
@@ -1368,11 +1446,13 @@ page:2013-11-21
 	tag: Ash
 	tag: Missi
 	tag: UptonHouse
+	tag: Rain
 	desc: _This is my project. No, it's a MISSION_
 page:2013-11-20
 	tag: ch-20
 	tag: Ash
 	tag: Missi
+	tag: Rain
 	tag: UptonHouse
 	desc: I hear a car...
 page:2013-11-19
@@ -2282,6 +2362,7 @@ page:2013-05-17
 	tag: Ash
 	tag: Emily
 	tag: School
+	tag: Snow
 	desc: I’m really happier with the gas card
 page:2013-05-16
 	auth: Ash must choose a successor to keep a usurper who fancies himself an "ice racing specialist" from stealing the title of "King of the Mountain". Is Heather an enemy, or an ally?
@@ -2463,14 +2544,14 @@ page:2013-04-12
 	tag: Emily
 	tag: UptonHouse
 page:2013-04-11
-	desc: MOST of them made it on time
+	desc: Emily: MOST of them made it on time
 	tag: Ash
 	tag: ch-18
 	tag: Emily
 	tag: Missi
 	tag: UptonHouse
 page:2013-04-10
-	desc: Surprise!!!
+	desc: Missi: Surprise!!!
 	tag: Ash
 	tag: ch-18
 	tag: Emily
@@ -2565,6 +2646,7 @@ page:2013-03-25
 	desc: Eighteen. I didn’t think it would affect me this much
 	tag: Ash
 	tag: ch-18
+	tag: Snow
 	tag: School
 page:2013-03-22
 	desc: Like EVERYONE goes to college
@@ -2652,6 +2734,7 @@ page:2013-03-07
 	tag: Emily
 	tag: Missi
 	tag: Rumisiel
+	tag: Snow
 	tag: UptonHouse
 page:2013-03-06
 	tag: ch-18
@@ -2785,6 +2868,7 @@ page:2013-02-11
 	tag: Emily
 	tag: Rumisiel
 	tag: School
+	tag: Snow
 	tag: UptonHouse
 page:2013-02-09
 	tag: Filler
@@ -2823,6 +2907,7 @@ page:2013-02-04
 	tag: Gyno
 	tag: Melissa
 	tag: Thorin
+	tag: Snow
 	tag: UptonHouse
 page:2013-02-02
 	tag: Ash
@@ -2989,17 +3074,18 @@ page:2013-01-01
 	tag: Rumisiel
 	desc: New year 2013
 page:2012-12-31
+	note: <span class="dt">2004-12-31 Friday</span>
 	tag: ch-18
+	tag: Chains
 	tag: Dates
 	tag: Emily
 	tag: Flashback
-	tag: Kiss
 	tag: Kate
-	tag: Chains
-	tag: OldRoad
-	tag: MsMcArthur
+	tag: Kiss
 	tag: McArthurRes
-	note: <span class="dt">2004-12-31 Friday</span>
+	tag: MsMcArthur
+	tag: OldRoad
+	tag: Snow
 page:2012-12-28
 	tag: Filler
 	tag: Ash
@@ -3091,9 +3177,9 @@ page:2012-12-10
 	tag: OldRoad
 	tag: Snow
 page:2012-12-07
-	tag: Filler
 	tag: Angel
 	tag: Emily
+	tag: Filler
 page:2012-12-06
 	desc: Ivan: I never expected to have to dodge some pretty girl
 	tag: Ash
@@ -3121,6 +3207,8 @@ page:2012-12-03
 	tag: Ash
 	tag: ch-18
 	tag: Edward
+	tag: Snow
+	tag: OldRoad
 	tag: UptonHouse
 page:2012-11-30
 	desc: Edward: So, Ash who would you like to come to the New Years party?
@@ -3163,6 +3251,7 @@ page:2012-11-22
 	tag: Ash
 	tag: ch-18
 	tag: James
+	tag: Snow
 	tag: UptonHouse
 page:2012-11-21
 	desc: Ash: Can I call you back in a few?
@@ -3221,6 +3310,7 @@ page:2012-11-13
 	tag: Ramael
 	tag: Rumisiel
 	tag: UptonHouse
+	tag: Snow
 	tag: Vashiel
 page:2012-11-12
 	tag: ch-17
@@ -3271,6 +3361,7 @@ page:2012-11-01
 page:2012-10-30
 	tag: ch-17
 	tag: Ash
+	tag: Snow
 	tag: Party
 page:2012-10-29
 	tag: ch-17
@@ -3279,14 +3370,17 @@ page:2012-10-29
 	tag: Emily
 	tag: MsMcArthur
 	tag: Party
+	tag: Snow
 	tag: Rumisiel
 page:2012-10-26
 	tag: ch-17
 	tag: Emily
+	tag: Snow
 	tag: SuicideGuy
 page:2012-10-25
 	tag: ch-17
 	tag: Emily
+	tag: Snow
 	tag: SuicideGuy
 page:2012-10-24
 	tag: ch-17
@@ -3301,6 +3395,7 @@ page:2012-10-23
 	tag: Rumisiel
 	tag: SuicideGuy
 	tag: Party
+	tag: Snow
 page:2012-10-22
 	tag: ch-17
 	tag: Ash
@@ -3322,35 +3417,43 @@ page:2012-10-17
 	tag: Ash
 	tag: Emily
 	tag: Party
+	tag: Snow
 page:2012-10-16
 	tag: ch-17
 	tag: Angel
 	tag: Rumisiel
+	tag: Snow
 	tag: SuicideGuy
 page:2012-10-15
 	tag: ch-17
 	tag: Angel
 	tag: Rumisiel
+	tag: Snow
 	tag: SuicideGuy
 page:2012-10-12
 	tag: ch-17
 	tag: Rumisiel
 	tag: SuicideGuy
+	tag: Snow
 page:2012-10-11
 	tag: ch-17
 	tag: Rumisiel
+	tag: Snow
 	tag: SuicideGuy
 page:2012-10-10
 	tag: ch-17
 	tag: Rumisiel
 	tag: SuicideGuy
+	tag: Snow
 page:2012-10-09
 	tag: ch-17
 	tag: Rumisiel
+	tag: Snow
 	tag: SuicideGuy
 page:2012-10-08
 	tag: ch-17
 	tag: Rumisiel
+	tag: Snow
 page:2012-10-05
 	tag: ch-17
 	tag: Ash
@@ -3359,9 +3462,10 @@ page:2012-10-05
 	tag: Party
 page:2012-10-04
 	tag: ch-17
-	tag: Rumisiel
-	tag: Vashiel
 	tag: Party
+	tag: Rumisiel
+	tag: Snow
+	tag: Vashiel
 page:2012-10-03
 	tag: ch-17
 	tag: Ash
@@ -3405,20 +3509,22 @@ page:2012-09-25
 	tag: Party
 	tag: Rumisiel
 page:2012-09-24
-	tag: ch-17
 	tag: Ash
+	tag: ch-17
 	tag: Emily
 	tag: Melissa
 	tag: Party
+	tag: Snow
 page:2012-09-21
 	tag: ch-17
 	tag: Emily
 	tag: MsMcArthur
-	tag: Vashiel
 	tag: Party
+	tag: Snow
+	tag: Vashiel
 page:2012-09-20
-	tag: ch-17
 	tag: Ash
+	tag: ch-17
 	tag: Edward
 	tag: Party
 page:2012-09-19
@@ -3482,10 +3588,12 @@ page:2012-09-06
 page:2012-09-05
 	tag: ch-17
 	tag: Ash
+	tag: Snow
 	tag: Vashiel
 page:2012-09-04
 	tag: ch-17
 	tag: Ash
+	tag: Snow
 	tag: ShoulderAngel
 	desc: A white Chritmas
 page:2012-09-03
@@ -3792,7 +3900,7 @@ page:2012-06-27
 	tag: Chocolate
 	tag: Emily
 	tag: UptonHouse
-	desc: Hot chocolate down my butt!
+	desc: Ash: EMILY! EMILY! YOU'RE SPILLING HOT CHOCOLATE DOWN MY BUTT!
 page:2012-06-26
 	tag: ch-17
 	tag: Ash
@@ -3804,7 +3912,7 @@ page:2012-06-25
 	tag: ch-17
 	tag: Ash
 	tag: Emily
-	desc: I’m in your bed all wet and you’re topless
+	desc: Emily: I’m in your bed all wet and you’re topless
 	tag: UptonHouse
 page:2012-06-22
 	tag: ch-17
@@ -3815,21 +3923,25 @@ page:2012-06-21
 	tag: ch-17
 	tag: Ash
 	tag: Emily
+	tag: Rain
 	tag: Rumisiel
 	tag: UptonHouse
 page:2012-06-20
 	tag: ch-17
 	tag: Ash
 	tag: Rumisiel
+	tag: Rain
 	tag: SchoolRoad
 page:2012-06-19
 	tag: ch-17
 	tag: Ash
+	tag: Rain
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2012-06-18
 	tag: ch-17
 	tag: Ash
+	tag: Rain
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2012-06-15
@@ -3843,11 +3955,13 @@ page:2012-06-14
 	tag: ch-17
 	tag: Ash
 	tag: Hit
+	tag: Rain
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2012-06-13
 	tag: ch-17
 	tag: Ash
+	tag: Rain
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2012-06-12
@@ -3913,6 +4027,7 @@ page:2012-05-30
 	tag: Cassiel
 	tag: Cassi
 	tag: Emily
+	tag: Snow
 page:2012-05-29
 	tag: ch-17
 	tag: Ash
@@ -4235,6 +4350,7 @@ page:2012-03-07
 	tag: Edward
 	tag: Marie
 	tag: Phone
+	tag: Snow
 page:2012-03-06
 	tag: ch-16
 	tag: Ash
@@ -4279,6 +4395,7 @@ page:2012-02-24
 	tag: Ash
 	tag: Rumisiel
 	tag: SchoolRoad
+	tag: Snow
 	desc: Slush
 page:2012-02-23
 	tag: ch-16
@@ -4306,6 +4423,7 @@ page:2012-02-17
 	tag: ch-16
 	tag: Ash
 	tag: Mustang
+	tag: Snow
 	desc: I own a pile of old Mustang parts
 page:2012-02-16
 	tag: ch-16
@@ -4324,12 +4442,13 @@ page:2012-02-15
 	tag: Speedway
 	desc: Huh? Roy? But why would...
 page:2012-02-14
-	tag: ch-16
+	desc: How dare you make that insinuation in front of all these people?
 	tag: Burt
+	tag: ch-16
 	tag: Kate
 	tag: Roy
+	tag: Snow
 	tag: Speedway
-	desc: How dare you make that insinuation in front of all these people?
 page:2012-02-13
 	tag: ch-16
 	tag: Ash
@@ -4338,31 +4457,34 @@ page:2012-02-13
 	tag: Speedway
 	desc: You buy all the parts you need from me and it's yours
 page:2012-02-10
-	tag: ch-16
-	tag: Ash
-	tag: Burt
-	tag: Emily
-	tag: Monster
-	tag: AllTrac
-	tag: Mustang
-	tag: Speedway
 	desc: You! What the hell was that?
-page:2012-02-09
-	tag: ch-16
-	tag: Race
-	tag: Speedway
-	tag: Monster
 	tag: AllTrac
-	desc: And the challenger crosses the line
-page:2012-02-08
-	tag: ch-16
 	tag: Ash
 	tag: Burt
+	tag: ch-16
 	tag: Emily
 	tag: Monster
+	tag: Mustang
+	tag: Snow
+	tag: Speedway
+page:2012-02-09
+	desc: And the challenger crosses the line
 	tag: AllTrac
-	tag: Missi
+	tag: ch-16
+	tag: Monster
 	tag: Race
+	tag: Snow
+	tag: Speedway
+page:2012-02-08
+	tag: AllTrac
+	tag: Ash
+	tag: Burt
+	tag: ch-16
+	tag: Emily
+	tag: Missi
+	tag: Monster
+	tag: Race
+	tag: Snow
 	tag: Speedway
 page:2012-02-07
 	tag: ch-16
@@ -4376,38 +4498,42 @@ page:2012-02-06
 	tag: Speedway
 	tag: Roy
 page:2012-02-03
-	tag: ch-16
+	tag: AllTrac
 	tag: Ash
 	tag: Burt
-	tag: AllTrac
+	tag: ch-16
 	tag: Monster
 	tag: Race
+	tag: Snow
 	tag: Speedway
 page:2012-02-02
-	tag: ch-16
+	tag: AllTrac
 	tag: Ash
 	tag: Burt
+	tag: ch-16
 	tag: Emily
-	tag: Race
-	tag: Speedway
 	tag: Monster
 	tag: Mustang
-	tag: AllTrac
+	tag: Race
+	tag: Snow
+	tag: Speedway
 page:2012-02-01
-	tag: ch-16
+	tag: AllTrac
 	tag: Ash
 	tag: Burt
+	tag: ch-16
 	tag: Monster
-	tag: AllTrac
 	tag: Race
+	tag: Snow
 	tag: Speedway
 page:2012-01-31
-	tag: ch-16
+	tag: AllTrac
 	tag: Ash
 	tag: Burt
+	tag: ch-16
 	tag: Monster
-	tag: AllTrac
 	tag: Race
+	tag: Snow
 	tag: Speedway
 page:2012-01-30
 	tag: ch-16
@@ -4416,49 +4542,52 @@ page:2012-01-30
 	tag: Roy
 	tag: Vashiel
 page:2012-01-27
-	tag: ch-16
+	tag: AllTrac
 	tag: Ash
 	tag: Burt
-	tag: Missi
-	tag: Race
-	tag: Speedway
-	tag: Monster
-	tag: AllTrac
-page:2012-01-26
 	tag: ch-16
+	tag: Missi
+	tag: Monster
+	tag: Race
+	tag: Snow
+	tag: Speedway
+page:2012-01-26
 	tag: Ash
+	tag: ch-16
 	tag: Emily
 	tag: Missi
+	tag: Monster
 	tag: Race
 	tag: Speedway
-	tag: Monster
 page:2012-01-25
-	tag: ch-16
+	tag: AllTrac
 	tag: Ash
 	tag: Burt
-	tag: Speedway
-	tag: Roy
-	tag: AllTrac
+	tag: ch-16
 	tag: Monster
+	tag: Roy
+	tag: Snow
+	tag: Speedway
 page:2012-01-24
-	tag: ch-16
 	tag: AllTrac
 	tag: Ash
 	tag: Burt
+	tag: ch-16
 	tag: Speedway
 page:2012-01-23
-	tag: ch-16
+	note: Mustang mention
 	tag: Ash
 	tag: Burt
-	tag: Speedway
-	tag: Mustang
-	note: Mustang mention
-page:2012-01-20
 	tag: ch-16
+	tag: Mustang
+	tag: Speedway
+page:2012-01-20
 	tag: Ash
+	tag: ch-16
 	tag: Emily
 	tag: Missi
 	tag: Rumisiel
+	tag: Snow
 	tag: Speedway
 	tag: Vashiel
 page:2012-01-19
@@ -4468,6 +4597,7 @@ page:2012-01-19
 	tag: Emily
 	tag: Missi
 	tag: Speedway
+	tag: Snow
 	desc: race day
 	note: <span class="dt">Sunday</span>
 page:2012-01-17
@@ -4501,16 +4631,20 @@ page:2012-01-10
 	tag: ch-16
 	tag: Ash
 	tag: Emily
+	tag: Snow
 page:2012-01-09
 	tag: ch-16
 	tag: Ash
+	tag: Snow
 page:2012-01-06
 	tag: ch-16
 	tag: Ash
 	tag: Missi
+	tag: Snow
 page:2012-01-05
 	tag: ch-16
 	tag: Ash
+	tag: Snow
 	tag: Speedway
 	tag: Roy
 page:2012-01-04
@@ -4518,6 +4652,7 @@ page:2012-01-04
 	tag: Ash
 	tag: Emily
 	tag: Missi
+	tag: Snow
 	tag: Speedway
 	desc: practice day
 	note: <span class="dt">Saturday</span>
@@ -4537,10 +4672,12 @@ page:2011-12-29
 	tag: ch-16
 	tag: BurtsYard
 	tag: Roy
+	tag: Snow
 	desc: _(Burglarized)_
 page:2011-12-28
 	tag: ch-16
 	tag: Ash
+	tag: Snow
 	tag: Emily
 page:2011-12-27
 	tag: ch-16
@@ -4569,22 +4706,27 @@ page:2011-12-19
 page:2011-12-16
 	tag: ch-16
 	tag: Ash
+	tag: Snow
 	tag: Emily
 page:2011-12-15
 	tag: ch-16
 	tag: Ash
+	tag: Snow
 	tag: Vashiel
 page:2011-12-14
 	tag: ch-16
 	tag: Ash
+	tag: Snow
 	tag: Vashiel
 page:2011-12-13
 	tag: ch-16
 	tag: Ash
+	tag: Snow
 	tag: Rumisiel
 page:2011-12-12
 	tag: ch-16
 	tag: Ash
+	tag: Snow
 	tag: Rumisiel
 	desc: _(Rumisiel meets snow)_
 page:2011-12-09
@@ -5351,218 +5493,279 @@ page:2011-05-26
 	auth: Missi tries to come to grips with her relationship with Ash. Logan saves Ash from a horrible situation, but he may have been secretly exploiting Eponine. Can Ash figure out who to side with? Can he make either choice without losing or betraying a friend?
 ; book 14
 page:2011-05-25
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
+	tag: UptonHouse
 page:2011-05-24
+	tag: Ash
 	tag: ch-14
 	tag: Computer
-	tag: Ash
+	tag: UptonHouse
 page:2011-05-23
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: Monster
+	tag: UptonHouse
 page:2011-05-20
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: Monster
+	tag: UptonHouse
 page:2011-05-19
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: Monster
+	tag: UptonHouse
 page:2011-05-18
-	tag: ch-14
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Eponine
 	tag: Logan
+	tag: LoganHome
 page:2011-05-17
-	tag: ch-14
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Eponine
 	tag: Logan
+	tag: LoganHome
 page:2011-05-16
-	tag: ch-14
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Eponine
 	tag: Logan
+	tag: LoganHome
 page:2011-05-13
-	tag: ch-14
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Eponine
 	tag: Logan
+	tag: LoganHome
 page:2011-05-12
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: McArthurRes
 	tag: Phone
+	tag: UptonHouse
 page:2011-05-11
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: McArthurRes
 	tag: Phone
+	tag: UptonHouse
 page:2011-05-10
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: McArthurRes
 	tag: Phone
+	tag: UptonHouse
 page:2011-05-09
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: Phone
+	tag: UptonHouse
 page:2011-05-06
-	tag: ch-14
+	note: 4:34pm
 	tag: Ash
+	tag: ch-14
 	tag: Missi
+	tag: UptonHouse
 page:2011-05-05
+	desc: sandwich filler
 	tag: Ash
 	tag: Filler
 	tag: Rumisiel
-	desc: sandwich filler
 page:2011-05-04
-	tag: ch-14
 	tag: Aries
+	tag: ch-14
 	tag: Heather
 	tag: Kate
 page:2011-05-03
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: School
 page:2011-05-02
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: School
 page:2011-04-29
-	tag: ch-14
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Eponine
 	tag: Rumisiel
 	tag: School
 page:2011-04-28
-	tag: ch-14
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Eponine
 	tag: School
 page:2011-04-27
-	tag: ch-14
 	tag: Ash
 	tag: Cassiel
+	tag: ch-14
 	tag: Heather
+	tag: OldRoad
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-04-26
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-04-25
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: McArthurRes
 	tag: Molly
+	tag: UptonHouse
 page:2011-04-22
 	tag: ch-14
 	tag: Emily
 	tag: Molly
+	tag: McArthurRes
 	tag: MsMcArthur
 page:2011-04-21
 	tag: ch-14
 	tag: Emily
+	tag: McArthurRes
 	tag: Molly
 	tag: MsMcArthur
 page:2011-04-20
 	tag: ch-14
 	tag: Emily
+	tag: McArthurRes
 	tag: Molly
 	tag: MsMcArthur
 page:2011-04-19
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: McArthurRes
 	tag: Molly
 	tag: MsMcArthur
+	tag: OldRoad
 	tag: Police
 page:2011-04-18
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: OldRoad
 	tag: Police
 page:2011-04-15
-	tag: ch-14
+	tag: Ambulance
 	tag: Ash
 	tag: Cassiel
+	tag: ch-14
 	tag: Eponine
+	tag: OldRoad
 	tag: Police
 	tag: Rumisiel
 page:2011-04-14
-	tag: ch-14
 	tag: Angel
 	tag: Cassiel
+	tag: ch-14
 	tag: Rumisiel
 page:2011-04-13
+	note: Emily calls to Molly who is off-frame
 	tag: ch-14
 	tag: Emily
 	tag: Eponine
 	tag: Heather
+	tag: Molly
+	tag: OldRoad
 page:2011-04-12
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: Heather
 	tag: Logan
+	tag: LoganCar
+	tag: Nosebleed
+	tag: OldRoad
+	tag: XR4Ti
 page:2011-04-11
-	tag: ch-14
+	desc: CRASH!
 	tag: Angel
 	tag: Cassiel
+	tag: ch-14
+	tag: LoganCar
+	tag: OldRoad
 	tag: Race
 page:2011-04-08
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Logan
+	tag: LoganCar
+	tag: OldRoad
 	tag: Race
+	tag: XR4Ti
 page:2011-04-07
 	tag: ch-14
 	tag: Logan
+	tag: LoganCar
+	tag: OldRoad
 	tag: Race
+	tag: XR4Ti
 page:2011-04-06
-	tag: ch-14
 	tag: Angel
 	tag: Cassiel
+	tag: ch-14
 	tag: Emily
 	tag: Heather
+	tag: OldRoad
 	tag: Rumisiel
 page:2011-04-05
-	tag: ch-14
 	tag: Angel
 	tag: Cassiel
+	tag: ch-14
+	tag: LoganCar
+	tag: OldRoad
 	tag: Race
+	tag: XR4Ti
 page:2011-04-04
-	tag: ch-14
 	tag: Angel
 	tag: Cassiel
+	tag: ch-14
 	tag: Logan
+	tag: LoganCar
+	tag: OldRoad
 	tag: Race
 	tag: Rumisiel
+	tag: XR4Ti
 page:2011-04-01
-	tag: ch-14
 	tag: Angel
+	tag: Cassiel
+	tag: ch-14
 	tag: Emily
 	tag: Heather
-	tag: Cassiel
+	tag: OldRoad
 	tag: Rumisiel
 page:2011-03-31
+	desc: Heather: This is about seeing Ash lose at something she really cares about
 	tag: ch-14
 	tag: Emily
 	tag: Heather
+	tag: OldRoad
 page:2011-03-30
-	tag: ch-14
 	tag: Angel
 	tag: Cassiel
+	tag: ch-14
+	tag: OldRoad
 	tag: Race
 	tag: Rumisiel
 page:2011-03-29
@@ -5571,436 +5774,531 @@ page:2011-03-29
 	tag: Cassiel
 	tag: Rumisiel
 page:2011-03-28
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Logan
+	tag: LoganCar
+	tag: OldRoad
 	tag: Race
+	tag: XR4Ti	
 page:2011-03-25
+	desc: Racer Girl: GO!
 	tag: ch-14
 	tag: Logan
-	tag: Racers
+	tag: LoganCar
+	tag: OldRoad
 	tag: Race
+	tag: RacerGirl
+	tag: Racers
+	tag: XR4Ti
 page:2011-03-24
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Heather
 	tag: Logan
+	tag: LoganCar
+	tag: OldRoad
+	tag: XR4Ti
 page:2011-03-23
 	tag: ch-14
 	tag: Eponine
 	tag: Heather
+	tag: HeatherCar
 	tag: Logan
+	tag: LoganCar
+	tag: OldRoad
 page:2011-03-22
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: OldRoad
 	tag: Racers
 page:2011-03-21
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: Molly
+	tag: OldRoad
 	tag: Racers
 	tag: Rumisiel
+	tag: VW
 page:2011-03-18
 	tag: ch-14
 	tag: Emily
 	tag: Molly
+	tag: OldRoad
 	tag: Racers
+	tag: XR4Ti
 page:2011-03-17
+	desc: <span class="dt">(ref: Molly goes to college in January 2005)</span>
 	tag: ch-14
 	tag: Dates
 	tag: Emily
+	tag: McArthurRes	
 	tag: Molly
-	desc: <span class="dt">(ref: Molly goes to college in January 2005)</span>
+	tag: VW
 page:2011-03-16
+	note: time 11:11pm
 	tag: ch-14
 	tag: Emily
+	tag: McArthurRes
 page:2011-03-15
-	tag: ch-14
-	tag: Cassiel
+	note: 'Fever'
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Emily
 	tag: Eponine
+	tag: McArthurRes
 	tag: MsMcArthur
+	tag: OldRoad
 page:2011-03-14
 	tag: Filler
 	desc: birth
 page:2011-03-11
-	tag: ch-14
-	tag: Cassiel
-	tag: Cassi
-	tag: Eponine
 	desc: race night
 	note: <span class="dt">Saturday</span>
+	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
+	tag: Eponine
+	tag: OldRoad
 page:2011-03-10
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Rumisiel
+	tag: UptonHouse
+	tag: XR4Ti
 page:2011-03-09
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Rumisiel
+	tag: UptonHouse
+	tag: XR4Ti
 page:2011-03-08
 	tag: ch-14
 	tag: Heather
 	tag: Logan
+	tag: OldRoad
 page:2011-03-07
 	tag: ch-14
 	tag: Heather
 	tag: Logan
+	tag: OldRoad
 page:2011-03-04
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: Rumisiel
 	tag: School
 page:2011-03-03
+	desc: Mom McArthur: I got Friday off!
+	note: Mom plans visit to Cornel U
 	tag: ch-14
 	tag: Dates
 	tag: Emily
+	tag: McArthurRes
 	tag: MsMcArthur
-	desc: I got Friday off!
 page:2011-03-02
-	tag: ch-14
+	tag: Bubbles
 	tag: Cassiel
-	tag: Eponine
-	tag: Logan
-page:2011-03-01
 	tag: ch-14
-	tag: Ash
-	tag: Cassiel
 	tag: Dream
 	tag: Eponine
 	tag: Logan
-page:2011-02-28
-	tag: ch-14
+	tag: LoganHome
+page:2011-03-01
+	tag: Ash
 	tag: Cassiel
+	tag: ch-14
+	tag: Dream
+	tag: Eponine
 	tag: Logan
+	tag: LoganHome
+page:2011-02-28
+	tag: Cassiel
+	tag: ch-14
+	tag: Logan
+	tag: LoganHome
 page:2011-02-25
 	tag: ch-14
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-02-24
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-02-23
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-02-22
-	tag: ch-14
 	tag: Ash
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
+	tag: UptonHouse
 page:2011-02-21
-	tag: ch-14
 	tag: Ash
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
+	tag: UptonHouse
 	tag: Vashiel
 page:2011-02-18
-	tag: ch-14
 	tag: Ash
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
+	tag: UptonHouse
 page:2011-02-17
-	tag: ch-14
 	tag: Ash
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Emily
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-02-16
-	tag: ch-14
 	tag: Ash
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Edward
 	tag: Emily
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-02-15
-	tag: ch-14
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Edward
+	tag: UptonHouse
 page:2011-02-14
 	tag: Ash
 	tag: Filler
 	desc: Valentine
 page:2011-02-11
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: Monster
+	tag: UptonHouse
 page:2011-02-10
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: Monster
+	tag: UptonHouse
 page:2011-02-09
-	tag: ch-14
+	note: leaf motif background behind the comic panels
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: Monster
+	tag: UptonHouse
 page:2011-02-08
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: Missi
+	tag: XR4Ti
 page:2011-02-07
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Missi
+	tag: XR4Ti
 page:2011-02-04
-	tag: ch-14
 	tag: Ash
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Eponine
+	tag: EponineHome
 	tag: Party
 page:2011-02-03
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Eponine
+	tag: EponineHome
 	tag: Party
 	tag: ShoulderAngel
 page:2011-02-02
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Eponine
+	tag: EponineHome
 	tag: Party
 page:2011-02-01
-	tag: ch-14
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Eponine
+	tag: EponineHome
 	tag: Heather
 	tag: Logan
 	tag: Party
 page:2011-01-31
-	tag: ch-14
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
+	tag: EponineHome
 	tag: Heather
 	tag: Party
 page:2011-01-28
-	tag: ch-14
 	tag: Blush
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Eponine
+	tag: EponineHome
 	tag: Heather
 	tag: Logan
 	tag: Party
 page:2011-01-27
 	tag: ch-14
 	tag: Eponine
+	tag: EponineHome
 	tag: Heather
 	tag: Logan
 	tag: Party
 page:2011-01-26
 	tag: ch-14
 	tag: Colin
+	tag: EponineHome
 	tag: Heather
 	tag: Hit
 	tag: Party
 page:2011-01-25
 	tag: ch-14
 	tag: Colin
+	tag: EponineHome
 	tag: Heather
 	tag: Party
 page:2011-01-24
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Colin
 	tag: Emily
+	tag: EponineHome
 	tag: Heather
 	tag: Party
 page:2011-01-21
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: EponineHome
 	tag: Heather
 	tag: Missi
 	tag: Party
 page:2011-01-20
 	tag: ch-14
 	tag: Eponine
+	tag: EponineHome
 	tag: Logan
 	tag: Party
 page:2011-01-19
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
+	tag: EponineHome
 	tag: Heather
 	tag: Missi
 	tag: Party
 page:2011-01-18
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
+	tag: EponineHome
 	tag: Heather
 	tag: Missi
 	tag: Party
 page:2011-01-17
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
+	tag: EponineHome
 	tag: Heather
 	tag: Party
 page:2011-01-14
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
+	tag: EponineHome
 	tag: Heather
 	tag: Logan
 	tag: Party
 page:2011-01-13
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
+	tag: EponineHome
 	tag: Heather
 	tag: Logan
 	tag: Party
 page:2011-01-12
-	tag: ch-14
+	note: Cassiel's 'Cassi' disguise is good enough to fool Logan, who can see angels
 	tag: Ash
+	tag: ch-14
+	tag: EponineHome
 	tag: Logan
 	tag: Missi
 	tag: Party
 page:2011-01-11
-	tag: ch-14
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Eponine
+	tag: EponineHome
 	tag: Party
 page:2011-01-10
-	tag: ch-14
 	tag: Ash
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Emily
 	tag: Eponine
+	tag: EponineHome
 	tag: Party
 page:2011-01-07
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
+	tag: EponineHome
 page:2011-01-06
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: Eponine
+	tag: EponineHome
 	tag: Missi
 	tag: Party
 page:2011-01-05
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: Missi
+	tag: XR4Ti
 page:2011-01-04
-	tag: ch-14
 	tag: AngelGirl
 	tag: CFS
+	tag: ch-14
 	tag: Heaven
 	tag: Xaphrael
 page:2011-01-03
-	tag: ch-14
 	tag: AngelGirl
 	tag: CFS
+	tag: ch-14
 	tag: Heaven
 	tag: Xaphrael
 page:2010-12-31
-	tag: ch-14
 	tag: Ash
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: Emily
 	tag: Rumisiel
 	tag: School
 page:2010-12-30
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Emily
 	tag: Rumisiel
 	tag: School
 page:2010-12-29
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Rumisiel
 	tag: School
 page:2010-12-28
-	tag: ch-14
+	desc: Cassi: Hey, scratchy bush girl. I'm throwing a party. You're coming.
 	tag: Ash
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
 	tag: School
 page:2010-12-27
-	tag: ch-14
 	tag: Ash
-	tag: Cassiel
-	tag: Rumisiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
+	tag: Rumisiel
 	tag: School
 page:2010-12-23
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2010-12-22
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Logan
+	tag: LoganCar
 	tag: SchoolRoad
 page:2010-12-21
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Logan
+	tag: LoganCar
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2010-12-20
-	tag: ch-14
 	tag: Ash
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
+	tag: ClothesShop
 	tag: Ramael
 	tag: Rumisiel
 	tag: School
 	tag: SchoolRoad
+	tag: Shopping
 page:2010-12-17
-	tag: ch-14
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
+	tag: ClothesShop
 	tag: Ramael
+	tag: Shopping
 page:2010-12-16
-	tag: ch-14
 	tag: Ash
-	tag: Cassiel
 	tag: Cassi
+	tag: Cassiel
+	tag: ch-14
+	tag: ClothesShop
+	tag: Shopping
+	tag: UptonHouse
 	tag: Vashiel
 page:2010-12-15
-	tag: ch-14
+	desc: Vashiel: The last time I argued with Xaphrael it... didn't go well
 	tag: Ash
+	tag: ch-14
 	tag: Flashback
 	tag: Heaven
 	tag: Sword
+	tag: UptonHouse
 	tag: Vashiel
 	tag: Xaphrael
-	desc: The last time I argued with Xaphrael it... didn't go well
 page:2010-12-14
 	tag: Filler
 	desc: virus edition...
 page:2010-12-13
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
+	tag: UptonHouse
 	tag: Vashiel
 page:2010-12-10
-	tag: ch-14
 	tag: Ash
+	tag: ch-14
 	tag: Nosebleed
+	tag: UptonHouse
 	tag: Vashiel
 page:2010-12-09
-	tag: ch-14
+	auth: Heather returns with a vengeance to coach a new challenger to take on Ash, and Cassiel may help the challenger cheat. Can Rumisiel keep Ash from losing without breaking his promise not to use his powers on her during a race?
+	desc: <br>**Book 14**<br>November ’04<br><br>_The challenge — scratchy bush girl — doing a great job – the pyjama game — dreams and fancyes — racing Logan — heart of gold - an exemplar_
 	tag: Ash
+	tag: ch-14
 	tag: Cover
 	tag: Emily
-	desc: <br>**Book 14**<br>November ’04<br><br>_The challenge — scratchy bush girl — doing a great job – the pyjama game — dreams and fancyes — racing Logan — heart of gold - an exemplar_
-	auth: Heather returns with a vengeance to coach a new challenger to take on Ash, and Cassiel may help the challenger cheat. Can Rumisiel keep Ash from losing without breaking his promise not to use his powers on her during a race?
 ;book 13
 page:2010-12-08
 	tag: ch-13
@@ -6013,110 +6311,110 @@ page:2010-12-07
 	tag: LoganHome
 page:2010-12-06
 	tag: ch-13
-	tag: OldRoad
 	tag: Heather
 	tag: Logan
 	tag: LoganHome
+	tag: OldRoad
 page:2010-12-03
-	tag: OldRoad
-	tag: ch-13
 	tag: Ash
+	tag: ch-13
+	tag: OldRoad
 page:2010-12-02
-	tag: ch-13
 	tag: Ash
-	tag: OldRoad
+	tag: ch-13
 	tag: Logan
+	tag: OldRoad
 	tag: Rumisiel
 page:2010-12-01
-	tag: ch-13
 	tag: Angel
-	tag: OldRoad
 	tag: Ash
+	tag: ch-13
+	tag: OldRoad
 	tag: Rumisiel
 page:2010-11-30
-	tag: ch-13
 	tag: Ash
-	tag: Rumisiel
-	tag: OldRoad
-page:2010-11-29
 	tag: ch-13
+	tag: OldRoad
+	tag: Rumisiel
+page:2010-11-29
 	tag: Angel
 	tag: Ash
+	tag: ch-13
 	tag: Logan
 	tag: OldRoad
 page:2010-11-26
-	tag: ch-13
 	tag: Angel
 	tag: Ash
+	tag: ch-13
 	tag: Logan
 	tag: OldRoad
 page:2010-11-24
-	tag: ch-13
 	tag: Angel
 	tag: Ash
+	tag: ch-13
 	tag: Logan
-	tag: Rumisiel
 	tag: OldRoad
+	tag: Rumisiel
 page:2010-11-23
-	tag: ch-13
 	tag: Ash
+	tag: ch-13
 	tag: Logan
-	tag: Rumisiel
 	tag: OldRoad
+	tag: Rumisiel
 page:2010-11-22
-	tag: ch-13
 	tag: Ash
+	tag: ch-13
 	tag: Logan
 	tag: OldRoad
 page:2010-11-19
-	tag: ch-13
 	tag: Ash
+	tag: ch-13
 	tag: OldRoad
 page:2010-11-18
-	tag: ch-13
 	tag: Ash
-	tag: Rumisiel
-	tag: OldRoad
-page:2010-11-17
 	tag: ch-13
+	tag: OldRoad
+	tag: Rumisiel
+page:2010-11-17
 	tag: Ash
 	tag: AutoModerZ
+	tag: ch-13
 	tag: Colin
 	tag: Emily
 	tag: Logan
 page:2010-11-16
-	tag: ch-13
 	tag: Ash
 	tag: AutoModerZ
+	tag: ch-13
 	tag: Logan
 page:2010-11-15
-	tag: ch-13
 	tag: Ash
+	tag: AutoModerZ
+	tag: ch-13
 	tag: Logan
-	tag: AutoModerZ
 page:2010-11-12
-	tag: ch-13
 	tag: Ash
 	tag: AutoModerZ
+	tag: ch-13
 	tag: Colin
 	tag: Emily
 page:2010-11-11
-	tag: ch-13
 	tag: Ash
 	tag: AutoModerZ
-	tag: Emily
-	tag: Colin
-page:2010-11-10
 	tag: ch-13
+	tag: Colin
+	tag: Emily
+page:2010-11-10
 	tag: Ash
+	tag: ch-13
 	tag: Emily
 	tag: UptonHouse
 page:2010-11-09
-	tag: ch-13
 	tag: Ash
+	tag: Bed
+	tag: ch-13
 	tag: Emily
 	tag: UptonHouse
-	tag: Bed
 page:2010-11-08
 	tag: ch-13
 	tag: Ash
@@ -6125,22 +6423,22 @@ page:2010-11-08
 	tag: UptonHouse
 	tag: Bed
 page:2010-11-05
-	tag: ch-13
+	desc: You’ve got ho-hos!
 	tag: Ash
+	tag: ch-13
 	tag: Chocolate
 	tag: Emily
-	desc: You’ve got ho-hos!
 	tag: UptonHouse
 page:2010-11-04
-	tag: ch-13
 	tag: Ash
+	tag: Bed
+	tag: ch-13
 	tag: Chocolate
 	tag: Emily
 	tag: UptonHouse
-	tag: Bed
 page:2010-11-03
-	tag: ch-13
 	tag: Ash
+	tag: ch-13
 	tag: Chocolate
 	tag: Emily
 	tag: UptonHouse
@@ -13201,12 +13499,14 @@ page:2006-09-26
 	tag: ch-05
 	tag: Cinema
 	tag: Emily
+	tag: Rain
 page:2006-09-25
 	desc: It's raining. You're wearing a white shirt, and no bra
 	tag: Ash
 	tag: ch-05
 	tag: Cinema
 	tag: Emily
+	tag: Rain
 page:2006-09-22
 	desc: This popcorn is WAY too salty
 	tag: Ash

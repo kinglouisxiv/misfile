@@ -136,6 +136,7 @@ LeicesterPark	outdoor wedding venue
 Lisa	a waitperson
 LocationTBA	unclear whether Kate's family's or Kate & Harry's place
 Logan	racer, homeschooled, sees angels
+LoganHome	house number: 402
 M3	Brent's car
 M3000GT	Mitsubishi 3000GT VR4 sports car, as driven by James
 Mace	pepper spray
@@ -244,7 +245,7 @@ XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
 ; --- Chapters / Books ---
-ch-21	Book 21: February - March ’05
+ch-21	Book 21: February - April ’05
 ch-20	Book 20: February ’05
 ch-19	Book 19: January ’05
 ch-18	Book 18: December ’04 - January ’05
