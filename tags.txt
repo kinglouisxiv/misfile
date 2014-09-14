@@ -110,6 +110,7 @@ Gyno	the exams [Ash](#ash) tries to skip
 Harry	'Harry' (Henry) Walsh, racers’ auto engineer, owner [Aries](#aries) auto workshop
 Heather	Heather Walsh, [Harry](#harry)’s niece, drives a yellow ZX3
 HeatherHome	where Heather lurks; (Art Note: doorway has changed)
+Hickey	a "love-bite" [Wikipedia](https://en.wikipedia.org/wiki/Hickey)
 Hit	punch / kick / chase
 IRsensor	a remote infrared & motion sensing camera
 Ivan	the self-proclaimed ‘Ice King’

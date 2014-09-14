@@ -28,8 +28,73 @@ baseurl: http://www.misfile.com/?date={0}
 ;
 ; add:-
 ; 	carpark/racetrack on the Cape
-;	rain
-
+page:2014-09-12
+	desc: Rumisiel: If it WASN'T for me [...] YOU would never have met her
+	tag: Ash
+	tag: ch-21
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2014-09-11
+	desc: Rumisiel: You're going to break up with her!?
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Rumisiel
+	tag: SchoolRoad
+	tag: UptonHouse
+page:2014-09-10
+	desc: Emily: I don't like girls. I just make an exception for you
+	tag: Ash
+	tag: Bed
+	tag: ch-21
+	tag: Emily
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-09-09
+	desc: Rumisiel: "Totes a dyke dish" I think was the exact phrase
+	tag: Ash
+	tag: Bed
+	tag: ch-21
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-09-08
+	desc: Ash: The guy network came through!
+	tag: Ash
+	tag: Bed
+	tag: ch-21
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-09-05
+	note: Artwork auction: angel / devil Ash
+	tag: Filler
+page:2014-09-04
+	desc: Cassiel: I suppose the boyfriend is always the last to know...
+	tag: Cassiel
+	tag: ch-21
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-09-03
+	desc: Ash: Great. Now whenever I see her in a turtleneck I'm going to think about...
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: UptonHouse
+page:2014-09-02
+	desc: Marie: Uhg. I knew it was too muggy for a turtleneck
+	tag: Ash
+	tag: ch-21
+	tag: Hickey
+	tag: Marie
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-09-01
+	desc: Marie: I'm not going to see these on Ebay when I get home am I?
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Marie
+	tag: Rumisiel
+	tag: UptonHouse
 page:2014-08-29
 	desc: Ash: Everybody? How does my mom win in all this?
 	tag: Ash
