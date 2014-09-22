@@ -28,6 +28,50 @@ baseurl: http://www.misfile.com/?date={0}
 ;
 ; add:-
 ; 	carpark/racetrack on the Cape
+;
+page:2014-09-22
+	desc: Ash: So... Here we are walking home together...
+	tag: Ash
+	tag: Emily
+	tag: ch-21
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2014-09-19
+	desc: Ash: You taste like a smoker! And tongue? Seriously?!
+	tag: Ash
+	tag: ch-21
+	tag: Rumisiel
+	tag: School
+page:2014-09-18
+	desc: Emily: Taking it "dyke" has a different meaning to you than it does for me 
+	tag: Annie
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Rumisiel
+	tag: School
+page:2014-09-17
+	desc: Annie: I'm straight up saying you're a dyke and totally lesbianing it up with THAT dyke 
+	tag: Annie
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: Kiss
+	tag: Rumisiel
+	tag: School
+page:2014-09-16
+	desc: Annie: Ash and Emily alone in a corner mid day. Now THERE'S a surprise.
+	tag: Annie
+	tag: Ash
+	tag: ch-21
+	tag: Emily
+	tag: School
+page:2014-09-15
+	desc: Ash: \*Sigh\* Without Emily it's like the beginning of Junior Year all over again
+	tag: Ash
+	tag: ch-21
+	tag: Rumisiel
+	tag: School
 page:2014-09-12
 	desc: Rumisiel: If it WASN'T for me [...] YOU would never have met her
 	tag: Ash
@@ -52,9 +96,11 @@ page:2014-09-10
 	tag: UptonHouse
 page:2014-09-09
 	desc: Rumisiel: "Totes a dyke dish" I think was the exact phrase
+	note: Flashback to [2013-08-07](#2013-08-07)
 	tag: Ash
 	tag: Bed
 	tag: ch-21
+	tag: Flashback
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-09-08
@@ -2007,7 +2053,7 @@ page:2013-08-09
 	tag: Ash
 	tag: Emily
 	tag: UptonHouse
-	desc: Oh… My… God…
+	desc: Oh... My... God...
 page:2013-08-08
 	tag: ch-19
 	tag: Ash
@@ -8217,7 +8263,7 @@ page:2009-10-08
 	tag: Rumisiel
 	tag: School
 page:2009-10-07
-	tag: Andy
+	tag: AndySherman
 	tag: Ash
 	tag: ch-11
 	tag: Rumisiel

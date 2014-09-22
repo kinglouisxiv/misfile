@@ -22,6 +22,7 @@ AngelGirl	a [CFS](#cfs) minion
 AngelGirl2	another [CFS](#cfs) minion
 Angelica	[Kate](#kate)’s sister
 Anna	school kid
+Annie	a mouthy schoolkid
 Archon	a class of boss angel & endangered species
 ArchonKiller	a mystery
 Aries	’[Arry](#harry)’s auto workshop
