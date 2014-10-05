@@ -29,6 +29,80 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-10-03
+	desc: Donation patch advert
+	tag: Filler
+	tag: Rumisiel
+page:2014-10-03
+	desc: Emily: Think of it soft of like "good" change
+	tag: Ash
+	tag: Emily
+	tag: Phone
+	tag: ch-21
+	tag: UptonHouse
+	tag: McArthurRes
+page:2014-10-02
+	desc: Ash: How do I get into college?
+	tag: Ash
+	tag: Emily
+	tag: Phone
+	tag: ch-21
+	tag: UptonHouse
+	tag: McArthurRes
+page:2014-10-01
+	desc: Ash: Wow... Growing up sucks...
+	tag: Ash
+	tag: Edward
+	tag: Newspaper
+	tag: ch-21
+	tag: UptonHouse
+page:2014-09-30
+	desc: Ash: Uh... Thanks? I read my news online
+	tag: Ash
+	tag: Edward
+	tag: ch-21
+	tag: Newspaper
+	tag: UptonHouse
+page:2014-09-29
+	desc: Ash: That makes me a double loser because I can't do either
+	tag: Ash
+	tag: Emily
+	tag: ch-21
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2014-09-27
+	desc: Donation / Pin advert
+	tag: Filler
+	tag: Ash
+page:2014-09-26
+	desc: Emily: Just putting it out there, but "in practice" a girl can actually wear less than a guy on an every day basis
+	tag: Ash
+	tag: Emily
+	tag: ch-21
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2014-09-25
+	desc: Ash: Clearly summer is on the way
+	tag: Ash
+	tag: Emily
+	tag: ch-21
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2014-09-24
+	desc: Ash: Being kissed by Rumisiel is like being kissed by some creepy drunk in stranger in an alley
+	tag: Ash
+	tag: Emily
+	tag: ch-21
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2014-09-23
+	desc: Ash: All he did was stick his tongue in my throat. An Alien facehugger could have done that
+	tag: FaceHugger
+	tag: Ash
+	tag: Emily
+	tag: ch-21
+	tag: Rumisiel
+	tag: SchoolRoad
 page:2014-09-22
 	desc: Ash: So... Here we are walking home together...
 	tag: Ash
@@ -618,12 +692,17 @@ page:2014-06-02
 	tag: Ash
 	tag: ch-21
 	tag: Kate
+page:2014-05-30
+	desc: Rumisiel: Should I... Er... Mark it somehow?
+	tag: Ash
+	tag: ch-21
+	tag: Rumisiel
+	tag: UptonHouse
 page:2014-05-29
 	desc: Rumisiel: Then what's so important about one year?
 	tag: Ash
 	tag: ch-21
 	tag: Computer
-	tag: Dates
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-05-28
@@ -4900,6 +4979,7 @@ page:2011-11-28
 	tag: Emily
 	desc: <br>**Book 16**<br>December ’04<br><br>_Fifth Branch — business ethics — practice — racing Burt — shopping with mother — James returns — in flagrante delicto — my enemy's enemy_
 	auth: Ash and Emily challenge a crooked car dealer and wanna be racer to save a classic Mustang from being sold for parts. Meanwhile, can Ash repair his friendship with Eponine? What could be worse than that? Christmas shopping with mom...
+; book 15
 page:2011-11-25
 	tag: ch-15
 	tag: Burt
@@ -4952,6 +5032,7 @@ page:2011-11-14
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-11-11
 	tag: Filler
 	tag: Vashiel
@@ -4960,9 +5041,12 @@ page:2011-11-10
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-11-09
+	tag: Bed
 	tag: ch-15
 	tag: Emily
+	tag: McArthurRes
 page:2011-11-08
 	tag: ch-15
 	tag: Dream
@@ -4982,16 +5066,19 @@ page:2011-11-03
 	tag: ch-15
 	tag: Ash
 	tag: Edward
+	tag: UptonHouse
 	desc: pregnant with twins
 page:2011-11-02
-	tag: ch-15
+	desc: Rumisiel: Whoever said it was you trying to pick up the girl?
 	tag: Ash
+	tag: ch-15
 	tag: Rumisiel
-	desc: who's the girl
+	tag: UptonHouse
 page:2011-11-01
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-10-31
 	tag: ch-15
 	tag: Ash
@@ -5054,7 +5141,7 @@ page:2011-10-18
 	tag: Burt
 	tag: BurtsYard
 	tag: Mustang
-	desc: Burt: That there's a 1968.
+	desc: Burt: That there's a 1968. If you're interested it's yours for just nine thousand
 page:2011-10-17
 	desc: Ash: Whoa...
 	tag: Ash
@@ -5100,11 +5187,12 @@ page:2011-10-07
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2011-10-06
-	tag: ch-15
+	desc: Rumisiel: It's a SHOP, ladies! The nipples are all wrong!
 	tag: Ash
+	tag: Blush
+	tag: ch-15
 	tag: Rumisiel
 	tag: School
-	desc: it’s a SHOP
 page:2011-10-05
 	tag: ch-15
 	tag: Ash
@@ -5114,14 +5202,17 @@ page:2011-10-04
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-10-03
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-09-29
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-09-28
 	tag: ch-15
 	tag: Ash
@@ -5134,20 +5225,21 @@ page:2011-09-27
 	tag: Rumisiel
 	tag: UptonHouse
 page:2011-09-26
-	tag: ch-15
+	desc: Sophomore semi-formal prom dresses
 	tag: Ash
 	tag: Ashley
+	tag: ch-15
 	tag: Dress
 	tag: Edward
 	tag: Flashback
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: Sophomore semi-formal prom dresses
 page:2011-09-23
 	tag: ch-15
 	tag: Edward
 	tag: Rumisiel
 	tag: Vashiel
+	tag: UptonHouse
 page:2011-09-22
 	tag: ch-15
 	tag: Ash
@@ -5159,7 +5251,7 @@ page:2011-09-21
 	tag: Ash
 	tag: Emily
 	tag: SchoolRoad
-	desc: nearly…
+	desc: nearly...
 page:2011-09-20
 	tag: ch-15
 	tag: Ash
@@ -5184,30 +5276,37 @@ page:2011-09-14
 	tag: ch-15
 	tag: Emily
 	tag: MsMcArthur
+	tag: McArthurRes
 page:2011-09-13
 	tag: ch-15
 	tag: Emily
 	tag: MsMcArthur
+	tag: McArthurRes
 page:2011-09-12
 	tag: ch-15
 	tag: Ash
 	tag: Rapists
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-09-09
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-09-08
 	tag: ch-15
 	tag: Ash
 	tag: Missi
 	tag: Phone
+	tag: UptonHouse
+	tag: FullerHome
 page:2011-09-07
 	tag: ch-15
 	tag: Ash
 	tag: Phone
 	tag: Rumisiel
 	tag: School
+	tag: UptonHouse
 page:2011-09-06
 	tag: ch-15
 	tag: Ash
@@ -5223,6 +5322,7 @@ page:2011-09-05
 page:2011-09-02
 	tag: ch-15
 	tag: Ash
+	tag: Blush
 	tag: Photo
 	tag: Rumisiel
 	tag: School
@@ -5234,6 +5334,7 @@ page:2011-09-01
 page:2011-08-31
 	tag: ch-15
 	tag: Ash
+	tag: Computer
 	tag: Emily
 	tag: Missi
 	tag: Rachel
@@ -5248,10 +5349,12 @@ page:2011-08-29
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-08-26
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-08-25
 	tag: ch-15
 	tag: Ash
@@ -5293,14 +5396,17 @@ page:2011-08-16
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-08-15
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-08-12
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-08-11
 	tag: ch-15
 	tag: Ash
@@ -5354,62 +5460,77 @@ page:2011-07-29
 	tag: Rumisiel
 	tag: School
 page:2011-07-28
+	desc: Ash: Uh, actually... So... Any chance you could... like... Make me not have any more... Um... Periods?
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: Period
+	tag: UptonHouse
 page:2011-07-27
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-07-26
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-07-25
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-07-22
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-07-21
 	tag: ch-15
 	tag: Ash
 	tag: Emily
 	tag: Missi
 	tag: School
+	tag: McArthurRes
 page:2011-07-20
 	tag: ch-15
 	tag: Ash
 	tag: Emily
 	tag: Hit
+	tag: McArthurRes
 page:2011-07-19
 	tag: ch-15
 	tag: Ash
 	tag: Emily
+	tag: McArthurRes
 page:2011-07-18
 	tag: ch-15
 	tag: Ash
 	tag: Emily
 	tag: MsMcArthur
+	tag: McArthurRes
 page:2011-07-15
 	tag: ch-15
 	tag: Ash
 	tag: Emily
+	tag: McArthurRes
 page:2011-07-14
 	tag: ch-15
 	tag: Ash
 	tag: Emily
+	tag: McArthurRes
 page:2011-07-13
 	tag: ch-15
 	tag: Ash
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-07-12
 	tag: ch-15
 	tag: Ash
 	tag: Edward
 	tag: Rumisiel
+	tag: UptonHouse
 page:2011-07-11
 	tag: ch-15
 	tag: AlsDiner
@@ -5417,6 +5538,7 @@ page:2011-07-11
 	tag: Hit
 	tag: Ramael
 	tag: Rapists
+	tag: Sword
 page:2011-07-08
 	tag: ch-15
 	tag: AlsDiner
@@ -5453,6 +5575,7 @@ page:2011-07-01
 	tag: Ash
 	tag: AlsDiner
 	tag: Logan
+	tag: XR4Ti
 page:2011-06-30
 	tag: ch-15
 	tag: Ash
@@ -5488,6 +5611,7 @@ page:2011-06-24
 	tag: AlsDiner
 	tag: Missi
 	tag: Rapists
+	tag: XR4Ti
 page:2011-06-23
 	tag: ch-15
 	tag: Ash
@@ -5573,22 +5697,27 @@ page:2011-06-03
 	tag: SchoolRoad
 page:2011-06-02
 	tag: ch-15
+	tag: Flashback
 	tag: Hit
 	tag: Rumisiel
+	tag: UptonHouse
 	tag: Vashiel
 page:2011-06-01
 	tag: ch-15
+	tag: UptonHouse
 	tag: Rumisiel
 	tag: Vashiel
 page:2011-05-31
 	tag: ch-15
 	tag: Ash
 	tag: Heather
+	tag: HeatherHome
 	tag: Phone
 page:2011-05-30
 	tag: ch-15
 	tag: Ash
 	tag: Heather
+	tag: HeatherHome
 	tag: Phone
 page:2011-05-27
 	tag: ch-15
