@@ -29,18 +29,47 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
-page:2014-10-03
-	desc: Donation patch advert
-	tag: Filler
+page:2014-10-10
+	desc: <br>**Book 22**<br><br>early April ’05
+	tag: ch-22
+	tag: Cover
+	tag: Ash
 	tag: Rumisiel
+; Book 21
+page:2014-10-09
+	desc: Rumisisel: Hey, didn't your mom offer you a job at some point?
+	tag: ch-21
+	tag: Ash
+	tag: UptonHouse
+	tag: Rumisiel
+page:2014-10-08
+	desc: Ash: I'm trying to decide between community college and a shitty job
+	tag: ch-21
+	tag: Ash
+	tag: UptonHouse
+	tag: Rumisiel
+page:2014-10-07
+	desc: Emily: That's not the story I've always heard
+	tag: ch-21
+	tag: Emily
+	tag: McArthurRes
+	tag: MsMcArthur
+	tag: Phone
+page:2014-10-06
+	desc: Emily: Mom? Why do you want me to go to Harvard?
+	tag: ch-21
+	tag: Emily
+	tag: McArthurRes
+	tag: MsMcArthur
+	tag: Phone
 page:2014-10-03
 	desc: Emily: Think of it soft of like "good" change
 	tag: Ash
-	tag: Emily
-	tag: Phone
 	tag: ch-21
-	tag: UptonHouse
+	tag: Emily
 	tag: McArthurRes
+	tag: Phone
+	tag: UptonHouse
 page:2014-10-02
 	desc: Ash: How do I get into college?
 	tag: Ash
@@ -883,7 +912,7 @@ page:2014-04-23
 	tag: Monster
 	tag: Oscar
 page:2014-04-22
-	desc: <br>**Book 21**<br><br>late February - March ’05
+	desc: <br>**Book 21**<br><br>late February - early April ’05
 	tag: Angel
 	tag: Cassiel
 	tag: ch-21
