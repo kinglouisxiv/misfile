@@ -29,6 +29,143 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-11-07
+	desc: Emily: I hope this doesn't mean you're not going to follow through...
+	tag: ch-22
+	tag: Emily
+	tag: Rachel
+	tag: RachelHome
+page:2014-11-06
+	desc: Ash: Feeling better about yourself now?
+	tag: ch-22
+	tag: Ash
+	tag: Emily
+	tag: Rachel
+	tag: RachelHome
+	tag: XR4Ti
+page:2014-11-05
+	desc: Oscar: If you want we could double date. You could bring your boyfriend
+	tag: ch-22
+	tag: Emily
+	tag: Oscar
+page:2014-11-04
+	desc: Oscar: What the heck?
+	tag: Ash
+	tag: ch-22
+	tag: Emily
+	tag: Oscar
+	tag: OscarCar
+	tag: XR4Ti
+page:2014-11-03
+	desc: Ash: It's not your responsibility, or mine, or anyone's but Oscar's
+	note: 180° handbrake turn
+	tag: Ash
+	tag: ch-22
+	tag: Emily
+	tag: XR4Ti
+page:2014-10-31
+	desc: Hallowe'en Filler
+	tag: Ash
+	tag: Emily
+	tag: Rumisiel
+page:2014-10-30
+	desc: Emily: Wait... This isn't the way back to town
+	note: Road sign: Indian Hill 0.5, Russell St 2.3
+	tag: Ash
+	tag: ch-22
+	tag: Emily
+	tag: Oscar
+	tag: OscarCar
+	tag: XR4Ti
+page:2014-10-29
+	desc: Emily: You know you have this like your dog just died
+	tag: Ash
+	tag: BerkshireCollege
+	tag: ch-22
+	tag: Emily
+page:2014-10-28
+	desc: Emily: Everywhere you go is going to have an asshole
+	tag: Ash
+	tag: BerkshireCollege
+	tag: ch-22
+	tag: Emily
+page:2014-10-27
+	desc: Emily: You've been treating it like you're choosing between life in prison and a fatal disease.
+	tag: Ash
+	tag: BerkshireCollege
+	tag: ch-22
+	tag: Emily
+page:2014-10-24
+	desc: Emily: When my email send me a message asking if I was interested in a "big dick today" I never thought I'd see it before lunch
+	tag: Ash
+	tag: BerkshireCollege
+	tag: ch-22
+	tag: Colin
+	tag: Computer
+	tag: Emily
+page:2014-10-23
+	desc: Colin: I've been going here for three years. Working here is part of my financial aid
+	tag: Ash
+	tag: BerkshireCollege
+	tag: ch-22
+	tag: Colin
+	tag: Computer
+	tag: Emily
+page:2014-10-22
+	desc: Colin: Look who walked into Colin's office today
+	tag: Ash
+	tag: BerkshireCollege
+	tag: ch-22
+	tag: Colin
+	tag: Computer
+	tag: Emily
+page:2014-10-21
+	desc: Ash: I think I understand why you hate looking at colleges now
+	tag: Ash
+	tag: BerkshireCollege
+	tag: ch-22
+	tag: Emily
+page:2014-10-20
+	desc: Emily: Wow, I love air conditioning 
+	tag: Ash
+	tag: ch-22
+	tag: Emily
+	tag: XR4Ti
+page:2014-10-17
+	desc: Emily: So you DID try it on 
+	tag: Ash
+	tag: Blush
+	tag: ch-22
+	tag: Emily
+	tag: UptonHouse
+page:2014-10-16
+	desc: Ash: Wha?! It's not what you think! I wasn't going to wear it!
+	tag: Ash
+	tag: Blush
+	tag: ch-22
+	tag: Emily
+	tag: UptonHouse
+page:2014-10-15
+	desc: Rumisiel: Hi, Emily. Isn't that your old car?
+	tag: ch-22
+	tag: Emily
+	tag: IceCream
+	tag: Nissan240SX
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Vashiel
+page:2014-10-14
+	desc: Rumisiel: Year's first scorcher, huh?
+	tag: ch-22
+	tag: IceCream
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Vashiel
+page:2014-10-13
+	desc: ArchonKiller: I'm growing impatient.
+	tag: ch-22
+	tag: ArchonKiller
+	tag: Heaven
 page:2014-10-10
 	desc: <br>**Book 22**<br><br>early April ’05
 	tag: ch-22
@@ -63,7 +200,7 @@ page:2014-10-06
 	tag: MsMcArthur
 	tag: Phone
 page:2014-10-03
-	desc: Emily: Think of it soft of like "good" change
+	desc: Emily: Think of it sort of like "good" change
 	tag: Ash
 	tag: ch-21
 	tag: Emily

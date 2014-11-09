@@ -38,6 +38,7 @@ Bacon	traditional breakfast food
 BaldingDude	party-goer
 Beach	"too much sand in my shoes, and the seaweed and salt water ... grossed me out"
 Bed	-
+BerkshireCollege	Community College in Pittsfield, MA
 Blobs	floating background - opaque [Bubbles](#bubbles)?
 Blush	shows happiness / embarrassment / emotion
 Boston	US city
@@ -247,6 +248,7 @@ XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
 ; --- Chapters / Books ---
+ch-22	Book 22: April ’05 –
 ch-21	Book 21: February - April ’05
 ch-20	Book 20: February ’05
 ch-19	Book 19: January ’05
