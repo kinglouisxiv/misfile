@@ -29,6 +29,45 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-11-14
+	desc: Emily: YOU'RE the one with racing dreams. School or job, what are you doing to make THAT happen?
+	tag: Ash
+	tag: Emily
+	tag: School
+	tag: Rumisiel
+page:2014-11-13
+	desc: Emily: I have done good and it has brightened my soul
+	note: (Rachel mentioned, as Raechel)
+	tag: Ash
+	tag: Emily
+	tag: School
+	tag: Rachel	
+	tag: Rumisiel
+page:2014-11-12
+	desc: Ash: School or work?
+	tag: Ash
+	tag: Bubbles
+	tag: Bed
+	tag: Computer
+	tag: Emily
+	tag: Race
+	tag: Cassiel
+	tag: UptonHouse
+page:2014-11-11
+	desc: Rumisiel: It's not like I can "go back to Canada" so to speak
+	tag: Ash
+	tag: Bed
+	tag: Computer
+	tag: Phone
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-11-10
+	desc: Rumisiel: Where do I go next year?
+	tag: Ash
+	tag: Bed
+	tag: Computer
+	tag: Rumisiel
+	tag: UptonHouse
 page:2014-11-07
 	desc: Emily: I hope this doesn't mean you're not going to follow through...
 	tag: ch-22
