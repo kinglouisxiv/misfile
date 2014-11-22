@@ -29,6 +29,31 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-11-21
+	desc: Emily: Speed? Seriously?
+	tag: Nissan240SX
+	tag: Emily
+	tag: MsMcArthur
+page:2014-11-20
+	desc: Transgender Remembrance Day
+	tag: Filler
+	tag: Ash
+page:2014-11-19
+	desc: Emily's Mom: \*Sigh\* I didn't think you'd even be home yet... 
+	tag: Hospital
+	tag: Emily
+	tag: MsMcArthur
+page:2014-11-18
+	desc: Emily’s Mom: It wasn't even a heart attack. It was a "cardiac episode". 
+	tag: Hospital
+	tag: Emily
+	tag: MsMcArthur
+page:2014-11-17
+	desc: Emily: Mom?
+	tag: Ambulance
+	tag: Emily
+	tag: McArthurRes
+	tag: SchoolRoad
 page:2014-11-14
 	desc: Emily: YOU'RE the one with racing dreams. School or job, what are you doing to make THAT happen?
 	tag: Ash
