@@ -29,24 +29,55 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
-page:2014-11-21
-	desc: Emily: Speed? Seriously?
-	tag: Nissan240SX
+page:2014-11-26
+	desc: Ash: Ok. Please. Continue
+	tag: Ash
+	tag: Chair
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-11-27
+	desc: Thanksgiving 2014
+	tag: Angel
+	tag: Ash
+	tag: Emily
+	tag: Puritan
+	tag: Rumisiel
+	tag: Turkey
+page:2014-11-26
+	desc: Rumisiel: Ash! Ash!
+	tag: Ash
+	tag: Chair
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-11-25
+	desc: Emily: Ok? Ok "You're right" or OK "I just want to end this conversation"
 	tag: Emily
 	tag: MsMcArthur
+	tag: Nissan240SX
+page:2014-11-24
+	desc: Emily: You're not allowed to die because "we need the money".
+	tag: Emily
+	tag: MsMcArthur
+	tag: Nissan240SX
+	tag: Tears
+page:2014-11-21
+	desc: Emily: Speed? Seriously?
+	tag: Emily
+	tag: MsMcArthur
+	tag: Nissan240SX
 page:2014-11-20
 	desc: Transgender Remembrance Day
-	tag: Filler
 	tag: Ash
+	tag: Filler
 page:2014-11-19
 	desc: Emily's Mom: \*Sigh\* I didn't think you'd even be home yet... 
-	tag: Hospital
 	tag: Emily
+	tag: Hospital
 	tag: MsMcArthur
 page:2014-11-18
 	desc: Emily’s Mom: It wasn't even a heart attack. It was a "cardiac episode". 
-	tag: Hospital
 	tag: Emily
+	tag: Hospital
 	tag: MsMcArthur
 page:2014-11-17
 	desc: Emily: Mom?
