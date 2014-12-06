@@ -29,11 +29,25 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
-page:2014-12-03
-	desc: Missi: Why the long face?
+page:2014-12-05
+	desc: Rumisiel: Gyaaa! Why did I even ask him that stupid question?!
+	tag: Ash
+	tag: Hosepipe
 	tag: Rumisiel
 	tag: UptonHouse
+	tag: XR4Ti
+page:2014-12-04
+	desc: Missi: Want to unload?
 	tag: Missi
+	tag: Roof
+	tag: Rumisiel
+	tag: UptonHouse
+page:2014-12-03
+	desc: Missi: Why the long face?
+	tag: Missi
+	tag: Roof
+	tag: Rumisiel
+	tag: UptonHouse
 page:2014-12-02
 	desc: Rumisiel: Is there a way to sneak in?
 	tag: Rumisiel
