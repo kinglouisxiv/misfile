@@ -29,6 +29,19 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-12-09
+	desc: Emily: How is this going to work now?
+	tag: Bed
+	tag: Emily
+	tag: McArthurRes
+	tag: MsMcArthur
+page:2014-12-08
+	desc: Emily: It LOOKS like breakfast in bed!
+	tag: Bed
+	tag: Breakfast
+	tag: Emily
+	tag: McArthurRes
+	tag: MsMcArthur
 page:2014-12-05
 	desc: Rumisiel: Gyaaa! Why did I even ask him that stupid question?!
 	tag: Ash
