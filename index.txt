@@ -29,6 +29,13 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-12-10
+	desc: Ash: Mom, I've got a decision to make and...
+	tag: Ash
+	tag: Marie
+	tag: MarieHouse
+	tag: Phone
+	tag: UptonHouse
 page:2014-12-09
 	desc: Emily: How is this going to work now?
 	tag: Bed
