@@ -29,9 +29,28 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-12-12
+	desc: Marie: You do all that and I'LL fund that racing team dream
+	tag: Ash
+	tag: ch-22
+	tag: Marie
+	tag: MarieHouse
+	tag: Phone
+	tag: UptonHouse
+	tag: XR4Ti
+page:2014-12-11
+	desc: Ash: Don't get too happy
+	tag: Ash
+	tag: ch-22
+	tag: CatAndMouse
+	tag: Marie
+	tag: MarieHouse
+	tag: Phone
+	tag: UptonHouse
 page:2014-12-10
 	desc: Ash: Mom, I've got a decision to make and...
 	tag: Ash
+	tag: ch-22
 	tag: Marie
 	tag: MarieHouse
 	tag: Phone
@@ -39,6 +58,7 @@ page:2014-12-10
 page:2014-12-09
 	desc: Emily: How is this going to work now?
 	tag: Bed
+	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
@@ -46,30 +66,35 @@ page:2014-12-08
 	desc: Emily: It LOOKS like breakfast in bed!
 	tag: Bed
 	tag: Breakfast
+	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
 page:2014-12-05
 	desc: Rumisiel: Gyaaa! Why did I even ask him that stupid question?!
 	tag: Ash
+	tag: ch-22
 	tag: Hosepipe
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: XR4Ti
 page:2014-12-04
 	desc: Missi: Want to unload?
+	tag: ch-22
 	tag: Missi
 	tag: Roof
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-12-03
 	desc: Missi: Why the long face?
+	tag: ch-22
 	tag: Missi
 	tag: Roof
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-12-02
 	desc: Rumisiel: Is there a way to sneak in?
+	tag: ch-22
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
@@ -78,12 +103,14 @@ page:2014-12-01
 	tag: Ash
 	tag: Bat
 	tag: Bunny
+	tag: ch-22
 	tag: Graveyard
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-11-28
 	desc: Ash: Ok. Please. Continue
 	tag: Ash
+	tag: ch-22
 	tag: Chair
 	tag: Rumisiel
 	tag: UptonHouse
@@ -98,11 +125,13 @@ page:2014-11-27
 page:2014-11-26
 	desc: Rumisiel: Ash! Ash!
 	tag: Ash
+	tag: ch-22
 	tag: Chair
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-11-25
 	desc: Emily: Ok? Ok "You're right" or OK "I just want to end this conversation"
+	tag: ch-22
 	tag: Emily
 	tag: MsMcArthur
 	tag: Nissan240SX
@@ -114,6 +143,7 @@ page:2014-11-24
 	tag: Tears
 page:2014-11-21
 	desc: Emily: Speed? Seriously?
+	tag: ch-22
 	tag: Emily
 	tag: MsMcArthur
 	tag: Nissan240SX
@@ -123,23 +153,27 @@ page:2014-11-20
 	tag: Filler
 page:2014-11-19
 	desc: Emily's Mom: \*Sigh\* I didn't think you'd even be home yet... 
+	tag: ch-22
 	tag: Emily
 	tag: Hospital
 	tag: MsMcArthur
 page:2014-11-18
-	desc: Emily’s Mom: It wasn't even a heart attack. It was a "cardiac episode". 
+	desc: Emily’s Mom: It wasn't even a heart attack. It was a "cardiac episode" 
+	tag: ch-22
 	tag: Emily
 	tag: Hospital
 	tag: MsMcArthur
 page:2014-11-17
 	desc: Emily: Mom?
 	tag: Ambulance
+	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
 	tag: SchoolRoad
 page:2014-11-14
 	desc: Emily: YOU'RE the one with racing dreams. School or job, what are you doing to make THAT happen?
 	tag: Ash
+	tag: ch-22
 	tag: Emily
 	tag: School
 	tag: Rumisiel
@@ -147,6 +181,7 @@ page:2014-11-13
 	desc: Emily: I have done good and it has brightened my soul
 	note: (Rachel mentioned, as Raechel)
 	tag: Ash
+	tag: ch-22
 	tag: Emily
 	tag: School
 	tag: Rachel	
@@ -156,6 +191,7 @@ page:2014-11-12
 	tag: Ash
 	tag: Bubbles
 	tag: Bed
+	tag: ch-22
 	tag: Computer
 	tag: Emily
 	tag: Race
@@ -165,6 +201,7 @@ page:2014-11-11
 	desc: Rumisiel: It's not like I can "go back to Canada" so to speak
 	tag: Ash
 	tag: Bed
+	tag: ch-22
 	tag: Computer
 	tag: Phone
 	tag: Rumisiel
@@ -173,6 +210,7 @@ page:2014-11-10
 	desc: Rumisiel: Where do I go next year?
 	tag: Ash
 	tag: Bed
+	tag: ch-22
 	tag: Computer
 	tag: Rumisiel
 	tag: UptonHouse

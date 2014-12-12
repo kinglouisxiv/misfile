@@ -25,9 +25,9 @@ Anna	school kid
 Annie	a mouthy schoolkid
 Archon	a class of boss angel & endangered species
 ArchonKiller	a mystery
-Aries	’[Arry](#harry)’s auto workshop
+Aries	[’Arry](#harry)’s auto workshop
 Arthur	a racer boy
-Ash	Ash Upton “King of the Mountain”; our protagonist; drives a Merkur XR4Ti & "The Monster" an XR4Ti / Sierra Cosworth hybrid
+Ash	Ash Upton "King of the Mountain"; our protagonist; drives a Merkur XR4Ti & "The Monster" an XR4Ti / Sierra Cosworth hybrid
 Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. never existed – WoG)
 AshMale	representation of Ash as male
 Audi	[Edward Upton](#edward)'s car, licence plate DR-U
@@ -65,6 +65,7 @@ Casper	'Cas', racer in Cape Cod, friend of [Brent](#brent); drives an MR2
 CasperCar	an [MR2](https://en.wikipedia.org/wiki/Toyota_MR2) 
 Cassi	Cassiel's dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
 Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-, more bother. Lucifer's niece.
+CatNMouse	a background
 CFS	Celestial Filing System (properly the _[Celestial Filing Depository](http://web.archive.org/web/20060326052535/http://www.misfile.com/?menu=filing)_). Divided into five branches, four of which have an [Archon](#archon)
 CFS1	First Branch: facets of time, space and celestial motion
 CFS2	Second Branch: maintaining physical laws of the Creation
