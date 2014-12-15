@@ -29,6 +29,13 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-12-15
+	desc: Rachel: Well howdy. Doing some shopping?
+	tag: ch-22
+	tag: Emily
+	tag: FoodMart
+	tag: Rachel
+	tag: Shopping
 page:2014-12-12
 	desc: Marie: You do all that and I'LL fund that racing team dream
 	tag: Ash
