@@ -29,11 +29,36 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-12-19
+	desc: Rumisiel: It is? You don't mind if I sneak back into heaven?
+	tag: ch-22
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Vashiel
+page:2014-12-18
+	desc: Rumisiel: So, uh, Vash... That question I asked...
+	tag: ch-22
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Vashiel
+page:2014-12-17
+	desc: Ash: I... I figured you'd filled out, like, a thousand of these
+	tag: Ash
+	tag: ch-22
+	tag: Emily
+	tag: McArthurRes
+page:2014-12-16
+	desc: Rachel: It's not mean if I'm totally going to make out with him afterwards...
+	tag: ch-22
+	tag: Emily
+	tag: FarmerMart
+	tag: Rachel
+	tag: Shopping
 page:2014-12-15
 	desc: Rachel: Well howdy. Doing some shopping?
 	tag: ch-22
 	tag: Emily
-	tag: FoodMart
+	tag: FarmerMart
 	tag: Rachel
 	tag: Shopping
 page:2014-12-12
