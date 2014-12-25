@@ -29,6 +29,33 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2014-12-25
+	desc: Christmas 2014
+	tag: Filler
+	tag: Ash
+	tag: Emily
+page:2014-12-24
+	desc: Emily: It's personal. I don't think I should go into it.
+	tag: Ash
+	tag: ApplicationForm
+	tag: ch-22
+	tag: Emily
+	tag: McArthurRes
+page:2014-12-23
+	desc: Ash: Should I dot my i's with little circles?
+	tag: Ash
+	tag: ApplicationForm
+	tag: Bubbles
+	tag: ch-22
+	tag: Emily
+	tag: McArthurRes
+page:2014-12-22
+	desc: Ash: "Where do you see yourself five years from now?" Seriously?
+	tag: Ash
+	tag: ApplicationForm
+	tag: ch-22
+	tag: Emily
+	tag: McArthurRes
 page:2014-12-19
 	desc: Rumisiel: It is? You don't mind if I sneak back into heaven?
 	tag: ch-22
@@ -43,6 +70,7 @@ page:2014-12-18
 	tag: Vashiel
 page:2014-12-17
 	desc: Ash: I... I figured you'd filled out, like, a thousand of these
+	tag: ApplicationForm
 	tag: Ash
 	tag: ch-22
 	tag: Emily
@@ -314,6 +342,7 @@ page:2014-10-27
 	tag: Emily
 page:2014-10-24
 	desc: Emily: When my email send me a message asking if I was interested in a "big dick today" I never thought I'd see it before lunch
+	tag: ApplicationForm
 	tag: Ash
 	tag: BerkshireCollege
 	tag: ch-22
@@ -322,6 +351,7 @@ page:2014-10-24
 	tag: Emily
 page:2014-10-23
 	desc: Colin: I've been going here for three years. Working here is part of my financial aid
+	tag: ApplicationForm
 	tag: Ash
 	tag: BerkshireCollege
 	tag: ch-22
