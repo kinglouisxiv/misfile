@@ -29,11 +29,49 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2015-01-02
+	desc: Emily: Party secrets? I'm not sure. I don't think I'm going
+	tag: Ash
+	tag: Emily
+	tag: McArthurRes
+page:2015-01-01
+	desc: Ash: Check it out. One application neatly filled out
+	tag: Ash
+	tag: ApplicationForm
+	tag: Emily
+	tag: McArthurRes
+page:2014-12-31
+	desc: Ash: This isn't like a pajama party or anything, right?
+	tag: Ash
+	tag: Missi
+	tag: Rumisiel
+	tag: School
+	tag: Skull
+page:2014-12-30
+	desc: Missi: It means I'm having a party and you have to come
+	tag: Ash
+	tag: Missi
+	tag: School
+	tag: Skull
+page:2014-12-29
+	desc: Missi: Well MY sixteenth birthday is coming up and I'M getting my learners permit
+	tag: Ash
+	tag: Bubbles
+	tag: Missi
+	tag: School
+	tag: Skull
+page:2014-12-26
+	desc: Ash: You want to be part of my racing team?
+	tag: Ash
+	tag: Emily
+	tag: McArthurRes
 page:2014-12-25
 	desc: Christmas 2014
 	tag: Filler
 	tag: Ash
 	tag: Emily
+	tag: Kiss
+	tag Mistletoe
 page:2014-12-24
 	desc: Emily: It's personal. I don't think I should go into it.
 	tag: Ash
