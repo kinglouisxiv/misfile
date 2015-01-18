@@ -12,7 +12,7 @@ Aiden	Aiden Brewster, car-whisperer; rebuilds & drives Nissan 240/260/280 series
 AidenHome	house number 1066; Aiden lives opposite [Bronwyn](#bronwyn) 		
 AleHouse	bar-bistro on Cape Cod near [Marie Upton's](#marie) [house](#mariehouse)
 Alleyway	dumpster-filled dead-end 
-AllTrac	[Burt's](#burt) race car
+AllTrac	[Burt's](#burt) race car [wikipedia: All-Trac](https://en.wikipedia.org/wiki/All-Trac)
 AlsDiner	Al’s Diner, [Tempest](#tempest) area
 Amara	models for [Marie](#marie)
 AndySherman	Andy Sherman, chivalrous to a fault
@@ -37,7 +37,6 @@ AutoModerZ	car supplies emporium
 Bacon	traditional breakfast food
 BaldingDude	party-goer
 Beach	"too much sand in my shoes, and the seaweed and salt water ... grossed me out"
-Bed	-
 BerkshireCollege	Community College in Pittsfield, MA
 Blobs	floating background - opaque [Bubbles](#bubbles)?
 Blush	shows happiness / embarrassment / emotion
@@ -63,8 +62,8 @@ CarSale	car sale lots
 CasHome	where Casper lives, somewhere on Cape Cod
 Casper	'Cas', racer in Cape Cod, friend of [Brent](#brent); drives an MR2
 CasperCar	an [MR2](https://en.wikipedia.org/wiki/Toyota_MR2) 
-Cassi	Cassiel's dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
-Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-, more bother. Lucifer's niece.
+Cassi	[Cassiel's](#cassiel) dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
+Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-. Lucifer's niece. Also see [Cassi](#cassi)
 CatNMouse	a background
 CFS	Celestial Filing System (properly the _[Celestial Filing Depository](http://web.archive.org/web/20060326052535/http://www.misfile.com/?menu=filing)_). Divided into five branches, four of which have an [Archon](#archon)
 CFS1	First Branch: facets of time, space and celestial motion
@@ -120,7 +119,7 @@ IRsensor	a remote infrared & motion sensing camera
 Ivan	the self-proclaimed ‘Ice King’
 JaguarXKR	Kate's ride, tuned by Harry, license "Kate 3"
 James	nailed [Ash](#ash), but only in [flashback](#flashback), drives a [Mitsubishi 3000GT VR4](#m3000gt)
-JamesHouse	a couple of houses down from the Upton residence
+JamesHouse	a couple of houses down from the Upton residence. Number 17
 Janine	unseen friend of Missi(#missi)
 Jason	a local racer kid
 Jazz	a restaurant
@@ -203,7 +202,7 @@ Receptionist	at [Thorin Medical](#thorin)
 Roger	an unidentified colleague of [Marie](#marie)
 Rose	[Ale House](#alehouse) [waitperson](#waitperson), [Tyler](#tyler)’s sister, under 18
 Roy	owner/operator of [Speedway](#speedway) dirt track
-Rumisiel	angel; "son of Gabriel, Angel of the 3rd Circle, 437 years old, and unmarried" -- used to work in the astral wing of [5th Branch](#cfs5) of the celestial filing depository; the cause of all the bother
+Rumisiel	"son of Gabriel, Angel of the 3rd Circle, 437 years old, and unmarried" -- used to work in the astral wing of [5th Branch](#cfs5) of the celestial filing depository. The cause of all the bother
 Ryan	nailed [Emily](#emily)
 Salesman	a car sales dude, not [Burt](#burt)
 School	Tempest High
@@ -228,7 +227,7 @@ Sword	for angelic smitings
 Tarot	playing cards, with mystical properties when used with insight
 Teacher	generic, unnamed, of math, gym, sport, _etc_
 Tears	and crying
-Tempest	small (pop ~8,000) town, est. 1879, in western Massachusetts, scene of most of the action
+Tempest	small (pop ~8,000) town, est. 1876, in western Massachusetts, scene of most of the action
 TempestHealth	[Dr Upton](#edward)’s workplace
 Terrael	angel, co-administrator of [5th Branch](#cfs5) with [Fillaniel](#fillaneal)
 Teshiel	a hefty angel once answered truthfully by [Vashiel](#vashiel)
