@@ -13,7 +13,7 @@ AidenHome	house number 1066; Aiden lives opposite [Bronwyn](#bronwyn)
 AleHouse	bar-bistro on Cape Cod near [Marie Upton's](#marie) [house](#mariehouse)
 Alleyway	dumpster-filled dead-end 
 AllTrac	[Burt's](#burt) race car [wikipedia: All-Trac](https://en.wikipedia.org/wiki/All-Trac)
-AlsDiner	Al’s Diner, [Tempest](#tempest) area
+AlsDiner	Al's Diner, [Tempest](#tempest) area
 Amara	models for [Marie](#marie)
 AndySherman	Andy Sherman, chivalrous to a fault
 Angel	manifestin’ wingz, halo, powerz
@@ -23,12 +23,12 @@ AngelGirl2	another [CFS](#cfs) minion
 Angelica	[Kate](#kate)’s sister
 Anna	school kid
 Annie	a mouthy schoolkid
-Archon	a class of boss angel & endangered species
+Archon	a class of boss angel & an endangered species
 ArchonKiller	a mystery
-Aries	[’Arry](#harry)’s auto workshop
+Aries	[’Arry's](#harry) auto workshop
 Arthur	a racer boy
 Ash	Ash Upton "King of the Mountain"; our protagonist; drives a Merkur XR4Ti & "The Monster" an XR4Ti / Sierra Cosworth hybrid
-Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. never existed – WoG)
+Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. never existed -- WoG)
 AshMale	representation of Ash as male
 Audi	[Edward Upton](#edward)'s car, licence plate DR-U
 AudiS4	Sheldon’s ride
@@ -38,7 +38,7 @@ Bacon	traditional breakfast food
 BaldingDude	party-goer
 Beach	"too much sand in my shoes, and the seaweed and salt water ... grossed me out"
 BerkshireCollege	Community College in Pittsfield, MA
-Blobs	floating background - opaque [Bubbles](#bubbles)?
+Blobs	floating background -- opaque [Bubbles](#bubbles)?
 Blush	shows happiness / embarrassment / emotion
 Boston	US city
 BostonLogan	Boston Logan airport, identified by the twin pillar control tower
@@ -55,7 +55,7 @@ BurtsYard	one place where Burt does business
 CafeMarat	café in [Tempest](#tempest)
 Camera	takes pictures
 Candle	decorative/romantic light & scent source
-Cantina32	restaurant in [Tempest](#tempest)'s main street
+Cantina32	restaurant in [Tempest's](#tempest) main street
 CapKid	generic: some kid wearing a cap
 CardShop	selling greeting cards
 CarSale	car sale lots
@@ -68,7 +68,7 @@ CatNMouse	a background
 CFS	Celestial Filing System (properly the _[Celestial Filing Depository](http://web.archive.org/web/20060326052535/http://www.misfile.com/?menu=filing)_). Divided into five branches, four of which have an [Archon](#archon)
 CFS1	First Branch: facets of time, space and celestial motion
 CFS2	Second Branch: maintaining physical laws of the Creation
-CFS3	Third Branch:  maintaining the physical laws of the Creation
+CFS3	Third Branch:  (also?) maintaining the physical laws of the Creation 
 CFS4	Fourth Branch: takes measurements on Earth and compares them to extrapolations from the filing system
 CFS5	deals with fairly mundane aspects of life on earth. Unimportant, no [Archon](#archon) [[ref](http://www.misfile.com/?date=2007-09-13)]. [Rumisiel](#rumisiel) worked here.
 Chains	a unhappy bind-y background
@@ -103,10 +103,10 @@ Flashback	sometimes to a past that everyone but [Ash](#ash) and [Emily](#emily) 
 FarmerMart	generic food store in/around Tempest area ("—rMart")
 Fred	a footballer at the school
 Fresh-Mart	a supermarket / store in the Tempest area
-FullerHome	[Missi’s](#missi) lair (& [Tom's](#tom) too)
+FullerHome	[Missi's](#missi) lair (& [Tom's](#tom) too)
 Gabriel	archangel, 'father' to [Rumisiel](#rumisiel), [Vashiel](#vashiel)
 GirlA	romantic schoolgirl
-GirlB	a romance questioning schoolgirl
+GirlB	a romance-questioning schoolgirl
 GoateeKid	a customer at [The Ale House](#alehouse) with [KidConvertable](#kidconvertable)
 GreeneHouse	a party scene for [Jenny Greene](#jennygreene)
 Gyno	the exams [Ash](#ash) tries to skip
@@ -116,10 +116,10 @@ HeatherHome	where Heather lurks; (Art Note: doorway has changed)
 Hickey	a "love-bite" [Wikipedia](https://en.wikipedia.org/wiki/Hickey)
 Hit	punch / kick / chase
 IRsensor	a remote infrared & motion sensing camera
-Ivan	the self-proclaimed ‘Ice King’
+Ivan	the self-proclaimed 'Ice King'
 JaguarXKR	Kate's ride, tuned by Harry, license "Kate 3"
 James	nailed [Ash](#ash), but only in [flashback](#flashback), drives a [Mitsubishi 3000GT VR4](#m3000gt)
-JamesHouse	a couple of houses down from the Upton residence. Number 17
+JamesHouse	a couple of houses down from the Upton residence. Number 17. Door has changed.
 Janine	unseen friend of Missi(#missi)
 Jason	a local racer kid
 Jazz	a restaurant
@@ -135,7 +135,7 @@ Kay	Kay Wheeler, model, works for [Marie](#marie), drives a Miata
 Kevin	a reconnaissance [Sheldonista](#sheldonista)
 KidB	some boy at school
 KidConvertable	tried to pick up Ash at [The Ale House](#alehouse)
-Kiss	… is just a kiss, a sigh is just …
+Kiss	... is just a kiss, a sigh is just ...
 LeicesterPark	outdoor wedding venue
 Lisa	a waitperson
 LocationTBA	unclear whether Kate's family's or Kate & Harry's place
@@ -145,12 +145,12 @@ M3	Brent's car
 M3000GT	Mitsubishi 3000GT VR4 sports car, as driven by James
 Mace	pepper spray
 MacsBar	a bar
-Marie	Marie Upton, [Ash](#ash)’s Mom, ex-model, ex-wife of [Edward Upton](#edward)
+Marie	Marie Upton, [Ash's](#ash) Mom, ex-model, ex-wife of [Edward Upton](#edward)
 MarieHouse	Marie Upton's home, with access to the beach, at [Dennis](https://en.wikipedia.org/wiki/Dennis,_Massachusetts), Cape Cod: [WoG](#wog)
 MarieWork	where Marie runs a fashion/lingerie business
 Maude	canteen catering & hair advice
 MaxSpeed	_Maximum Speed Factor_ -- car racing video game, named  [2009-01-14](http://www.misfile.com/?date=2009-01-14) (Thx _Cobra_)
-McArthurRes	The McArthur residence – [Emily](#emily)’s home, [house no. 124](http://www.misfile.com/?date=2007-05-29)
+McArthurRes	The McArthur residence -- [Emily's](#emily) home, [house no. 124](http://www.misfile.com/?date=2007-05-29)
 Melissa	Dr Melissa Frist, gynaecologist at [Thorin Medical](#thorin)
 Miata	[Kay's](#kay) ride
 MiniVan	[Mom McArthur's](#msmcarthur) ride
@@ -159,29 +159,29 @@ MMO	Massive Multiplayer Online game
 ModelGirl	a victim of [Cassiel](#cassiel)
 ModelGirl2	fleeing [Cassiel](#cassiel)
 Molly	Molly Taber, bitch/tart (with a heart), drives a [Volkswagen](#vw)
-Monster	The Monster: Ash's frankencar, 4 wheel drive racer, built from various Cosworth models
+Monster	The Monster XR: Ash's frankencar, 4 wheel drive racer, built from various Cosworth models: higher spoiler with centre pillar; single right side hood intake. 
 Morgan	a bit of a slapper
 MR2	[Casper's](#casper) car
-MrCuddles	[Missi](#missi)’s confidant & comforter
+MrCuddles	[Missi's](#missi) confidant & comforter
 MrMacMannus	a teacher of 19th century literature
 MrMuffy	a [Walsh-clan](#dogwalsh) dog with an inquisitive nose
 MrWalker	auto class teacher
 MsFlanery	a teacher
-MsMcArthur	[Emily](#emily)’s Mom
+MsMcArthur	[Emily's](#emily) Mom
 Mustang	a ’68 fast back, [Emily's](#emily) other ride
 Myrael	missing [Archon](#archon) of [3rd Branch](#cfs3)
 N240Z	Nissan 240Z sportscar, junker restored by [Aiden](#aiden)
 Nissan240SX	[Emily's](#emily) car, manual transmission upgrade by [Ash](#ash)
 Nosebleed	you need a girlfriend, laddie!
-OldRoad	local race site, a.k.a the Mountain. [A brief history](http://web.archive.org/web/20060326052520/http://www.misfile.com/?menu=oldroad)
+OldRoad	local race site, a.k.a. the Mountain. [A brief history](http://web.archive.org/web/20060326052520/http://www.misfile.com/?menu=oldroad)
 Oscar	looks surprisingly like [Emily](#emily)
 OscarCar	unidentified model; has a spoiler
 Pager	receive-only text messager
 ParkingLot	race/practice ground, after hours
-Party	let’s …
-Patient	Ms J Random …
-Period	don’t say …
-Phone	calling on the …
+Party	let’s ...
+Patient	Ms J Random ...
+Period	don’t say ...
+Phone	calling on the ...
 Photo	the camera never lies
 Police	the long arm of the law
 Race	what [Ash](#ash) is all about
@@ -208,16 +208,16 @@ Salesman	a car sales dude, not [Burt](#burt)
 School	Tempest High
 SchoolRoad	the long walk between the Upton home and Tempest High
 Security	private security staff
-ShawsSteak	Shaw’s Steakhouse
+ShawsSteak	Shaw's Steakhouse
 Sheldon	Machiavellian racer, drives an [Audi S4](#audis4)
-Sheldonista	Sheldon’s bully boys: "just muscle"
+Sheldonista	Sheldon's bully boys: "just muscle"
 ShopAsst	shop staff
 Shopping	recreational retail therapy
 ShoulderAngel	conscience avatars
 Shower	steaminess and high emotions
 Shrimpy	rich bitch party-goer who hasn't quite 'got' the memo
 Smoothie	a puréed fruit drink
-SomeMom	trying to get a word in, edgeways
+SomeMom	trying to get a word in edgeways
 Speedway	dirtstrip race track
 Spirit	spooky stuff
 StripMall	"the strip mall parking lot over on Route 2"
@@ -227,29 +227,30 @@ Sword	for angelic smitings
 Tarot	playing cards, with mystical properties when used with insight
 Teacher	generic, unnamed, of math, gym, sport, _etc_
 Tears	and crying
-Tempest	small (pop ~8,000) town, est. 1876, in western Massachusetts, scene of most of the action
-TempestHealth	[Dr Upton](#edward)’s workplace
+Tempest	small (pop ~8,000) town, est. 1876, in western Massachusetts. Scene of most of the action
+TempestHealth	[Dr Upton's](#edward) workplace
 Terrael	angel, co-administrator of [5th Branch](#cfs5) with [Fillaniel](#fillaneal)
-Teshiel	a hefty angel once answered truthfully by [Vashiel](#vashiel)
-Thorin	Thorin Medical practice, [Dr Frist](#melissa)’s workplace
-Tom	Tom Fuller, [Missi](#missi)’s brother, adopted, [Ash](#ash)’s early rival, drives an Acura
+Teshiel	a hefty angel, once answered truthfully by [Vashiel](#vashiel)
+Thorin	Thorin Medical practice, [Dr Frist's](#melissa) workplace
+Tom	Tom Fuller, [Missi's](#missi) brother, adopted. [Ash's](#ash) early rival. Drives an Acura
 TriangleMall	a mall
 Truro	[town](https://en.wikipedia.org/wiki/Truro,_Massachusetts) on Cape Cod, with beachfront parking areas suitable for racing
-Tyler	runs [The Ale House](#alehouse), [Rose](#rose)’s brother
+Tyler	runs [The Ale House](#alehouse), [Rose's](#rose) brother
+Uniform	Mechanic's uniform: blue shirt, pants and a hat, plus _Team Misfile_ patches
 UptonHouse	[Edward](#edward) and [Ash](#ash) live here
 Valentine	"... and 18 a letter of love"
-Vashiel	angel, [Rumisiel](#rumisiel)’s truthful brother; “of the second order of holy swords, divine punishment division”
+Vashiel	angel, [Rumisiel's](#rumisiel) truthful brother; “of the second order of holy swords, divine punishment division”
 VW	Volkswagen – Beetle, modern edition: [Molly's](#molly) car
 WaitPerson	a burger bearer
 Wei	a hospital medical worker
 WoG	Word of God: information from Chris Hazelton, not necessarily in the online comics
 X-ray	A racer guy at Tempest High (named from a shirt logo)
-Xaphrael	angel, [CFS](#cfs) security?, [Vashiel](#vashiel)’s erstwhile comrade
-XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI
+Xaphrael	angel, [CFS](#cfs) security?, [Vashiel's](#vashiel) erstwhile comrade
+XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI. Twin symmetrical intakes on the hood, simple spoiler
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
 ; --- Chapters / Books ---
-ch-22	Book 22: April ’05 –
+ch-22	Book 22: April ’05 -
 ch-21	Book 21: February - April ’05
 ch-20	Book 20: February ’05
 ch-19	Book 19: January ’05
