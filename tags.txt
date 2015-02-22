@@ -64,7 +64,7 @@ Casper	'Cas', racer in Cape Cod, friend of [Brent](#brent); drives an MR2
 CasperCar	an [MR2](https://en.wikipedia.org/wiki/Toyota_MR2) 
 Cassi	[Cassiel's](#cassiel) dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
 Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-. Lucifer's niece. Also see [Cassi](#cassi)
-CatNMouse	a background
+CatAndMouse	a background
 CFS	Celestial Filing System (properly the _[Celestial Filing Depository](http://web.archive.org/web/20060326052535/http://www.misfile.com/?menu=filing)_). Divided into five branches, four of which have an [Archon](#archon)
 CFS1	First Branch: facets of time, space and celestial motion
 CFS2	Second Branch: maintaining physical laws of the Creation
@@ -100,7 +100,6 @@ Fillaniel	angel, a [CFS](#cfs) boss, joint administrator of [5th Branch](#cfs5) 
 Filler	non-story pages: Xmas, Remembrance, crossovers, etc
 Fireworks	skyrockets and mortars
 Flashback	sometimes to a past that everyone but [Ash](#ash) and [Emily](#emily) remembers
-FarmerMart	generic food store in/around Tempest area ("—rMart")
 Fred	a footballer at the school
 Fresh-Mart	a supermarket / store in the Tempest area
 FullerHome	[Missi's](#missi) lair (& [Tom's](#tom) too)
@@ -120,7 +119,7 @@ Ivan	the self-proclaimed 'Ice King'
 JaguarXKR	Kate's ride, tuned by Harry, license "Kate 3"
 James	nailed [Ash](#ash), but only in [flashback](#flashback), drives a [Mitsubishi 3000GT VR4](#m3000gt)
 JamesHouse	a couple of houses down from the Upton residence. Number 17. Door has changed.
-Janine	unseen friend of Missi(#missi)
+Janine	unseen friend of [Missi](#missi)
 Jason	a local racer kid
 Jazz	a restaurant
 Jen	a waitperson at the [Breakfast Anytime](#breakfastanytime) [diner](#diner)
@@ -139,7 +138,7 @@ Kiss	... is just a kiss, a sigh is just ...
 LeicesterPark	outdoor wedding venue
 Lisa	a waitperson
 LocationTBA	unclear whether Kate's family's or Kate & Harry's place
-Logan	racer, homeschooled, sees angels
+Logan	racer, homeschooled, sees angels, drives an RX-7 with a Pinapple engine
 LoganHome	house number: 402
 M3	Brent's car
 M3000GT	Mitsubishi 3000GT VR4 sports car, as driven by James
@@ -148,6 +147,7 @@ MacsBar	a bar
 Marie	Marie Upton, [Ash's](#ash) Mom, ex-model, ex-wife of [Edward Upton](#edward)
 MarieHouse	Marie Upton's home, with access to the beach, at [Dennis](https://en.wikipedia.org/wiki/Dennis,_Massachusetts), Cape Cod: [WoG](#wog)
 MarieWork	where Marie runs a fashion/lingerie business
+Mart	generic food store in/around Tempest area ("...ar MAR...")
 Maude	canteen catering & hair advice
 MaxSpeed	_Maximum Speed Factor_ -- car racing video game, named  [2009-01-14](http://www.misfile.com/?date=2009-01-14) (Thx _Cobra_)
 McArthurRes	The McArthur residence -- [Emily's](#emily) home, [house no. 124](http://www.misfile.com/?date=2007-05-29)
@@ -233,7 +233,7 @@ Terrael	angel, co-administrator of [5th Branch](#cfs5) with [Fillaniel](#fillane
 Teshiel	a hefty angel, once answered truthfully by [Vashiel](#vashiel)
 Thorin	Thorin Medical practice, [Dr Frist's](#melissa) workplace
 Tom	Tom Fuller, [Missi's](#missi) brother, adopted. [Ash's](#ash) early rival. Drives an Acura
-TriangleMall	a mall
+TriangleMall	a mall (!)
 Truro	[town](https://en.wikipedia.org/wiki/Truro,_Massachusetts) on Cape Cod, with beachfront parking areas suitable for racing
 Tyler	runs [The Ale House](#alehouse), [Rose's](#rose) brother
 Uniform	Mechanic's uniform: blue shirt, pants and a hat, plus _Team Misfile_ patches
@@ -242,6 +242,7 @@ Valentine	"... and 18 a letter of love"
 Vashiel	angel, [Rumisiel's](#rumisiel) truthful brother; “of the second order of holy swords, divine punishment division”
 VW	Volkswagen – Beetle, modern edition: [Molly's](#molly) car
 WaitPerson	a burger bearer
+WallaceSign	signs from the failed development [Old Road](#oldroad) sometimes used by the racers as meeting points and finish lines for races.
 Wei	a hospital medical worker
 WoG	Word of God: information from Chris Hazelton, not necessarily in the online comics
 X-ray	A racer guy at Tempest High (named from a shirt logo)
@@ -250,8 +251,8 @@ XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI. Twin sy
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
 ; --- Chapters / Books ---
-ch-22	Book 22: April ’05 -
-ch-21	Book 21: February - April ’05
+ch-22	Book 22: March ’05 -
+ch-21	Book 21: February - March ’05
 ch-20	Book 20: February ’05
 ch-19	Book 19: January ’05
 ch-18	Book 18: December ’04 - January ’05
