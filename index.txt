@@ -39,27 +39,31 @@ baseurl: http://www.misfile.com/?date={0}
 ;page:2015-02-21
 page:2015-02-20
 	desc: Emily: Is there, like, a testosterone drip in this aisle?
-	tag: AutoModerZ
 	tag: Ash
+	tag: AutoModerZ
+	tag: ch-22
 	tag: Emily
-	tag: SupraDriver
 	tag: p-090
+	tag: SupraDriver
 page:2015-02-19
 	desc: Ash: Like pulling up next to a random person and trying to make them drag race?
-	tag: AutoModerZ
 	tag: Ash
-	tag: SupraDriver
+	tag: AutoModerZ
+	tag: ch-22
 	tag: p-089
+	tag: SupraDriver
 page:2015-02-18
 	desc: Ash: Sorry I... YOU!
-	tag: AutoModerZ
 	tag: Ash
-	tag: SupraDriver
+	tag: AutoModerZ
+	tag: ch-22
 	tag: p-088
+	tag: SupraDriver
 page:2015-02-17
 	desc: Ash: Pick a place
-	tag: AutoModerZ
 	tag: Ash
+	tag: AutoModerZ
+	tag: ch-22
 	tag: Emily
 	tag: p-087
 page:2015-02-16
@@ -124,16 +128,16 @@ page:2015-02-06
 page:2015-02-05
 	desc: Missi: If you beat this guy I have no idea how to stop myself from jumping on you right here in this car!
 	tag: Ash
-	tag: p-080
 	tag: ch-22
 	tag: Missi
+	tag: p-080
 	tag: Uniform
 	tag: XR4Ti
 page:2015-02-04
 	desc: SupraDriver: What gives? You car is clearly set up for racing
 	tag: Ash
-	tag: p-079
 	tag: ch-22
+	tag: p-079
 	tag: Supra
 	tag: SupraDriver
 	tag: Tempest
@@ -142,8 +146,8 @@ page:2015-02-03
 	desc: Ash: New York plates...
 	note: 180° handbrake turn
 	tag: Ash
-	tag: p-078
 	tag: ch-22
+	tag: p-078
 	tag: Supra
 	tag: Tempest
 	tag: TrafficLight
@@ -151,9 +155,9 @@ page:2015-02-03
 page:2015-02-02
 	desc: Missi: He wants to race. This is so COOL. Kick his ass!
 	tag: Ash
-	tag: p-077
 	tag: ch-22
 	tag: Missi
+	tag: p-077
 	tag: Supra
 	tag: Tempest
 	tag: TrafficLight
@@ -164,47 +168,47 @@ page:2015-02-02
 page:2015-01-30
 	desc: Ash: When this place clears out I'll give you the ride of your life
 	tag: Ash
-	tag: p-076
 	tag: ch-22
 	tag: FullerHome
 	tag: Missi
+	tag: p-076
 	tag: Party
 	tag: XR4Ti
 page:2015-01-29
 	desc: Ash: Stop that... Seriously... It's creeping me out 
 	tag: Ash
-	tag: p-075
 	tag: ch-22
 	tag: FullerHome
 	tag: Missi
+	tag: p-075
 	tag: Party
 page:2015-01-28
 	desc: Emily: Cake me. I'll skip lunch tomorrow. 
 	tag: Ash
 	tag: BirthdayCake
 	tag: ButterCreamIcing
-	tag: p-074
 	tag: ch-22
 	tag: Diet
 	tag: Emily
 	tag: FullerHome
+	tag: p-074
 	tag: Party
 page:2015-01-27
 	desc: Cassiel: Free food... Free cake... I should be there! 
 	tag: BirthdayCake
 	tag: Cassiel
-	tag: p-073
 	tag: ch-22
 	tag: FullerHome
+	tag: p-073
 	tag: Party
 	tag: Rumisiel
 page:2015-01-26
 	desc: Missi: Taa daa!
 	tag: Ash
 	tag: Cassiel
-	tag: p-072
 	tag: ch-22
 	tag: FullerHome
+	tag: p-072
 	tag: Party
 	tag: Rumisiel
 	tag: Uniform
@@ -215,174 +219,174 @@ page:2015-01-23
 	note: Emily's birthday 'around now'.
 	tag: Ash
 	tag: Blush
-	tag: p-071
 	tag: ch-22
 	tag: Dates
 	tag: FullerHome
+	tag: p-071
 	tag: Party
 	tag: Rumisiel
 page:2015-01-22
 	desc: Ash: I know it's bad, but I meant for it to match the one you got for me a few month ago.
 	tag: Ash
-	tag: p-070
 	tag: ch-22
 	tag: FullerHome
 	tag: Missi
+	tag: p-070
 	tag: Party
 	tag: Rumisiel
 	tag: Uniform
 page:2015-01-21
 	desc: Ash: Ow! Come on. I got jabbed enough times dealing with your present
 	tag: Ash
-	tag: p-069
 	tag: ch-22
 	tag: FullerHome
 	tag: Missi
+	tag: p-069
 	tag: Party
 	tag: Rumisiel
 page:2015-01-20
 	desc: Missi: Emily! You came!
 	note: Missi is 16
 	tag: BirthdayCake
-	tag: p-068
 	tag: ch-22
 	tag: Dates
 	tag: Emily
 	tag: FullerHome
 	tag: Missi
+	tag: p-068
 	tag: Party
 page:2015-01-19
 	desc: Emily: Why don't you just iron them on?
 	tag: Ash
-	tag: p-067
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
+	tag: p-067
 	tag: Phone
 ;page:2015-01-18
 ;page:2015-01-17
 page:2015-01-16
 	desc: Ash: I admit I thought it was going to be something more...
 	tag: Ash
-	tag: p-066
 	tag: ch-22
 	tag: Clock
 	tag: Emily
 	tag: McArthurRes
+	tag: p-066
 	tag: Phone
 	tag: Uniform
 page:2015-01-15
 	desc: Emily: My mother is a drug addict
 	tag: Ash
-	tag: p-065
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
 	tag: Needle
+	tag: p-065
 	tag: Uniform
 page:2015-01-14
 	desc: Emily: You ever wonder how much different we'll be when we're older
 	tag: Ash
-	tag: p-064
 	tag: ch-22
 	tag: Emily
+	tag: p-064
 	tag: School
 page:2015-01-13
 	desc: Ash: Domestic emergency. Do you have a needle and thread
 	tag: Ash
-	tag: p-063
 	tag: ch-22
 	tag: Emily
+	tag: p-063
 	tag: School
 page:2015-01-12
 	desc: Emily: You going back to work today?
-	tag: p-062
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
+	tag: p-062
 ;page:2015-01-11
 ;page:2015-01-10
 page:2015-01-09
 	desc: Ash: It's a mechanic's uniform... Sort of
 	tag: Ash
-	tag: p-061
 	tag: ch-22
 	tag: JamesCreekMall
+	tag: p-061
 	tag: Rumisiel
 	tag: Shopping
 	tag: Uniform
 page:2015-01-08
 	desc: Ash: Well, she IS a mechanic
 	tag: Ash
-	tag: p-060
 	tag: ch-22
 	tag: JamesCreekMall
+	tag: p-060
 	tag: Rumisiel
 	tag: Shopping
 page:2015-01-07
 	desc: Ash: How the heck do you buy presents for girls
 	tag: Ash
-	tag: p-059
 	tag: ch-22
 	tag: JamesCreekMall
+	tag: p-059
 	tag: Rumisiel
 	tag: Shopping
 page:2015-01-06
 	desc: Ash: I'm going to need someone on my team when the sexy pillow fights start
 	tag: Ash
-	tag: p-058
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
+	tag: p-058
 page:2015-01-05
 	desc: Ash: Shouldn't you enjoy yourself in the here and now?
 	tag: Ash
-	tag: p-057
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
+	tag: p-057
 ;page:2015-01-04
 ;page:2015-01-03
 page:2015-01-02
 	desc: Emily: Party secrets? I'm not sure. I don't think I'm going
 	tag: Ash
-	tag: p-056
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
+	tag: p-056
 page:2015-01-01
 	desc: Ash: Check it out. One application neatly filled out
-	tag: Ash
 	tag: ApplicationForm
-	tag: p-055
+	tag: Ash
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
+	tag: p-055
 page:2014-12-31
 	desc: Ash: This isn't like a pajama party or anything, right?
 	tag: Ash
-	tag: p-054
 	tag: ch-22
 	tag: Missi
+	tag: p-054
 	tag: Rumisiel
 	tag: School
 	tag: Skull
 page:2014-12-30
 	desc: Missi: It means I'm having a party and you have to come
 	tag: Ash
-	tag: p-053
 	tag: ch-22
 	tag: Missi
+	tag: p-053
 	tag: School
 	tag: Skull
 page:2014-12-29
 	desc: Missi: Well MY sixteenth birthday is coming up and I'M getting my learners permit
 	tag: Ash
 	tag: Bubbles
-	tag: p-052
 	tag: ch-22
 	tag: Missi
+	tag: p-052
 	tag: School
 	tag: Skull
 ;page:2014-12-28
@@ -390,55 +394,55 @@ page:2014-12-29
 page:2014-12-26
 	desc: Ash: You want to be part of my racing team?
 	tag: Ash
-	tag: p-051
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
+	tag: p-051
 page:2014-12-25
 	desc: Christmas 2014
-	tag: Filler
 	tag: Ash
 	tag: Emily
+	tag: Filler
 	tag: Kiss
 	tag: Mistletoe
 page:2014-12-24
 	desc: Emily: It's personal. I don't think I should go into it.
-	tag: Ash
 	tag: ApplicationForm
-	tag: p-050
+	tag: Ash
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
+	tag: p-050
 page:2014-12-23
 	desc: Ash: Should I dot my i's with little circles?
-	tag: Ash
 	tag: ApplicationForm
+	tag: Ash
 	tag: Bubbles
-	tag: p-049
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
+	tag: p-049
 page:2014-12-22
 	desc: Ash: "Where do you see yourself five years from now?" Seriously?
-	tag: Ash
 	tag: ApplicationForm
-	tag: p-048
+	tag: Ash
 	tag: ch-22
 	tag: Emily
+	tag: p-048
 	tag: McArthurRes
 ;page:2014-12-21
 ;page:2014-12-20
 page:2014-12-19
 	desc: Rumisiel: It is? You don't mind if I sneak back into heaven?
-	tag: p-047
 	tag: ch-22
+	tag: p-047
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2014-12-18
 	desc: Rumisiel: So, uh, Vash... That question I asked...
-	tag: p-046
 	tag: ch-22
+	tag: p-046
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
@@ -446,24 +450,24 @@ page:2014-12-17
 	desc: Ash: I... I figured you'd filled out, like, a thousand of these
 	tag: ApplicationForm
 	tag: Ash
-	tag: p-045
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
+	tag: p-045
 page:2014-12-16
 	desc: Rachel: It's not mean if I'm totally going to make out with him afterwards...
-	tag: p-044
 	tag: ch-22
 	tag: Emily
 	tag: Mart
+	tag: p-044
 	tag: Rachel
 	tag: Shopping
 page:2014-12-15
 	desc: Rachel: Well howdy. Doing some shopping?
-	tag: p-043
 	tag: ch-22
 	tag: Emily
 	tag: Mart
+	tag: p-043
 	tag: Rachel
 	tag: Shopping
 ;page:2014-12-14
@@ -471,49 +475,49 @@ page:2014-12-15
 page:2014-12-12
 	desc: Marie: You do all that and I'LL fund that racing team dream
 	tag: Ash
-	tag: p-042
 	tag: ch-22
 	tag: Marie
 	tag: MarieHouse
+	tag: p-042
 	tag: Phone
 	tag: UptonHouse
 	tag: XR4Ti
 page:2014-12-11
 	desc: Ash: Don't get too happy
 	tag: Ash
-	tag: p-041
-	tag: ch-22
 	tag: CatAndMouse
+	tag: ch-22
 	tag: Marie
 	tag: MarieHouse
+	tag: p-041
 	tag: Phone
 	tag: UptonHouse
 page:2014-12-10
 	desc: Ash: Mom, I've got a decision to make and...
 	tag: Ash
-	tag: p-040
 	tag: ch-22
 	tag: Marie
 	tag: MarieHouse
+	tag: p-040
 	tag: Phone
 	tag: UptonHouse
 page:2014-12-09
 	desc: Emily: How is this going to work now?
 	tag: Bed
-	tag: p-039
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
+	tag: p-039
 page:2014-12-08
 	desc: Emily: It LOOKS like breakfast in bed!
 	tag: Bed
 	tag: Breakfast
-	tag: p-038
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
+	tag: p-038
 ;page:2014-12-07
 page:2014-12-06
 	desc: Auction: hand colored pin art (swimsuits)
@@ -522,32 +526,32 @@ page:2014-12-06
 page:2014-12-05
 	desc: Rumisiel: Gyaaa! Why did I even ask him that stupid question?!
 	tag: Ash
-	tag: p-037
 	tag: ch-22
 	tag: Hosepipe
+	tag: p-037
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: XR4Ti
 page:2014-12-04
 	desc: Missi: Want to unload?
-	tag: p-036
 	tag: ch-22
 	tag: Missi
+	tag: p-036
 	tag: Roof
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-12-03
 	desc: Missi: Why the long face?
-	tag: p-035
 	tag: ch-22
 	tag: Missi
+	tag: p-035
 	tag: Roof
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-12-02
 	desc: Rumisiel: Is there a way to sneak in?
-	tag: p-034
 	tag: ch-22
+	tag: p-034
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
@@ -556,9 +560,9 @@ page:2014-12-01
 	tag: Ash
 	tag: Bat
 	tag: Bunny
-	tag: p-033
 	tag: ch-22
 	tag: Graveyard
+	tag: p-033
 	tag: Rumisiel
 	tag: UptonHouse
 ;page:2014-11-30
@@ -567,9 +571,9 @@ page:2014-11-28
 	desc: Ash: Ok. Please. Continue
 	tag: Ash
 	tag: Bubbles
-	tag: p-032
 	tag: ch-22
 	tag: Chair
+	tag: p-032
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-11-27
@@ -585,104 +589,104 @@ page:2014-11-27
 page:2014-11-26
 	desc: Rumisiel: Ash! Ash!
 	tag: Ash
-	tag: p-031
 	tag: ch-22
 	tag: Chair
+	tag: p-031
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-11-25
 	desc: Emily: Ok? Ok "You're right" or OK "I just want to end this conversation"
-	tag: p-030
 	tag: ch-22
 	tag: Emily
 	tag: MsMcArthur
 	tag: Nissan240SX
+	tag: p-030
 page:2014-11-24
 	desc: Emily: You're not allowed to die because "we need the money".
-	tag: Emily
-	tag: p-029
 	tag: ch-22
+	tag: Emily
 	tag: MsMcArthur
 	tag: Nissan240SX
+	tag: p-029
 	tag: Tears
 ;page:2014-11-23
 page:2014-11-22
 	desc: Donation pin advert
-	tag: Filler
 	tag: Ash
 	tag: Emily
+	tag: Filler
 page:2014-11-21
 	desc: Emily: Speed? Seriously?
-	tag: p-028
 	tag: ch-22
 	tag: Emily
 	tag: MsMcArthur
 	tag: Nissan240SX
+	tag: p-028
 page:2014-11-20
 	desc: Transgender Remembrance Day
 	tag: Ash
 	tag: Filler
 page:2014-11-19
 	desc: Emily's Mom: \*Sigh\* I didn't think you'd even be home yet... 
-	tag: p-027
 	tag: ch-22
 	tag: Emily
 	tag: Hospital
 	tag: MsMcArthur
+	tag: p-027
 page:2014-11-18
 	desc: Emily’s Mom: It wasn't even a heart attack. It was a "cardiac episode" 
-	tag: p-026
 	tag: ch-22
 	tag: Emily
 	tag: Hospital
 	tag: MsMcArthur
+	tag: p-026
 page:2014-11-17
 	desc: Emily: Mom?
 	tag: Ambulance
-	tag: p-025
 	tag: ch-22
 	tag: Emily
 	tag: McArthurRes
+	tag: p-025
 	tag: SchoolRoad
 ;page:2014-11-16
 ;page:2014-11-15
 page:2014-11-14
 	desc: Emily: YOU'RE the one with racing dreams. School or job, what are you doing to make THAT happen?
 	tag: Ash
-	tag: p-024
 	tag: ch-22
 	tag: Emily
+	tag: p-024
 	tag: School
 	tag: Rumisiel
 page:2014-11-13
 	desc: Emily: I have done good and it has brightened my soul
 	note: (Rachel mentioned, as Raechel)
 	tag: Ash
-	tag: p-023
 	tag: ch-22
 	tag: Emily
-	tag: School
+	tag: p-023
 	tag: Rachel	
 	tag: Rumisiel
+	tag: School
 page:2014-11-12
 	desc: Ash: School or work?
 	tag: Ash
-	tag: Bubbles
 	tag: Bed
+	tag: Bubbles
+	tag: Cassiel
 	tag: ch-22
-	tag: p-022
 	tag: Computer
 	tag: Emily
+	tag: p-022
 	tag: Race
-	tag: Cassiel
 	tag: UptonHouse
 page:2014-11-11
 	desc: Rumisiel: It's not like I can "go back to Canada" so to speak
 	tag: Ash
 	tag: Bed
-	tag: p-021
 	tag: ch-22
 	tag: Computer
+	tag: p-021
 	tag: Phone
 	tag: Rumisiel
 	tag: UptonHouse
@@ -690,92 +694,92 @@ page:2014-11-10
 	desc: Rumisiel: Where do I go next year?
 	tag: Ash
 	tag: Bed
-	tag: p-020
 	tag: ch-22
 	tag: Computer
+	tag: p-020
 	tag: Rumisiel
 	tag: UptonHouse
 ;page:2014-11-09
 ;page:2014-11-08
 page:2014-11-07
 	desc: Emily: I hope this doesn't mean you're not going to follow through...
-	tag: p-019
 	tag: ch-22
 	tag: Emily
+	tag: p-019
 	tag: Rachel
 	tag: RachelHome
 page:2014-11-06
 	desc: Ash: Feeling better about yourself now?
-	tag: p-018
-	tag: ch-22
 	tag: Ash
+	tag: ch-22
 	tag: Emily
+	tag: p-018
 	tag: Rachel
 	tag: RachelHome
 	tag: XR4Ti
 page:2014-11-05
 	desc: Oscar: If you want we could double date. You could bring your boyfriend
-	tag: p-017
 	tag: ch-22
 	tag: Emily
 	tag: Oscar
+	tag: p-017
 page:2014-11-04
 	desc: Oscar: What the heck?
 	tag: Ash
-	tag: p-016
 	tag: ch-22
 	tag: Emily
 	tag: Oscar
 	tag: OscarCar
+	tag: p-016
 	tag: XR4Ti
 page:2014-11-03
 	desc: Ash: It's not your responsibility, or mine, or anyone's but Oscar's
 	note: 180° handbrake turn
 	tag: Ash
-	tag: p-015
 	tag: ch-22
 	tag: Emily
+	tag: p-015
 	tag: XR4Ti
 ;page:2014-11-02
 ;page:2014-11-01
 page:2014-10-31
 	desc: Hallowe'en Filler
-	tag: Filler
 	tag: Ash
 	tag: Emily
+	tag: Filler
 	tag: Rumisiel
 	tag: Witch
 page:2014-10-30
 	desc: Emily: Wait... This isn't the way back to town
 	note: Road sign: Indian Hill 0.5, Russell St 2.3
 	tag: Ash
-	tag: p-014
 	tag: ch-22
 	tag: Emily
 	tag: Oscar
 	tag: OscarCar
+	tag: p-014
 	tag: XR4Ti
 page:2014-10-29
 	desc: Emily: You know you have this like your dog just died
 	tag: Ash
 	tag: BerkshireCollege
-	tag: p-013
 	tag: ch-22
 	tag: Emily
+	tag: p-013
 page:2014-10-28
 	desc: Ash: But Colin...
 	tag: Ash
 	tag: BerkshireCollege
-	tag: p-012
 	tag: ch-22
 	tag: Emily
+	tag: p-012
 page:2014-10-27
 	desc: Emily: You've been treating it like you're choosing between life in prison and a fatal disease.
 	tag: Ash
 	tag: BerkshireCollege
-	tag: p-011
 	tag: ch-22
 	tag: Emily
+	tag: p-011
 ;page:2014-10-26
 page:2014-10-25
 	desc: Donation patch advert
@@ -785,43 +789,43 @@ page:2014-10-24
 	tag: ApplicationForm
 	tag: Ash
 	tag: BerkshireCollege
-	tag: p-010
 	tag: ch-22
 	tag: Colin
 	tag: Computer
 	tag: Emily
+	tag: p-010
 page:2014-10-23
 	desc: Colin: I've been going here for three years. Working here is part of my financial aid
 	tag: ApplicationForm
 	tag: Ash
 	tag: BerkshireCollege
-	tag: p-009
 	tag: ch-22
 	tag: Colin
 	tag: Computer
 	tag: Emily
+	tag: p-009
 page:2014-10-22
 	desc: Colin: Look who walked into Colin's office today
 	tag: Ash
 	tag: BerkshireCollege
-	tag: p-008
 	tag: ch-22
 	tag: Colin
 	tag: Computer
 	tag: Emily
+	tag: p-008
 page:2014-10-21
 	desc: Ash: I think I understand why you hate looking at colleges now
 	tag: Ash
 	tag: BerkshireCollege
-	tag: p-007
 	tag: ch-22
 	tag: Emily
+	tag: p-007
 page:2014-10-20
 	desc: Emily: Wow, I love air conditioning 
 	tag: Ash
-	tag: p-006
 	tag: ch-22
 	tag: Emily
+	tag: p-006
 	tag: XR4Ti
 ;page:2014-10-19
 ;page:2014-10-18
@@ -871,183 +875,183 @@ page:2014-10-13
 ;page:2014-10-11
 page:2014-10-10
 	desc: <br>**Book 22**<br><br>March ’05
-	tag: p-000
+	tag: Ash
 	tag: ch-22
 	tag: Cover
-	tag: Ash
+	tag: p-000
 	tag: Rumisiel
 ; Book 21
 page:2014-10-09
 	desc: Rumisisel: Hey, didn't your mom offer you a job at some point?
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
-	tag: UptonHouse
+	tag: ch-21
+	tag: p-118
 	tag: Rumisiel
+	tag: UptonHouse
 page:2014-10-08
 	desc: Ash: I'm trying to decide between community college and a shitty job
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
-	tag: UptonHouse
+	tag: ch-21
+	tag: p-117
 	tag: Rumisiel
+	tag: UptonHouse
 page:2014-10-07
 	desc: Emily: That's not the story I've always heard
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
+	tag: p-116
 	tag: Phone
 page:2014-10-06
 	desc: Emily: Mom? Why do you want me to go to Harvard?
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
+	tag: p-115
 	tag: Phone
 page:2014-10-03
 	desc: Emily: Think of it sort of like "good" change
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: McArthurRes
+	tag: p-114
 	tag: Phone
 	tag: UptonHouse
 page:2014-10-02
 	desc: Ash: How do I get into college?
 	tag: Ash
-	tag: Emily
-	tag: Phone
-	tag: p-XXX
 	tag: ch-21
-	tag: UptonHouse
+	tag: Emily
 	tag: McArthurRes
+	tag: p-113
+	tag: Phone
+	tag: UptonHouse
 page:2014-10-01
 	desc: Ash: Wow... Growing up sucks...
 	tag: Ash
+	tag: ch-21
 	tag: Edward
 	tag: Newspaper
-	tag: p-XXX
-	tag: ch-21
+	tag: p-112
 	tag: UptonHouse
 page:2014-09-30
 	desc: Ash: Uh... Thanks? I read my news online
 	tag: Ash
-	tag: Edward
-	tag: p-XXX
 	tag: ch-21
+	tag: Edward
 	tag: Newspaper
+	tag: p-111
 	tag: UptonHouse
 page:2014-09-29
 	desc: Ash: That makes me a double loser because I can't do either
 	tag: Ash
-	tag: Emily
-	tag: p-XXX
 	tag: ch-21
+	tag: Emily
+	tag: p-110
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-09-27
 	desc: Donation / Pin advert
-	tag: Filler
 	tag: Ash
+	tag: Filler
 page:2014-09-26
 	desc: Emily: Just putting it out there, but "in practice" a girl can actually wear less than a guy on an every day basis
 	tag: Ash
-	tag: Emily
-	tag: p-XXX
 	tag: ch-21
+	tag: Emily
+	tag: p-109
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-09-25
 	desc: Ash: Clearly summer is on the way
 	tag: Ash
-	tag: Emily
-	tag: p-XXX
 	tag: ch-21
+	tag: Emily
+	tag: p-108
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-09-24
 	desc: Ash: Being kissed by Rumisiel is like being kissed by some creepy drunk in stranger in an alley
 	tag: Ash
-	tag: Emily
-	tag: p-XXX
 	tag: ch-21
+	tag: Emily
+	tag: p-107
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-09-23
 	desc: Ash: All he did was stick his tongue in my throat. An Alien facehugger could have done that
-	tag: FaceHugger
 	tag: Ash
-	tag: Emily
-	tag: p-XXX
 	tag: ch-21
+	tag: Emily
+	tag: FaceHugger
+	tag: p-106
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-09-22
 	desc: Ash: So... Here we are walking home together...
 	tag: Ash
-	tag: Emily
-	tag: p-XXX
 	tag: ch-21
+	tag: Emily
+	tag: p-105
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-09-19
 	desc: Ash: You taste like a smoker! And tongue? Seriously?!
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
+	tag: p-104
 	tag: Rumisiel
 	tag: School
 page:2014-09-18
 	desc: Emily: Taking it "dyke" has a different meaning to you than it does for me 
 	tag: Annie
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-103
 	tag: Rumisiel
 	tag: School
 page:2014-09-17
 	desc: Annie: I'm straight up saying you're a dyke and totally lesbianing it up with THAT dyke 
 	tag: Annie
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: Kiss
+	tag: p-102
 	tag: Rumisiel
 	tag: School
 page:2014-09-16
 	desc: Annie: Ash and Emily alone in a corner mid day. Now THERE'S a surprise.
 	tag: Annie
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-101
 	tag: School
 page:2014-09-15
 	desc: Ash: \*Sigh\* Without Emily it's like the beginning of Junior Year all over again
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
+	tag: p-100
 	tag: Rumisiel
 	tag: School
 page:2014-09-12
 	desc: Rumisiel: If it WASN'T for me [...] YOU would never have met her
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
+	tag: p-099
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-09-11
 	desc: Rumisiel: You're going to break up with her!?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-098
 	tag: Rumisiel
 	tag: SchoolRoad
 	tag: UptonHouse
@@ -1055,9 +1059,9 @@ page:2014-09-10
 	desc: Emily: I don't like girls. I just make an exception for you
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-097
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-09-09
@@ -1065,17 +1069,17 @@ page:2014-09-09
 	note: Flashback to [2013-08-07](#2013-08-07)
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
 	tag: ch-21
 	tag: Flashback
+	tag: p-096
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-09-08
 	desc: Ash: The guy network came through!
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
 	tag: ch-21
+	tag: p-095
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-09-05
@@ -1084,75 +1088,75 @@ page:2014-09-05
 page:2014-09-04
 	desc: Cassiel: I suppose the boyfriend is always the last to know...
 	tag: Cassiel
-	tag: p-XXX
 	tag: ch-21
+	tag: p-094
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-09-03
 	desc: Ash: Great. Now whenever I see her in a turtleneck I'm going to think about...
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-093
 	tag: UptonHouse
 page:2014-09-02
 	desc: Marie: Uhg. I knew it was too muggy for a turtleneck
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Hickey
 	tag: Marie
+	tag: p-092
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-09-01
 	desc: Marie: I'm not going to see these on Ebay when I get home am I?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: Marie
+	tag: p-091
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-08-29
 	desc: Ash: Everybody? How does my mom win in all this?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-090
 	tag: UptonHouse
 page:2014-08-28
 	desc: Ash: How do these count as pants?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-089
 	tag: UptonHouse
 page:2014-08-27
 	desc: Ash: That's... A big box
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Marie
+	tag: p-088
 	tag: Rain
 	tag: UptonHouse
 page:2014-08-26
 	desc: Marie: Do a couple of pretty girls need a ride?
 	note: MarieCar = Lexus SC 430
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: Marie
 	tag: MarieCar
+	tag: p-087
 	tag: Rain
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-08-25
 	desc: Emily: I will be patient and reap the rewards in time
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-086
 	tag: Rain
 	tag: Rumisiel
 	tag: SchoolRoad
@@ -1160,281 +1164,281 @@ page:2014-08-22
 	desc: Rumisiel: I seem to recall some old saying about April showers
 	note: Date: April
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Dates
 	tag: Emily
+	tag: p-085
 	tag: Rain
 	tag: Rumisiel
 	tag: School
 page:2014-08-21
 	desc: Ash: You know all those racers. Why don't you just ask them?
-	tag: Lab
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
+	tag: Lab
+	tag: p-084
 	tag: Rumisiel
 	tag: School
 page:2014-08-20
 	desc: Ash: Ask them why people are snickering at Emily, or me or us.
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Lab
+	tag: p-083
 	tag: Rumisiel
 	tag: School
 page:2014-08-19
 	desc: Emily: Something must be up. I'll have to check my sources
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-082
 	tag: School
 	tag: UNbuilding
 page:2014-08-18
 	desc: Rumisiel: My socks all have holes in them
-	tag: p-XXX
 	tag: ch-21
 	tag: Edward
+	tag: p-081
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-08-15
 	desc: Emily: Don't think of it as wierd. Just think of it as... Adventurous
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: McArthurRes
+	tag: p-080
 page:2014-08-14
 	desc: Ash: Apparently I need quantitative measurement of my tits and ass and you're the only person I trust to help
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: McArthurRes
+	tag: p-079
 page:2014-08-13
-	desc: Ash: Apparently I need quantitative measurement of my tits and ass and you're the only person I trust to help
+	desc: Ash: I need... The laundry ate some of my clothes
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Marie
 	tag: MarieHouse
+	tag: p-078
 	tag: Phone
 	tag: UptonHouse
 page:2014-08-12
 	desc: Ash: I HATE shopping for clothes
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Marie
 	tag: MarieHouse
+	tag: p-077
 	tag: Phone
 	tag: UptonHouse
 	tag: Vashiel
 page:2014-08-11
 	desc: Ash: Warning. Doing laundry. There will be underthings involved.
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
+	tag: p-076
 	tag: UptonHouse
 	tag: Vashiel
 page:2014-08-08
 	desc: Emily: I used almost all of your eggs
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-075
 	tag: SchoolRoad
 page:2014-08-07
 	desc: Rachel: Total deal killer. Discuss it with HIM first
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-074
 	tag: Rachel
 	tag: School
 	tag: SchoolRoad
 page:2014-08-06
 	desc: Rachel: You're kidding, right?
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-073
 	tag: Rachel
 	tag: School
 page:2014-08-05
 	desc: Ash: Should I hook him up with one of the vast array of girls I get along with?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: OldRoad
+	tag: p-072
 page:2014-08-04
 	desc: Ash: Me?! No way! I already told you he reminds me of you
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: OldRoad
+	tag: p-071
 page:2014-08-01
 	desc: Emily: So, did you enjoy your "man-night"?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: Monster
 	tag: Mustang
 	tag: OldRoad
+	tag: p-070
 page:2014-07-31
 	desc: Oscar: "Adorkably cute" hasn't really gotten me far.
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: OldRoad
 	tag: Oscar
+	tag: p-069
 page:2014-07-30
 	desc: Emily: < ... Awkward ... > Uh, hey... Oscar. Ash, like, told you I was seeing someone, right?
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: OldRoad
 	tag: Oscar
+	tag: p-068
 page:2014-07-29
 	desc: Emily: Perfect. Ash gets to race. Ash doesn't have to mingle. A good night is had by everyone
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: OldRoad
 	tag: Oscar
+	tag: p-067
 page:2014-07-28
 	desc: Emily: You want Ash, you've got to find her on the road
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: Mustang
 	tag: OldRoad
+	tag: p-066
 	tag: RacerG
 	tag: RacerH
 	tag: X-ray
 page:2014-07-25
 	desc: Ash: So much for not being treated like a girl today
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
+	tag: ch-21
 	tag: Computer
 	tag: Emily
 	tag: OldRoad
-	tag: X-ray
+	tag: p-065
 	tag: UptonHouse
+	tag: X-ray
 page:2014-07-24
 	desc: Ash: Exactly. It's Saturday. That's an Old Road day.
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
+	tag: ch-21
 	tag: Computer
 	tag: Emily
+	tag: p-064
 	tag: UptonHouse
 page:2014-07-23
 	desc: Ash: Ok. I admit is. I was hesitant, but this is... Fun.
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
 	tag: AshMale
+	tag: ch-21
 	tag: Computer
 	tag: Emily
 	tag: MMO
+	tag: p-063
 	tag: UptonHouse
 page:2014-07-22
 	desc: Ash: Uh... So what are we actually supposed to DO?
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
 	tag: AshMale
+	tag: ch-21
 	tag: Computer
 	tag: Emily
 	tag: MMO
+	tag: p-062
 page:2014-07-21
 	desc: Ash: Ok, I'm still not entirely sure why we're doing this
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
 	tag: AshMale
+	tag: ch-21
 	tag: Computer
 	tag: Emily
 	tag: MMO
+	tag: p-061
 	tag: UptonHouse
 page:2014-07-18
 	desc: Ash: An MMO? Really?
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
 	tag: AshMale
+	tag: ch-21
 	tag: Computer
 	tag: Emily
 	tag: MMO
+	tag: p-060
 	tag: UptonHouse
 page:2014-07-17
 	desc: Ash: It's awesome, thank you
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
+	tag: ch-21
 	tag: Computer
 	tag: Emily
+	tag: p-059
 	tag: UptonHouse
 page:2014-07-16
 	desc: Emily: No, it's not a dream, silly
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
 	tag: Bacon
+	tag: ch-21
 	tag: Emily
+	tag: p-058
 	tag: UptonHouse
 page:2014-07-15
 	desc: Ash: Hello? Where is everybody?
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
+	tag: ch-21
 	tag: Emily
+	tag: p-057
 	tag: UptonHouse
 page:2014-07-14
 	desc: Ash: One full year...
 	note: Misfile anniversary day <span class="dt">2005-03-20</span>, Sunday
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
+	tag: ch-21
 	tag: Dates
+	tag: p-056
 	tag: UptonHouse
 page:2014-07-11
 	desc: Connecticon Filler
 	tag: Filler
 page:2014-07-10
 	desc: Emily: You'd be surprised what I believe in after this last year
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
+	tag: ch-21
 	tag: Emily
+	tag: p-055
 	tag: UptonHouse
 page:2014-07-09
 	desc: Ash: When the heck did I become Obi-Wan Kenobi?
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
+	tag: ch-21
 	tag: Emily
+	tag: p-054
 	tag: UptonHouse
 page:2014-07-08
 	desc: Emily: No! Just trust me...
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
+	tag: ch-21
 	tag: Computer
 	tag: Emily
+	tag: p-053
 	tag: UptonHouse
 page:2014-07-07
 	desc: X-Ray: I've been having some trouble in the third corner
-	tag: p-XXX
-	tag: ch-21
 	tag: Ash
-	tag: X-ray
+	tag: ch-21
+	tag: p-052
 	tag: School
+	tag: X-ray
 page:2014-07-04
 	desc: 4th July 2014
 	tag: Filler
@@ -1443,70 +1447,70 @@ page:2014-07-04
 page:2014-07-03
 	desc: Emily: If you can't enjoy the good things when they are right in front of you then what's the point
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-051
 	tag: SchoolRoad
 page:2014-07-02
 	desc: Ash: Can we talk now? I mean, like, a normal conversation. Or normal for US at least...
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-050
 	tag: SchoolRoad
 page:2014-07-01
 	desc: Emily: Let me sit down. Ok, I'm ready. Do it.
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-049
 	tag: SchoolRoad
 page:2014-06-30
 	desc: Ash: I thought that it might bother you, like I was throwing your being wrong about Oscar in your face
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-048
 	tag: SchoolRoad
 page:2014-06-27
 	desc: Emily: So he called you and told you? He, like, actually said it?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-047
 	tag: SchoolRoad
 page:2014-06-26
 	desc: Emily: _We will talk about this later!_
 	tag: Ash
 	tag: Blush
-	tag: p-XXX
 	tag: ch-21
 	tag: Computer
 	tag: Emily
 	tag: McArthurRes
+	tag: p-046
 	tag: Phone
 	tag: Rachel
 	tag: UptonHouse
 page:2014-06-25
 	desc: Ash: It's not ME. It's YOU!
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Computer
 	tag: Emily
 	tag: McArthurRes
+	tag: p-045
 	tag: Phone
 	tag: Rachel
 	tag: UptonHouse
 page:2014-06-24
 	desc: Oscar: Your friend, Emily... Is she seeing anyone? 
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Computer
 	tag: Emily
 	tag: McArthurRes
 	tag: Oscar
+	tag: p-044
 	tag: Phone
 	tag: Rachel
 	tag: UptonHouse
@@ -1514,111 +1518,111 @@ page:2014-06-23
 	desc: Oscar: Just wanted to ask you something. It's... Kind of awkward
 	tag: Ash
 	tag: Blush
-	tag: p-XXX
 	tag: ch-21
 	tag: Oscar
+	tag: p-043
 	tag: Phone
 	tag: UptonHouse
 page:2014-06-20
 	desc: Rumisiel: Do you have any idea how much a sibling would complicate your situation right now?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
+	tag: p-042
 	tag: Phone
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-06-19
 	desc: Rumisiel: Harsh... Not denying it, but still harsh
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
+	tag: p-041
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-06-18
 	desc: Ash: Is this an awkward pause in the conversation?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: IceCreamStall
+	tag: p-040
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-06-17
 	desc: Ash: Can I get a scoop of chocolate?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Chocolate
 	tag: Emily
 	tag: IceCream
 	tag: IceCreamStall
 	tag: Oscar
+	tag: p-039
 	tag: Smoothie
 page:2014-06-16
 	desc: Ash: Not THAT much. Not much at ALL actually
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: IceCream
 	tag: IceCreamStall
 	tag: Oscar
 	tag: OscarCar
+	tag: p-038
 page:2014-06-13
 	desc: Emily: Oscar. I've heard SO much about you
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: IceCream
 	tag: IceCreamStall
 	tag: Oscar
+	tag: p-037
 page:2014-06-12
 	desc: Emily: I even promise I won't bring up Oscar unless you do
 	note: Oscar mentioned
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: IceCream
 	tag: IceCreamStall
 	tag: Oscar
+	tag: p-036
 	tag: XR4Ti
 page:2014-06-11
 	desc: Emily: There were days growing up when we didn't have power because we needed to eat
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: Mustang
+	tag: p-035
 	tag: XR4Ti
 page:2014-06-10
 	desc: Ash: I still don't understand why I couldn't just buy you gas
 	note: Talking about the Mustang
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: Mustang
+	tag: p-034
 	tag: XR4Ti
 page:2014-06-09
 	desc: Emily: Does this mean your Oscar thing is over?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: McArthurRes
 	tag: Mustang
 	tag: Oscar
+	tag: p-033
 	tag: Phone
 	tag: UptonHouse
 page:2014-06-06
 	desc: Ash: I just wanted to say sorry for the way I was moping around...
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: McArthurRes
+	tag: p-032
 	tag: Phone
 	tag: UptonHouse
 page:2014-06-05
@@ -1626,65 +1630,65 @@ page:2014-06-05
 	tag: Aries
 	tag: Ash
 	tag: Blush
-	tag: p-XXX
 	tag: ch-21
 	tag: Kate
 	tag: KateKid
+	tag: p-031
 page:2014-06-04
 	desc: Kate: Could you hand him to me
 	tag: Aries
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Kate
 	tag: KateKid
+	tag: p-030
 page:2014-06-03
 	desc: Kate: The baby was up all hours
 	tag: Aries
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Kate
 	tag: KateKid
+	tag: p-029
 page:2014-06-02
 	desc: Ash: Kate... Is this a bad time?
 	tag: Aries
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Kate
+	tag: p-028
 page:2014-05-30
 	desc: Rumisiel: Should I... Er... Mark it somehow?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
+	tag: p-027
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-05-29
 	desc: Rumisiel: Then what's so important about one year?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Computer
+	tag: p-026
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-05-28
 	desc: Ash: It's going to be March twenthieth soon
 	note: [Misfile day](http://www.misfile.com/?date=2004-02-25): <span class="dt">2004-03-20</span><br>Ash's 12th period
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Computer
 	tag: Dates
+	tag: p-025
 	tag: Period
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-05-27
 	desc: Ash: Have you seen a calendar lately?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Computer
+	tag: p-024
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-05-26
@@ -1692,219 +1696,219 @@ page:2014-05-26
 	note: 'flashback' view of pre-industial period Ash, with kids
 	tag: Ash
 	tag: Bubbles
-	tag: p-XXX
 	tag: ch-21
 	tag: Flashback
+	tag: p-023
 	tag: UptonHouse
 	tag: Vashiel
 page:2014-05-23
 	desc: Ash: You're like the anti-Emily
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Monster
+	tag: p-022
 	tag: UptonHouse
 	tag: Vashiel
 page:2014-05-22
 	desc: Vashiel: Are you... Feeling ok?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Monster
+	tag: p-021
 	tag: UptonHouse
 	tag: Vashiel
 page:2014-05-21
 	desc: Rumisiel: "He?" That's new for you
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-020
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-05-20
 	desc: Ash: You put that stupid thought about Oscar and me
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-019
 	tag: Period
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-05-19
 	desc: Emily: You look tired
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
+	tag: p-018
 	tag: Rumisiel
 	tag: SchoolRoad
 page:2014-05-16
 	desc: Ash: Ssshhh! My dad is home.
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Dream
 	tag: Oscar
+	tag: p-017
 	tag: UptonHouse
 page:2014-05-15
 	desc: Cassiel: He is NOT a HERO!
-	tag: p-XXX
-	tag: ch-21
 	tag: Cassi
 	tag: Cassiel
+	tag: ch-21
 	tag: Honda
 	tag: Missi
+	tag: p-016
 	tag: Rumisiel
 page:2014-05-14
 	desc: Missi: Oh WOW! You totally SAVED her!
-	tag: p-XXX
-	tag: ch-21
 	tag: Cassi
 	tag: Cassiel
+	tag: ch-21
 	tag: Honda
 	tag: Missi
+	tag: p-015
 	tag: Rumisiel
 page:2014-05-13
 	desc: Eponine: Cassie? Is that you? Where have you been? ...and what are you wearing
-	tag: p-XXX
-	tag: ch-21
 	tag: Blush
 	tag: Cassi
 	tag: Cassiel
+	tag: ch-21
 	tag: Eponine
 	tag: Honda
+	tag: p-014
 	tag: Rumisiel
 page:2014-05-12
 	desc: Missi: Ok... Picking up trash is... Nice. But it is hardly heroic
-	tag: p-XXX
-	tag: ch-21
 	tag: Cassi
 	tag: Cassiel
+	tag: ch-21
 	tag: Missi
+	tag: p-012
 	tag: Rumisiel
 page:2014-05-09
 	desc: Kickstarter advert
-	tag: Filler
 	tag: Emily
+	tag: Filler
 page:2014-05-08
 	desc: Vashiel: My vows can't be allowed to get in the way of my duty, so there are loopholes
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
-	tag: Vashiel
+	tag: p-012
 	tag: UptonHouse
+	tag: Vashiel
 page:2014-05-07
 	desc: Vashiel: Rough day?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
-	tag: Vashiel
+	tag: p-011
 	tag: UptonHouse
+	tag: Vashiel
 page:2014-05-06
 	desc: Missi: You'd have been fine if you'd just handed it back to her
-	tag: p-XXX
 	tag: ch-21
 	tag: Missi
+	tag: p-010
 	tag: Rumisiel
 page:2014-05-05
 	desc: Rumisiel: Go ahead Say "I told you so."
-	tag: p-XXX
 	tag: ch-21
 	tag: Missi
-	tag: Tears
+	tag: p-009
 	tag: Rumisiel
+	tag: Tears
 page:2014-05-02
 	desc: Emily: That doesn't sound like something you came up with...
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: McArthurRes
+	tag: p-008
 page:2014-05-01
 	desc: Ash: Emily... If your yardstick for logic and possibilities is this past year for us, then I don't know
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: McArthurRes
+	tag: p-007
 page:2014-04-30
 	desc: Ash: What? Blech! Emily, I don't like guys!
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: McArthurRes
+	tag: p-006
 page:2014-04-29
 	desc: Emily: You went out to LUNCH with him? That's like "first date" stuff!
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: Emily
 	tag: McArthurRes
+	tag: p-005
 page:2014-04-28
 	desc: Missi: Fine! Ok... But I'm reserving my "I told you so" in advance.
 	tag: Cassiel
-	tag: p-XXX
 	tag: ch-21
 	tag: Missi
+	tag: p-004
 	tag: Rumisiel
 page:2014-04-25
 	desc: Rumisiel: Hero time!
-	tag: p-XXX
 	tag: ch-21
 	tag: Missi
+	tag: p-003
 	tag: Rumisiel
 page:2014-04-24
 	desc: Ash: I'm glad I ran into you
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: GasStation
 	tag: Monster
 	tag: Oscar
+	tag: p-002
 page:2014-04-23
 	desc: (A chance meeting at the pump)
 	tag: Ash
-	tag: p-XXX
 	tag: ch-21
 	tag: GasStation
 	tag: Monster
 	tag: Oscar
+	tag: p-001
 page:2014-04-22
 	desc: <br>**Book 21**<br><br>late February - early April ’05
 	tag: Angel
 	tag: Cassiel
-	tag: p-XXX
 	tag: ch-21
 	tag: Cover
+	tag: p-000
 ; book 20
 page:2014-04-21
 	desc: Everyone thinks they are the protagonist
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
+	tag: p-114
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-04-18
 	desc: Ash, do I have a hero personality?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: MaxSpeed
+	tag: p-113
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-04-17
 	desc: Maybe youjust don't realize how important I am...
-	tag: p-XXX
 	tag: ch-20
 	tag: Missi
+	tag: p-112
 	tag: Rumisiel
 	tag: School
 page:2014-04-16
 	desc: It's our new secret "Sidekicks" handshake
-	tag: p-XXX
 	tag: ch-20
 	tag: Missi
+	tag: p-111
 	tag: Rumisiel
 	tag: School
 page:2014-04-15
@@ -1915,43 +1919,43 @@ page:2014-04-14
 	desc: If seeing me is wierd for you, you could wear a blindfold
 	tag: Ash
 	tag: Blush
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
+	tag: p-110
 	tag: SchoolRoad
 page:2014-04-11
 	desc: Ok. New rule. Nothing that leaves any marks
 	tag: Ash
 	tag: Blush
 	tag: Bubbles
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
+	tag: p-109
 	tag: SchoolRoad
 page:2014-04-10
 	desc: Please, Ash, PLEASE tell me you used protection!
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Edward
+	tag: p-108
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-04-09
 	desc: That's an invasion of privacy!
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Edward
 	tag: Hickey
+	tag: p-107
 	tag: Rumisiel
 	tag: UptonHouse
 page:2014-04-08
 	desc: It's supposed to be warm today. You may want to wear a t-shirt
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Edward
 	tag: Hickey
+	tag: p-106
 	tag: UptonHouse
 page:2014-04-07
 	desc: There's nothing for Oversight to even DO with the branches closed
@@ -1959,10 +1963,10 @@ page:2014-04-07
 	tag: Cassiel
 	tag: CFS
 	tag: CFS4
-	tag: p-XXX
 	tag: ch-20
 	tag: Computer
 	tag: Heaven
+	tag: p-105
 	tag: Tempest
 	tag: Xaphrael
 page:2014-04-04
@@ -1972,23 +1976,23 @@ page:2014-04-04
 	tag: CFS
 	tag: CFS4
 	tag: CFS5
-	tag: p-XXX
 	tag: ch-20
 	tag: Heaven
+	tag: p-104
 page:2014-04-03
 	desc: Did you just use the "L" word?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
+	tag: p-103
 page:2014-04-02
 	desc: You realize he's going to think he has a chance at dating you now, right?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
+	tag: p-102
 page:2014-04-01
 	desc: April Fools Day 2014
 	tag: Ash
@@ -1998,60 +2002,60 @@ page:2014-04-01
 page:2014-03-31
 	desc: Hello, I've got my shirt off here...
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
+	tag: p-101
 page:2014-03-28
 	desc: That was... Unexpected.
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
+	tag: p-100
 page:2014-03-27
 	desc: Ash? I didn't think...
 	tag: Ash
 	tag: Bubbles
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: Kiss
 	tag: McArthurRes
+	tag: p-099
 page:2014-03-26
 	desc: Here's your jack, by the way
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Monster
 	tag: OldRoad
 	tag: Oscar
+	tag: p-099
 page:2014-03-25
 	desc: We took forever to get together and I've wanted to be physical for the longest time
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Monster
 	tag: OldRoad
 	tag: Oscar
 	tag: OscarCar
+	tag: p-097
 page:2014-03-24
 	desc: "sometimes it helps to tell your problems to a total stranger on a bus"
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Monster
 	tag: OldRoad
 	tag: Oscar
 	tag: OscarCar
+	tag: p-096
 page:2014-03-21
 	desc: I don't suppose you can change a tire
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Monster
 	tag: OldRoad
 	tag: Oscar
+	tag: p-095
 page:2014-03-20
 	desc: Ten Years of Misfile
 	tag: Ash
@@ -2059,23 +2063,22 @@ page:2014-03-20
 page:2014-03-19
 	desc: I'm sorry... You look like someone I know
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Monster
 	tag: OldRoad
 	tag: Oscar
+	tag: p-094
 page:2014-03-18
 	desc: Emily?! What the heck are you...
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Monster
 	tag: OldRoad
 	tag: Oscar
+	tag: p-093
 page:2014-03-17
 	desc: Pants! Pants! Pants...
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: Flashback
@@ -2083,10 +2086,10 @@ page:2014-03-17
 	tag: McArthurRes
 	tag: Monster
 	tag: OldRoad
+	tag: p-092
 page:2014-03-14
 	desc: So... Does this change your opinion of Valentines day?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: Flashback
@@ -2094,10 +2097,10 @@ page:2014-03-14
 	tag: McArthurRes
 	tag: Monster
 	tag: OldRoad
+	tag: p-091
 page:2014-03-13
 	desc: I feel... Weak? Like PHYSICALLY Weak. Like I just want to lay here.
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: Flashback
@@ -2105,10 +2108,10 @@ page:2014-03-13
 	tag: McArthurRes
 	tag: Monster
 	tag: OldRoad
+	tag: p-090
 page:2014-03-12
 	desc: Just drive... No! Just DRIVE!
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: Flashback
@@ -2116,718 +2119,716 @@ page:2014-03-12
 	tag: McArthurRes
 	tag: Monster
 	tag: OldRoad
+	tag: p-089
 page:2014-03-11
 	desc: Seriously? Am I not sending enough sub text about "coming back to my place"?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
+	tag: p-088
 	tag: Rumisiel
 	tag: School
 page:2014-03-10
 	desc: I keep looking at people and feeling like they know
-	note: Missi mention
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: Missi
+	tag: p-087
 	tag: School
 page:2014-03-07
 	desc: You're... Unusually bright this morning
 	note: <span class="dt"><time>2005-02-15</time> Tuesday</span>
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Dates
 	tag: Emily
+	tag: p-086
 	tag: School
 page:2014-03-06
 	desc: Also, you have lipstick on your ear... And a hicky
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Hickey
+	tag: p-085
 	tag: Rumisiel
 	tag: XR4Ti
 page:2014-03-05
 	desc: Wow. You're on time. How was your night out?
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
+	tag: p-084
 	tag: Rumisiel
 	tag: XR4Ti
 page:2014-03-04
 	desc: if it was wrong to be doing this the universe would do SOMEthing to let us know
 	tag: Ash
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
 	tag: Missi
+	tag: p-083
 	tag: Rumisiel
 page:2014-03-03
 	desc: I'm not going to be able to explain this one away am I?
 	tag: Ash
 	tag: Bubbles
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: Kiss
 	tag: McArthurRes
 	tag: Missi
+	tag: p-082
 	tag: Rumisiel
 page:2014-02-28
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: McArthurRes
 	desc: What I'm trying to say is...
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
+	tag: p-081
 page:2014-02-27
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: McArthurRes
 	desc: I'm nervous, ok?
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
+	tag: p-080
 page:2014-02-26
-	tag: p-XXX
-	tag: ch-20
+	desc: Missi: I saw Ash in her braaaa agaaaaaain...
 	tag: Ash
+	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
 	tag: Missi
+	tag: p-079
 	tag: Rumisiel
-	desc: I saw Ash in her braaaa agaaaaaain...
 page:2014-02-25
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: McArthurRes
 	desc: These things catch food like a shelf
-page:2014-02-24
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
+	tag: p-078
+page:2014-02-24
 	desc: I think I've found a flaw in this meal as date food
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
+	tag: p-077
 page:2014-02-21
-	tag: p-XXX
-	tag: ch-20
-	tag: McArthurRes
-	tag: Missi
-	tag: Rumisiel
 	desc: If you weren't so busy pining after Ash you'd have probably been in a dozen relationships by now
-page:2014-02-20
-	tag: p-XXX
 	tag: ch-20
 	tag: McArthurRes
 	tag: Missi
+	tag: p-076
+	tag: Rumisiel
+page:2014-02-20
+	desc: Oh no! Spaghetti! They are going to do the spaghetti kissing thing!
+	tag: ch-20
+	tag: McArthurRes
+	tag: Missi
+	tag: p-075
 	tag: Rumisiel
 	tag: Tears
-	desc: Oh no! Spaghetti! They are going to do the spaghetti kissing thing!
 page:2014-02-19
-	tag: p-XXX
-	tag: ch-20
+	desc: If this is all some elaborate plan to do the <cite>Lady and the Tramp</cite> spaghetti kiss thing...
 	tag: Ash
+	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
-	desc: If this is all some elaborate plan to do the <cite>Lady and the Tramp</cite> spaghetti kiss thing...
+	tag: p-074
 page:2014-02-18
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: McArthurRes
-	tag: Missi
-	tag: Rumisiel
 	desc: No! The inevitable sexy love-fest that follows!
-page:2014-02-17
-	tag: p-XXX
+	tag: Ash
 	tag: ch-20
 	tag: McArthurRes
 	tag: Missi
+	tag: p-073
 	tag: Rumisiel
+page:2014-02-17
 	desc: ... Dinner?
-page:2014-02-14
-	tag: p-XXX
 	tag: ch-20
+	tag: McArthurRes
+	tag: Missi
+	tag: p-072
+	tag: Rumisiel
+page:2014-02-14
+	desc: Valentines Day 2014
 	tag: Ash
 	tag: Emily
 	tag: Filler
-	desc: Valentines Day 2014
 page:2014-02-13
-	tag: p-XXX
+	desc: Rumisiel: I made it... I can't feel my fingers, but I made it.
 	tag: ch-20
-	tag: Rumisiel
+	tag: McArthurRes
 	tag: Missi
-	tag: McArthurRes
-	desc: I made it... I can't feel my fingers, but I made it.
+	tag: p-071
+	tag: Rumisiel
 page:2014-02-12
-	tag: p-XXX
-	tag: ch-20
+	desc: Emily: What's simple to cook?
 	tag: Ash
+	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
-	desc: What's simple to cook?
+	tag: p-070
 page:2014-02-11
-	tag: p-XXX
-	tag: ch-20
+	desc: Emily: But... I followed the instructions
 	tag: Ash
+	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
-	desc: But... I followed the instructions
+	tag: p-069
 page:2014-02-10
-	tag: p-XXX
-	tag: ch-20
+	desc: Emily: It's... Did I cook leather?
 	tag: Ash
+	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
-	desc: It's... Did I cook leather?
+	tag: p-068
 page:2014-02-07
-	tag: p-XXX
-	tag: ch-20
+	desc: Emily: Let me bring out dinner
 	tag: Ash
+	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
-	desc: Let me bring out dinner
+	tag: p-067
 page:2014-02-06
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: McArthurRes
 	desc: I'm still not sure about the food, but I can coordinate a table
-page:2014-02-05
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
-	tag: Rumisiel
-	desc: I cannot WAIT to watch your sexy girl date go down, Ash
-page:2014-02-04
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Rumisiel
-	desc: Ok, we're clear of the house. Where do you want to get out?
-page:2014-02-03
-	tag: p-XXX
 	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
+	tag: p-066
+page:2014-02-05
+	desc: I cannot WAIT to watch your sexy girl date go down, Ash
+	tag: Ash
+	tag: ch-20
+	tag: p-065
+	tag: Rumisiel
+page:2014-02-04
+	desc: Ok, we're clear of the house. Where do you want to get out?
+	tag: Ash
+	tag: ch-20
+	tag: p-064
+	tag: Rumisiel
+page:2014-02-03
 	desc: I still have to find something to cook!
+	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
+	tag: p-063
 page:2014-01-31
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Rumisiel
-	tag: UptonHouse
 	desc: So do I just hang out while you two are awkwarding over each other?
+	tag: Ash
+	tag: ch-20
+	tag: p-062
+	tag: Rumisiel
+	tag: UptonHouse
 page:2014-01-30
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Rumisiel
-	tag: UptonHouse
 	desc: Plausible deniability
-page:2014-01-29
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
+	tag: p-061
 	tag: Rumisiel
-	tag: Vashiel
 	tag: UptonHouse
+page:2014-01-29
 	desc: I know two people who ARE dating
-page:2014-01-28
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
-	tag: Bubbles
-	tag: Dates
-	tag: Valentine
-	tag: Vashiel
+	tag: ch-20
+	tag: p-060
+	tag: Rumisiel
 	tag: UptonHouse
+	tag: Vashiel
+page:2014-01-28
 	desc: HAPPY VALENTINES DAY
 	note: <span class="dt"><time>2005-02-14</time> Monday</span>
+	tag: Ash
+	tag: Bubbles
+	tag: ch-20
+	tag: Dates
+	tag: p-059
+	tag: UptonHouse
+	tag: Valentine
+	tag: Vashiel
 page:2014-01-27
-	tag: p-XXX
-	tag: ch-20
-	tag: Aries
-	tag: Ash
-	tag: Harry
 	desc: By the way do you babysit?
-page:2014-01-24
-	tag: p-XXX
-	tag: ch-20
 	tag: Aries
 	tag: Ash
+	tag: ch-20
 	tag: Harry
+	tag: p-058
+page:2014-01-24
 	desc: ’Arry ... I mean "other ’Arry", is still in the NICU
+	tag: Aries
+	tag: Ash
+	tag: ch-20
+	tag: Harry
+	tag: p-057
 page:2014-01-23
-	tag: p-XXX
+	desc: Why did I suggest cooking?
 	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
 	tag: Nissan240SX
-	desc: Why did I suggest cooking?
+	tag: p-056
 page:2014-01-22
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: School
 	desc: "Blimp Bras"!
-page:2014-01-21
-	tag: p-XXX
+	tag: Ash
 	tag: ch-20
+	tag: Emily
+	tag: p-055
+	tag: School
+page:2014-01-21
+	desc: She trusts you at home all week by yourself?
 	tag: Ash
 	tag: Bacon
+	tag: ch-20
 	tag: Emily
 	tag: Flashback
+	tag: p-054
 	tag: School
-	desc: She trusts you at home all week by yourself?
 page:2014-01-20
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: School
 	desc: I was thinking some more about Valentine's Day...
-page:2014-01-17
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
 	tag: Emily
+	tag: p-053
 	tag: School
+page:2014-01-17
 	desc: Ash! I just heard about Kate!
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: p-052
+	tag: School
 page:2014-01-16
-	tag: p-XXX
+	desc: You should beg forgiveness now while I'm still high on endorphins
 	tag: ch-20
 	tag: Harry
 	tag: Hospital
 	tag: Kate
 	tag: KateKid
-	desc: You should beg forgiveness now while I'm still high on endorphins
+	tag: p-051
 page:2014-01-15
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: KateKid
-	tag: Rumisiel
-	tag: UptonHouse
 	desc: So was it a boy or a girl?
+	tag: Ash
+	tag: ch-20
+	tag: KateKid
+	tag: p-050
+	tag: Rumisiel
+	tag: UptonHouse
 page:2014-01-14
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Edward
-	tag: Hospital
-	tag: Rumisiel
-	tag: UptonHouse
 	desc: You're almost there. I can see the head
+	tag: Ash
+	tag: ch-20
+	tag: Edward
+	tag: Hospital
+	tag: p-049
+	tag: Rumisiel
+	tag: UptonHouse
 page:2014-01-13
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Hospital
-	tag: Kate
-	tag: Rumisiel
-	tag: UptonHouse
 	desc: You can't get pregnant just being near it, you know
+	tag: Ash
+	tag: ch-20
+	tag: Hospital
+	tag: Kate
+	tag: p-048
+	tag: Rumisiel
+	tag: UptonHouse
 page:2014-01-10
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Rumisiel
-	tag: UptonHouse
 	desc: FOR THE LOVE OF GOD... SHEATH THAT THING!
-page:2014-01-09
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
+	tag: p-047
 	tag: Rumisiel
 	tag: UptonHouse
+page:2014-01-09
 	desc: Ash? You... Ok?
+	tag: Ash
+	tag: ch-20
+	tag: p-046
+	tag: Rumisiel
+	tag: UptonHouse
 page:2014-01-08
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Blush
-	tag: Hospital
-	tag: Kate
 	desc: Ash, promise me, if Harry doesn't make it and I have this baby tonight,
-page:2014-01-07
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Hospital
-	tag: Kate
-	desc: I know. That cake thing is horrible, right?
-page:2014-01-06
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
 	tag: Blush
+	tag: ch-20
 	tag: Hospital
 	tag: Kate
+	tag: p-045
+page:2014-01-07
+	desc: I know. That cake thing is horrible, right?
+	tag: Ash
+	tag: ch-20
+	tag: Hospital
+	tag: Kate
+	tag: p-044
+page:2014-01-06
 	desc: So help me take my mind off all this
+	tag: Ash
+	tag: Blush
+	tag: ch-20
+	tag: Hospital
+	tag: Kate
+	tag: p-043
 page:2014-01-03
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Edward
-	tag: Hospital
-	tag: Kate
 	desc: You're the closest I have to family outside Harry
-page:2014-01-02
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
 	tag: Edward
 	tag: Hospital
 	tag: Kate
+	tag: p-042
+page:2014-01-02
 	desc: Well, I have some good news and some bad news.
+	tag: Ash
+	tag: ch-20
+	tag: Edward
+	tag: Hospital
+	tag: Kate
+	tag: p-041
 page:2014-01-01
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Hospital
-	tag: Kate
-	tag: Tears
 	desc: Her hand is... Shaking
-page:2013-12-31
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
 	tag: Hospital
 	tag: Kate
-	tag: Wei
+	tag: p-040
+	tag: Tears
+page:2013-12-31
 	desc: Your blood pressure is still quite low
-page:2013-12-30
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
+	tag: Hospital
+	tag: Kate
+	tag: p-039
+	tag: Wei
+page:2013-12-30
+	desc: This is SUPPOSED to be fun
+	tag: Ash
+	tag: ch-20
 	tag: Heather
 	tag: Kate
 	tag: LocationTBA
-	desc: This is SUPPOSED to be fun
+	tag: p-038
 page:2013-12-27
-	tag: p-XXX
-	tag: ch-20
+	desc: That is a HEART, NOT A BUTT
 	tag: Ash
 	tag: Blush
+	tag: ch-20
 	tag: Heather
 	tag: Kate
 	tag: KateRel1
 	tag: KateRel2
 	tag: LocationTBA
-	desc: That is a HEART, NOT A BUTT
+	tag: p-037
 page:2013-12-26
-	tag: p-XXX
-	tag: ch-20
+	desc: "Episiotomy"
 	tag: Ash
+	tag: ch-20
 	tag: Heather
 	tag: Kate
 	tag: LocationTBA
-	desc: "Episiotomy"
+	tag: p-036
 page:2013-12-25
+	desc: Christmas 2013
 	tag: Ash
 	tag: Filler
-	desc: Christmas 2013
 page:2013-12-24
-	tag: p-XXX
-	tag: ch-20
+	desc: Your concern is touching
 	tag: Ash
+	tag: ch-20
 	tag: Heather
 	tag: KateRel1
 	tag: KateRel2
 	tag: LocationTBA
-	desc: Your concern is touching
+	tag: p-035
 page:2013-12-23
-	tag: p-XXX
-	tag: ch-20
+	desc: Welcome to my shower, Ash!
 	tag: Ash
+	tag: ch-20
 	tag: Kate
 	tag: KateRel1
 	tag: LocationTBA
-	desc: Welcome to my shower, Ash!
+	tag: p-034
 page:2013-12-20
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: LocationTBA
 	desc: I know two people here. One freaks me out and the other pisses me off.
+	tag: Ash
+	tag: ch-20
+	tag: LocationTBA
+	tag: p-033
 page:2013-12-19
-	tag: p-XXX
+	desc: I have a little reunion and I want to show up in something nicer than my old mini-van
 	tag: ch-20
 	tag: Emily
-	tag: MsMcArthur
 	tag: McArthurRes
 	tag: MiniVan
-	desc: I have a little reunion and I want to show up in something nicer than my old mini-van
+	tag: MsMcArthur
+	tag: p-032
 page:2013-12-18
-	tag: p-XXX
+	desc: Can I borrow your Mustang next week?
 	tag: ch-20
 	tag: Emily
-	tag: MsMcArthur
 	tag: McArthurRes
+	tag: MsMcArthur
 	tag: Mustang
-	desc: Can I borrow your Mustang next week?
+	tag: p-031
 page:2013-12-17
 	desc: Other guy split quick enough though.
 	tag: Ash
 	tag: Bubbles
-	tag: p-XXX
 	tag: ch-20
 	tag: Marie
 	tag: MarieHouse
+	tag: p-030
 	tag: Phone
 	tag: UptonHouse
 page:2013-12-16
-	tag: p-XXX
-	tag: ch-20
+	desc: Rumisiel… Ok. We can go with that.
 	tag: Ash
+	tag: ch-20
 	tag: Marie
 	tag: MarieHouse
+	tag: p-029
 	tag: Phone
 	tag: UptonHouse
-	desc: Rumisiel… Ok. We can go with that.
 page:2013-12-13
-	tag: p-XXX
-	tag: ch-20
+	desc: What did you and Dad do on your first date?
 	tag: Ash
+	tag: ch-20
 	tag: Marie
+	tag: p-028
 	tag: Phone
 	tag: UptonHouse
-	desc: What did you and Dad do on your first date?
 page:2013-12-12
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Rumisiel
-	tag: Rain
-	tag: Valentine
 	desc: I still don't know what to do for the actual day though
+	tag: Ash
+	tag: ch-20
+	tag: p-027
+	tag: Rain
+	tag: Rumisiel
+	tag: Valentine
 page:2013-12-11
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: CardShop
-	tag: Rumisiel
-	tag: ShopAsst
-	tag: Shopping
-	tag: Valentine
 	desc: "Wanting to get closer to your heart because…"
+	tag: Ash
+	tag: CardShop
+	tag: ch-20
+	tag: p-026
+	tag: Rumisiel
+	tag: ShopAsst
+	tag: Shopping
+	tag: Valentine
 page:2013-12-10
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: CardShop
-	tag: Rumisiel
-	tag: ShopAsst
-	tag: Shopping
-	tag: Valentine
 	desc: I don't want too see couples fighting in my store this close to Valentine's Day
-page:2013-12-09
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
 	tag: CardShop
+	tag: ch-20
+	tag: p-025
 	tag: Rumisiel
 	tag: ShopAsst
 	tag: Shopping
 	tag: Valentine
+page:2013-12-09
 	desc: Because Emily and I decided we were doing something for Valentine's Day
+	tag: Ash
+	tag: CardShop
+	tag: ch-20
+	tag: p-024
+	tag: Rumisiel
+	tag: ShopAsst
+	tag: Shopping
+	tag: Valentine
 page:2013-12-06
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: McArthurRes
 	desc: Being passive can be infuriating
-page:2013-12-05
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
 	tag: Emily
 	tag: McArthurRes
+	tag: p-023
+page:2013-12-05
 	desc: The he started laughing nervously like it had all been a joke
-page:2013-12-04
-	tag: p-XXX
+	tag: Ash
 	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
+	tag: p-022
+page:2013-12-04
+	desc: It wasn't sweet. It creeped me out. I will never, ever go on a date with you
 	tag: Ash
 	tag: AutoModerZ
 	tag: Blush
-	tag: Colin
-	tag: Valentine
-	desc: It wasn't sweet. It creeped me out. I will never, ever go on a date with you.
-page:2013-12-03
-	tag: p-XXX
 	tag: ch-20
+	tag: Colin
+	tag: p-021
+	tag: Valentine
+page:2013-12-03
+	desc: Welcome to Automoderz. May I...
 	tag: Ash
 	tag: AutoModerZ
 	tag: Bubbles
-	tag: Colin
-	tag: Valentine
-	desc: Welcome to Automoderz. May I...
-page:2013-12-02
-	tag: p-XXX
 	tag: ch-20
+	tag: Colin
+	tag: p-020
+	tag: Valentine
+page:2013-12-02
+	desc: You're going to crush that guy, you know?
 	tag: Ash
+	tag: ch-20
+	tag: p-019
 	tag: ShoulderAngel
 	tag: XR4Ti
-	desc: You're going to crush that guy, you know?
 page:2013-11-29
-	tag: p-XXX
-	tag: ch-20
+	desc: It's HIS car. I KNOW that car!
 	tag: Ash
+	tag: ch-20
 	tag: Computer
 	tag: Missi
+	tag: p-018
 	tag: UptonHouse
-	desc: It's HIS car. I KNOW that car!
 page:2013-11-28
+	desc: Thanksgiving 2013
 	tag: Filler
 	tag: Rumisiel
-	desc: Thanksgiving 2013
 page:2013-11-27
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Camera
-	tag: IRsensor
-	tag: Missi
-	tag: UptonHouse
 	desc: It's blinking.
+	tag: Ash
+	tag: Camera
+	tag: ch-20
+	tag: IRsensor
+	tag: Missi
+	tag: p-017
+	tag: UptonHouse
 page:2013-11-26
-	tag: p-XXX
-	tag: ch-20
-	tag: IRsensor
-	tag: Camera
-	tag: Rain
-	tag: UptonHouse
 	desc: Shkk... Shkk... Shkk...
+	tag: Camera
+	tag: ch-20
+	tag: IRsensor
+	tag: p-016
+	tag: Rain
+	tag: UptonHouse
 page:2013-11-25
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Missi
-	tag: UptonHouse
 	desc: That doesn't mean I want to get all close and naked with him wrapped up in a blanket
+	tag: Ash
+	tag: ch-20
+	tag: Missi
+	tag: p-015
+	tag: UptonHouse
 page:2013-11-22
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Missi
-	tag: UptonHouse
 	desc: You know, they SAY the fastest way to warm up a cold person is
+	tag: Ash
+	tag: ch-20
+	tag: Missi
+	tag: p-014
+	tag: UptonHouse
 page:2013-11-21
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Missi
-	tag: UptonHouse
-	tag: Rain
 	desc: _This is my project. No, it's a MISSION_
-page:2013-11-20
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
+	tag: ch-20
 	tag: Missi
+	tag: p-013
 	tag: Rain
 	tag: UptonHouse
+page:2013-11-20
 	desc: I hear a car...
-page:2013-11-19
-	tag: p-XXX
-	tag: ch-20
 	tag: Ash
-	tag: Emily
-	tag: McArthurRes
-	tag: Valentine
-	desc: We totally have to do something nice for Valentines day
-page:2013-11-18
-	tag: p-XXX
 	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: McArthurRes
-	tag: Valentine
-	desc: That's just you being too busy to date
-page:2013-11-15
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: McArthurRes
-	desc: there are times I envy Rumisiel's ability to just give responsibility the finger
-page:2013-11-14
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Emily
-	tag: McArthurRes
-	desc: Shoot me
-page:2013-11-13
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Heather
-	tag: HeatherHome
-	desc: You know you have issues, right?
-page:2013-11-12
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Heather
-	tag: HeatherHome
-	desc: it's always important to at least HAVE a plan
-page:2013-11-11
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Heather
-	tag: HeatherHome
-	desc: I'm not even related to Kate except through marriage
-page:2013-11-08
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Heather
-	tag: HeatherHome
-	desc: Well you weren't answering the phone...
-page:2013-11-07
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
-	tag: Heather
-	tag: HeatherHome
-	desc: Seriously? You just show up at my house now?
-page:2013-11-06
-	tag: p-XXX
-	tag: ch-20
-	tag: Ash
 	tag: Missi
+	tag: p-012
+	tag: Rain
 	tag: UptonHouse
-	desc: _I will find him and expose him, and then I will crush him_
-page:2013-11-05
-	tag: p-XXX
+page:2013-11-19
+	desc: We totally have to do something nice for Valentines day
+	tag: Ash
 	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
+	tag: p-011
+	tag: Valentine
+page:2013-11-18
+	desc: That's just you being too busy to date
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
+	tag: p-010
+	tag: Valentine
+page:2013-11-15
+	desc: there are times I envy Rumisiel's ability to just give responsibility the finger
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
+	tag: p-009
+page:2013-11-14
+	desc: Shoot me
+	tag: Ash
+	tag: ch-20
+	tag: Emily
+	tag: McArthurRes
+	tag: p-008
+page:2013-11-13
+	desc: You know you have issues, right?
+	tag: Ash
+	tag: ch-20
+	tag: Heather
+	tag: HeatherHome
+	tag: p-007
+page:2013-11-12
+	desc: It's always important to at least HAVE a plan
+	tag: Ash
+	tag: ch-20
+	tag: Heather
+	tag: HeatherHome
+	tag: p-006
+page:2013-11-11
+	desc: I'm not even related to Kate except through marriage
+	tag: Ash
+	tag: ch-20
+	tag: Heather
+	tag: HeatherHome
+	tag: p-005
+page:2013-11-08
+	desc: Well you weren't answering the phone...
+	tag: Ash
+	tag: ch-20
+	tag: Heather
+	tag: HeatherHome
+	tag: p-004
+page:2013-11-07
+	desc: Seriously? You just show up at my house now?
+	tag: Ash
+	tag: ch-20
+	tag: Heather
+	tag: HeatherHome
+	tag: p-003
+page:2013-11-06
+	desc: _I will find him and expose him, and then I will crush him_
+	tag: Ash
+	tag: ch-20
+	tag: Missi
+	tag: p-002
+	tag: UptonHouse
+page:2013-11-05
+	desc: Operation Stalker Smack Down is underway!
 	tag: Ash
 	tag: Camera
+	tag: ch-20
 	tag: IRsensor
 	tag: Missi
+	tag: p-001
 	tag: UptonHouse
-	desc: Operation Stalker Smack Down is underway!
 page:2013-11-04
-	tag: p-XXX
+	desc: <br>**Book 20**<br>February ’05<br><br>_Valentine – Baby Shower – Early – The Stalkers_<br>
 	tag: ch-20
 	tag: Cover
 	tag: Emily
-	desc: <br>**Book 20**<br>February ’05<br><br>_Valentine – Baby Shower – Early – The Stalkers_<br>
+	tag: p-000
 ; book 19
 page:2013-11-01
-	tag: p-XXX
+	tag: p-115
 	tag: ch-19
 	tag: UptonHouse
 	tag: Bed
@@ -3403,7 +3404,7 @@ page:2013-07-23
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
-	desc: I don't want to have anything to do with those girls.
+	desc: I don't want to have anything to do with those girls
 page:2013-07-22
 	tag: p-XXX
 	tag: ch-19
@@ -3411,7 +3412,7 @@ page:2013-07-22
 	tag: McArthurRes
 	tag: MsMcArthur
 	tag: Phone
-	desc: It's just a little gathering for you to go to.
+	desc: It's just a little gathering for you to go to
 page:2013-07-19
 	tag: p-XXX
 	tag: ch-19
@@ -3419,14 +3420,14 @@ page:2013-07-19
 	tag: McArthurRes
 	tag: MsMcArthur
 	tag: Phone
-	desc: Emily, please tell me you are not busy this evening.
+	desc: Emily, please tell me you are not busy this evening
 page:2013-07-18
 	tag: p-XXX
 	tag: ch-19
 	tag: Ash
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: Being a huge douche is just one of the many services I'm prepared to offer.
+	desc: Rumisiel: Being a huge douche is just one of the many services I'm prepared to offer
 page:2013-07-17
 	tag: p-XXX
 	tag: ch-19
@@ -3786,7 +3787,7 @@ page:2013-05-16
 page:2013-05-15
 	desc: there are “things” I’d have gotten rid of
 	tag: Ash
-	tag: p-XXX
+	tag: p-117
 	tag: ch-18
 	tag: Rumisiel
 	tag: UptonHouse
@@ -4842,7 +4843,7 @@ page:2012-11-13
 	desc: Wow! Bed, Bath and Body Works!
 	tag: Ash
 	tag: Bubbles
-	tag: p-XXX
+	tag: p-126
 	tag: ch-17
 	tag: Edward
 	tag: Ramael
@@ -5836,7 +5837,7 @@ page:2012-05-15
 ; book 16
 page:2012-05-14
 	desc: Emily: Unfortunately the only things I know she wants are things I just can't give her...
-	tag: p-XXX
+	tag: p-116
 	tag: ch-16
 	tag: Computer
 	tag: Emily
@@ -6858,7 +6859,7 @@ page:2011-11-29
 	tag: Fillaniel
 	tag: Terrael
 	tag: Sword
-	note: (one of the 5th Branch administrators: Fillaniel or Terrael
+	note: Fillaniel ID: WoG from book 16's notes
 page:2011-11-28
 	tag: p-XXX
 	tag: ch-16
@@ -6869,7 +6870,7 @@ page:2011-11-28
 	auth: Ash and Emily challenge a crooked car dealer and wanna be racer to save a classic Mustang from being sold for parts. Meanwhile, can Ash repair his friendship with Eponine? What could be worse than that? Christmas shopping with mom...
 ; book 15
 page:2011-11-25
-	tag: p-XXX
+	tag: p-128
 	tag: ch-15
 	tag: Burt
 	tag: BurtsYard
@@ -7751,7 +7752,7 @@ page:2011-05-26
 ; book 14
 page:2011-05-25
 	tag: Ash
-	tag: p-XXX
+	tag: p-114
 	tag: ch-14
 	tag: UptonHouse
 page:2011-05-24
@@ -8674,7 +8675,7 @@ page:2010-12-09
 	tag: Emily
 ;book 13
 page:2010-12-08
-	tag: p-XXX
+	tag: p-113
 	tag: ch-13
 	tag: Heather
 	tag: LoganHome
@@ -9491,7 +9492,7 @@ page:2010-06-30
 page:2010-06-29
 	desc: Bookmarks
 	tag: Ash
-	tag: p-XXX
+	tag: p-130
 	tag: ch-12
 	tag: FilingTool
 	tag: OldRoad
@@ -10417,7 +10418,7 @@ page:2009-12-25
 	tag: Filler
 	desc: christmas 09
 page:2009-12-24
-	tag: p-XXX
+	tag: p-128
 	tag: ch-11
 	tag: Emily
 	tag: Heather
@@ -11344,7 +11345,7 @@ page:2009-06-26
 ; book 10
 page:2009-06-25
 	tag: Ash
-	tag: p-XXX
+	tag: p-122
 	tag: ch-10
 	tag: Rumisiel
 	tag: UptonHouse
@@ -12223,7 +12224,7 @@ page:2009-01-05
 ; book 9
 page:2009-01-02
 	tag: Ash
-	tag: p-XXX
+	tag: p-130
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
@@ -13194,7 +13195,7 @@ page:2008-06-27
 ; book 8
 page:2008-06-26
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-144
 	tag: ch-08
 	tag: Rumisiel
 page:2008-06-25
@@ -14329,7 +14330,7 @@ page:2007-12-05
 ; book 7
 ; ### bed pass
 page:2007-12-04
-	tag: p-XXX
+	tag: p-125
 	tag: ch-07
 	tag: AidenHome
 	tag: N240Z
@@ -15404,7 +15405,7 @@ page:2007-06-05
 page:2007-06-04
 	desc: Edward: Well, it's the longest relationship you've ever had
 	tag: Ash
-	tag: p-XXX
+	tag: p-115
 	tag: ch-06
 	tag: Edward
 	tag: Rumisiel
@@ -16298,29 +16299,29 @@ page:2007-01-16
 page:2007-01-15
 	desc: Ash: Don't let him try anything funny or do anything that,
 	tag: Ash
-	tag: p-XXX
 	tag: ch-06
 	tag: Emily
 	tag: James
 	tag: JamesHouse
-	tag: MarieHouse
 	tag: Mace
+	tag: MarieHouse
+	tag: p-XXX
 	tag: Rumisiel
 	tag: Vashiel
 page:2007-01-12
 	desc: Ash: The day of reckoning has arrived.
 	tag: Ash
-	tag: p-XXX
 	tag: ch-06
 	tag: Emily
 	tag: MarieHouse
+	tag: p-XXX
 page:2007-01-11
 	desc: Ash: I didn't see the humor in this whole situation until this moment, but this is funny
 	tag: Ash
-	tag: p-XXX
 	tag: ch-06
 	tag: Emily
 	tag: MarieHouse
+	tag: p-XXX
 page:2007-01-10
 	desc: Emily: A pillar of my early adolescence was just wrenched out from under me
 	tag: Ash
@@ -16437,7 +16438,7 @@ page:2006-12-22
 page:2006-12-21
 	desc: Ash: Mom? Can we talk?
 	tag: Ash
-	tag: p-XXX
+	tag: p-134
 	tag: ch-05
 	tag: Marie
 	tag: MarieHouse
@@ -17596,7 +17597,7 @@ page:2006-06-14
 	tag: Cassi
 	desc: <br>**Book 5**<br>June — July ’04<br><br>_Clothes shopping — pool — job search — the lecturer — to Cape Cod — The Ale House – cinema – Brent & Casper – dreams – bra shopping – the offer_
 page:2006-06-13
-	tag: p-XXX
+	tag: p-116
 	tag: ch-04
 	tag: Edward
 	tag: Rumisiel
@@ -18617,7 +18618,7 @@ page:2005-12-29
 	tag: Vashiel
 	desc: <br>**Book 4**<br><br>May – June ’04<br><br> _James — sex with a boy? — James, meet Rumisiel, — meet Cassiel — the challenge — Brent — the duel — school’s out_
 page:2005-12-28
-	tag: p-XXX
+	tag: p-107
 	tag: ch-03
 	tag: Cassiel
 	tag: UptonHouse	
@@ -19588,7 +19589,7 @@ page:2005-07-28
 	tag: Kate
 	desc: <br>**Book 3**<br>May ’04<br><br>_drinking to forget — Marie Upton — The Monster — racing Kate II — chained spirit — Cassiel_
 page:2005-07-27
-	tag: p-XXX
+	tag: p-114
 	tag: ch-02
 	tag: Ash
 	tag: Emily
@@ -20624,777 +20625,779 @@ page:2004-11-30
 	desc: <br>**Book 2**<br>April—May '04<br><br>_Vashiel — Emily's birthday — car shopping — Aries garage — Harry — Kate & Angelica — 28 days — racing Kate — the unrequited — disaster in a kiss_
 ; ---- book 2 ----
 page:2004-11-29
-	tag: p-XXX
-	tag: ch-01
+	desc: Emily: Don’t be gross!
 	tag: Ash
 	tag: Blush
+	tag: ch-01
 	tag: Emily
 	tag: Hit
 	tag: OldRoad
+	tag: p-130
 	tag: Rumisiel
-	desc: Don’t be gross!
 page:2004-11-26
-	tag: p-XXX
-	tag: ch-01
+	desc: (_nearly_ a kiss)
 	tag: Ash
 	tag: Blush
+	tag: ch-01
 	tag: Emily
 	tag: Kiss
 	tag: OldRoad
+	tag: p-129
 	tag: Rumisiel
 	tag: XR4Ti
-	desc: (_nearly_ a kiss)
 page:2004-11-24
-	tag: p-XXX
-	tag: ch-01
-	tag: Acura
-	tag: OldRoad
-	tag: Tom
 	desc: Tom: Dad? You know that car you bought me?
-page:2004-11-22
-	tag: p-XXX
+	tag: Acura
 	tag: ch-01
+	tag: OldRoad
+	tag: p-128
+	tag: Tom
+page:2004-11-22
+	desc: Racer: How about "Empress"?
 	tag: Ash
+	tag: ch-01
 	tag: Emily
 	tag: OldRoad
+	tag: p-127
 	tag: Rumisiel
-	desc: How about "Empress"?
 page:2004-11-20
+	desc: remembrance
 	tag: Emily
 	tag: Filler
-	desc: remembrance
 page:2004-11-19
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: Victory High
 	tag: Ash
+	tag: ch-01
 	tag: OldRoad
+	tag: p-126
 	tag: Racers
 	tag: XR4Ti
-	desc: Victory High
 page:2004-11-17
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: You may be an asshole, but
 	tag: Acura
 	tag: Angel
+	tag: ch-01
 	tag: Emily
 	tag: OldRoad
+	tag: p-125
 	tag: Race
 	tag: Rumisiel
-	desc: You may be an asshole, but
 page:2004-11-15
-	tag: p-XXX
-	tag: ch-01
+	desc: Tom: Can’t turn!
 	tag: Acura
+	tag: ch-01
 	tag: OldRoad
+	tag: p-124
 	tag: Race
 	tag: Tom
-	desc: Can’t turn!
 page:2004-11-12
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: I suddenly have a very bad feeeling…
 	tag: Acura
+	tag: ch-01
 	tag: OldRoad
+	tag: p-123
 	tag: Race
 	tag: Rumisiel
 	tag: Tom
 	tag: XR4Ti
-	desc: I suddenly have a very bad feeeling…
 page:2004-11-10
-	tag: p-XXX
-	tag: ch-01
+	desc: Emily: Did you do that?
 	tag: Acura
 	tag: Angel
+	tag: ch-01
 	tag: Emily
 	tag: OldRoad
+	tag: p-122
 	tag: Race
 	tag: Rumisiel
 	tag: Tom
 	tag: XR4Ti
-	desc: Did you do that?
 page:2004-11-08
-	tag: p-XXX
-	tag: ch-01
+	desc: Drifting by…
 	tag: Acura
 	tag: Ash
+	tag: ch-01
 	tag: OldRoad
+	tag: p-121
 	tag: Race
 	tag: Tom
 	tag: XR4Ti
-	desc: Drifting by…
 page:2004-11-05
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: Absolutely NO GODDAM WAY!!!
 	tag: Ash
 	tag: Ashley
+	tag: ch-01
 	tag: OldRoad
+	tag: p-120
 	tag: Race
 	tag: XR4Ti
-	desc: Absolutely NO GODDAM WAY!!!
 page:2004-11-03
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: And if he loses?
 	tag: Angel
 	tag: Ash
+	tag: ch-01
 	tag: Emily
 	tag: OldRoad
+	tag: p-119
 	tag: Race
 	tag: Rumisiel
-	desc: And if he loses?
 page:2004-11-01
-	tag: p-XXX
-	tag: ch-01
+	desc: The “Deal”
 	tag: Acura
 	tag: Angel
+	tag: ch-01
 	tag: Emily
 	tag: OldRoad
+	tag: p-118
 	tag: Race
 	tag: Rumisiel
 	tag: XR4Ti
-	desc: The “Deal”
 page:2004-10-29
-	tag: p-XXX
+	desc: Emily: That’s all we get to see?
 	tag: ch-01
 	tag: Emily
 	tag: OldRoad
+	tag: p-117
 	tag: Race
 	tag: Rumisiel
-	desc: That’s all we get to see?
 page:2004-10-27
-	tag: p-XXX
-	tag: ch-01
+	desc: Tom: You'll never catch me, you stupid bitch
 	tag: Acura
+	tag: ch-01
 	tag: OldRoad
+	tag: p-116
 	tag: Race
 	tag: Tom
 	tag: XR4Ti
-	desc: You'll never catch me, you stupid bitch
 page:2004-10-25
-	tag: p-XXX
-	tag: ch-01
+	desc: Tom: Why don’t you wear something sexy sometime
 	tag: Acura
 	tag: Ash
+	tag: ch-01
 	tag: Emily
 	tag: OldRoad
+	tag: p-115
 	tag: Tom
 	tag: XR4Ti
-	desc: Why don’t you wear something sexy sometime
 page:2004-10-22
-	tag: p-XXX
-	tag: ch-01
+	desc: Lotta people here tonight
 	tag: Ash
+	tag: ch-01
 	tag: OldRoad
+	tag: p-114
 	tag: RacerSpecs
 	tag: Tom
 	tag: XR4Ti
-	desc: Lotta people here tonight
 page:2004-10-20
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: Keep your friends close, your enemies closer
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-113
 	tag: Rumisiel
-	tag: XR4Ti
 	tag: UptonHouse
-	desc: Keep your friends close, your enemies closer
+	tag: XR4Ti
 page:2004-10-18
-	tag: p-XXX
+	desc: Emily: It bothers you when Ash races, doesn’t it?
 	tag: ch-01
 	tag: Edward
 	tag: Emily
 	tag: Marie
+	tag: p-112
 	tag: UptonHouse
-	desc: It bothers you when Ash races, doesn’t it?
 page:2004-10-15
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: I’m kind of in my underwear here
 	tag: Ash
 	tag: Bed
+	tag: ch-01
 	tag: Edward
 	tag: Emily
+	tag: p-111
 	tag: UptonHouse
-	desc: I’m kind of in my underwear here
 page:2004-10-13
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: Races are won in the mind
 	tag: Ash
 	tag: Bed
+	tag: ch-01
 	tag: Edward
 	tag: Emily
+	tag: p-110
 	tag: UptonHouse
-	desc: Races are won in the mind
 page:2004-10-11
-	tag: p-XXX
-	tag: ch-01
+	desc: taking this mental preparation thing pretty seriously
 	tag: Ash
 	tag: Bed
+	tag: ch-01
 	tag: Edward
 	tag: Emily
+	tag: p-109
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: taking this mental preparation thing pretty seriously
 page:2004-10-08
-	tag: p-XXX
+	note: <span class="dt">Saturday</span> morning: The day of the race…
 	tag: ch-01
 	tag: Dates
 	tag: Edward
 	tag: Emily
+	tag: p-108
 	tag: UptonHouse
-	desc: <span class="dt">Saturday</span> morning: The day of the race…
 page:2004-10-06
-	tag: p-XXX
-	tag: ch-01
+	desc: Emily: Self doubt come with the hormones
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-107
 	tag: Rumisiel
 	tag: School
-	desc: Self doubt come with the hormones
 page:2004-10-04
-	tag: p-XXX
-	tag: ch-01
+	desc: Anonymous schoolgirl: Um... You know some of us just come in here to pee...
 	tag: Ash
-	tag: School
-	desc: Um... You know some of us just come in here to pee...
-page:2004-10-01
-	tag: p-XXX
 	tag: ch-01
+	tag: p-106
+	tag: School
+page:2004-10-01
+	desc: NOS... don’t trust your engine?
 	tag: Acura
 	tag: Ash
+	tag: ch-01
+	tag: p-105
 	tag: Rumisiel
 	tag: School
 	tag: Tom
-	desc: NOS... don’t trust your engine?
 page:2004-09-29
-	tag: p-XXX
-	tag: ch-01
+	desc: You added NOS?
 	tag: Acura
+	tag: ch-01
+	tag: p-104
+	tag: RacerA
 	tag: School
 	tag: Tom
-	tag: RacerA
-	desc: You added NOS?
 page:2004-09-27
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: Figures... I finally found a girl I really like who
 	tag: Ash
 	tag: Bed
+	tag: ch-01
 	tag: Emily
+	tag: p-103
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: Figures... I finally found a girl I really like who
 page:2004-09-25
-	tag: p-XXX
-	tag: ch-01
-	tag: Ash
-	tag: Emily
-	tag: XR4Ti
 	desc: Harvard... I forgot
-page:2004-09-22
-	tag: p-XXX
-	tag: ch-01
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-102
 	tag: XR4Ti
-	tag: UptonHouse
+page:2004-09-22
 	desc: Time for the moment of truth
-page:2004-09-20
-	tag: p-XXX
-	tag: ch-01
 	tag: Ash
+	tag: ch-01
+	tag: Emily
+	tag: p-101
+	tag: UptonHouse
+	tag: XR4Ti
+page:2004-09-20
+	desc: Edward: Here's $40
+	tag: Ash
+	tag: ch-01
 	tag: Edward
 	tag: Emily
 	tag: Nosebleed
+	tag: p-100
 	tag: Rumisiel
-	tag: XR4Ti
 	tag: UptonHouse
-	desc: Here's $40
+	tag: XR4Ti
 page:2004-09-17
-	tag: p-XXX
-	tag: ch-01
+	desc: Edward: It’s not nice to spy on girls
 	tag: Ash
 	tag: Audi
+	tag: ch-01
 	tag: Edward
+	tag: p-099
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: XR4Ti
-	desc: It’s not nice to spy on girls
 page:2004-09-15
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: Just slip it in
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-098
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: XR4Ti
-	desc: Just slip it in
 page:2004-09-13
-	tag: p-XXX
-	tag: ch-01
+	desc: You’re sure your dad isn’t home?
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-097
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: XR4Ti
-	desc: You’re sure your dad isn’t home?
 page:2004-09-10
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: If you ever touch my ass again
 	tag: Ash
 	tag: AutoModerZ
+	tag: ch-01
 	tag: Colin
 	tag: Dweeb
 	tag: Emily
+	tag: p-096
 	tag: Rumisiel
-	desc: If you ever touch my ass again
 page:2004-09-08
-	tag: p-XXX
-	tag: ch-01
+	desc: Emily: I thought you didn't want to bring Rumisiel here
 	tag: Ash
 	tag: AutoModerZ
+	tag: ch-01
 	tag: Colin
 	tag: Emily
+	tag: p-095
 	tag: Rumisiel
-	desc: I thought you didn't want to bring Rumisiel here
 page:2004-09-06
-	tag: p-XXX
-	tag: ch-01
-	tag: Emily
-	tag: Molly
-	tag: Rumisiel
-	tag: SchoolRoad
-	tag: VW
 	desc: Snap! Crash!
-page:2004-09-03
-	tag: p-XXX
 	tag: ch-01
-	tag: Ash
 	tag: Emily
 	tag: Molly
-	tag: SchoolRoad
-	tag: VW
-	desc: What, are you her lesbian girlfriend now?
-page:2004-09-01
-	tag: p-XXX
-	tag: ch-01
-	tag: Ash
-	tag: Emily
-	tag: Molly
+	tag: p-094
 	tag: Rumisiel
 	tag: SchoolRoad
 	tag: VW
-	desc: So if we stop by the store on the way
-page:2004-08-30
-	tag: p-XXX
-	tag: ch-01
+page:2004-09-03
+	desc: What, are you her lesbian girlfriend now?
 	tag: Ash
+	tag: ch-01
+	tag: Emily
+	tag: Lesbian
+	tag: Molly
+	tag: p-093
+	tag: SchoolRoad
+	tag: VW
+page:2004-09-01
+	desc: So if we stop by the store on the way
+	tag: Ash
+	tag: ch-01
+	tag: Emily
+	tag: Molly
+	tag: p-092
+	tag: Rumisiel
+	tag: SchoolRoad
+	tag: VW
+page:2004-08-30
+	desc: Pop-up thermometers
+	tag: Ash
+	tag: ch-01
+	tag: p-091
 	tag: School
 	tag: Swim
 	tag: Teacher
-	desc: Pop-up thermometers
 page:2004-08-20
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: I'm such a girl
 	tag: Ash
+	tag: ch-01
+	tag: p-090
 	tag: Rumisiel
 	tag: School
 	tag: Swim
-	desc: I'm such a girl
 page:2004-08-17
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: You never paid attention to me when I was a boy
 	tag: Ash
+	tag: ch-01
+	tag: p-089
 	tag: UptonHouse
-	desc: You never paid attention to me when I was a boy
 page:2004-08-15
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: Wasn't my mom about my age when you got her pregnant
 	tag: Ash
+	tag: ch-01
 	tag: Edward
+	tag: p-088
 	tag: Rumisiel
 	tag: Tears
 	tag: UptonHouse
-	desc: Wasn't my mom about my age when you got her pregnant
 page:2004-08-11
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: He's clean. Hell has officialy frozen over
 	tag: Ash
 	tag: Canada
+	tag: ch-01
 	tag: Edward
+	tag: p-087
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: He's clean. Hell has officialy frozen over
 page:2004-08-09
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: You’ll ALWAYS be my little girl
 	tag: Ash
 	tag: BostonLogan
+	tag: ch-01
 	tag: Edward
 	tag: Emily
+	tag: p-086
 	tag: XR4Ti
-	desc: You’ll ALWAYS be my little girl
 page:2004-08-06
-	tag: p-XXX
-	tag: ch-01
+	desc: Edward: I NEVER forget a vagina
 	tag: Ash
 	tag: Blush
 	tag: BostonLogan
+	tag: ch-01
 	tag: Edward
 	tag: Emily
-	desc: I NEVER forget a vagina
+	tag: p-085
 page:2004-08-04
-	tag: p-XXX
-	tag: ch-01
+	desc: Edward: How is Daddy’s little girl?!
+	note: Edward Upton, <span class="dt">age: 45</span>
 	tag: Ash
 	tag: BostonLogan
+	tag: ch-01
 	tag: Dates
 	tag: Edward
 	tag: Emily
+	tag: p-084
 	tag: XR4Ti
-	desc: How is Daddy’s little girl?!
-	note: Edward Upton, <span class="dt">age: 45</span>
 page:2004-08-02
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: I told him I was an exchange student
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-083
 	tag: Rumisiel
-	tag: XR4Ti
 	tag: UptonHouse
-	desc: I told him I was an exchange student
+	tag: XR4Ti
 page:2004-07-30
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: That’s my dad’s beer!
 	tag: Ash
+	tag: ch-01
 	tag: Edward
+	tag: p-082
 	tag: Phone
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: That’s my dad’s beer!
 page:2004-07-28
-	tag: p-XXX
-	tag: ch-01
-	tag: Ash
-	tag: AutoModerZ
-	tag: Emily
-	tag: Colin
 	desc: Hook, line and sinker
+	tag: Ash
+	tag: AutoModerZ
+	tag: ch-01
+	tag: Colin
+	tag: Emily
+	tag: p-081
 page:2004-07-26
-	tag: p-XXX
-	tag: ch-01
-	tag: Ash
-	tag: AutoModerZ
-	tag: Emily
-	tag: Colin
-	tag: Nosebleed
 	desc: Behold the power of boobs
-page:2004-07-23
-	tag: p-XXX
-	tag: ch-01
 	tag: Ash
 	tag: AutoModerZ
-	tag: Emily
+	tag: ch-01
 	tag: Colin
+	tag: Emily
+	tag: Nosebleed
+	tag: p-080
+page:2004-07-23
 	desc: You’re ok sending Rumisiel home on his own?
+	tag: Ash
+	tag: AutoModerZ
+	tag: ch-01
+	tag: Colin
+	tag: Emily
+	tag: p-079
 page:2004-07-21
-	tag: p-XXX
-	tag: ch-01
+	desc: Emily: How about an intercolder
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-078
 	tag: Rumisiel
 	tag: School
-	desc: How about an intercolder
 page:2004-07-19
-	tag: p-XXX
-	tag: ch-01
+	desc: Emily: Turbo!
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-077
 	tag: Rumisiel
 	tag: School
-	desc: Turbo!
 page:2004-07-16
-	tag: p-XXX
-	tag: ch-01
+	desc: Emily: The third pedal is the clutch!
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-076
 	tag: Rumisiel
 	tag: School
-	desc: The third pedal is the clutch!
 page:2004-07-14
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: I don’t think I ever apologized
 	tag: Ash
+	tag: ch-01
+	tag: p-075
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: I don’t think I ever apologized
 page:2004-07-12
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: What did you do now
 	tag: Ash
+	tag: ch-01
+	tag: p-074
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: What did you do now
 page:2004-07-09
-	tag: p-XXX
-	tag: ch-01
+	desc: Emily: I said “win”
 	tag: Ash
 	tag: Bed
+	tag: ch-01
 	tag: Emily
 	tag: McArthurRes
+	tag: p-073
 	tag: Tears
-	desc: I said “win”
 page:2004-07-07
-	tag: p-XXX
-	tag: ch-01
-	tag: Ash
-	tag: Bed
-	tag: Emily
-	tag: McArthurRes
-	tag: Tears
 	desc: I’ve ASKED for his help before
-page:2004-07-05
-	tag: p-XXX
-	tag: ch-01
 	tag: Ash
 	tag: Bed
+	tag: ch-01
 	tag: Emily
 	tag: McArthurRes
+	tag: p-072
+	tag: Tears
+page:2004-07-05
 	desc: One of your friends is here
+	tag: Ash
+	tag: Bed
+	tag: ch-01
+	tag: Emily
+	tag: McArthurRes
+	tag: p-071
 page:2004-07-02
-	tag: p-XXX
-	tag: ch-01
-	tag: Ash
-	tag: Rumisiel
-	tag: UptonHouse
 	desc: You ruined my life and I HATE YOU!!!
-page:2004-06-30
-	tag: p-XXX
-	tag: ch-01
 	tag: Ash
+	tag: ch-01
+	tag: p-070
 	tag: Rumisiel
 	tag: UptonHouse
+page:2004-06-30
 	desc: That was a fun day
+	tag: Ash
+	tag: ch-01
+	tag: p-069
+	tag: Rumisiel
+	tag: UptonHouse
 page:2004-06-28
-	tag: p-XXX
-	tag: ch-01
-	tag: Ash
-	tag: Eponine
-	tag: Rumisiel
-	tag: School
 	desc: What happened to your legs
-page:2004-06-25
-	tag: p-XXX
-	tag: ch-01
 	tag: Ash
-	tag: Rumisiel
-	tag: School
-	desc: I hear you’re dating that crazy car chick
-page:2004-06-23
-	tag: p-XXX
 	tag: ch-01
-	tag: Ash
-	tag: Rumisiel
-	tag: School
-	desc: Pervert!
-page:2004-06-21
-	tag: p-XXX
-	tag: ch-01
-	tag: Ash
 	tag: Eponine
+	tag: p-068
 	tag: Rumisiel
 	tag: School
-	desc: Hey ladies.
+page:2004-06-25
+	desc: I hear you’re dating that crazy car chick
+	tag: Ash
+	tag: ch-01
+	tag: p-067
+	tag: Rumisiel
+	tag: School
+page:2004-06-23
+	desc: Omnes: Pervert!
+	tag: Ash
+	tag: ch-01
+	tag: p-066
+	tag: Rumisiel
+	tag: School
+page:2004-06-21
+	desc: Rumisiel: Hey ladies.
+	tag: Ash
+	tag: ch-01
+	tag: Eponine
+	tag: p-065
+	tag: Rumisiel
+	tag: School
 page:2004-06-18
-	tag: p-XXX
-	tag: ch-01
+	desc: Tom: Quarrel in love land?
 	tag: Ash
+	tag: ch-01
+	tag: p-064
 	tag: Rumisiel
 	tag: School
 	tag: Tom
-	desc: Quarrel in love land?
 page:2004-06-16
-	tag: p-XXX
-	tag: ch-01
+	desc: Tom: Girls don’t have what it takes
 	tag: Ash
+	tag: ch-01
+	tag: p-063
 	tag: Rumisiel
 	tag: School
 	tag: Tom
-	desc: Girls don’t have what it takes
 page:2004-06-14
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: I’m from… Canada!
 	tag: Ash
 	tag: Canada
+	tag: ch-01
+	tag: p-062
 	tag: Rumisiel
 	tag: School
 	tag: Tom
-	desc: I’m from… Canada!
 page:2004-06-11
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: Sorry, he’s foreign
 	tag: Ash
+	tag: ch-01
+	tag: p-061
 	tag: Rumisiel
 	tag: School
 	tag: Tom
-	desc: Sorry, he’s foreign
 page:2004-06-09
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: a little more thought into this
+	note: <span class="dt">Tuesday</span>
 	tag: Ash
+	tag: ch-01
 	tag: Dates
+	tag: p-060
 	tag: Rumisiel
 	tag: School
 	tag: Tom
-	desc: a little more thought into this
-	note: <span class="dt">Tuesday</span>
 page:2004-06-07
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: You’re coming to school with me tomorrow
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-059
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: You’re coming to school with me tomorrow
 page:2004-06-04
-	tag: p-XXX
-	tag: ch-01
+	desc: Emily: What, are you gussying yourself up into a pretty girl
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-058
 	tag: UptonHouse
-	desc: What, are you gussying yourself up into a pretty girl
 page:2004-06-02
-	tag: p-XXX
-	tag: ch-01
+	desc: not very good at shaving
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-057
 	tag: Shower
 	tag: UptonHouse
-	desc: not very good at shaving
 page:2004-05-31
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: My dad is taller and thinner
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-056
 	tag: Puke
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: My dad is taller and thinner
 page:2004-05-28
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: You are wearing boxers, right?
 	tag: Ash
-	tag: Emily
 	tag: Blush
+	tag: ch-01
+	tag: Emily
+	tag: p-055
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: You are wearing boxers, right?
 page:2004-05-26
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: Shit, he woke up
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-054
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: Shit, he woke up
 page:2004-05-24
-	tag: p-XXX
-	tag: ch-01
+	desc: ...might tell us how to make it look like an accident
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-053
 	tag: Puke
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: …might tell us how to make it look like an accident
 page:2004-05-21
-	tag: p-XXX
-	tag: ch-01
+	desc: You call this "doing good deeds"?!
 	tag: Alleyway
 	tag: Ash
+	tag: ch-01
+	tag: p-052
 	tag: Rumisiel
-	desc: You call this “doing good deeds”?!
 page:2004-05-19
-	tag: p-XXX
-	tag: ch-01
+	note: Girls locker room
 	tag: Ash
+	tag: ch-01
+	tag: p-051
 	tag: School
-	desc: Girls locker room
 page:2004-05-17
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: I thought you’d be sitting with your friends
 	tag: Ash
+	tag: ch-01
 	tag: Emily
 	tag: Molly
+	tag: p-050
 	tag: School
-	desc: I thought you’d be sitting with your friends
 page:2004-05-14
-	tag: p-XXX
-	tag: ch-01
-	tag: Ash
-	tag: Dates
-	tag: School
 	desc: Day 3. No sign of Rumisiel
 	note: <span class="dt">Monday</span>
+	tag: Ash
+	tag: ch-01
+	tag: Dates
+	tag: p-049
+	tag: School
 page:2004-05-12
-	tag: p-XXX
-	tag: ch-01
+	desc: If I mess with my petals 
+	note: [sic]
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-048
+	tag: UptonHouse
 	tag: XR4Ti
-	tag: UptonHouse
-	desc: If I mess with my petals [sic]
 page:2004-05-10
-	tag: p-XXX
-	tag: ch-01
+	desc: Emily: Clasp it in front then spin it around
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-047
 	tag: UptonHouse
-	desc: Clasp it in front then spin it around
 page:2004-05-07
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: I can’t work the clasp…
 	tag: Ash
-	tag: Emily
-	tag: UptonHouse
-	desc: I can’t work the clasp…
-page:2004-05-05
-	tag: p-XXX
 	tag: ch-01
+	tag: Emily
+	tag: p-046
+	tag: UptonHouse
+page:2004-05-05
+	desc: Ash: It’s not funny! That hurt!
 	tag: Ash
 	tag: Blush
-	tag: Emily
-	tag: UptonHouse
-	desc: It’s not funny! That hurt!
-page:2004-05-03
-	tag: p-XXX
 	tag: ch-01
-	tag: Ash
 	tag: Emily
+	tag: p-045
+	tag: UptonHouse
+page:2004-05-03
+	desc: Ash: Don’t feel like you have to stick around
+	tag: Ash
+	tag: ch-01
+	tag: Emily
+	tag: p-044
 	tag: UptonHouse
 	tag: XR4Ti
-	desc: Don’t feel like you have to stick around
 page:2004-04-30
-	tag: p-XXX
-	tag: ch-01
-	tag: Rumisiel
+	desc: Rumisiel: Oh, my head
 	tag: Alleyway
-	desc: Oh, my head
-page:2004-04-28
-	tag: p-XXX
 	tag: ch-01
+	tag: p-043
+	tag: Rumisiel
+page:2004-04-28
 	tag: Ash
 	tag: Bacon
 	tag: Bed
 	tag: Blush
-	tag: Emily
-	tag: UptonHouse
-	desc: the porn mags
-page:2004-04-26
-	tag: p-XXX
 	tag: ch-01
+	tag: Emily
+	tag: p-042
+	tag: UptonHouse
+	tag: Yaoi
+page:2004-04-26
+	desc: Ash:What’s that smell
 	tag: Ash
 	tag: Bacon
+	tag: ch-01
 	tag: Emily
+	tag: p-041
 	tag: UptonHouse
-	desc: What’s that smell
 page:2004-04-23
-	tag: p-XXX
+	tag: p-040
 	tag: ch-01
 	tag: Ash
 	tag: Bed
@@ -21404,14 +21407,14 @@ page:2004-04-23
 	desc: Please be a dream! DAMMIT!
 	note: <span class="dt">Sunday</span>
 page:2004-04-21
-	tag: p-XXX
+	tag: p-039
 	tag: ch-01
 	tag: Ash
 	tag: Emily
 	tag: UptonHouse
 	desc: What kind of guy
 page:2004-04-19
-	tag: p-XXX
+	tag: p-038
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21419,7 +21422,7 @@ page:2004-04-19
 	tag: UptonHouse
 	desc: I had a big fight with my mom
 page:2004-04-16
-	tag: p-XXX
+	tag: p-037
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21428,7 +21431,7 @@ page:2004-04-16
 	tag: UptonHouse
 	desc: How was your race?
 page:2004-04-14
-	tag: p-XXX
+	tag: p-036
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21436,7 +21439,7 @@ page:2004-04-14
 	tag: UptonHouse
 	desc: Emily?
 page:2004-04-12
-	tag: p-XXX
+	tag: p-035
 	tag: ch-01
 	tag: Acura
 	tag: Ash
@@ -21447,7 +21450,7 @@ page:2004-04-12
 	tag: Tom
 	desc: 3, 2, 1 ... Disappointments
 page:2004-04-09
-	tag: p-XXX
+	tag: p-034
 	tag: ch-01
 	tag: Acura
 	tag: Ash
@@ -21458,13 +21461,13 @@ page:2004-04-09
 page:2004-04-07
 	desc: Ash: They think you've always been a girl
 	tag: Ash
-	tag: p-XXX
+	tag: p-033
 	tag: ch-01
 	tag: OldRoad
 	tag: WallaceSign
 	tag: XR4Ti
 page:2004-04-05
-	tag: p-XXX
+	tag: p-032
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21473,7 +21476,7 @@ page:2004-04-05
 	tag: UptonHouse
 	desc: Don’t you even have a single hobby?
 page:2004-04-02
-	tag: p-XXX
+	tag: p-031
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21481,7 +21484,7 @@ page:2004-04-02
 	tag: UptonHouse
 	desc: You accept that you’re a girl?
 page:2004-04-01
-	tag: p-XXX
+	tag: p-030
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21492,7 +21495,7 @@ page:2004-04-01
 	tag: XR4Ti
 	desc: So you have heard of me
 page:2004-03-29
-	tag: p-XXX
+	tag: p-029
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21500,7 +21503,7 @@ page:2004-03-29
 	tag: XR4Ti
 	desc: You’re XR4Ti Ash?
 page:2004-03-26
-	tag: p-XXX
+	tag: p-028
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21508,7 +21511,7 @@ page:2004-03-26
 	tag: XR4Ti
 	desc: Why are you still here?
 page:2004-03-22
-	tag: p-XXX
+	tag: p-027
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21516,7 +21519,7 @@ page:2004-03-22
 	tag: XR4Ti
 	desc: I took your advice and now we’re doomed
 page:2004-03-21
-	tag: p-XXX
+	tag: p-026
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21524,7 +21527,7 @@ page:2004-03-21
 	tag: UptonHouse
 	desc: Yes, Rumisiel
 page:2004-03-20
-	tag: p-XXX
+	tag: p-025
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21532,14 +21535,14 @@ page:2004-03-20
 	tag: UptonHouse
 	desc: Acquired the blessed ability to bear and nurse
 page:2004-03-19
-	tag: p-XXX
+	tag: p-024
 	tag: ch-01
 	tag: Ash
 	tag: Emily
 	tag: UptonHouse
 	desc: Nothing?!
 page:2004-03-18
-	tag: p-XXX
+	tag: p-023
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21547,7 +21550,7 @@ page:2004-03-18
 	tag: UptonHouse
 	desc: The “boxers” you think you are wearing
 page:2004-03-17
-	tag: p-XXX
+	tag: p-022
 	tag: ch-01
 	tag: Ash
 	tag: Ashley
@@ -21558,7 +21561,7 @@ page:2004-03-17
 	tag: UptonHouse
 	desc: Photos last a lifetime
 page:2004-03-16
-	tag: p-XXX
+	tag: p-021
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21566,7 +21569,7 @@ page:2004-03-16
 	tag: UptonHouse
 	desc: You haven’t looked around the house much
 page:2004-03-15
-	tag: p-XXX
+	tag: p-020
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21574,7 +21577,7 @@ page:2004-03-15
 	tag: UptonHouse
 	desc: Mistakes are covered up
 page:2004-03-14
-	tag: p-XXX
+	tag: p-019
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21582,7 +21585,7 @@ page:2004-03-14
 	tag: UptonHouse
 	desc: Hold up there girl… boy… whatever
 page:2004-03-13
-	tag: p-XXX
+	tag: p-018
 	tag: ch-01
 	tag: Ash
 	tag: Emily
@@ -21590,7 +21593,7 @@ page:2004-03-13
 	tag: UptonHouse
 	desc: Administrative leave… without pay
 page:2004-03-12
-	tag: p-XXX
+	tag: p-017
 	tag: ch-01
 	tag: CFS
 	tag: Heaven
@@ -21599,136 +21602,136 @@ page:2004-03-12
 	tag: Terrael
 	desc: I kicked them under the rug
 page:2004-03-11
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: On my 43rd hour of overtime
 	tag: CFS
-	tag: Heaven
+	tag: ch-01
 	tag: Fillaniel
+	tag: Heaven
+	tag: p-016
 	tag: Rumisiel
 	tag: Terrael
-	desc: On my 43rd hour of overtime
 page:2004-03-10
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: Well, my brother got me this job
 	tag: Ash
-	tag: Emily
-	tag: Rumisiel
 	tag: Bed
+	tag: ch-01
+	tag: Emily
+	tag: p-015
+	tag: Rumisiel
 	tag: UptonHouse
-	desc: Well, my brother got me this job
 page:2004-03-09
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: If I put the file in its proper place
 	tag: CFS
+	tag: ch-01
+	tag: p-014
+	tag: Rumisiel
 	tag: UptonHouse
-	tag: Rumisiel
-	desc: If I put the file in its proper place
 page:2004-03-08
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: In Heaven, filing is a very important job
 	tag: CFS
-	tag: Heaven
-	tag: Emily
-	tag: Rumisiel
-	desc: In Heaven, filing is a very important job
-page:2004-03-07
-	tag: p-XXX
 	tag: ch-01
-	tag: Ash
 	tag: Emily
+	tag: Heaven
+	tag: p-013
+	tag: Rumisiel
+page:2004-03-07
+	desc: Ash: Weren’t you older?
+	tag: Ash
+	tag: ch-01
+	tag: Emily
+	tag: p-012
 	tag: Rumisiel
 	tag: Tears
 	tag: UptonHouse
-	desc: Weren’t you older?
 page:2004-03-06
-	tag: p-XXX
-	tag: ch-01
-	tag: Ash
-	tag: Emily
-	tag: Rumisiel
-	tag: UptonHouse
 	desc: And you found a cure, right?
+	tag: Ash
+	tag: ch-01
+	tag: Emily
+	tag: p-011
+	tag: Rumisiel
+	tag: UptonHouse
 page:2004-03-05
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: This will all turn out to be a bad dream
 	tag: Ash
 	tag: Bed
+	tag: ch-01
+	tag: p-010
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: This will all turn out to be a bad dream
 page:2004-03-04
-	tag: p-XXX
+	desc: Emily: CALM DOWN?! HARVARD GONE! NOT CALM!
 	tag: ch-01
 	tag: Emily
-	tag: Rumisiel
 	tag: McArthurRes
-	desc: Harvard Gone! Not Calm!
+	tag: p-009
+	tag: Rumisiel
 page:2004-03-03
-	tag: p-XXX
+	desc: Emily: Two… Years…
 	tag: ch-01
 	tag: Emily
 	tag: McArthurRes
+	tag: p-008
 	tag: Rumisiel
-	desc: Two… Years…
 page:2004-03-02
-	tag: p-XXX
-	tag: ch-01
-	tag: Angel
-	tag: Ash
-	tag: Rumisiel
-	tag: UptonHouse
 	desc: Sorry, Not that easy, but I AM adding you to my list
+	tag: Angel
+	tag: Ash
+	tag: ch-01
+	tag: p-007
+	tag: Rumisiel
+	tag: UptonHouse
 page:2004-03-01
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: Let's not talk about who's fault
 	tag: Angel
 	tag: Ash
+	tag: ch-01
+	tag: p-006
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: Let's not talk about who's fault
 page:2004-02-28
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: The problem is these TITS
 	tag: Angel
 	tag: Ash
+	tag: ch-01
+	tag: p-005
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: The problem is these TITS
 page:2004-02-27
-	tag: p-XXX
-	tag: ch-01
+	desc: Rumisiel: How about an angel?
 	tag: Angel
 	tag: Ash
+	tag: ch-01
+	tag: p-004
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: How about an angel?
 page:2004-02-26
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: You are not why I'm screaming
 	tag: Ash
+	tag: ch-01
+	tag: p-003
 	tag: Rumisiel
 	tag: UptonHouse
-	desc: You are not why I'm screaming
 page:2004-02-25
-	tag: p-XXX
-	tag: ch-01
+	desc: Ash: Have I got laryngitis?
+	note: <span class="dt">2004-03-20 10:38</span> see [page 2014-05-27](http://www.misfile.com/?date=2014-05-27)
 	tag: Ash
 	tag: Bed
-	tag: Dates
-	tag: UptonHouse
-	desc: Have I got laryngitis?
-	note: <span class="dt">2004-03-20 10:38</span> see [page 2014-05-27](http://www.misfile.com/?date=2014-05-27)
-page:2004-02-24
-	tag: p-XXX
 	tag: ch-01
+	tag: Dates
+	tag: p-002
+	tag: UptonHouse
+page:2004-02-24
+	desc: (dark, scenesetter, voiceover)
 	tag: CFS
+	tag: ch-01
 	tag: Fillaniel
 	tag: Heaven
+	tag: p-001
 	tag: Rumisiel
 	tag: Terrael
-	desc: (dark, scenesetter, voiceover)
 page:2004-02-23
-	tag: p-XXX
+	tag: p-000
 	tag: ch-01
 	tag: Angel
 	tag: Ash
