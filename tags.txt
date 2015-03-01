@@ -185,18 +185,20 @@ Phone	calling on the ...
 Photo	the camera never lies
 Police	the long arm of the law
 Race	what [Ash](#ash) is all about
-RacerA	a guy
-RacerB	some guy
-RacerC	some other guy -- short light hair
+RacerA	a guy interested in Nitrous Oxide engine enhancement
+RacerB	a lightly scrupled, resentful, pro-[Burt](#burt) guy
+RacerC	short light hair, dark collar, upper arm patches
 RacerF	dark shiny hair guy
-Racers	the local crew
-RacerSpecs	a racer with specs?
+RacerPat	a condescending guy, glasses
+RacerRandy	into road maintenance
+Racers	the local crew (when not individualised)
+RacerSpecs	a racer with glasses
+RacerXray	named from a shirt logo
 Rachel	a friend of [Emily](#emily)’s, a secret votary of Terpsichore
 Raechiel	angel, [Archon](#archon) of the [CFS](#cfs) [4th Branch](#cfs4), [Cassiel's](#cassiel) boss
 Rafael	an angel (archangel?), sent a message by Ramael
 Ramael	angel, [Vashiel](#vashiel)’s erstwhile comrade, field op for heaven's 'oversight'
 RandomLady	unimpressed by a proposition from [Ramael](#ramael)
-Randy	a racer
 Rapists	would-be bad dudes
 Receptionist	at [Thorin Medical](#thorin)
 Roger	an unidentified colleague of [Marie](#marie)
@@ -245,7 +247,6 @@ WaitPerson	a burger bearer
 WallaceSign	signs from the failed development [Old Road](#oldroad) sometimes used by the racers as meeting points and finish lines for races.
 Wei	a hospital medical worker
 WoG	Word of God: information from Chris Hazelton, not necessarily in the online comics
-X-ray	A racer guy at Tempest High (named from a shirt logo)
 Xaphrael	angel, [CFS](#cfs) security?, [Vashiel's](#vashiel) erstwhile comrade
 XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI. Twin symmetrical intakes on the hood, simple spoiler
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
