@@ -29,7 +29,46 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
-;page:2015-02-28
+page:2015-03-06
+	desc: Pin grab bag advert
+	tag: Rumisiel
+	tag: Filler
+page:2015-03-05
+	desc: Ash: Seven Fifteen? That's cutting it a bit close...
+	tag: Ash
+	tag: ch-22
+	tag: Phone
+	tag: LaFondue
+	tag: UptonHouse
+	tag: p-099
+page:2015-03-04
+	desc: Ash: When do you want to go?
+	note: Dinner date set for Friday, same as race
+	tag: Ash
+	tag: ch-22
+	tag: Emily
+	tag: LaFondue
+	tag: McArthurRes
+	tag: Menu
+	tag: p-098
+page:2015-03-03
+	desc: Ash: Fondue?
+	tag: Ash
+	tag: ch-22
+	tag: Emily
+	tag: LaFondue
+	tag: McArthurRes
+	tag: Menu
+	tag: p-097
+page:2015-03-02
+	desc: Ash: What have I gotten myself into?
+	tag: Ash
+	tag: ch-22
+	tag: Emily
+	tag: LaFondue
+	tag: McArthurRes
+	tag: Menu
+	tag: p-096
 page:2015-02-27
 	desc: Pat: I'll spread the word. You'll have your hour
 	tag: Ash
@@ -40,6 +79,7 @@ page:2015-02-27
 	tag: School
 page:2015-02-26
 	desc: Pat: What do you mean we can't race on Friday?
+	note: arranging the race vs N
 	tag: Ash
 	tag: ch-22
 	tag: p-094
@@ -104,7 +144,7 @@ page:2015-02-16
 	desc: Creepy Cassi: Hello. I hear SOMEone is celebrating a birthday?
 	tag: Cassiel
 	tag: ch-22
-	tag: CreepyCassi
+	tag: CassiCreepy
 	tag: FullerHome
 	tag: Missi
 	tag: p-086
@@ -9124,7 +9164,7 @@ page:2010-09-17
 	tag: Emily
 	tag: Missi
 page:2010-09-16
-	tag: p-046
+	tag: p-056
 	tag: ch-13
 	tag: Cinema
 	tag: Emily
@@ -10371,7 +10411,7 @@ page:2010-01-12
 	tag: School
 	tag: Teacher
 page:2010-01-11
-	tag: p-101
+	tag: p-010
 	tag: ch-12
 	tag: Jason
 	tag: OldRoad
@@ -10458,21 +10498,21 @@ page:2009-12-24
 	tag: OldRoad
 page:2009-12-23
 	tag: Ash
-	tag: p-XXX
+	tag: p-127
 	tag: ch-11
 	tag: Emily
 	tag: Heather
 	tag: Missi
 	tag: OldRoad
 page:2009-12-22
-	tag: p-XXX
+	tag: p-126
 	tag: ch-11
 	tag: OldRoad
 	tag: Race
 	rag: WallaceSign
 page:2009-12-21
 	tag: Ash
-	tag: p-XXX
+	tag: p-125
 	tag: ch-11
 	tag: Emily
 	tag: Heather
@@ -10482,7 +10522,7 @@ page:2009-12-21
 	tag: WallaceSign
 page:2009-12-18
 	tag: Ash
-	tag: p-XXX
+	tag: p-124
 	tag: ch-11
 	tag: Emily
 	tag: Missi
@@ -10492,7 +10532,7 @@ page:2009-12-18
 	tag: ZX3
 page:2009-12-17
 	tag: Ash
-	tag: p-XXX
+	tag: p-123
 	tag: ch-11
 	tag: Emily
 	tag: Heather
@@ -10501,7 +10541,7 @@ page:2009-12-17
 	tag: Race
 	tag: ZX3
 page:2009-12-16
-	tag: p-XXX
+	tag: p-122
 	tag: ch-11
 	tag: Emily
 	tag: Heather
@@ -10510,7 +10550,7 @@ page:2009-12-16
 	tag: Race
 	tag: ZX3
 page:2009-12-15
-	tag: p-XXX
+	tag: p-121
 	tag: ch-11
 	tag: Heather
 	tag: Nissan240SX
@@ -10518,7 +10558,7 @@ page:2009-12-15
 	tag: Race
 	tag: ZX3
 page:2009-12-14
-	tag: p-XXX
+	tag: p-120
 	tag: ch-11
 	tag: Emily
 	tag: Nissan240SX
@@ -10526,7 +10566,7 @@ page:2009-12-14
 	tag: Race
 	tag: ZX3
 page:2009-12-11
-	tag: p-XXX
+	tag: p-119
 	tag: ch-11
 	tag: Heather
 	tag: OldRoad
@@ -10534,7 +10574,7 @@ page:2009-12-11
 	tag: ZX3
 page:2009-12-10
 	tag: Ash
-	tag: p-XXX
+	tag: p-118
 	tag: ch-11
 	tag: Heather
 	tag: James
@@ -10543,13 +10583,13 @@ page:2009-12-10
 	tag: Race
 	tag: ZX3
 page:2009-12-09
-	tag: p-XXX
+	tag: p-117
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 	tag: Race
 page:2009-12-08
-	tag: p-XXX
+	tag: p-116
 	tag: ch-11
 	tag: Emily
 	tag: Nissan240SX
@@ -10558,12 +10598,12 @@ page:2009-12-08
 	tag: ZX3
 page:2009-12-07
 	tag: Ash
-	tag: p-XXX
+	tag: p-115
 	tag: ch-11
 	tag: Missi
 	tag: OldRoad
 page:2009-12-04
-	tag: p-XXX
+	tag: p-114
 	tag: ch-11
 	tag: Emily
 	tag: Heather
@@ -10573,14 +10613,14 @@ page:2009-12-04
 	tag: ZX3
 page:2009-12-03
 	tag: Ash
-	tag: p-XXX
+	tag: p-113
 	tag: ch-11
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
 	tag: Race
 page:2009-12-02
-	tag: p-XXX
+	tag: p-112
 	tag: ch-11
 	tag: Emily
 	tag: Heather
@@ -10589,7 +10629,7 @@ page:2009-12-02
 	tag: Race
 	tag: ZX3
 page:2009-12-01
-	tag: p-XXX
+	tag: p-111
 	tag: ch-11
 	tag: Emily
 	tag: Heather
@@ -10600,7 +10640,7 @@ page:2009-12-01
 	tag: ZX3
 page:2009-11-30
 	tag: Ash
-	tag: p-XXX
+	tag: p-110
 	tag: ch-11
 	tag: Emily
 	tag: Missi
@@ -10609,7 +10649,7 @@ page:2009-11-30
 	tag: Race
 	tag: ZX3
 page:2009-11-27
-	tag: p-XXX
+	tag: p-109
 	tag: ch-11
 	tag: Emily
 	tag: Heather
@@ -10619,14 +10659,14 @@ page:2009-11-27
 	tag: ZX3
 page:2009-11-26
 	tag: Ash
-	tag: p-XXX
+	tag: p-108
 	tag: ch-11
 	tag: Emily
 	tag: Heather
 	tag: OldRoad
 page:2009-11-25
 	tag: Ash
-	tag: p-XXX
+	tag: p-107
 	tag: ch-11
 	tag: Emily
 	tag: Heather
@@ -10634,57 +10674,58 @@ page:2009-11-25
 	tag: ZX3
 page:2009-11-24
 	tag: Ash
-	tag: p-XXX
 	tag: ch-11
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
+	tag: p-106
 	tag: ZX3
 page:2009-11-23
 	tag: Ash
-	tag: p-XXX
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
+	tag: p-105
 page:2009-11-20
 	tag: Ash
-	tag: p-XXX
 	tag: ch-11
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
+	tag: p-104
 page:2009-11-19
 	tag: Ash
-	tag: p-XXX
 	tag: ch-11
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
+	tag: p-103
 page:2009-11-18
 	tag: Ash
-	tag: p-XXX
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
+	tag: p-104
 page:2009-11-17
 	tag: Ash
-	tag: p-XXX
 	tag: ch-11
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
+	tag: p-101
 page:2009-11-16
+	desc: Mom McArthur: Just remember that I'm going to have to meet him one day
 	tag: Ash
-	tag: p-XXX
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
 	tag: OldRoad
+	tag: p-100
 page:2009-11-13
 	desc: race day
 	note: wall calendar marked for 1st weekend in October
-	tag: p-XXX
+	tag: p-099
 	tag: ch-11
 	tag: Dates
 	tag: Emily
@@ -10693,7 +10734,7 @@ page:2009-11-13
 page:2009-11-12
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-098
 	tag: ch-11
 	tag: Emily
 	tag: Heather
@@ -10703,51 +10744,51 @@ page:2009-11-12
 page:2009-11-11
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-097
 	tag: ch-11
 	tag: Emily
 	tag: Heather
 	tag: HeatherHome
 	tag: Missi
 page:2009-11-10
-	tag: p-XXX
+	tag: p-096
 	tag: ch-11
 	tag: OldRoad
 	tag: Phone
 	tag: Sheldonista
 page:2009-11-09
 	tag: Bed
-	tag: p-XXX
+	tag: p-095
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-11-06
-	tag: p-XXX
+	tag: p-094
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-11-05
 	tag: Ash
-	tag: p-XXX
+	tag: p-093
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-11-04
 	tag: Ash
-	tag: p-XXX
+	tag: p-092
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-11-03
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-091
 	tag: ch-11
 	tag: Ramael
 	tag: Tempest
 page:2009-11-02
 	note: mention of 'oversight'
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-090
 	tag: ch-11
 	tag: Ramael
 	tag: Tempest
@@ -10759,82 +10800,82 @@ page:2009-10-30
 	tag: Rumisiel
 page:2009-10-29
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-089
 	tag: ch-11
 	tag: Ramael
 	tag: Tempest
 page:2009-10-28
 	tag: Ash
-	tag: p-XXX
+	tag: p-088
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 page:2009-10-27
 	tag: Ash
-	tag: p-XXX
+	tag: p-087
 	tag: ch-11
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
 page:2009-10-26
 	tag: Ash
-	tag: p-XXX
+	tag: p-086
 	tag: ch-11
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
 page:2009-10-23
 	tag: Ash
-	tag: p-XXX
+	tag: p-085
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 page:2009-10-22
 	tag: Ash
-	tag: p-XXX
+	tag: p-084
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 page:2009-10-21
 	tag: Ash
-	tag: p-XXX
+	tag: p-083
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 page:2009-10-20
-	tag: p-XXX
+	tag: p-082
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 page:2009-10-19
 	tag: Ash
-	tag: p-XXX
+	tag: p-081
 	tag: ch-11
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
 page:2009-10-16
 	tag: Ash
-	tag: p-XXX
+	tag: p-080
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 page:2009-10-15
 	tag: Ash
-	tag: p-XXX
+	tag: p-079
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 page:2009-10-14
 	tag: Ash
-	tag: p-XXX
+	tag: p-078
 	tag: ch-11
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
 page:2009-10-13
 	tag: Ash
-	tag: p-XXX
+	tag: p-077
 	tag: ch-11
 	tag: Emily
 	tag: Missi
@@ -10844,59 +10885,59 @@ page:2009-10-12
 	tag: AngelBoy
 	tag: Archon
 	tag: CFS
-	tag: p-XXX
 	tag: ch-11
 	tag: Heaven
+	tag: p-076
 	tag: Xaphrael
 page:2009-10-09
 	tag: AngelBoy
 	tag: CFS
-	tag: p-XXX
 	tag: ch-11
 	tag: Heaven
+	tag: p-075
 	tag: Xaphrael
 page:2009-10-08
 	tag: Ash
-	tag: p-XXX
 	tag: ch-11
+	tag: p-074
 	tag: Rumisiel
 	tag: School
 page:2009-10-07
 	tag: AndySherman
 	tag: Ash
-	tag: p-XXX
 	tag: ch-11
+	tag: p-073
 	tag: Rumisiel
 	tag: School
 page:2009-10-06
 	tag: AndySherman
 	tag: Ash
-	tag: p-XXX
+	tag: p-072
 	tag: ch-11
 	tag: Rumisiel
 	tag: School
 page:2009-10-05
 	tag: AndySherman
 	tag: Ash
-	tag: p-XXX
+	tag: p-071
 	tag: ch-11
 	tag: Rumisiel
 	tag: School
 page:2009-10-02
 	tag: Ash
-	tag: p-XXX
+	tag: p-070
 	tag: ch-11
 	tag: Emily
 	tag: SchoolRoad
 page:2009-10-01
 	tag: Ash
-	tag: p-XXX
+	tag: p-069
 	tag: ch-11
 	tag: Emily
 	tag: SchoolRoad
 page:2009-09-30
 	tag: Ash
-	tag: p-XXX
+	tag: p-068
 	tag: ch-11
 	tag: Emily
 	tag: School
@@ -10904,22 +10945,21 @@ page:2009-09-30
 	tag: ScienceTeacher
 	tag: Teacher
 	tag: AndySherman
-	note: Andy Sherman mention
 page:2009-09-29
 	tag: Ash
-	tag: p-XXX
+	tag: p-067
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-09-28
 	tag: Ash
-	tag: p-XXX
+	tag: p-066
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-09-25
 	tag: Ash
-	tag: p-XXX
+	tag: p-065
 	tag: ch-11
 	tag: Emily
 	tag: Heather
@@ -10927,73 +10967,73 @@ page:2009-09-25
 page:2009-09-24
 	desc: sets race for "2 weeks Saturday"
 	tag: Ash
-	tag: p-XXX
+	tag: p-064
 	tag: ch-11
 	tag: Emily
 	tag: Heather
 	tag: McArthurRes
 page:2009-09-23
 	tag: Ash
-	tag: p-XXX
+	tag: p-063
 	tag: ch-11
 	tag: Emily
 	tag: Heather
 	tag: McArthurRes
 page:2009-09-22
 	tag: Ash
-	tag: p-XXX
+	tag: p-062
 	tag: ch-11
 	tag: Emily
 	tag: Heather
 	tag: McArthurRes
 page:2009-09-21
-	tag: p-XXX
+	tag: p-061
 	tag: ch-11
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2009-09-18
-	tag: p-XXX
+	tag: p-060
 	tag: ch-11
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2009-09-17
 	desc: Ramael: it literally vibrates
-	tag: p-XXX
+	tag: p-059
 	tag: ch-11
 	tag: MacsBar
 	tag: Ramael
 	tag: RandomLady
 	tag: Vashiel
 page:2009-09-16
-	tag: p-XXX
+	tag: p-058
 	tag: ch-11
 	tag: Diner
 	tag: MacsBar
 	tag: Ramael
 	tag: Vashiel
 page:2009-09-15
-	tag: p-XXX
+	tag: p-057
 	tag: ch-11
 	tag: Diner
 	tag: MacsBar
 	tag: Ramael
 	tag: Vashiel
 page:2009-09-14
-	tag: p-XXX
+	tag: p-056
 	tag: ch-11
 	tag: Rumisiel
 	tag: Vashiel
 	tag: UptonHouse
 page:2009-09-11
 	tag: Ash
-	tag: p-XXX
+	tag: p-055
 	tag: ch-11
 	tag: UptonHouse
 page:2009-09-10
 	tag: Ash
-	tag: p-XXX
+	tag: p-054
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
@@ -11001,103 +11041,103 @@ page:2009-09-09
 	desc: How does this work?
 	tag: Ash
 	tag: Blush
-	tag: p-XXX
+	tag: p-053
 	tag: ch-11
 	tag: Emily
 	tag: Kiss
 	tag: McArthurRes
 page:2009-09-08
 	tag: Ash
-	tag: p-XXX
+	tag: p-052
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-09-07
 	tag: Ash
-	tag: p-XXX
+	tag: p-051
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-09-04
 	tag: Ash
-	tag: p-XXX
+	tag: p-050
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-09-03
 	tag: Ash
-	tag: p-XXX
+	tag: p-049
 	tag: ch-11
 	tag: Rumisiel
 	tag: School
 	tag: Teacher
 page:2009-09-02
-	tag: p-XXX
+	tag: p-048
 	tag: ch-11
 	tag: Ramael
 	tag: TempestHealth
 	tag: Vashiel
 page:2009-09-01
-	tag: p-XXX
+	tag: p-047
 	tag: ch-11
 	tag: Ramael
 	tag: TempestHealth
 	tag: Vashiel
 page:2009-08-31
 	tag: Aries
-	tag: p-XXX
+	tag: p-046
 	tag: ch-11
 	tag: Harry
 	tag: Heather
 page:2009-08-28
 	tag: Aries
-	tag: p-XXX
+	tag: p-045
 	tag: ch-11
 	tag: Harry
 	tag: Heather
 page:2009-08-27
-	desc: but tha' Escort I offered you last April would still be fasta'
+	desc: Harry: but tha' Escort I offered you last April would still be fasta'
 	note: <span class="dt">(ref: to April 2004)</span>
 	tag: Aries
-	tag: p-XXX
+	tag: p-044
 	tag: ch-11
 	tag: Dates
 	tag: Harry
 	tag: Heather
 page:2009-08-26
 	tag: Ash
-	tag: p-XXX
+	tag: p-043
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 page:2009-08-25
 	tag: Ash
-	tag: p-XXX
+	tag: p-042
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 page:2009-08-24
 	tag: Ash
-	tag: p-XXX
+	tag: p-041
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 page:2009-08-21
 	tag: Ash
-	tag: p-XXX
+	tag: p-040
 	tag: ch-11
 	tag: Emily
 	tag: OldRoad
 page:2009-08-20
 	tag: Ash
-	tag: p-XXX
+	tag: p-039
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-08-19
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-038
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
@@ -11105,26 +11145,26 @@ page:2009-08-19
 page:2009-08-18
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-037
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-08-17
 	tag: Ash
-	tag: p-XXX
+	tag: p-036
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-08-14
 	tag: Ash
-	tag: p-XXX
+	tag: p-035
 	tag: ch-11
 	tag: Missi
 	tag: Rumisiel
 	tag: School
 page:2009-08-13
 	tag: Ash
-	tag: p-XXX
+	tag: p-034
 	tag: ch-11
 	tag: Missi
 	tag: Rumisiel
@@ -11132,7 +11172,7 @@ page:2009-08-13
 page:2009-08-12
 	desc: <span class="dt">Wednesday</span>
 	tag: Ash
-	tag: p-XXX
+	tag: p-033
 	tag: ch-11
 	tag: Dates
 	tag: Missi
@@ -11141,14 +11181,14 @@ page:2009-08-12
 page:2009-08-11
 	desc: Math test
 	tag: Ash
-	tag: p-XXX
+	tag: p-032
 	tag: ch-11
 	tag: Emily
 	tag: Flashback
 	tag: Morgan
 	tag: School
 page:2009-08-10
-	tag: p-XXX
+	tag: p-031
 	tag: ch-11
 	tag: Ash
 	tag: Rumisiel
@@ -11158,13 +11198,13 @@ page:2009-08-10
 page:2009-08-07
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-030
 	tag: ch-11
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-08-06
 	tag: Ash
-	tag: p-XXX
+	tag: p-029
 	tag: ch-11
 	tag: Diner
 	tag: Hit
@@ -11172,7 +11212,7 @@ page:2009-08-06
 	tag: Morgan
 page:2009-08-05
 	tag: Ash
-	tag: p-XXX
+	tag: p-028
 	tag: ch-11
 	tag: Diner
 	tag: Hit
@@ -11180,14 +11220,14 @@ page:2009-08-05
 	tag: Morgan
 page:2009-08-04
 	tag: Ash
-	tag: p-XXX
+	tag: p-027
 	tag: ch-11
 	tag: Diner
 	tag: Jazz
 	tag: Rumisiel
 page:2009-08-03
 	tag: Ash
-	tag: p-XXX
+	tag: p-026
 	tag: ch-11
 	tag: Diner
 	tag: Jazz
@@ -11195,7 +11235,7 @@ page:2009-08-03
 	tag: Rumisiel
 page:2009-07-31
 	tag: Ash
-	tag: p-XXX
+	tag: p-025
 	tag: ch-11
 	tag: Diner
 	tag: Jazz
@@ -11203,14 +11243,14 @@ page:2009-07-31
 	tag: Rumisiel
 page:2009-07-30
 	tag: Ash
-	tag: p-XXX
+	tag: p-024
 	tag: ch-11
 	tag: Diner
 	tag: Jazz
 	tag: Rumisiel
 page:2009-07-29
 	tag: Ash
-	tag: p-XXX
+	tag: p-023
 	tag: ch-11
 	tag: Emily
 	tag: Jazz
@@ -11219,13 +11259,13 @@ page:2009-07-29
 	tag: Rumisiel
 page:2009-07-28
 	tag: Ash
-	tag: p-XXX
+	tag: p-022
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-07-27
 	tag: Ash
-	tag: p-XXX
+	tag: p-021
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
@@ -11233,7 +11273,7 @@ page:2009-07-27
 page:2009-07-24
 	desc: Math crisis
 	tag: Ash
-	tag: p-XXX
+	tag: p-020
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
@@ -11241,46 +11281,46 @@ page:2009-07-24
 	tag: School
 page:2009-07-23
 	tag: Ash
-	tag: p-XXX
+	tag: p-019
 	tag: ch-11
 	tag: Emily
 	tag: School
 page:2009-07-22
 	tag: Ash
-	tag: p-XXX
+	tag: p-018
 	tag: ch-11
 	tag: Emily
 	tag: Heather
 	tag: McArthurRes
 page:2009-07-21
 	tag: Ash
-	tag: p-XXX
+	tag: p-017
 	tag: ch-11
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-07-20
 	tag: Ash
-	tag: p-XXX
+	tag: p-016
 	tag: ch-11
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-07-17
 	tag: Ash
-	tag: p-XXX
+	tag: p-015
 	tag: ch-11
 	tag: Morgan
 	tag: Rumisiel
 	tag: TempestHealth
 	tag: UptonHouse
 page:2009-07-16
-	tag: p-XXX
+	tag: p-014
 	tag: ch-11
 	tag: Morgan
 	tag: Rumisiel
 	tag: TempestHealth
 page:2009-07-15
 	tag: Ash
-	tag: p-XXX
+	tag: p-013
 	tag: ch-11
 	tag: Emily
 	tag: Rumisiel
@@ -11288,12 +11328,12 @@ page:2009-07-15
 page:2009-07-14
 	tag: Ash
 	tag: Blush
-	tag: p-XXX
+	tag: p-012
 	tag: ch-11
 	tag: Emily
 page:2009-07-13
 	tag: Ash
-	tag: p-XXX
+	tag: p-011
 	tag: ch-11
 	tag: Computer
 	tag: Emily
@@ -11301,13 +11341,13 @@ page:2009-07-13
 page:2009-07-10
 	note: Misfile window sticker
 	tag: Ash
-	tag: p-XXX
+	tag: p-010
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 	tag: Missi
 page:2009-07-09
-	tag: p-XXX
+	tag: p-009
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
@@ -11315,29 +11355,29 @@ page:2009-07-09
 page:2009-07-08
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-008
 	tag: ch-11
 	tag: Computer
 	tag: Phone
 	tag: UptonHouse
 page:2009-07-07
 	tag: Ash
-	tag: p-XXX
+	tag: p-007
 	tag: ch-11
 	tag: UptonHouse
 page:2009-07-06
 	tag: Ash
-	tag: p-XXX
+	tag: p-006
 	tag: ch-11
 	tag: Emily
 page:2009-07-03
 	tag: Ash
-	tag: p-XXX
+	tag: p-005
 	tag: ch-11
 	tag: Emily
 page:2009-07-02
 	tag: Ash
-	tag: p-XXX
+	tag: p-004
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
@@ -11345,7 +11385,7 @@ page:2009-07-02
 page:2009-07-01
 	desc: Oh, dear lord... / They're not fighting
 	tag: Ash
-	tag: p-XXX
+	tag: p-003
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
@@ -11354,7 +11394,7 @@ page:2009-07-01
 page:2009-06-30
 	desc: Em's Mom: Emily is out back... With that car.
 	tag: Ash
-	tag: p-XXX
+	tag: p-002
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
@@ -11364,14 +11404,15 @@ page:2009-06-30
 page:2009-06-29
 	desc: Em's Mom: Hello? Oh... It's you
 	tag: Ash
-	tag: p-XXX
+	tag: p-001
 	tag: ch-11
 	tag: McArthurRes
 	tag: MsMcArthur
 	tag: Rumisiel
 page:2009-06-26
-	desc: <br>**Book 11**<br>October ’04<br><br>_My enemy’s enemy — Morgan — the plan — the prize — the suspect — petition denied — smell — Emily–Heather race — the demon of speed—_
-	tag: p-XXX
+	desc: <br>**Book 11**<br>October ’04<br><br>_My enemy’s enemy — Morgan — the plan — the prize — the suspect — petition denied — smell — Emily–Heather race — the demon of speed —_
+	auth: Heather has challenged Emily to her first race, but can Ash get her ready in time? Who is this mysterious angel from Vashiel's past?
+	tag: p-000
 	tag: ch-11
 	tag: Cover
 	tag: Heather
