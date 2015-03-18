@@ -24,15 +24,74 @@
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch-* are treated separately as chapter identifiers
 ;
+; What's tagged
+;
+; Who 
+;     - known, named characters on-page: Ash, Emily
+;     - speaking generics: PoliceMan, Policeman2
+;     - significant reference to an off-page character
+; Where
+;     - general location (Upton House not Ash's Bedroom)
+;     - Dreams - from daydreams to nightmares
+; What
+;     - props and details _when significant_: typically Phone is tagged when used, not just shown in background
+;     - symbolism (when blatant enough for yr humble tagger to spot it)
+; When
+;     - in-comic significant dates, e.g. Halloween
+;     - flashbacks to earlier events
+; Specific rather than general 
+;     - Mac's Bar (specific) is not tagged as a Bar (generic) as well
+;     - Rumisiel &co tagged with Angel only if strongly displaying the Angel nature: wings, halo etc
+; Meta
+;   - _e.g._ fillers, guest comics, art pages, special colour pages (for a b&w comic)
+;
+;
 baseurl: http://www.misfile.com/?date={0}
 ;
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
-page:2015-03-06
-	desc: Pin grab bag advert
-	tag: Rumisiel
+page:2015-03-13
+	desc: Guest page by [Samantha Roman](http://mfrhourglass.thecomicseries.com/comics/)
+	tag: Ash
 	tag: Filler
+	tag: Emily
+	tag: p-104
+	tag: Missi
+page:2015-03-12
+	desc: Ash: You're not going to finish your lunch?
+	tag: Ash
+	tag: ch-22
+	tag: Emily
+	tag: p-103
+	tag: Rumisiel
+	tag: School
+page:2015-03-11
+	desc: Rumisiel: Dude! The new lunch lady keeps giving me the stink eye!
+	tag: Ash
+	tag: Cassiel
+	tag: CassiLunchLady
+	tag: ch-22
+	tag: Emily
+	tag: p-102
+	tag: Rumisiel
+	tag: School
+page:2015-03-10
+	desc: Emily: Apparently your opponent has been spotted up on the old road all week.
+	tag: Ash
+	tag: Emily
+	tag: ch-22
+	tag: School
+	tag: p-101
+page:2015-03-09
+	desc: Ash: It's totally handled. I called James. I can go to his place and borrow a suit of his.
+	tag: Ash
+	tag: Bed
+	tag: ch-22
+	tag: James-m
+	tag: p-100
+	tag: Rumisiel
+	tag: UptonHouse
 page:2015-03-05
 	desc: Ash: Seven Fifteen? That's cutting it a bit close...
 	tag: Ash
@@ -5604,11 +5663,13 @@ page:2012-07-12
 	tag: Dress
 	tag: p-040
 	tag: ch-17
+	tag: Overcoat
 	tag: School
 page:2012-07-11
 	tag: Ash
 	tag: p-039
 	tag: ch-17
+	tag: Overcoat
 	tag: School
 	tag: Teacher
 page:2012-07-10
@@ -5623,15 +5684,16 @@ page:2012-07-09
 	tag: Blush
 	tag: Cassi
 	tag: Cassiel
-	tag: p-037
 	tag: ch-17
 	tag: Eponine
+	tag: Overcoat
+	tag: p-037
 	tag: School
 page:2012-07-06
 	tag: Ash
-	tag: p-036
 	tag: ch-17
-	tag: OverCoat
+	tag: Overcoat
+	tag: p-036
 	tag: Rumisiel
 	tag: School
 	tag: SchoolRoad
@@ -11425,25 +11487,25 @@ page:2009-06-25
 	tag: UptonHouse
 page:2009-06-24
 	tag: Ash
-	tag: p-XXX
+	tag: p-121
 	tag: ch-10
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-06-23
 	tag: Ash
-	tag: p-XXX
+	tag: p-120
 	tag: ch-10
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-06-22
-	tag: p-XXX
+	tag: p-119
 	tag: ch-10
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2009-06-19
 	desc: Vashiel: I think I'm finally getting used to saying... Certain words
-	tag: p-XXX
+	tag: p-118
 	tag: ch-10
 	tag: Nosebleed
 	tag: Rumisiel
@@ -11451,91 +11513,91 @@ page:2009-06-19
 	tag: Vashiel
 page:2009-06-18
 	tag: Ash
-	tag: p-XXX
+	tag: p-117
 	tag: ch-10
 	tag: Emily
 page:2009-06-17
 	tag: Ash
-	tag: p-XXX
+	tag: p-116
 	tag: ch-10
 	tag: Emily
 page:2009-06-16
 	tag: Ash
-	tag: p-XXX
+	tag: p-115
 	tag: ch-10
 	tag: Emily
 	tag: ParkingLot
 page:2009-06-15
 	tag: Ash
-	tag: p-XXX
+	tag: p-114
 	tag: ch-10
 	tag: Emily
 	tag: ParkingLot
 page:2009-06-12
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-113
 	tag: ch-10
 	tag: Rumisiel
 	tag: School
 page:2009-06-11
 	tag: Cassi
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-112
 	tag: ch-10
 	tag: Rumisiel
 	tag: School
 page:2009-06-10
 	desc: Pee shy
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-111
 	tag: ch-10
 	tag: Rumisiel
 	tag: School
 page:2009-06-09
 	tag: Ash
-	tag: p-XXX
+	tag: p-110
 	tag: ch-10
 	tag: Rumisiel
 	tag: School
 page:2009-06-08
 	tag: Ash
-	tag: p-XXX
+	tag: p-109
 	tag: ch-10
 	tag: Emily
 	tag: ParkingLot
 page:2009-06-05
 	tag: Ash
-	tag: p-XXX
+	tag: p-108
 	tag: ch-10
 	tag: Emily
 	tag: ParkingLot
 page:2009-06-04
 	tag: Ash
-	tag: p-XXX
+	tag: p-107
 	tag: ch-10
 	tag: Emily
 	tag: ParkingLot
 page:2009-06-03
 	tag: Ash
-	tag: p-XXX
+	tag: p-106
 	tag: ch-10
 	tag: Emily
 	tag: ParkingLot
 page:2009-06-02
 	tag: Ash
-	tag: p-XXX
+	tag: p-105
 	tag: ch-10
 	tag: Emily
 	tag: ParkingLot
 page:2009-06-01
 	tag: Ash
-	tag: p-XXX
+	tag: p-104
 	tag: ch-10
 	tag: Emily
 	tag: ParkingLot
 	tag: Tempest
 page:2009-05-29
-	tag: p-XXX
+	tag: p-103
 	tag: ch-10
 	tag: Dates
 	tag: DogWalsh
@@ -11545,7 +11607,7 @@ page:2009-05-29
 	tag: LeicesterPark
 	tag: MrMuffy
 page:2009-05-28
-	tag: p-XXX
+	tag: p-102
 	tag: ch-10
 	tag: DogWalsh
 	tag: Harry
@@ -11554,7 +11616,7 @@ page:2009-05-28
 	tag: LeicesterPark
 	tag: MrMuffy
 page:2009-05-27
-	tag: p-XXX
+	tag: p-101
 	tag: ch-10
 	tag: Emily
 	tag: Kate
@@ -11562,7 +11624,7 @@ page:2009-05-27
 	tag: Missi
 page:2009-05-26
 	tag: Ash
-	tag: p-XXX
+	tag: p-100
 	tag: ch-10
 	tag: Dress
 	tag: Emily
@@ -11572,20 +11634,20 @@ page:2009-05-25
 	tag: Filler
 page:2009-05-22
 	tag: Ash
-	tag: p-XXX
+	tag: p-099
 	tag: ch-10
 	tag: Emily
 	tag: LeicesterPark
 page:2009-05-21
 	tag: Ash
-	tag: p-XXX
+	tag: p-098
 	tag: ch-10
 	tag: Dress
 	tag: Emily
 	tag: LeicesterPark
 page:2009-05-20
 	tag: Ash
-	tag: p-XXX
+	tag: p-097
 	tag: ch-10
 	tag: Dress
 	tag: Emily
@@ -11593,7 +11655,7 @@ page:2009-05-20
 page:2009-05-19
 	tag: Cassi
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-096
 	tag: ch-10
 	tag: Doris
 	tag: LeicesterPark
@@ -11602,7 +11664,7 @@ page:2009-05-19
 page:2009-05-18
 	tag: Cassi
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-095
 	tag: ch-10
 	tag: Doris
 	tag: LeicesterPark
@@ -11612,47 +11674,49 @@ page:2009-05-15
 	tag: Blush
 	tag: Cassi
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-094
 	tag: ch-10
 	tag: DogWalsh
 	tag: LeicesterPark
 	tag: MrMuffy
 page:2009-05-14
+	tag: SubParSnacks
 	tag: Cassi
 	tag: Cassiel
-	tag: p-XXX
+	tag: Blush
+	tag: p-093
 	tag: ch-10
 	tag: LeicesterPark
 	tag: MrMuffy
 page:2009-05-13
 	tag: Cassi
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-092
 	tag: ch-10
 	tag: LeicesterPark
 	tag: Rumisiel
 	tag: Vashiel
 page:2009-05-12
-	tag: p-XXX
+	tag: p-091
 	tag: ch-10
 	tag: LeicesterPark
 	tag: Rumisiel
 	tag: Vashiel
 page:2009-05-11
-	tag: p-XXX
+	tag: p-090
 	tag: ch-10
 	tag: Emily
 	tag: Heather
 	tag: Missi
 page:2009-05-08
-	tag: p-XXX
+	tag: p-089
 	tag: ch-10
 	tag: Heather
 	tag: LeicesterPark
 	tag: Missi
 page:2009-05-07
 	tag: Ash
-	tag: p-XXX
+	tag: p-088
 	tag: ch-10
 	tag: Dress
 	tag: Emily
@@ -11660,7 +11724,7 @@ page:2009-05-07
 	tag: LeicesterPark
 	tag: Missi
 page:2009-05-06
-	tag: p-XXX
+	tag: p-087
 	tag: ch-10
 	tag: Emily
 	tag: Heather
@@ -11668,7 +11732,7 @@ page:2009-05-06
 	tag: Missi
 page:2009-05-05
 	tag: Ash
-	tag: p-XXX
+	tag: p-086
 	tag: ch-10
 	tag: Flashback
 	tag: Heather
@@ -11677,7 +11741,7 @@ page:2009-05-05
 	tag: Missi
 page:2009-05-04
 	tag: Ash
-	tag: p-XXX
+	tag: p-085
 	tag: ch-10
 	tag: Dress
 	tag: Emily
@@ -11686,7 +11750,7 @@ page:2009-05-04
 	tag: Missi
 page:2009-05-01
 	tag: Ash
-	tag: p-XXX
+	tag: p-084
 	tag: ch-10
 	tag: Dress
 	tag: Emily
@@ -11695,7 +11759,7 @@ page:2009-05-01
 page:2009-04-30
 	tag: Aries
 	tag: Ash
-	tag: p-XXX
+	tag: p-083
 	tag: ch-10
 	tag: Emily
 	tag: Flashback
@@ -11703,14 +11767,14 @@ page:2009-04-30
 	tag: LeicesterPark
 page:2009-04-29
 	tag: Ash
-	tag: p-XXX
+	tag: p-082
 	tag: ch-10
 	tag: Emily
 	tag: Heather
 	tag: LeicesterPark
 page:2009-04-28
 	tag: Ash
-	tag: p-XXX
+	tag: p-081
 	tag: ch-10
 	tag: Dress
 	tag: Emily
@@ -11720,7 +11784,7 @@ page:2009-04-28
 	tag: Missi
 page:2009-04-27
 	tag: Ash
-	tag: p-XXX
+	tag: p-080
 	tag: ch-10
 	tag: Emily
 	tag: Harry
@@ -11732,7 +11796,7 @@ page:2009-04-27
 page:2009-04-24
 	tag: Cassi
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-079
 	tag: ch-10
 	tag: Doris
 	tag: Harry
@@ -11740,7 +11804,7 @@ page:2009-04-24
 	tag: LeicesterPark
 page:2009-04-23
 	tag: Ash
-	tag: p-XXX
+	tag: p-078
 	tag: ch-10
 	tag: Dress
 	tag: Emily
@@ -11751,27 +11815,27 @@ page:2009-04-23
 	tag: Vashiel
 page:2009-04-22
 	tag: Ash
-	tag: p-XXX
+	tag: p-077
 	tag: ch-10
 	tag: Kate
 	tag: LeicesterPark
 page:2009-04-21
 	tag: Ash
-	tag: p-XXX
+	tag: p-076
 	tag: ch-10
 	tag: Dress
 	tag: Kate
 	tag: LeicesterPark
 page:2009-04-20
 	tag: Ash
-	tag: p-XXX
+	tag: p-075
 	tag: ch-10
 	tag: Dress
 	tag: Kate
 	tag: LeicesterPark
 page:2009-04-17
 	tag: Ash
-	tag: p-XXX
+	tag: p-074
 	tag: ch-10
 	tag: Dress
 	tag: Emily
@@ -11779,7 +11843,7 @@ page:2009-04-17
 	tag: LeicesterPark
 page:2009-04-16
 	tag: Ash
-	tag: p-XXX
+	tag: p-073
 	tag: ch-10
 	tag: Dress
 	tag: Emily
@@ -11788,19 +11852,19 @@ page:2009-04-16
 page:2009-04-15
 	tag: Cassi
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-072
 	tag: ch-10
 	tag: LeicesterPark
 page:2009-04-14
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-071
 	tag: ch-10
 	tag: Harry
 	tag: LeicesterPark
 	tag: Rumisiel
 	tag: Vashiel
 page:2009-04-13
-	tag: p-XXX
+	tag: p-070
 	tag: ch-10
 	tag: Harry
 	tag: LeicesterPark
@@ -11808,27 +11872,27 @@ page:2009-04-13
 	tag: Vashiel
 page:2009-04-10
 	tag: Ash
-	tag: p-XXX
+	tag: p-069
 	tag: ch-10
 	tag: Kate
 	tag: LeicesterPark
 	tag: Missi
 page:2009-04-09
 	tag: Ash
-	tag: p-XXX
+	tag: p-068
 	tag: ch-10
 	tag: Kate
 	tag: LeicesterPark
 page:2009-04-08
 	tag: Ash
-	tag: p-XXX
+	tag: p-067
 	tag: ch-10
 	tag: Kate
 	tag: LeicesterPark
 	tag: Missi
 page:2009-04-07
 	tag: Ash
-	tag: p-XXX
+	tag: p-066
 	tag: ch-10
 	tag: Emily
 	tag: Kate
@@ -11836,21 +11900,21 @@ page:2009-04-07
 	tag: Missi
 page:2009-04-06
 	tag: Ash
-	tag: p-XXX
+	tag: p-065
 	tag: ch-10
 	tag: Kate
 	tag: LeicesterPark
 	tag: Rumisiel
 page:2009-04-03
 	tag: Ash
-	tag: p-XXX
+	tag: p-064
 	tag: ch-10
 	tag: Kate
 	tag: LeicesterPark
 	tag: Vashiel
 page:2009-04-02
 	tag: Ash
-	tag: p-XXX
+	tag: p-063
 	tag: ch-10
 	tag: Emily
 	tag: LeicesterPark
@@ -11859,21 +11923,21 @@ page:2009-04-02
 	tag: Vashiel
 page:2009-04-01
 	tag: Ash
-	tag: p-XXX
+	tag: p-062
 	tag: ch-10
 	tag: Emily
 	tag: Missi
 	tag: Rumisiel
 	tag: Vashiel
 page:2009-03-31
-	tag: p-XXX
+	tag: p-061
 	tag: ch-10
 	tag: Emily
 	tag: Rumisiel
 page:2009-03-30
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-060
 	tag: ch-10
 	tag: Rumisiel
 	tag: UptonHouse
@@ -11882,7 +11946,7 @@ page:2009-03-27
 	note: wall calendar is odd, wrong for September 2004 (closer to 2009...) - but date seems to be 3rd w/e of the month, so 2004-09-18?
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-059
 	tag: ch-10
 	tag: Dates
 	tag: Rumisiel
@@ -11891,14 +11955,14 @@ page:2009-03-26
 	desc: Harry: Pucker up
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-058
 	tag: ch-10
 	tag: Dream
 	tag: Harry
 page:2009-03-25
 	desc: I guess I really am alone now
 	tag: Ash
-	tag: p-XXX
+	tag: p-057
 	tag: ch-10
 	tag: Dream
 	tag: Emily
@@ -11908,25 +11972,25 @@ page:2009-03-24
 	desc: I LIKE this re-do of my life
 	tag: Ash
 	tag: Bubbles
-	tag: p-XXX
+	tag: p-056
 	tag: ch-10
 	tag: Emily
 	tag: School
 page:2009-03-23
 	tag: Ash
-	tag: p-XXX
+	tag: p-055
 	tag: ch-10
 	tag: Emily
 	tag: School
 page:2009-03-20
 	tag: Ash
-	tag: p-XXX
+	tag: p-054
 	tag: ch-10
 	tag: Emily
 	tag: School
 page:2009-03-19
 	tag: Ash
-	tag: p-XXX
+	tag: p-053
 	tag: ch-10
 	tag: Emily
 	tag: Missi
@@ -11934,7 +11998,7 @@ page:2009-03-19
 	tag: School
 page:2009-03-18
 	tag: Ash
-	tag: p-XXX
+	tag: p-052
 	tag: ch-10
 	tag: Emily
 	tag: Missi
@@ -11942,7 +12006,7 @@ page:2009-03-18
 	tag: School
 page:2009-03-17
 	tag: Ash
-	tag: p-XXX
+	tag: p-051
 	tag: ch-10
 	tag: Emily
 	tag: Missi
@@ -11951,7 +12015,7 @@ page:2009-03-17
 page:2009-03-16
 	tag: Anna
 	tag: Ash
-	tag: p-XXX
+	tag: p-050
 	tag: ch-10
 	tag: Emily
 	tag: Jason
@@ -11960,30 +12024,30 @@ page:2009-03-16
 page:2009-03-13
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-049
 	tag: ch-10
 	tag: UptonHouse
 page:2009-03-12
 	tag: Ash
-	tag: p-XXX
+	tag: p-048
 	tag: ch-10
 	tag: Dream
 	tag: Kate
 page:2009-03-11
 	tag: Ash
-	tag: p-XXX
+	tag: p-047
 	tag: ch-10
 	tag: Dream
 	tag: Emily
 page:2009-03-10
 	tag: Ash
-	tag: p-XXX
+	tag: p-046
 	tag: ch-10
 	tag: Dream
 	tag: Dress
 page:2009-03-09
 	tag: Ash
-	tag: p-XXX
+	tag: p-045
 	tag: ch-10
 	tag: Dream
 	tag: UptonHouse
@@ -11991,61 +12055,61 @@ page:2009-03-06
 	tag: Ash
 	tag: Bed
 	tag: Bubbles
-	tag: p-XXX
+	tag: p-044
 	tag: ch-10
 	tag: Emily
 	tag: UptonHouse
 page:2009-03-05
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-043
 	tag: ch-10
 	tag: Emily
 	tag: UptonHouse
 page:2009-03-04
 	tag: Ash
-	tag: p-XXX
+	tag: p-042
 	tag: ch-10
 	tag: Emily
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-03-03
 	tag: Ash
-	tag: p-XXX
+	tag: p-041
 	tag: ch-10
 	tag: Emily
 	tag: UptonHouse
 page:2009-03-02
 	tag: Ash
-	tag: p-XXX
+	tag: p-040
 	tag: ch-10
 	tag: Emily
 	tag: ShoulderAngel
 	tag: UptonHouse
 page:2009-02-27
 	tag: Ash
-	tag: p-XXX
+	tag: p-039
 	tag: ch-10
 	tag: Emily
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-02-26
 	tag: Ash
-	tag: p-XXX
+	tag: p-038
 	tag: ch-10
 	tag: MaxSpeed
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-02-25
 	tag: Ash
-	tag: p-XXX
+	tag: p-037
 	tag: ch-10
 	tag: MaxSpeed
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-02-24
 	tag: Ash
-	tag: p-XXX
+	tag: p-036
 	tag: ch-10
 	tag: Emily
 	tag: Missi
@@ -12054,14 +12118,14 @@ page:2009-02-24
 page:2009-02-23
 	tag: Ash
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-035
 	tag: ch-10
 	tag: Eponine
 	tag: School
 page:2009-02-20
 	tag: Ash
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-034
 	tag: ch-10
 	tag: Eponine
 	tag: Period
@@ -12069,13 +12133,13 @@ page:2009-02-20
 page:2009-02-19
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-033
 	tag: ch-10
 	tag: Emily
 	tag: School
 page:2009-02-18
 	tag: Bed
-	tag: p-XXX
+	tag: p-032
 	tag: ch-10
 	tag: Emily
 	tag: Molly
@@ -12083,96 +12147,96 @@ page:2009-02-18
 	tag: Phone
 page:2009-02-17
 	tag: Bed
-	tag: p-XXX
+	tag: p-031
 	tag: ch-10
 	tag: Emily
 	tag: Molly
 	tag: Phone
 page:2009-02-16
 	tag: Bed
-	tag: p-XXX
+	tag: p-030
 	tag: ch-10
 	tag: Emily
 	tag: Molly
 	tag: Phone
 page:2009-02-13
 	tag: Bed
-	tag: p-XXX
+	tag: p-029
 	tag: ch-10
 	tag: Emily
 	tag: Molly
 	tag: Phone
 page:2009-02-12
 	tag: Bed
-	tag: p-XXX
+	tag: p-028
 	tag: ch-10
 	tag: Emily
 	tag: McArthurRes
 page:2009-02-11
 	tag: Ash
-	tag: p-XXX
+	tag: p-027
 	tag: ch-10
 	tag: Nosebleed
 	tag: Rumisiel
 	tag: Vashiel
 page:2009-02-10
 	tag: Ash
-	tag: p-XXX
+	tag: p-026
 	tag: ch-10
 	tag: Rumisiel
 page:2009-02-09
 	tag: Ash
-	tag: p-XXX
+	tag: p-025
 	tag: ch-10
 	tag: Rumisiel
 page:2009-02-06
 	tag: Ash
-	tag: p-XXX
+	tag: p-024
 	tag: ch-10
 	tag: Rumisiel
 page:2009-02-05
 	tag: Ash
-	tag: p-XXX
+	tag: p-023
 	tag: ch-10
 	tag: Emily
 	tag: Missi
 	tag: School
 page:2009-02-04
 	tag: Ash
-	tag: p-XXX
+	tag: p-022
 	tag: ch-10
 	tag: Emily
 	tag: Missi
 	tag: School
 page:2009-02-03
 	tag: Ash
-	tag: p-XXX
+	tag: p-021
 	tag: ch-10
 	tag: Emily
 	tag: Missi
 	tag: School
 page:2009-02-02
 	tag: Ash
-	tag: p-XXX
+	tag: p-020
 	tag: ch-10
 	tag: Emily
 	tag: School
 page:2009-01-30
 	tag: Ash
-	tag: p-XXX
+	tag: p-019
 	tag: ch-10
 	tag: Emily
 	tag: School
 page:2009-01-29
 	tag: Bed
-	tag: p-XXX
+	tag: p-018
 	tag: ch-10
 	tag: Emily
 	tag: Motel
 	tag: MsMcArthur
 page:2009-01-28
 	tag: Bed
-	tag: p-XXX
+	tag: p-017
 	tag: ch-10
 	tag: Emily
 	tag: Motel
@@ -12181,7 +12245,7 @@ page:2009-01-27
 	desc: Emily: Well, THAT was pointless
 	tag: Ash
 	tag: Bubbles
-	tag: p-XXX
+	tag: p-016
 	tag: ch-10
 	tag: Emily
 	tag: Missi
@@ -12190,19 +12254,19 @@ page:2009-01-27
 	tag: UptonHouse
 page:2009-01-26
 	tag: Ash
-	tag: p-XXX
+	tag: p-015
 	tag: ch-10
 	tag: Missi
 	tag: UptonHouse
 page:2009-01-23
 	tag: Ash
-	tag: p-XXX
+	tag: p-014
 	tag: ch-10
 	tag: Missi
 	tag: UptonHouse
 page:2009-01-22
 	tag: Ash
-	tag: p-XXX
+	tag: p-013
 	tag: ch-10
 	tag: Missi
 	tag: UptonHouse
@@ -12211,7 +12275,7 @@ page:2009-01-21
 	tag: Ash
 	tag: Cassiel
 	tag: CFS
-	tag: p-XXX
+	tag: p-012
 	tag: ch-10
 	tag: Heaven
 	tag: Missi
@@ -12219,33 +12283,33 @@ page:2009-01-21
 page:2009-01-20
 	tag: Cassiel
 	tag: CFS
-	tag: p-XXX
+	tag: p-011
 	tag: ch-10
 	tag: Heaven
 	tag: Xaphrael
 page:2009-01-19
 	tag: Cassiel
 	tag: CFS
-	tag: p-XXX
+	tag: p-010
 	tag: ch-10
 	tag: Computer
 	tag: Heaven
 	tag: Xaphrael
 page:2009-01-16
 	tag: Boston
-	tag: p-XXX
+	tag: p-009
 	tag: ch-10
 	tag: Emily
 	tag: MsMcArthur
 page:2009-01-15
 	tag: Boston
-	tag: p-XXX
+	tag: p-008
 	tag: ch-10
 	tag: Emily
 	tag: MsMcArthur
 page:2009-01-14
 	tag: Ash
-	tag: p-XXX
+	tag: p-007
 	tag: ch-10
 	tag: Missi
 	tag: Rumisiel
@@ -12253,45 +12317,45 @@ page:2009-01-14
 	tag: MaxSpeed
 page:2009-01-13
 	tag: Ash
-	tag: p-XXX
+	tag: p-006
 	tag: ch-10
 	tag: Missi
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-01-12
 	tag: Ash
-	tag: p-XXX
+	tag: p-005
 	tag: ch-10
 	tag: Missi
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-01-09
 	tag: Ash
-	tag: p-XXX
+	tag: p-004
 	tag: ch-10
 	tag: Missi
 	tag: UptonHouse
 page:2009-01-08
-	tag: p-XXX
+	tag: p-003
 	tag: ch-10
 	tag: Emily
 	tag: MsMcArthur
 	tag: UptonHouse
 page:2009-01-07
 	tag: Ash
-	tag: p-XXX
+	tag: p-002
 	tag: ch-10
 	tag: Emily
 	tag: Flashback
 	tag: MsMcArthur
 page:2009-01-06
-	tag: p-XXX
+	tag: p-001
 	tag: ch-10
 	tag: Emily
 	tag: MsMcArthur
 page:2009-01-05
 	desc: <br>**Book 10**<br>September ’04<br><br>_Boston — lockdown — nude or naked — split — alone now — the wedding — Heather — the angel of sub-par snacks — the coach_
-	tag: p-XXX
+	tag: p-000
 	tag: ch-10
 	tag: Cover
 	tag: Marie
@@ -12305,21 +12369,21 @@ page:2009-01-02
 	tag: MsMcArthur
 page:2009-01-01
 	tag: Ash
-	tag: p-XXX
+	tag: p-129
 	tag: ch-09
 	tag: Dress
 	tag: Emily
 	tag: McArthurRes
 page:2008-12-31
 	tag: Ash
-	tag: p-XXX
+	tag: p-128
 	tag: ch-09
 	tag: Dress
 	tag: Emily
 	tag: McArthurRes
 page:2008-12-30
 	tag: Ash
-	tag: p-XXX
+	tag: p-127
 	tag: ch-09
 	tag: Emily
 	tag: Kay
@@ -12327,7 +12391,7 @@ page:2008-12-30
 	tag: McArthurRes
 page:2008-12-29
 	tag: Ash
-	tag: p-XXX
+	tag: p-126
 	tag: ch-09
 	tag: Dress
 	tag: Emily
@@ -12335,7 +12399,7 @@ page:2008-12-29
 	tag: McArthurRes
 page:2008-12-26
 	tag: Ash
-	tag: p-XXX
+	tag: p-125
 	tag: ch-09
 	tag: Dress
 	tag: Emily
@@ -12348,120 +12412,120 @@ page:2008-12-25
 	tag: Rumisiel
 page:2008-12-24
 	tag: Ash
-	tag: p-XXX
+	tag: p-124
 	tag: ch-09
 	tag: Emily
 	tag: Kay
 	tag: McArthurRes
 page:2008-12-23
 	tag: Ash
-	tag: p-XXX
+	tag: p-123
 	tag: ch-09
 	tag: Emily
 	tag: Kay
 	tag: McArthurRes
 page:2008-12-22
 	tag: Ash
-	tag: p-XXX
+	tag: p-122
 	tag: ch-09
 	tag: Emily
 	tag: Kay
 	tag: McArthurRes
 page:2008-12-19
 	tag: Ash
-	tag: p-XXX
+	tag: p-121
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 page:2008-12-18
 	tag: Ash
-	tag: p-XXX
+	tag: p-120
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 page:2008-12-17
 	tag: Ash
-	tag: p-XXX
+	tag: p-119
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 page:2008-12-16
 	tag: Ash
-	tag: p-XXX
+	tag: p-118
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 page:2008-12-15
 	tag: Ash
-	tag: p-XXX
+	tag: p-117
 	tag: ch-09
 	tag: School
 	tag: Teacher
 page:2008-12-12
 	tag: Ash
-	tag: p-XXX
+	tag: p-116
 	tag: ch-09
 	tag: Missi
 	tag: School
 page:2008-12-11
 	tag: Ash
-	tag: p-XXX
+	tag: p-115
 	tag: ch-09
 	tag: Missi
 	tag: School
 page:2008-12-10
 	tag: Ash
-	tag: p-XXX
+	tag: p-114
 	tag: ch-09
 	tag: Missi
 	tag: School
 page:2008-12-09
 	tag: Ash
-	tag: p-XXX
+	tag: p-113
 	tag: ch-09
 	tag: Missi
 	tag: School
 page:2008-12-08
 	tag: Ash
-	tag: p-XXX
+	tag: p-112
 	tag: ch-09
 	tag: Rumisiel
 	tag: UptonHouse
 page:2008-12-05
 	tag: Ash
-	tag: p-XXX
+	tag: p-111
 	tag: ch-09
 	tag: Rumisiel
 	tag: UptonHouse
 page:2008-12-04
 	tag: Ash
-	tag: p-XXX
+	tag: p-110
 	tag: ch-09
 	tag: Rumisiel
 	tag: UptonHouse
 page:2008-12-03
 	tag: Ash
-	tag: p-XXX
+	tag: p-109
 	tag: ch-09
 	tag: UptonHouse
 page:2008-12-02
 	note: Glimpse of young Marie, age around 11-13  
 	tag: Ash
 	tag: Flashback
-	tag: p-XXX
+	tag: p-108
 	tag: ch-09
 	tag: Marie
 	tag: MarieWork
 page:2008-12-01
 	tag: Ash
-	tag: p-XXX
+	tag: p-107
 	tag: ch-09
 	tag: Marie
 	tag: MarieWork
 page:2008-11-28
 	desc: Yes, Ash. I have felt that way.
 	tag: Ash
-	tag: p-XXX
+	tag: p-106
 	tag: ch-09
 	tag: Edward
 	tag: Flashback
@@ -12476,14 +12540,14 @@ page:2008-11-27
 page:2008-11-26
 	desc: Ash, can I talk to you for a minute?
 	tag: Ash
-	tag: p-XXX
+	tag: p-105
 	tag: ch-09
 	tag: Marie
 	tag: MarieWork
 page:2008-11-25
 	desc: I'm sure I can find something very flattering for your figure
 	tag: Ash
-	tag: p-XXX
+	tag: p-104
 	tag: ch-09
 	tag: Marie
 	tag: MarieWork
@@ -12491,7 +12555,7 @@ page:2008-11-25
 page:2008-11-24
 	desc: You two are worse than models
 	tag: Ash
-	tag: p-XXX
+	tag: p-103
 	tag: ch-09
 	tag: Computer
 	tag: Emily
@@ -12503,7 +12567,7 @@ page:2008-11-21
 	tag: Amara
 	tag: Ash
 	tag: Blush
-	tag: p-XXX
+	tag: p-102
 	tag: ch-09
 	tag: Emily
 	tag: Marie
@@ -12516,75 +12580,77 @@ page:2008-11-20
 page:2008-11-19
 	tag: Amara
 	tag: Ash
-	tag: p-XXX
+	tag: p-101
 	tag: ch-09
 	tag: Marie
 	tag: MarieWork
 page:2008-11-18
 	tag: Amara
 	tag: Ash
-	tag: p-XXX
+	tag: p-100
 	tag: ch-09
 	tag: Emily
 	tag: Marie
 	tag: MarieWork
 	tag: Missi
 page:2008-11-17
-	note: Janine mention
 	tag: Ash
-	tag: p-XXX
+	tag: p-099
 	tag: ch-09
 	tag: Computer
 	tag: Emily
 	tag: Janine
+	tag: Kay
 	tag: MarieWork
 	tag: Missi
 page:2008-11-14
 	tag: Ash
-	tag: p-XXX
+	tag: p-098
 	tag: ch-09
+	tag: Kay
+	tag: Receptionist
 	tag: Emily
 	tag: MarieWork
 	tag: Missi
 page:2008-11-13
 	tag: Ash
-	tag: p-XXX
+	tag: p-097
 	tag: ch-09
 	tag: Emily
 	tag: Missi
 page:2008-11-12
 	tag: Ash
-	tag: p-XXX
+	tag: p-096
 	tag: ch-09
 	tag: Emily
 	tag: Missi
 page:2008-11-11
 	tag: Ash
-	tag: p-XXX
+	tag: p-095
 	tag: ch-09
 	tag: Emily
 	tag: Missi
 page:2008-11-10
 	tag: Ash
-	tag: p-XXX
+	tag: p-094
 	tag: ch-09
 	tag: Emily
 	tag: Missi
 page:2008-11-07
 	tag: Ash
-	tag: p-XXX
+	tag: p-093
 	tag: ch-09
 	tag: Emily
 	tag: Missi
 page:2008-11-06
 	tag: Ash
-	tag: p-XXX
+	tag: p-092
 	tag: ch-09
 	tag: Emily
 	tag: Missi
 page:2008-11-05
 	tag: Ash
-	tag: p-XXX
+	tag: p-091
 	tag: ch-09
 	tag: Emily
 	tag: Missi
@@ -12592,7 +12658,7 @@ page:2008-11-05
 page:2008-11-04
 	desc: I call shenanigans
 	tag: Ash
-	tag: p-XXX
+	tag: p-090
 	tag: ch-09
 	tag: Emily
 	tag: Missi
@@ -12601,7 +12667,7 @@ page:2008-11-04
 page:2008-11-03
 	desc: Please stop. Please, Ash, don't say things like that
 	tag: Ash
-	tag: p-XXX
+	tag: p-089
 	tag: ch-09
 	tag: Emily
 	tag: Missi
@@ -12611,7 +12677,7 @@ page:2008-11-03
 page:2008-10-31
 	desc: Ash is dead!
 	tag: Ash
-	tag: p-XXX
+	tag: p-088
 	tag: ch-09
 	tag: Emily
 	tag: Shower
@@ -12619,7 +12685,7 @@ page:2008-10-31
 page:2008-10-30
 	desc: That's easy sentiment for you
 	tag: Ash
-	tag: p-XXX
+	tag: p-087
 	tag: ch-09
 	tag: Emily
 	tag: Shower
@@ -12627,7 +12693,7 @@ page:2008-10-30
 page:2008-10-29
 	desc: That sound a bit... Extreme
 	tag: Ash
-	tag: p-XXX
+	tag: p-086
 	tag: ch-09
 	tag: Emily
 	tag: Shower
@@ -12635,7 +12701,7 @@ page:2008-10-29
 page:2008-10-28
 	desc: Wow... You look like... Crap
 	tag: Ash
-	tag: p-XXX
+	tag: p-085
 	tag: ch-09
 	tag: Emily
 	tag: Shower
@@ -12643,13 +12709,13 @@ page:2008-10-28
 page:2008-10-27
 	desc: Ash, if you don't answer me then I'm coming in
 	tag: Ash
-	tag: p-XXX
+	tag: p-084
 	tag: ch-09
 	tag: Emily
 	tag: Shower
 	tag: UptonHouse
 page:2008-10-24
-	tag: p-XXX
+	tag: p-083
 	tag: ch-09
 	tag: Emily
 	tag: Rumisiel
@@ -12657,7 +12723,7 @@ page:2008-10-24
 page:2008-10-23
 	desc: Rumisiel: You want to go in and, um, like, check on Ash?
 	tag: Bed
-	tag: p-XXX
+	tag: p-082
 	tag: ch-09
 	tag: Emily
 	tag: Rumisiel
@@ -12665,18 +12731,19 @@ page:2008-10-23
 page:2008-10-22
 	note: <span class="dt">Saturday</span>
 	tag: Bed
-	tag: p-XXX
+	tag: p-081
 	tag: ch-09
 	tag: Dates
 	tag: Edward
 	tag: Emily
 	tag: UptonHouse
 page:2008-10-21
+	desc: Ash: Why can't something good happen just once? Why?
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
 	tag: ch-09
 	tag: Computer
+	tag: p-080
 	tag: Rumisiel
 	tag: Tears
 	tag: UptonHouse
@@ -12684,7 +12751,7 @@ page:2008-10-20
 	desc: Ash: JUST GET OUT!!!
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-079
 	tag: ch-09
 	tag: Computer
 	tag: Rumisiel
@@ -12692,7 +12759,7 @@ page:2008-10-20
 	tag: UptonHouse
 page:2008-10-17
 	tag: Ash
-	tag: p-XXX
+	tag: p-078
 	tag: ch-09
 	tag: Computer
 	tag: Hit
@@ -12700,30 +12767,30 @@ page:2008-10-17
 	tag: UptonHouse
 page:2008-10-16
 	tag: Ash
-	tag: p-XXX
+	tag: p-077
 	tag: ch-09
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-15
-	desc: Seventy... Two... Years?!
+	desc: Ash: Seventy... Two... Years?!
 	tag: Ash
-	tag: p-XXX
+	tag: p-076
 	tag: ch-09
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-14
-	desc: The current end date is in seventy two years
+	desc: Vashiel: The current end date is in seventy two years
 	tag: Ash
-	tag: p-XXX
+	tag: p-075
 	tag: ch-09
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-13
 	tag: Ash
-	tag: p-XXX
+	tag: p-074
 	tag: ch-09
 	tag: Nosebleed
 	tag: Rumisiel
@@ -12731,19 +12798,19 @@ page:2008-10-13
 	tag: Vashiel
 page:2008-10-10
 	tag: Ash
-	tag: p-XXX
+	tag: p-073
 	tag: ch-09
 	tag: Computer
 	tag: Rumisiel
 	tag: Vashiel
 page:2008-10-09
-	tag: p-XXX
+	tag: p-072
 	tag: ch-09
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-08
-	tag: p-XXX
+	tag: p-071
 	tag: ch-09
 	tag: Edward
 	tag: Nosebleed
@@ -12751,51 +12818,51 @@ page:2008-10-08
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-07
-	tag: p-XXX
+	tag: p-070
 	tag: ch-09
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-06
 	tag: Ash
-	tag: p-XXX
+	tag: p-069
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 page:2008-10-03
 	tag: Ash
-	tag: p-XXX
+	tag: p-068
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 page:2008-10-02
 	tag: Ash
-	tag: p-XXX
+	tag: p-067
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 page:2008-10-01
 	tag: Ash
-	tag: p-XXX
+	tag: p-066
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 page:2008-09-30
 	tag: Ash
-	tag: p-XXX
+	tag: p-065
 	tag: ch-09
 	tag: Marie
 	tag: Phone
 	tag: UptonHouse
 page:2008-09-29
 	tag: Ash
-	tag: p-XXX
+	tag: p-064
 	tag: ch-09
 	tag: Marie
 	tag: Phone
 	tag: UptonHouse
 page:2008-09-26
-	tag: p-XXX
+	tag: p-063
 	tag: ch-09
 	tag: Canada
 	tag: Nosebleed
@@ -12803,156 +12870,187 @@ page:2008-09-26
 	tag: TempestHealth
 	tag: Vashiel
 page:2008-09-25
-	tag: p-XXX
+	tag: p-062
 	tag: ch-09
 	tag: Edward
 	tag: Patient
 	tag: TempestHealth
 	tag: Vashiel
 page:2008-09-24
-	tag: p-XXX
+	tag: p-061
 	tag: ch-09
 	tag: Edward
 	tag: Patient
 	tag: TempestHealth
 	tag: Vashiel
 page:2008-09-23
-	tag: p-XXX
+	desc: Emily: I remember the Boston trip. I was so excited the first time. Now...
+	tag: Boston
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
+	tag: Nissan240SX
+	tag: p-060
 page:2008-09-22
-	tag: p-XXX
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
+	tag: Nissan240SX
+	tag: p-059
 page:2008-09-19
-	tag: p-XXX
+	desc: Mom McArthur: I'm... I'm a little envious you know
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
+	tag: Nissan240SX
+	tag: p-058
 page:2008-09-18
-	tag: p-XXX
+	desc: Mom McArthur: Really, Emily, aren't you a bit old for make believe?
+	tag: Blush
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
+	tag: Nissan240SX
+	tag: p-057
 page:2008-09-17
-	tag: p-XXX
+	desc: Mom McArthur: Who on earth are you talking to?
 	tag: ch-09
+	tag: Blush
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
+	tag: Nissan240SX
+	tag: p-056
 page:2008-09-16
-	tag: Bed
-	tag: p-XXX
+	desc: Emily: How can I be develping a fondness for an inanimate object?
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
+	tag: Nissan240SX
+	tag: p-055
 page:2008-09-15
-	tag: p-XXX
+	desc: Emily: It's no use. I can't sleep
+	tag: Bed
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
+	tag: p-054
 page:2008-09-12
 	tag: Ash
-	tag: p-XXX
+	desc: Emily: Good call. Let's get that horrid looking thing off you
+	tag: p-053
 	tag: ch-09
-	tag: ClothesShop
+	tag: OhMyDessShop
 	tag: Dress
 	tag: Emily
 	tag: Missi
 	tag: Shopping
 page:2008-09-11
 	tag: Ash
-	tag: p-XXX
+	desc: Ash: What?! You mean I have to pay to look like this?!
 	tag: ch-09
 	tag: Dress
 	tag: Emily
 	tag: Missi
+	tag: OhMyDessShop
+	tag: p-052
+	tag: Shopping
 page:2008-09-10
 	tag: Ash
-	tag: p-XXX
+	desc: Emily: So long as you're aware you are going to look like a flowery tart at Kate's wedding
 	tag: ch-09
-	tag: ClothesShop
 	tag: Dress
 	tag: Emily
 	tag: Missi
+	tag: OhMyDessShop
+	tag: p-051
 	tag: Shopping
 page:2008-09-09
+	Desc: Ash: I think I'll take it
 	tag: Ash
-	tag: p-XXX
 	tag: ch-09
-	tag: ClothesShop
 	tag: Dress
 	tag: Emily
 	tag: Missi
+	tag: OhMyDessShop
+	tag: p-050
 	tag: Shopping
+	tag: Thong
 page:2008-09-08
+	desc: Shop Assistant: There you go. See what your friends think. I'll be out front.
 	tag: Ash
-	tag: p-XXX
 	tag: ch-09
-	tag: ClothesShop
 	tag: Dress
+	tag: DressShopAsst
 	tag: Emily
 	tag: Missi
+	tag: OhMyDessShop
+	tag: p-049
 	tag: Shopping
 page:2008-09-05
 	tag: Ash
-	tag: p-XXX
+	desc: Missi: Urg! You're so mean! I liked that one too, and now you've ruined it!
+	tag: p-048
 	tag: ch-09
-	tag: ClothesShop
+	tag: OhMyDessShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
 page:2008-09-04
+	desc: Missi: That's not true! They're supposed to make your bust look bigger
 	tag: Ash
-	tag: p-XXX
+	tag: p-047
 	tag: ch-09
-	tag: ClothesShop
+	tag: OhMyDessShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
 page:2008-09-03
+	Desc: Missi: Cool! It's got an empire waistline.
 	tag: Ash
-	tag: p-XXX
+	tag: p-046
 	tag: ch-09
-	tag: ClothesShop
+	tag: OhMyDessShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
 page:2008-09-02
+	desc: Missi: Well I guess I don't need this then...
 	tag: Ash
-	tag: p-XXX
+	tag: p-045
 	tag: ch-09
-	tag: ClothesShop
+	tag: OhMyDessShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
 page:2008-09-01
 	tag: Ash
-	tag: p-XXX
+	desc: Ash: Can I be honest with you for a second?
+	tag: p-044
 	tag: ch-09
-	tag: ClothesShop
+	tag: OhMyDessShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
 page:2008-08-29
 	tag: Ash
-	tag: p-XXX
+	desc: Missi: Ah crap. All the dresses I like are starpless!
+	tag: p-043
 	tag: ch-09
-	tag: ClothesShop
+	tag: OhMyDessShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
 page:2008-08-28
+	desc: Ash: This is a disaster
 	tag: Ash
-	tag: p-XXX
+	tag: p-042
 	tag: ch-09
-	tag: ClothesShop
+	tag: OhMyDessShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
@@ -12961,14 +13059,14 @@ page:2008-08-27
 	tag: Archon
 	tag: Cassiel
 	tag: CFS3
-	tag: p-XXX
+	tag: p-041
 	tag: ch-09
 	tag: Myrael
 	tag: RailRoad
 	tag: Xaphrael
 page:2008-08-26
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-040
 	tag: ch-09
 	tag: RailRoad
 	tag: Xaphrael
@@ -12977,18 +13075,18 @@ page:2008-08-25
 	tag: Filler
 page:2008-08-22
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-039
 	tag: ch-09
 	tag: RailRoad
 	tag: Xaphrael
 page:2008-08-21
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-038
 	tag: ch-09
 	tag: RailRoad
 	tag: Xaphrael
 page:2008-08-20
-	tag: p-XXX
+	tag: p-037
 	tag: ch-09
 	tag: RailRoad
 	tag: Rumisiel
@@ -12996,7 +13094,7 @@ page:2008-08-20
 	tag: Xaphrael
 page:2008-08-19
 	tag: Archon
-	tag: p-XXX
+	tag: p-036
 	tag: ch-09
 	tag: Chains
 	tag: Raechiel
@@ -13004,9 +13102,14 @@ page:2008-08-19
 	tag: Rumisiel
 	tag: Vashiel
 	tag: Xaphrael
+page:2008-08-18
+	tag: Filler
+	tag: Ash
+	tag: Rumisiel
+	desc: birth
 page:2008-08-15
 	tag: Archon
-	tag: p-XXX
+	tag: p-035
 	tag: ch-09
 	tag: Raechiel
 	tag: RailRoad
@@ -13014,14 +13117,14 @@ page:2008-08-15
 	tag: Vashiel
 	tag: Xaphrael
 page:2008-08-14
-	tag: p-XXX
+	tag: p-034
 	tag: ch-09
 	tag: RailRoad
 	tag: Rumisiel
 	tag: Vashiel
 	tag: Xaphrael
 page:2008-08-13
-	tag: p-XXX
+	tag: p-033
 	tag: ch-09
 	tag: RailRoad
 	tag: Rumisiel
@@ -13030,16 +13133,16 @@ page:2008-08-13
 page:2008-08-12
 	desc: Raechiel mentioned
 	tag: Archon
-	tag: p-XXX
+	tag: p-032
 	tag: ch-09
 	tag: Raechiel
 	tag: RailRoad
 	tag: Rumisiel
 	tag: Vashiel
 page:2008-08-11
-	desc: Raechiel mentioned
+	desc: Rumisiel: Did you kill Raechiel?
 	tag: Archon
-	tag: p-XXX
+	tag: p-031
 	tag: ch-09
 	tag: Raechiel
 	tag: RailRoad
@@ -13047,60 +13150,60 @@ page:2008-08-11
 	tag: Vashiel
 page:2008-08-08
 	tag: Ash
-	tag: p-XXX
+	tag: p-030
 	tag: ch-09
 	tag: Emily
 	tag: Missi
 	tag: School
 page:2008-08-07
 	tag: Ash
-	tag: p-XXX
+	tag: p-029
 	tag: ch-09
 	tag: Emily
 	tag: Missi
 	tag: School
 page:2008-08-06
 	tag: Ash
-	tag: p-XXX
+	tag: p-028
 	tag: ch-09
 	tag: Emily
 	tag: Missi
 	tag: School
 page:2008-08-05
 	tag: Ash
-	tag: p-XXX
+	tag: p-027
 	tag: ch-09
 	tag: Emily
 	tag: School
 page:2008-08-04
 	tag: Ash
-	tag: p-XXX
+	tag: p-026
 	tag: ch-09
 	tag: Emily
 	tag: School
 page:2008-08-01
 	tag: Ash
-	tag: p-XXX
+	tag: p-025
 	tag: ch-09
 	tag: Eponine
 	tag: School
 page:2008-07-31
 	tag: Ash
-	tag: p-XXX
+	tag: p-024
 	tag: ch-09
 	tag: Edward
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-30
 	tag: Ash
-	tag: p-XXX
+	tag: p-023
 	tag: ch-09
 	tag: Edward
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-29
 	tag: Ash
-	tag: p-XXX
+	tag: p-022
 	tag: ch-09
 	tag: Edward
 	tag: Rumisiel
@@ -13109,34 +13212,34 @@ page:2008-07-29
 page:2008-07-28
 	tag: Ash
 	tag: Bubbles
-	tag: p-XXX
+	tag: p-021
 	tag: ch-09
 	tag: Dress
 	tag: Edward
 	tag: UptonHouse
 page:2008-07-25
 	tag: Ash
-	tag: p-XXX
+	tag: p-020
 	tag: ch-09
 	tag: Edward
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-24
-	tag: p-XXX
+	tag: p-019
 	tag: ch-09
 	tag: Edward
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-23
-	tag: p-XXX
+	tag: p-018
 	tag: ch-09
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-22
 	note: Raechiel mentioned
-	tag: p-XXX
+	tag: p-017
 	tag: ch-09
 	tag: Raechiel
 	tag: Rumisiel
@@ -13144,25 +13247,25 @@ page:2008-07-22
 	tag: Vashiel
 page:2008-07-21
 	tag: Ash
-	tag: p-XXX
+	tag: p-016
 	tag: ch-09
 	tag: Emily
 page:2008-07-18
 	tag: Ash
-	tag: p-XXX
+	tag: p-015
 	tag: ch-09
 	tag: Emily
 page:2008-07-17
 	tag: Alleyway
 	tag: Archon
-	tag: p-XXX
+	tag: p-014
 	tag: ch-09
 	tag: Raechiel
 	tag: Rumisiel
 	tag: Tempest
 page:2008-07-16
 	tag: Alleyway
-	tag: p-XXX
+	tag: p-013
 	tag: ch-09
 	tag: Flashback
 	tag: Heaven
@@ -13172,7 +13275,7 @@ page:2008-07-16
 	tag: Vashiel
 page:2008-07-15
 	tag: Alleyway
-	tag: p-XXX
+	tag: p-012
 	tag: ch-09
 	tag: Flashback
 	tag: Heaven
@@ -13184,31 +13287,31 @@ page:2008-07-15
 page:2008-07-14
 	tag: Alleyway
 	tag: Archon
-	tag: p-XXX
+	tag: p-011
 	tag: ch-09
 	tag: Raechiel
 	tag: Rumisiel
 	tag: Tempest
 page:2008-07-11
 	tag: Alleyway
-	tag: p-XXX
+	tag: p-010
 	tag: ch-09
 	tag: Rumisiel
 	tag: Tempest
 page:2008-07-10
 	tag: Alleyway
-	tag: p-XXX
+	tag: p-009
 	tag: ch-09
 	tag: Rumisiel
 	tag: Tempest
 page:2008-07-09
-	tag: p-XXX
+	tag: p-008
 	tag: ch-09
 	tag: Rumisiel
 	tag: Tempest
 page:2008-07-08
 	tag: Ash
-	tag: p-XXX
+	tag: p-007
 	tag: ch-09
 	tag: Emily
 	tag: Rumisiel
@@ -13216,7 +13319,7 @@ page:2008-07-08
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-07
-	tag: p-XXX
+	tag: p-006
 	tag: ch-09
 	tag: Ash
 	tag: Emily
@@ -13225,14 +13328,14 @@ page:2008-07-07
 	tag: Raechiel
 	note: Raechiel mention
 page:2008-07-04
-	tag: p-XXX
+	tag: p-005
 	tag: ch-09
 	tag: Ash
 	tag: Emily
 	tag: Vashiel
 	tag: UptonHouse
 page:2008-07-03
-	tag: p-XXX
+	tag: p-004
 	tag: ch-09
 	tag: Ash
 	tag: Emily
@@ -13241,30 +13344,30 @@ page:2008-07-02
 	desc: Emily: Would it help your mood at all if I showed you my breasts?
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
 	tag: ch-09
 	tag: Emily
+	tag: p-003
 	tag: UptonHouse
 page:2008-07-01
 	desc: Ash: I don't know what bothers me more. The wedding itself or the fact that I caved so easily about it.
 	note: <span class="dt">March 2004</span> reference: "when all this started"
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
 	tag: ch-09
 	tag: Dates
 	tag: Emily
+	tag: p-002
 	tag: UptonHouse
 page:2008-06-30
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
 	tag: ch-09
 	tag: Emily
+	tag: p-001
 	tag: UptonHouse
 page:2008-06-27
 	desc: <br>**Book 9**<br>September ’04<br><br>_On swords — doubt & certainty — wedding wear — seventy two years — Team Misfile — friction & fitting — the incentive_
-	tag: p-XXX
+	tag: p-000
 	tag: ch-09
 	tag: Cover
 	tag: Rumisiel
@@ -13278,14 +13381,14 @@ page:2008-06-25
 	tag: Aiden
 	tag: Ash
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-143
 	tag: ch-08
 	tag: Kate
 	tag: OldRoad
 	tag: Rumisiel
 page:2008-06-24
 	tag: Ash
-	tag: p-XXX
+	tag: p-142
 	tag: ch-08
 	tag: Emily
 	tag: Kate
@@ -13293,19 +13396,19 @@ page:2008-06-24
 	tag: OldRoad
 page:2008-06-23
 	tag: Ash
-	tag: p-XXX
+	tag: p-141
 	tag: ch-08
 	tag: Kate
 	tag: OldRoad
 page:2008-06-20
 	tag: Ash
-	tag: p-XXX
+	tag: p-140
 	tag: ch-08
 	tag: Kate
 	tag: OldRoad
 page:2008-06-19
 	tag: Ash
-	tag: p-XXX
+	tag: p-139
 	tag: ch-08
 	tag: Emily
 	tag: Kate
@@ -13314,13 +13417,13 @@ page:2008-06-19
 page:2008-06-18
 	desc: I'm going to be sixty, aren't I?
 	tag: Ash
-	tag: p-XXX
+	tag: p-138
 	tag: ch-08
 	tag: OldRoad
 	tag: Rumisiel
 page:2008-06-17
 	tag: Ash
-	tag: p-XXX
+	tag: p-137
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
@@ -13330,7 +13433,7 @@ page:2008-06-16
 	tag: Ash
 	tag: Bronwyn
 	tag: Bubbles
-	tag: p-XXX
+	tag: p-136
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
@@ -13339,24 +13442,24 @@ page:2008-06-16
 page:2008-06-13
 	tag: Aiden
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-135
 	tag: ch-08
 	tag: OldRoad
 page:2008-06-12
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-134
 	tag: ch-08
 	tag: OldRoad
 page:2008-06-11
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-133
 	tag: ch-08
 	tag: OldRoad
 page:2008-06-10
 	tag: Ash
-	tag: p-XXX
+	tag: p-132
 	tag: ch-08
 	tag: OldRoad
 	tag: Race
@@ -13364,13 +13467,13 @@ page:2008-06-10
 page:2008-06-09
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-131
 	tag: ch-08
 	tag: OldRoad
 	tag: Race
 page:2008-06-06
 	tag: Aiden
-	tag: p-XXX
+	tag: p-130
 	tag: ch-08
 	tag: OldRoad
 	tag: Race
@@ -13378,14 +13481,14 @@ page:2008-06-05
 	tag: Aiden
 	tag: Ash
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-129
 	tag: ch-08
 	tag: Flashback
 	tag: OldRoad
 	tag: Race
 page:2008-06-04
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-128
 	tag: ch-08
 	tag: OldRoad
 	tag: Rumisiel
@@ -13393,14 +13496,14 @@ page:2008-06-04
 page:2008-06-03
 	tag: Aiden
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-127
 	tag: ch-08
 	tag: OldRoad
 	tag: Rumisiel
 	tag: Spirit
 page:2008-06-02
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-126
 	tag: ch-08
 	tag: OldRoad
 	tag: Rumisiel
@@ -13408,37 +13511,37 @@ page:2008-06-02
 	tag: Tears
 page:2008-05-30
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-125
 	tag: ch-08
 	tag: OldRoad
 	tag: Spirit
 page:2008-05-29
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-124
 	tag: ch-08
 	tag: OldRoad
 	tag: Tears
 page:2008-05-28
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-123
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
 	tag: Race
 	tag: Rumisiel
 page:2008-05-27
-	tag: p-XXX
+	tag: p-121
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
 page:2008-05-26
-	tag: p-XXX
+	tag: p-120
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
 page:2008-05-23
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-119
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
@@ -13446,13 +13549,13 @@ page:2008-05-23
 page:2008-05-22
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-118
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
 page:2008-05-21
 	tag: Ash
-	tag: p-XXX
+	tag: p-117
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
@@ -13460,19 +13563,19 @@ page:2008-05-21
 page:2008-05-20
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-116
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
 	tag: Spirit
 page:2008-05-19
-	tag: p-XXX
+	tag: p-115
 	tag: ch-08
 	tag: Kate
 	tag: Missi
 	tag: OldRoad
 page:2008-05-16
-	tag: p-XXX
+	tag: p-114
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
@@ -13481,7 +13584,7 @@ page:2008-05-16
 page:2008-05-15
 	tag: Aiden
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-113
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
@@ -13490,19 +13593,19 @@ page:2008-05-15
 page:2008-05-14
 	tag: Ash
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-112
 	tag: ch-08
 	tag: OldRoad
 	tag: Race
 page:2008-05-13
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-111
 	tag: ch-08
 	tag: OldRoad
 	tag: Race
 page:2008-05-12
-	tag: p-XXX
+	tag: p-110
 	tag: ch-08
 	tag: Kate
 	tag: Missi
@@ -13511,7 +13614,7 @@ page:2008-05-12
 page:2008-05-09
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-109
 	tag: ch-08
 	tag: Missi
 	tag: OldRoad
@@ -13520,54 +13623,54 @@ page:2008-05-08
 	tag: Angel
 	tag: Bronwyn
 	tag: BronwynHome
-	tag: p-XXX
+	tag: p-108
 	tag: ch-08
 	tag: Emily
 	tag: Rumisiel
 page:2008-05-07
 	tag: Bronwyn
 	tag: BronwynHome
-	tag: p-XXX
+	tag: p-107
 	tag: ch-08
 	tag: Rumisiel
 	tag: Tears
 page:2008-05-06
 	tag: Bronwyn
 	tag: BronwynHome
-	tag: p-XXX
+	tag: p-106
 	tag: ch-08
 	tag: Emily
 	tag: Rumisiel
 page:2008-05-05
 	tag: Bronwyn
 	tag: BronwynHome
-	tag: p-XXX
+	tag: p-105
 	tag: ch-08
 	tag: Emily
 	tag: Rumisiel
 	tag: Spirit
 page:2008-05-02
-	tag: p-XXX
+	tag: p-104
 	tag: ch-08
 	tag: Kate
 	tag: Missi
 	tag: OldRoad
 page:2008-05-01
 	tag: BronwynHome
-	tag: p-XXX
+	tag: p-103
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
 	tag: Rumisiel
 page:2008-04-30
-	tag: p-XXX
+	tag: p-102
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
 	tag: Rumisiel
 	tag: Spirit
 page:2008-04-29
-	tag: p-XXX
+	tag: p-102
 	tag: ch-08
 	tag: Emily
 	tag: Hit
@@ -13576,7 +13679,7 @@ page:2008-04-29
 page:2008-04-28
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-101
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
@@ -13584,23 +13687,23 @@ page:2008-04-28
 page:2008-04-25
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-100
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
 	tag: Rumisiel
 page:2008-04-24
 	tag: Aiden
-	tag: p-XXX
 	tag: ch-08
 	tag: Emily
 	tag: Kate
 	tag: OldRoad
+	tag: p-099
 	tag: Rumisiel
 	tag: Spirit
 page:2008-04-23
 	tag: Aiden
-	tag: p-XXX
+	tag: p-098
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
@@ -13609,14 +13712,14 @@ page:2008-04-23
 page:2008-04-22
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-097
 	tag: ch-08
 	tag: OldRoad
 	tag: Rumisiel
 page:2008-04-21
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-096
 	tag: ch-08
 	tag: Kate
 	tag: OldRoad
@@ -13624,7 +13727,7 @@ page:2008-04-21
 page:2008-04-18
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-095
 	tag: ch-08
 	tag: Emily
 	tag: Kate
@@ -13634,34 +13737,34 @@ page:2008-04-18
 page:2008-04-17
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-094
 	tag: ch-08
 	tag: OldRoad
 	tag: Rumisiel
 page:2008-04-16
 	tag: Ash
-	tag: p-XXX
+	tag: p-093
 	tag: ch-08
 	tag: Kate
 	tag: Missi
 	tag: OldRoad
 page:2008-04-15
 	tag: Ash
-	tag: p-XXX
+	tag: p-092
 	tag: ch-08
 	tag: Kate
 	tag: Missi
 	tag: OldRoad
 page:2008-04-14
 	tag: Ash
-	tag: p-XXX
+	tag: p-091
 	tag: ch-08
 	tag: Kate
 	tag: OldRoad
 	tag: Rumisiel
 page:2008-04-11
 	tag: Ash
-	tag: p-XXX
+	tag: p-090
 	tag: ch-08
 	tag: Emily
 	tag: Kate
@@ -13670,67 +13773,67 @@ page:2008-04-11
 	tag: Rumisiel
 page:2008-04-10
 	tag: Ash
-	tag: p-XXX
+	tag: p-089
 	tag: ch-08
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
 page:2008-04-09
-	tag: p-XXX
+	tag: p-088
 	tag: ch-08
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
 page:2008-04-08
 	tag: Ash
-	tag: p-XXX
+	tag: p-087
 	tag: ch-08
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
 	tag: Rumisiel
 page:2008-04-07
-	tag: p-XXX
+	tag: p-086
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
 page:2008-04-04
 	tag: Ash
-	tag: p-XXX
+	tag: p-085
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
 page:2008-04-03
 	tag: Ash
-	tag: p-XXX
+	tag: p-084
 	tag: ch-08
 	tag: Missi
 	tag: OldRoad
 page:2008-04-02
 	tag: Ash
-	tag: p-XXX
+	tag: p-083
 	tag: ch-08
 	tag: Rumisiel
 	tag: UptonHouse
 page:2008-04-01
-	desc: What do you want... And why are you up before noon on a weekend?
+	desc: Ash: What do you want... And why are you up before noon on a weekend?
 	note: <span class="dt">Saturday 10:13am</span> Ash vs Aiden race date set [2008-01-28](#p2008-01-28)
 	tag: Ash
-	tag: p-XXX
+	tag: p-082
 	tag: ch-08
 	tag: Dates
 	tag: Rumisiel
 	tag: UptonHouse
 page:2008-03-31
-	desc: This is ludicrous to think I can track down an angel this way
-	tag: p-XXX
+	desc: Vashiel: This is ludicrous to think I can track down an angel this way
+	tag: p-081
 	tag: ch-08
 	tag: Vashiel
 page:2008-03-28
-	desc: They can't do this!
+	desc: Xaphrael: They can't do this!
 	note: Ramael identification is tentative
 	tag: Angel
-	tag: p-XXX
+	tag: p-080
 	tag: ch-08
 	tag: Flashback
 	tag: Heaven
@@ -13738,10 +13841,10 @@ page:2008-03-28
 	tag: Vashiel
 	tag: Xaphrael
 page:2008-03-27
-	desc: At least there is still you
+	desc: Aiden: At least there is still you
 	tag: Aiden
 	tag: Angel
-	tag: p-XXX
+	tag: p-079
 	tag: ch-08
 	tag: Flashback
 	tag: N240Z
@@ -13749,107 +13852,107 @@ page:2008-03-27
 	tag: Vashiel
 	tag: Xaphrael
 page:2008-03-26
-	desc: Liar! All these years... Wasted on a lie...
+	desc: Bronwyn: Liar! All these years... Wasted on a lie...
 	tag: Aiden
 	tag: AidenHome
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-078
 	tag: ch-08
 	tag: Tears
 page:2008-03-25
-	desc: When we were nine. The board. I moved it. It wasn't a spirit.
+	desc: Aiden: When we were nine. The board. I moved it. It wasn't a spirit.
 	tag: Aiden
 	tag: AidenHome
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-077
 	tag: ch-08
 	tag: Hit
 	tag: Tears
 page:2008-03-24
-	desc: When we were nine, and we played with that ouija board
+	desc: Bronwyn: When we were nine, and we played with that ouija board
 	tag: Aiden
 	tag: AidenHome
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-076
 	tag: ch-08
 	tag: Flashback
 page:2008-03-21
-	desc: Answer me honestly, Aiden. Are we through?
+	desc: Bronwyn: Answer me honestly, Aiden. Are we through?
 	tag: Aiden
 	tag: AidenHome
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-075
 	tag: ch-08
 page:2008-03-20
-	desc: So... When's Ash coming back?
+	desc: Missi: So... When's Ash coming back?
 	tag: Ash
-	tag: p-XXX
+	tag: p-074
 	tag: ch-08
 	tag: Emily
 	tag: Missi
 	tag: UptonHouse
 page:2008-03-19
-	desc: Is it because we both like Ash?
-	tag: p-XXX
+	desc: Missi: Is it because we both like Ash?
+	tag: p-073
 	tag: ch-08
 	tag: Emily
 	tag: Missi
 	tag: UptonHouse
 page:2008-03-18
-	desc: Anyway, I'm thirsty. Anyone want anything to drink?
+	desc: Ash: Anyway, I'm thirsty. Anyone want anything to drink?
 	tag: Ash
-	tag: p-XXX
+	tag: p-072
 	tag: ch-08
 	tag: Emily
 	tag: Missi
 	tag: UptonHouse
 page:2008-03-17
-	desc: I thought you two were breaking up
+	desc: Emily: I thought you two were breaking up
 	tag: Ash
-	tag: p-XXX
+	tag: p-071
 	tag: ch-08
 	tag: Emily
 	tag: Missi
 	tag: Rumisiel
 	tag: UptonHouse
 page:2008-03-14
-	desc: Still walking, I see.
+	desc: Ash: Still walking, I see.
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-070
 	tag: ch-08
 	tag: Emily
 	tag: Missi
 	tag: UptonHouse
 page:2008-03-13
-	desc: Hey, grease monkey.
+	desc: Emily: Hey, grease monkey.
 	tag: Aries
 	tag: Ash
-	tag: p-XXX
+	tag: p-069
 	tag: ch-08
 	tag: Emily
 	tag: Kate
 	tag: Rumisiel
 page:2008-03-12
-	desc: There's not even enough haunt residue left in her for me to study
+	desc: Rumisiel: There's not even enough haunt residue left in her for me to study
 	tag: Aiden
 	tag: Aries
-	tag: p-XXX
+	tag: p-068
 	tag: ch-08
 	tag: Chains
 	tag: Kate
 	tag: Rumisiel
 page:2008-03-11
-	desc: She... Actually doesn't know I'm here.
+	desc: Rumiaiel: She... Actually doesn't know I'm here.
 	tag: Aries
-	tag: p-XXX
+	tag: p-067
 	tag: ch-08
 	tag: Kate
 	tag: Rumisiel
 page:2008-03-10
-	desc: Welcome to Aries. Harry is in the garage. Where is Ash?
+	desc: Kate: Welcome to Aries. Harry is in the garage. Where is Ash?
 	tag: Aries
-	tag: p-XXX
+	tag: p-066
 	tag: ch-08
 	tag: Kate
 	tag: Rumisiel
@@ -13857,7 +13960,7 @@ page:2008-03-07
 	desc: So you don't want to go out with me anymore
 	tag: Ash
 	tag: Bubbles
-	tag: p-XXX
+	tag: p-065
 	tag: ch-08
 	tag: Missi
 	tag: Rumisiel
@@ -13865,30 +13968,30 @@ page:2008-03-07
 page:2008-03-06
 	desc: You're breaking up with me, aren't you?
 	tag: Ash
-	tag: p-XXX
+	tag: p-064
 	tag: ch-08
 	tag: Missi
 	tag: School
 page:2008-03-05
 	desc: I'm totally wearing a push-up bra today
 	tag: Ash
-	tag: p-XXX
+	tag: p-063
 	tag: ch-08
 	tag: Missi
 	tag: School
 page:2008-03-04
 	desc: Not enough experience with posessed people, eh?
 	tag: Ash
-	tag: p-XXX
+	tag: p-062
 	tag: ch-08
 	tag: Missi
 	tag: Rumisiel
 	tag: School
 page:2008-03-03
-	desc: Ok, first of all she thinks you're gay
+	desc: Ash: Ok, first of all she thinks you're gay
 	tag: Aiden
 	tag: Ash
-	tag: p-XXX
+	tag: p-061
 	tag: ch-08
 	tag: Rumisiel
 	tag: UptonHouse
@@ -13896,7 +13999,7 @@ page:2008-02-29
 	Desc: That's your fault again. I like her but I can't... You know...
 	tag: Ash
 	tag: Blush
-	tag: p-XXX
+	tag: p-060
 	tag: ch-08
 	tag: Hit
 	tag: Rumisiel
@@ -13905,7 +14008,7 @@ page:2008-02-28
 	desc: Ash: I need out of this Missi relationship
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-059
 	tag: ch-08
 	tag: Rumisiel
 	tag: UptonHouse
@@ -13914,34 +14017,34 @@ page:2008-02-27
 	tag: Bed
 	tag: Bronwyn
 	tag: BronwynHome
-	tag: p-XXX
+	tag: p-058
 	tag: ch-08
 	tag: Tarot
 	tag: Tears
 page:2008-02-26
 	desc: Just get out of here! Stay out of our lives!
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-057
 	tag: ch-08
 	tag: Emily
 	tag: Spirit
 page:2008-02-25
 	desc: He's just doing some work on my car is all
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-056
 	tag: ch-08
 	tag: Emily
 page:2008-02-22
 	desc: What's between you and Aiden?
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-055
 	tag: ch-08
 	tag: Emily
 page:2008-02-21
 	desc: Don't worry about the hands
 	tag: Aiden
 	tag: AidenHome
-	tag: p-XXX
+	tag: p-054
 	tag: ch-08
 	tag: Emily
 	tag: Nissan240SX
@@ -13949,7 +14052,7 @@ page:2008-02-20
 	desc: Why the heck did I agree to do this?
 	tag: Aiden
 	tag: AidenHome
-	tag: p-XXX
+	tag: p-053
 	tag: ch-08
 	tag: Emily
 	tag: Nissan240SX
@@ -13957,21 +14060,21 @@ page:2008-02-19
 	desc: I can't believe I used the "I can't. I'm having my period." excuse
 	tag: Ash
 	tag: Bubbles
-	tag: p-XXX
+	tag: p-052
 	tag: ch-08
 	tag: Emily
 	tag: McArthurRes
 page:2008-02-18
 	desc: I thought I might be happy
 	tag: Ash
-	tag: p-XXX
+	tag: p-051
 	tag: ch-08
 	tag: Emily
 	tag: McArthurRes
 page:2008-02-15
 	desc: She's the aggressive one always pushing to make out
 	tag: Ash
-	tag: p-XXX
+	tag: p-050
 	tag: ch-08
 	tag: Emily
 	tag: McArthurRes
@@ -13985,14 +14088,14 @@ page:2008-02-14
 page:2008-02-13
 	desc: I'm like totally the girl!
 	tag: Ash
-	tag: p-XXX
+	tag: p-049
 	tag: ch-08
 	tag: Emily
 	tag: McArthurRes
 page:2008-02-12
 	desc: Emily: Whoa! Don't need to hear about this!
 	tag: Ash
-	tag: p-XXX
+	tag: p-048
 	tag: ch-08
 	tag: Emily
 	tag: McArthurRes
@@ -14001,7 +14104,7 @@ page:2008-02-11
 	tag: Ash
 	tag: Bed
 	tag: Candle
-	tag: p-XXX
+	tag: p-047
 	tag: ch-08
 	tag: FullerHome
 	tag: Kiss
@@ -14011,7 +14114,7 @@ page:2008-02-08
 	tag: Ash
 	tag: Bed
 	tag: Blush
-	tag: p-XXX
+	tag: p-046
 	tag: ch-08
 	tag: FullerHome
 	tag: Kiss
@@ -14021,14 +14124,14 @@ page:2008-02-07
 	tag: Ash
 	tag: Bed
 	tag: Candle
-	tag: p-XXX
+	tag: p-045
 	tag: ch-08
 	tag: FullerHome
 	tag: Missi
 page:2008-02-06
 	desc: So this is Tom's house...
 	tag: Ash
-	tag: p-XXX
+	tag: p-044
 	tag: ch-08
 	tag: FullerHome
 	tag: Missi
@@ -14037,14 +14140,14 @@ page:2008-02-05
 	desc: Fine... \*Sigh\* Will you help me?
 	tag: AidenHome
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-043
 	tag: ch-08
 	tag: Rumisiel
 page:2008-02-04
 	desc: Peeping? How low the mighty have fallen!
 	tag: AidenHome
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-042
 	tag: ch-08
 	tag: Rumisiel
 page:2008-02-01
@@ -14052,14 +14155,14 @@ page:2008-02-01
 	tag: Aiden
 	tag: AidenHome
 	tag: Cassiel
-	tag: p-XXX
+	tag: p-041
 	tag: ch-08
 	tag: Rumisiel
 page:2008-01-31
 	desc: Ash: Wow. I must be losing my touch
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-040
 	tag: ch-08
 	tag: Rumisiel
 	tag: UptonHouse
@@ -14067,7 +14170,7 @@ page:2008-01-30
 	desc: Rumisiel: Coming from the boy in a girl's body who lives with an angel...
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-039
 	tag: ch-08
 	tag: Rumisiel
 	tag: UptonHouse
@@ -14075,7 +14178,7 @@ page:2008-01-29
 	desc: Rumisiel: Ash? Has Missi gone home yet?
 	tag: Ash
 	tag: Bed
-	tag: p-XXX
+	tag: p-038
 	tag: ch-08
 	tag: Rumisiel
 	tag: UptonHouse
@@ -14085,7 +14188,7 @@ page:2008-01-28
 	tag: Aiden
 	tag: AidenHome
 	tag: Ash
-	tag: p-XXX
+	tag: p-037
 	tag: ch-08
 	tag: Emily
 	tag: Missi
@@ -14095,7 +14198,7 @@ page:2008-01-25
 	tag: Aiden
 	tag: AidenHome
 	tag: Ash
-	tag: p-XXX
+	tag: p-036
 	tag: ch-08
 	tag: Emily
 	tag: Kate
@@ -14105,7 +14208,7 @@ page:2008-01-24
 	tag: Aiden
 	tag: AidenHome
 	tag: Ash
-	tag: p-XXX
+	tag: p-035
 	tag: ch-08
 	tag: Rumisiel
 page:2008-01-23
@@ -14113,7 +14216,7 @@ page:2008-01-23
 	tag: Aiden
 	tag: AidenHome
 	tag: Ash
-	tag: p-XXX
+	tag: p-034
 	tag: ch-08
 	tag: Monster
 page:2008-01-22
@@ -14121,7 +14224,7 @@ page:2008-01-22
 	tag: Aiden
 	tag: AidenHome
 	tag: Ash
-	tag: p-XXX
+	tag: p-033
 	tag: ch-08
 	tag: Emily
 	tag: Monster
@@ -14133,7 +14236,7 @@ page:2008-01-21
 	tag: Ash
 	tag: Bronwyn
 	tag: BronwynHome
-	tag: p-XXX
+	tag: p-032
 	tag: ch-08
 	tag: Missi
 page:2008-01-18
@@ -14141,7 +14244,7 @@ page:2008-01-18
 	tag: Aiden
 	tag: AidenHome
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-031
 	tag: ch-08
 	tag: Emily
 	tag: Missi
@@ -14149,7 +14252,7 @@ page:2008-01-17
 	desc: How do you explain the whole Rumisiel-Boyfriend thing to Missi?
 	tag: AidenHome
 	tag: Ash
-	tag: p-XXX
+	tag: p-030
 	tag: ch-08
 	tag: Emily
 	tag: Missi
@@ -14159,7 +14262,7 @@ page:2008-01-16
 	tag: Aiden
 	tag: AidenHome
 	tag: Ash
-	tag: p-XXX
+	tag: p-029
 	tag: ch-08
 	tag: Emily
 page:2008-01-15
@@ -14167,7 +14270,7 @@ page:2008-01-15
 	tag: Aiden
 	tag: AidenHome
 	tag: Ash
-	tag: p-XXX
+	tag: p-028
 	tag: ch-08
 	tag: Monster
 page:2008-01-14
@@ -14175,7 +14278,7 @@ page:2008-01-14
 	tag: Aiden
 	tag: AidenHome
 	tag: Ash
-	tag: p-XXX
+	tag: p-027
 	tag: ch-08
 	tag: Emily
 	tag: Missi
@@ -14183,7 +14286,7 @@ page:2008-01-14
 page:2008-01-11
 	desc: Hey, Missi? Want to take a ride?
 	tag: Ash
-	tag: p-XXX
+	tag: p-026
 	tag: ch-08
 	tag: Missi
 	tag: Rumisiel
@@ -14191,21 +14294,21 @@ page:2008-01-11
 page:2008-01-10
 	desc: Missi? Does she... Have to come?
 	tag: Ash
-	tag: p-XXX
+	tag: p-025
 	tag: ch-08
 	tag: Emily
 	tag: UptonHouse
 page:2008-01-09
 	desc: He wants to look under the hood of your car
 	tag: Ash
-	tag: p-XXX
+	tag: p-024
 	tag: ch-08
 	tag: Emily
 	tag: UptonHouse
 page:2008-01-08
 	desc: Look, I've gotten a kind of weird proposition, but the decision isn't really mine to make...
 	tag: Ash
-	tag: p-XXX
+	tag: p-023
 	tag: ch-08
 	tag: Emily
 	tag: Missi
@@ -14213,14 +14316,14 @@ page:2008-01-08
 page:2008-01-07
 	desc: Em! Good to see you.
 	tag: Ash
-	tag: p-XXX
+	tag: p-022
 	tag: ch-08
 	tag: Emily
 	tag: UptonHouse
 page:2008-01-04
 	desc: He didn't exactly say why
 	tag: Aiden
-	tag: p-XXX
+	tag: p-021
 	tag: ch-08
 	tag: Emily
 	tag: Fresh-Mart
@@ -14228,7 +14331,7 @@ page:2008-01-04
 page:2008-01-03
 	desc: You weren't in class today. What's up?
 	tag: Aiden
-	tag: p-XXX
+	tag: p-020
 	tag: ch-08
 	tag: Emily
 	tag: Fresh-Mart
@@ -14236,7 +14339,7 @@ page:2008-01-03
 page:2008-01-02
 	desc: I'm sorry Aiden... its just that dream...
 	tag: Aiden
-	tag: p-XXX
+	tag: p-019
 	tag: ch-08
 	tag: MrWalker
 	tag: School
@@ -14244,14 +14347,14 @@ page:2008-01-02
 page:2008-01-01
 	desc: Mr Walker: I don't need a teaching assistant this semester... so I'm letting you go
 	tag: Aiden
-	tag: p-XXX
+	tag: p-018
 	tag: ch-08
 	tag: MrWalker
 	tag: School
 page:2007-12-31
 	desc: Aiden: It's never a good thing when someone tells you to sit down first
 	tag: Aiden
-	tag: p-XXX
+	tag: p-017
 	tag: ch-08
 	tag: MrWalker
 	tag: School
@@ -14260,7 +14363,7 @@ page:2007-12-28
 	tag: Cassiel
 	tag: CFS
 	tag: CFS4
-	tag: p-XXX
+	tag: p-016
 	tag: ch-08
 	tag: Heaven
 	tag: Pager
@@ -14270,7 +14373,7 @@ page:2007-12-27
 	tag: Cassiel
 	tag: CFS
 	tag: CFS4
-	tag: p-XXX
+	tag: p-015
 	tag: ch-08
 	tag: Heaven
 	tag: Pager
@@ -14278,7 +14381,7 @@ page:2007-12-27
 page:2007-12-26
 	desc: Missi: You have no talent for receiving subtext do you?
 	tag: Ash
-	tag: p-XXX
+	tag: p-014
 	tag: ch-08
 	tag: Missi
 	tag: Monster
@@ -14292,14 +14395,14 @@ page:2007-12-25
 page:2007-12-24
 	desc: THE POWER OF BOOBS COMPELS YOU
 	tag: Ash
-	tag: p-XXX
+	tag: p-013
 	tag: ch-08
 	tag: Missi
 page:2007-12-21
 	desc: Wha... But you're so cute!
 	tag: Ash
 	tag: Blush
-	tag: p-XXX
+	tag: p-012
 	tag: ch-08
 	tag: Missi
 	tag: Monster
@@ -14308,7 +14411,7 @@ page:2007-12-20
 	desc: Having fun?
 	tag: Ash
 	tag: Blush
-	tag: p-XXX
+	tag: p-011
 	tag: ch-08
 	tag: Missi
 	tag: Monster
@@ -14317,7 +14420,7 @@ page:2007-12-19
 	desc: GYAAA!!! WHEEEEEEE!!! TOO CLOSE TO THE RAIL!!!
 	tag: Ash
 	tag: Bubbles
-	tag: p-XXX
+	tag: p-010
 	tag: ch-08
 	tag: Missi
 	tag: Monster
@@ -14325,7 +14428,7 @@ page:2007-12-19
 page:2007-12-18
 	desc: You're not the boss of me!
 	tag: Ash
-	tag: p-XXX
+	tag: p-009
 	tag: ch-08
 	tag: Missi
 	tag: OldRoad
@@ -14333,7 +14436,7 @@ page:2007-12-18
 page:2007-12-17
 	desc: How did you even get here without a car?
 	tag: Ash
-	tag: p-XXX
+	tag: p-008
 	tag: ch-08
 	tag: Missi
 	tag: Monster
@@ -14342,7 +14445,7 @@ page:2007-12-17
 page:2007-12-14
 	desc: There you are! I've been waiting
 	tag: Ash
-	tag: p-XXX
+	tag: p-007
 	tag: ch-08
 	tag: Missi
 	tag: Monster
@@ -14352,7 +14455,7 @@ page:2007-12-13
 	tag: Aiden
 	tag: AidenHome
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-006
 	tag: ch-08
 	tag: OldRoad
 	tag: Tears
@@ -14362,7 +14465,7 @@ page:2007-12-12
 	tag: Aiden
 	tag: AidenHome
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-005
 	tag: ch-08
 	tag: N240Z
 	tag: Tears
@@ -14371,13 +14474,13 @@ page:2007-12-11
 	tag: Aiden
 	tag: AidenHome
 	tag: Bronwyn
-	tag: p-XXX
+	tag: p-004
 	tag: ch-08
 	tag: N240Z
 page:2007-12-10
 	desc: Edward: Oh! Chinese girl with nipple rings, right?
 	tag: Ash
-	tag: p-XXX
+	tag: p-003
 	tag: ch-08
 	tag: Edward
 	tag: Missi
@@ -14386,20 +14489,20 @@ page:2007-12-07
 	desc: Edward: But the patient is that hot
 	note: <span class="dt">Saturday</span>
 	tag: Ash
-	tag: p-XXX
+	tag: p-002
 	tag: ch-08
 	tag: Dates
 	tag: Edward
 	tag: UptonHouse
 page:2007-12-06
 	desc: Emily: Stupid tattoo girl...
-	tag: p-XXX
+	tag: p-001
 	tag: ch-08
 	tag: Emily
 	tag: McArthurRes
 page:2007-12-05
 	desc: <br>**Book 8**<br>September ’04<br><br>_How have you not been sued — Bronwyn & Aiden — the power of boobs — candles and soft music — the Hanged Man, the Tower and the Lovers – breaking up is hard to do — racing Aiden — pretty maids all in a row_
-	tag: p-XXX
+	tag: p-000
 	tag: ch-08
 	tag: Cover
 	tag: Missi
@@ -21154,17 +21257,20 @@ page:2004-07-28
 	tag: Colin
 	tag: Emily
 	tag: p-081
+; --------- pass N ----------
 page:2004-07-26
-	desc: Behold the power of boobs
+	desc: Emily: Behold the power of boobs
 	tag: Ash
 	tag: AutoModerZ
 	tag: ch-01
 	tag: Colin
 	tag: Emily
+	tag: Iridium
 	tag: Nosebleed
 	tag: p-080
+	tag: SparkPlugs
 page:2004-07-23
-	desc: You’re ok sending Rumisiel home on his own?
+	desc: Emily: You’re ok sending Rumisiel home on his own?
 	tag: Ash
 	tag: AutoModerZ
 	tag: ch-01
@@ -21176,9 +21282,11 @@ page:2004-07-21
 	tag: Ash
 	tag: ch-01
 	tag: Emily
+	tag: Iridium
 	tag: p-078
 	tag: Rumisiel
 	tag: School
+	tag: SparkPlugs
 page:2004-07-19
 	desc: Emily: Turbo!
 	tag: Ash
@@ -21190,13 +21298,15 @@ page:2004-07-19
 page:2004-07-16
 	desc: Emily: The third pedal is the clutch!
 	tag: Ash
+	tag: BasicAutoMech
+	tag: Book
 	tag: ch-01
 	tag: Emily
 	tag: p-076
 	tag: Rumisiel
 	tag: School
 page:2004-07-14
-	desc: Rumisiel: I don’t think I ever apologized
+	desc: Rumisiel: No! It's just... I don’t think I ever apologized... Um... I'm sorry.
 	tag: Ash
 	tag: ch-01
 	tag: p-075
@@ -21208,6 +21318,7 @@ page:2004-07-12
 	tag: ch-01
 	tag: p-074
 	tag: Rumisiel
+	tag: TV
 	tag: UptonHouse
 page:2004-07-09
 	desc: Emily: I said “win”
@@ -21219,7 +21330,7 @@ page:2004-07-09
 	tag: p-073
 	tag: Tears
 page:2004-07-07
-	desc: I’ve ASKED for his help before
+	desc: Ash: Oh, please. I’ve ASKED for his help before
 	tag: Ash
 	tag: Bed
 	tag: ch-01
@@ -21228,38 +21339,45 @@ page:2004-07-07
 	tag: p-072
 	tag: Tears
 page:2004-07-05
-	desc: One of your friends is here
+	desc: Mom McArthur: Em? ... One of your friends is here
 	tag: Ash
 	tag: Bed
 	tag: ch-01
 	tag: Emily
 	tag: McArthurRes
+	tag: MsMcArthur
 	tag: p-071
 page:2004-07-02
-	desc: You ruined my life and I HATE YOU!!!
+	desc: Ash: You've ruined my life and I HATE YOU!!!
 	tag: Ash
 	tag: ch-01
 	tag: p-070
 	tag: Rumisiel
 	tag: UptonHouse
 page:2004-06-30
-	desc: That was a fun day
+	desc: Rumisiel: That was a fun day. We're going back tomorrow, right?
 	tag: Ash
 	tag: ch-01
+	tag: MaxSpeed
 	tag: p-069
 	tag: Rumisiel
 	tag: UptonHouse
 page:2004-06-28
-	desc: What happened to your legs
+	desc: Eponine: What happened to your legs
 	tag: Ash
 	tag: ch-01
 	tag: Eponine
+	tag: VolleyBall
 	tag: p-068
+	tag: Plasters
 	tag: Rumisiel
 	tag: School
 page:2004-06-25
-	desc: I hear you’re dating that crazy car chick
+	desc: Boy A: So I hear you’re dating that crazy car chick. Tell me, does she taste of motor oil all over?
 	tag: Ash
+	tag: BoyA
+	tag: BoyB
+	tag: BoysLocker
 	tag: ch-01
 	tag: p-067
 	tag: Rumisiel
@@ -21268,6 +21386,7 @@ page:2004-06-23
 	desc: Omnes: Pervert!
 	tag: Ash
 	tag: ch-01
+	tag: GirlsLocker
 	tag: p-066
 	tag: Rumisiel
 	tag: School
@@ -21275,20 +21394,23 @@ page:2004-06-21
 	desc: Rumisiel: Hey ladies.
 	tag: Ash
 	tag: ch-01
+	tag: GirlsLocker
 	tag: Eponine
 	tag: p-065
 	tag: Rumisiel
 	tag: School
 page:2004-06-18
-	desc: Tom: Quarrel in love land?
+	desc: Tom: Quarrel in love land? I'll see you on Saturday
+	note: Rematch race set for <span class="dt">Saturday</span>
 	tag: Ash
 	tag: ch-01
+	tag: Dates
 	tag: p-064
 	tag: Rumisiel
 	tag: School
 	tag: Tom
 page:2004-06-16
-	desc: Tom: Girls don’t have what it takes
+	desc: Ash: It was a bad night! You got lucky, and you have no right to claim that title
 	tag: Ash
 	tag: ch-01
 	tag: p-063
@@ -21296,16 +21418,17 @@ page:2004-06-16
 	tag: School
 	tag: Tom
 page:2004-06-14
-	desc: Rumisiel: I’m from... Canada!
+	desc: Rumisiel: I’m Rumisiel from... CANADA!
 	tag: Ash
 	tag: Canada
 	tag: ch-01
+	tag: KingOfTheMountain
 	tag: p-062
 	tag: Rumisiel
 	tag: School
 	tag: Tom
 page:2004-06-11
-	desc: Ash: Sorry, he’s foreign
+	desc: Ash: < say something, already > ... Sorry, he’s foreign
 	tag: Ash
 	tag: ch-01
 	tag: p-061
@@ -21313,7 +21436,7 @@ page:2004-06-11
 	tag: School
 	tag: Tom
 page:2004-06-09
-	desc: Ash: a little more thought into this
+	desc: Ash: Ok, Maybe a little more thought should have gone into this plan...
 	note: <span class="dt">Tuesday</span>
 	tag: Ash
 	tag: ch-01
@@ -21323,7 +21446,7 @@ page:2004-06-09
 	tag: School
 	tag: Tom
 page:2004-06-07
-	desc: Ash: You’re coming to school with me tomorrow
+	desc: Ash: You’re coming to school with me tomorrow and going through all the same hell I do
 	tag: Ash
 	tag: ch-01
 	tag: Emily
@@ -21331,18 +21454,20 @@ page:2004-06-07
 	tag: Rumisiel
 	tag: UptonHouse
 page:2004-06-04
-	desc: Emily: What, are you gussying yourself up into a pretty girl
+	desc: Emily: What, are you gussying yourself up into a pretty girl all of a sudden
 	tag: Ash
 	tag: ch-01
 	tag: Emily
 	tag: p-058
+	tag: Plasters
 	tag: UptonHouse
 page:2004-06-02
-	desc: not very good at shaving
+	desc: Ash: I noticed I was getting a bit fuzzy, and I've just discovered I'm not very good at shaving my legs
 	tag: Ash
 	tag: ch-01
 	tag: Emily
 	tag: p-057
+	tag: Plasters
 	tag: Shower
 	tag: UptonHouse
 page:2004-05-31
@@ -21355,8 +21480,9 @@ page:2004-05-31
 	tag: Rumisiel
 	tag: UptonHouse
 page:2004-05-28
-	desc: Ash: You are wearing boxers, right?
+	desc: Rumisiel: Hey, now! I got kicked out of heaven! That's the worst punishment in all creation...
 	tag: Ash
+	tag: AirFreshner
 	tag: Blush
 	tag: ch-01
 	tag: Emily
@@ -21372,7 +21498,8 @@ page:2004-05-26
 	tag: Rumisiel
 	tag: UptonHouse
 page:2004-05-24
-	desc: ...might tell us how to make it look like an accident
+	desc: Ash: I've been going through hell and you've spent the last two days drinking and freebasing
+	tag: Alleyway
 	tag: Ash
 	tag: ch-01
 	tag: Emily
@@ -21381,16 +21508,18 @@ page:2004-05-24
 	tag: Rumisiel
 	tag: UptonHouse
 page:2004-05-21
-	desc: You call this "doing good deeds"?!
+	desc: Ash: You call this "doing good deeds"?!
 	tag: Alleyway
 	tag: Ash
+	tag: Booze
 	tag: ch-01
 	tag: p-052
 	tag: Rumisiel
 page:2004-05-19
-	note: Girls locker room
+	desc: must keep running... Must ignore jiggling...
 	tag: Ash
 	tag: ch-01
+	tag: GirlsLocker
 	tag: p-051
 	tag: School
 page:2004-05-17
@@ -21402,7 +21531,7 @@ page:2004-05-17
 	tag: p-050
 	tag: School
 page:2004-05-14
-	desc: Day 3. No sign of Rumisiel
+	desc: Ash: Day 3. No sign of Rumisiel
 	note: <span class="dt">Monday</span>
 	tag: Ash
 	tag: ch-01
@@ -21421,13 +21550,16 @@ page:2004-05-12
 page:2004-05-10
 	desc: Emily: Clasp it in front then spin it around
 	tag: Ash
+	tag: Bra
 	tag: ch-01
 	tag: Emily
+	tag: Mirror
 	tag: p-047
 	tag: UptonHouse
 page:2004-05-07
 	desc: Ash: I can’t work the clasp...
 	tag: Ash
+	tag: Bra
 	tag: ch-01
 	tag: Emily
 	tag: p-046
@@ -21449,12 +21581,13 @@ page:2004-05-03
 	tag: UptonHouse
 	tag: XR4Ti
 page:2004-04-30
-	desc: Rumisiel: Oh, my head
+	desc: Rumisiel: Oh, my head. What was I doing all night?
 	tag: Alleyway
 	tag: ch-01
 	tag: p-043
 	tag: Rumisiel
 page:2004-04-28
+	desc: Ash: Well, at least as it's a girl's room now, you didn't have to stumble across the porn mags that were under my bed until yesterday
 	tag: Ash
 	tag: Bacon
 	tag: Bed
@@ -21462,10 +21595,11 @@ page:2004-04-28
 	tag: ch-01
 	tag: Emily
 	tag: p-042
+	tag: SpitTake
 	tag: UptonHouse
 	tag: Yaoi
 page:2004-04-26
-	desc: Ash:What’s that smell
+	desc: Ash: What’s that smell
 	tag: Ash
 	tag: Bacon
 	tag: ch-01
@@ -21473,235 +21607,262 @@ page:2004-04-26
 	tag: p-041
 	tag: UptonHouse
 page:2004-04-23
-	tag: p-040
-	tag: ch-01
-	tag: Ash
-	tag: Bed
-	tag: AshMale
-	tag: Dates
-	tag: UptonHouse
-	desc: Please be a dream! DAMMIT!
+	desc: Ash: Please be a dream! Please be a dream! Please be a dream! DAMMIT!
 	note: <span class="dt">Sunday</span>
+	tag: Ash
+	tag: ch-01
+	tag: Dates
+	tag: p-040
+	tag: UptonHouse
 page:2004-04-21
+	desc: Ash: What kind of guy would I be if I let you sleep on the couch while I took the bed?
+	tag: Ash
+	tag: ch-01
+	tag: Emily
 	tag: p-039
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: UptonHouse
-	desc: What kind of guy
 page:2004-04-19
+	desc: Emily: I had a big fight with my mom
+	tag: Ash
+	tag: ch-01
+	tag: Emily
 	tag: p-038
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: Tears
 	tag: UptonHouse
-	desc: I had a big fight with my mom
 page:2004-04-16
+	desc: Emily: So... Um... How was your race?
+	tag: Ash
+	tag: ch-01
+	tag: Emily
+	tag: Flashback
 	tag: p-037
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: Tears
-	tag: XR4Ti
 	tag: UptonHouse
-	desc: How was your race?
+	tag: XR4Ti
 page:2004-04-14
+	desc: Ash: Emily?
+	tag: Ash
+	tag: ch-01
+	tag: Emily
 	tag: p-036
-	tag: ch-01
-	tag: Ash
-	tag: Emily
-	tag: XR4Ti
 	tag: UptonHouse
-	desc: Emily?
+	tag: XR4Ti
 page:2004-04-12
-	tag: p-035
-	tag: ch-01
+	desc: Emily: Yes. Yes, I understand. Sorry... Hello?
 	tag: Acura
 	tag: Ash
+	tag: ch-01
 	tag: Emily
-	tag: OldRoad
 	tag: McArthurRes
+	tag: OldRoad
+	tag: p-035
+	tag: Phone
 	tag: Race
+	tag: RacerBandana
+	tag: Tears
 	tag: Tom
-	desc: 3, 2, 1 ... Disappointments
 page:2004-04-09
-	tag: p-034
-	tag: ch-01
+	desc: Tom: Well,well, well. If it ain't the belle of the old road
 	tag: Acura
 	tag: Ash
+	tag: ch-01
 	tag: OldRoad
+	tag: p-034
 	tag: Tom
 	tag: XR4Ti
-	desc: The belle of the old road
 page:2004-04-07
 	desc: Ash: They think you've always been a girl
 	tag: Ash
-	tag: p-033
 	tag: ch-01
 	tag: OldRoad
+	tag: p-033
 	tag: WallaceSign
 	tag: XR4Ti
 page:2004-04-05
+	desc: Ash: Don’t you even have a single hobby?
+	tag: Ash
+	tag: ch-01
+	tag: Emily
 	tag: p-032
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: Tears
-	tag: XR4Ti
 	tag: UptonHouse
-	desc: Don’t you even have a single hobby?
+	tag: XR4Ti
 page:2004-04-02
-	tag: p-031
-	tag: ch-01
+	desc: Ash: Hey! I'ma girl too now, so don't think I can't hit you back!
 	tag: Ash
+	tag: ch-01
 	tag: Emily
-	tag: XR4Ti
+	tag: p-031
 	tag: UptonHouse
-	desc: You accept that you’re a girl?
+	tag: Wrench
+	tag: XR4Ti
 page:2004-04-01
-	tag: p-030
-	tag: ch-01
+	desc: Ash: So you HAVE heard of me
 	tag: Ash
+	tag: ch-01
 	tag: Emily
 	tag: Hit
 	tag: Molly
+	tag: p-030
 	tag: Tears
 	tag: UptonHouse
 	tag: XR4Ti
-	desc: So you have heard of me
 page:2004-03-29
+	desc: Emily: XR4ti... Ash... XR4ti...  Wait, YOU’re XR4Ti Ash?
+	tag: Ash
+	tag: ch-01
+	tag: DriversLicense
+	tag: Emily
 	tag: p-029
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: UptonHouse
 	tag: XR4Ti
-	desc: You’re XR4Ti Ash?
 page:2004-03-26
+	desc: Ash: Why are you still here?
+	tag: Ash
+	tag: ch-01
+	tag: Emily
 	tag: p-028
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: UptonHouse
 	tag: XR4Ti
-	desc: Why are you still here?
 page:2004-03-22
-	tag: p-027
-	tag: ch-01
+	desc: I took your advice and now we're doomed
 	tag: Ash
+	tag: ch-01
 	tag: Emily
+	tag: p-027
 	tag: UptonHouse
 	tag: XR4Ti
-	desc: I took your advice and now we’re doomed
 page:2004-03-21
+	desc: Ash \*Sigh\* ...Yes, Rumisiel...
+	tag: Ash
+	tag: ch-01
+	tag: Emily
 	tag: p-026
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
-	desc: Yes, Rumisiel
 page:2004-03-20
+	desc: Emily: You should be proud. You've acquired the blessed ability to bear and nurse children as a mother
+	tag: Ash
+	tag: ch-01
+	tag: Emily
 	tag: p-025
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
-	desc: Acquired the blessed ability to bear and nurse
 page:2004-03-19
+	desc: Ash: Wait, you're going with this? Just like that?
+	tag: Ash
+	tag: ch-01
+	tag: Emily
+	tag: Harvard
 	tag: p-024
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: UptonHouse
-	desc: Nothing?!
 page:2004-03-18
-	tag: p-023
-	tag: ch-01
+	desc: Rumisiel: And note that the "boxers" you think you are wearing are technically women's pajamas, according to the label
 	tag: Ash
-	tag: Emily
-	tag: Rumisiel
-	tag: UptonHouse
-	desc: The “boxers” you think you are wearing
-page:2004-03-17
-	tag: p-022
 	tag: ch-01
+	tag: Emily
+	tag: p-023
+	tag: Rumisiel
+	tag: Smoking
+	tag: UptonHouse
+page:2004-03-17
+	desc: "Photos last a lifetime"
+	note: Upton reunion & Sophomore Semi-formal
 	tag: Ash
 	tag: Ashley
+	tag: ch-01
+	tag: Dress
 	tag: Emily
 	tag: Flashback
+	tag: p-022
 	tag: Photo
+	tag: PhotoAlbum
 	tag: Rumisiel
+	tag: Swim
 	tag: UptonHouse
-	desc: Photos last a lifetime
 page:2004-03-16
+	desc: Rumisiel: You haven’t looked around the house much have you?
+	tag: Ash
+	tag: ch-01
+	tag: Emily
 	tag: p-021
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
-	desc: You haven’t looked around the house much
 page:2004-03-15
+	desc: Rumisiel: NO NO NO! No one can find out there've been any mistakes. Mistakes, bad. Mistakes are covered up.
+	tag: Ash
+	tag: ch-01
+	tag: Emily
 	tag: p-020
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
-	desc: Mistakes are covered up
 page:2004-03-14
+	desc: Rumisiel: Hold up there girl... boy... whatever
+	tag: Ash
+	tag: ch-01
+	tag: Emily
+	tag: Harvard
 	tag: p-019
-	tag: ch-01
-	tag: Ash
-	tag: Emily
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
-	desc: Hold up there girl... boy... whatever
 page:2004-03-13
-	tag: p-018
-	tag: ch-01
+	desc: Rumisiel: To make a long story short, I'm on administrative leave... without pay
 	tag: Ash
-	tag: Emily
-	tag: Rumisiel
-	tag: UptonHouse
-	desc: Administrative leave... without pay
-page:2004-03-12
-	tag: p-017
 	tag: ch-01
+	tag: Emily
+	tag: Hit
+	tag: p-018
+	tag: Rumisiel
+	tag: Smoking
+	tag: UptonHouse
+page:2004-03-12
+	desc: Rumisiel: The papers were easy, I kicked them under the rug while Terrael was complaining about my lack of virtue
+	tag: Cabinet
 	tag: CFS
+	tag: ch-01
+	tag: Files
+	tag: Flashback
 	tag: Heaven
-	tag: Fillaniel
+	tag: p-017
 	tag: Rumisiel
 	tag: Terrael
-	desc: I kicked them under the rug
 page:2004-03-11
-	desc: Rumisiel: On my 43rd hour of overtime
+	desc: Rumisiel: So there I am, on my 43rd hour of overtime ... and to take the edge off I light one up.
+	tag: Cannabis
+	tag: Files
+	tag: Cabinet
 	tag: CFS
 	tag: ch-01
 	tag: Fillaniel
+	tag: Flashback
 	tag: Heaven
 	tag: p-016
 	tag: Rumisiel
+	tag: Smoking
 	tag: Terrael
 page:2004-03-10
-	desc: Rumisiel: Well, my brother got me this job
+	desc: Rumisiel: Well, my brother got me this job, this IMPORTANT job, you see, to make dad happy
 	tag: Ash
-	tag: Bed
+	tag: Cannabis
 	tag: ch-01
 	tag: Emily
 	tag: p-015
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
 page:2004-03-09
-	desc: Rumisiel: If I put the file in its proper place
+	desc: Rumisiel: If I put the file in its proper place he's a comic book artist
+	tag: Artist
 	tag: CFS
 	tag: ch-01
+	tag: Fish
 	tag: p-014
 	tag: Rumisiel
-	tag: UptonHouse
 page:2004-03-08
 	desc: Rumisiel: In Heaven, filing is a very important job
 	tag: CFS
@@ -21710,35 +21871,41 @@ page:2004-03-08
 	tag: Heaven
 	tag: p-013
 	tag: Rumisiel
+	tag: Smoking
 page:2004-03-07
-	desc: Ash: Weren’t you older?
+	desc: Ash: Wait a minute... I know you. You go to my school. Weren’t you older?
 	tag: Ash
 	tag: ch-01
 	tag: Emily
 	tag: p-012
 	tag: Rumisiel
+	tag: Smoking
 	tag: Tears
 	tag: UptonHouse
 page:2004-03-06
-	desc: And you found a cure, right?
+	desc: Ash: And you found a cure, right? RIGHT?
 	tag: Ash
 	tag: ch-01
 	tag: Emily
 	tag: p-011
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
 page:2004-03-05
-	desc: Ash: This will all turn out to be a bad dream
+	desc: Ash: If I can just go back to sleep and wake up again, this will all turn out to be a bad dream
 	tag: Ash
 	tag: Bed
 	tag: ch-01
 	tag: p-010
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
 page:2004-03-04
 	desc: Emily: CALM DOWN?! HARVARD GONE! NOT CALM!
 	tag: ch-01
 	tag: Emily
+	tag: Harvard
+	tag: Hit
 	tag: McArthurRes
 	tag: p-009
 	tag: Rumisiel
@@ -21749,71 +21916,79 @@ page:2004-03-03
 	tag: McArthurRes
 	tag: p-008
 	tag: Rumisiel
+	tag: Smoking
 page:2004-03-02
-	desc: Sorry, Not that easy, but I AM adding you to my list
-	tag: Angel
+	desc: Rumisiel: Sorry, not that easy, but I AM adding you to my list
 	tag: Ash
 	tag: ch-01
 	tag: p-007
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
 page:2004-03-01
-	desc: Rumisiel: Let's not talk about who's fault
+	desc: Rumisiel: Hold on, Miss. Let's not talk about "who's" fault this is and start thinking pro-active thoughts
 	tag: Angel
 	tag: Ash
 	tag: ch-01
 	tag: p-006
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
 page:2004-02-28
-	desc: Ash: The problem is these TITS
+	desc: Ash: The problem is these TITS that weren't here yesterday
 	tag: Angel
 	tag: Ash
 	tag: ch-01
 	tag: p-005
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
 page:2004-02-27
-	desc: Rumisiel: How about an angel?
+	desc: Rumisiel: So there's some other problem then?
 	tag: Angel
 	tag: Ash
 	tag: ch-01
 	tag: p-004
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
 page:2004-02-26
-	desc: Ash: You are not why I'm screaming
+	desc: Rumisiel: Keep it down. You'll have the whole neighbourhood in here if you keep that up
 	tag: Ash
 	tag: ch-01
 	tag: p-003
 	tag: Rumisiel
+	tag: Smoking
 	tag: UptonHouse
 page:2004-02-25
-	desc: Ash: Have I got laryngitis?
+	desc: Ash: Thank god it's Saturday... Christ, have I got laryngitis or something?
 	note: <span class="dt">2004-03-20 10:38</span> see [page 2014-05-27](http://www.misfile.com/?date=2014-05-27)
 	tag: Ash
+	tag: Clock
 	tag: Bed
 	tag: ch-01
 	tag: Dates
+	tag: Mirror
 	tag: p-002
 	tag: UptonHouse
 page:2004-02-24
-	desc: (dark, scenesetter, voiceover)
+	desc: (dark, scenesetter, voiceover) Fillaniel / Terrael: What the hell do you think you are doing?
 	tag: CFS
 	tag: ch-01
 	tag: Fillaniel
 	tag: Heaven
 	tag: p-001
 	tag: Rumisiel
+	tag: Smoking
 	tag: Terrael
 page:2004-02-23
-	tag: p-000
-	tag: ch-01
+	desc: <br>**Book 1**<br>March – April '04<br><br>_Misfile — Ash — Rumisiel — Emily — in re: filing — racing Tom — AutoModerZ — Dr Edward Upton — Molly — racing Tom II_
 	tag: Angel
 	tag: Ash
+	tag: ch-01
 	tag: Cover
+	tag: p-000
 	tag: Rumisiel
-	desc: <br>**Book 1**<br>March – April '04<br><br>_Misfile — Ash — Rumisiel — Emily — in re: filing — racing Tom — AutoModerZ — Dr Edward Upton — Molly — racing Tom II_
 page:2004-02-22
 	tag: Ash
 	tag: XR4Ti

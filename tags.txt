@@ -114,7 +114,7 @@ Harry	'Harry' (Henry) Walsh, local race scene's auto engineer, owner [Aries](#ar
 Heather	Heather Walsh, [Harry's](#harry) niece, drives a yellow ZX3
 HeatherHome	where Heather lurks; (Art Note: doorway has changed)
 Hickey	a "love-bite" [Wikipedia](https://en.wikipedia.org/wiki/Hickey)
-Hit	punch / kick / chase / fight
+Hit	punch / kick / strangle / chase / fight
 IRsensor	a remote infrared & motion sensing camera
 Ivan	the self-proclaimed 'Ice King'
 JaguarXKR	[Kate's](#kate) ride, tuned by Harry, license "Kate 3"
