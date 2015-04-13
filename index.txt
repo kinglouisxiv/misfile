@@ -50,7 +50,141 @@ baseurl: http://www.misfile.com/?date={0}
 ;
 ; add:-
 ; 	carpark/racetrack on the Cape
+; 
+; 	Race
 ;
+page:2015-04-13
+	desc: Ash: Wait... How is he suddenly driving better. 
+	tag: Ash
+	tag: ch-23
+	tag: Dress
+	tag: OldRoad
+	tag: p-003
+	tag: Race
+	tag: Supra
+	tag: XR4Ti
+page:2015-04-10
+	desc: Misfile Movie Kickstarter Ad
+	tag: Ash
+	tag: Filler
+page:2015-04-09
+	desc: Supra Driver: Tunes. SO much better
+	tag: ch-23
+	tag: OldRoad
+	tag: p-002
+	tag: Race
+	tag: Supra
+	tag: SupraDriver
+	tag: XR4Ti
+page:2015-04-08
+	desc: Ash: This is so much slower up hill. The lines are different... I should have practiced more
+	tag: Ash
+	tag: ch-23
+	tag: Dress
+	tag: OldRoad
+	tag: p-001
+	tag: Race
+	tag: Supra
+	tag: XR4Ti
+page:2015-04-07
+	desc: <br>**Book 23**<br><br>April ’05
+	tag: Ash
+	tag: ch-23
+	tag: Colour
+	tag: Cover
+	tag: p-000
+page:2015-04-06
+	desc: PinceNez: So what's YOUR excuse for the fancy get up? Are you the Mountain Princess or some shit?
+	tag: ch-22
+	tag: Emily
+	tag: OldRoad
+	tag: p-119
+	tag: PinceNez
+	tag: Race
+	tag: Starter
+	tag: Supra
+	tag: XR4Ti
+page:2015-04-03
+	desc: Ash: What do you know... It works...
+	tag: Ash
+	tag: ch-22
+	tag: Dress
+	tag: OldRoad
+	tag: p-118
+	tag: XR4Ti
+page:2015-04-02
+	desc: Emily: What was that? It was like you were suddenly a different person
+	tag: Ash
+	tag: ch-22
+	tag: Corner22
+	tag: Dress
+	tag: OldRoad
+	tag: p-117
+	tag: PinceNez
+	tag: SupraDriver
+page:2015-04-01
+	desc: Ash: You ever drive in a dress? I'm guessing no.
+	tag: Ash
+	tag: ch-22
+	tag: Corner22
+	tag: Dress
+	tag: OldRoad
+	tag: p-116
+	tag: PinceNez
+	tag: SupraDriver
+page:2015-03-31
+	desc: Ash: This feels so weird...
+	tag: Ash
+	tag: ch-22
+	tag: Dress
+	tag: Emily
+	tag: OldRoad
+	tag: p-115
+	tag: PinceNez
+	tag: SupraDriver
+	tag: XR4Ti
+page:2015-03-30
+	desc: Pat: Where IS she? I got this whole road cleared. She said she'd BE here.
+	tag: ch-22
+	tag: OldRoad
+	tag: p-114
+	tag: PinceNez
+	tag: RacerB
+	tag: RacerPat
+	tag: SupraDriver
+page:2015-03-27
+	desc: Ash: I do want to win. I REALLY want to win.
+	tag: Ash
+	tag: ch-22
+	tag: Dress
+	tag: Emily
+	tag: LaFondue
+	tag: p-113
+	tag: XR4Ti
+page:2015-03-26
+	desc: Ash: Crap, crap CRAP! I'm already running late and your house is in the wrong direction!
+	tag: Ash
+	tag: ch-22
+	tag: Dress
+	tag: Emily
+	tag: LaFondue
+	tag: p-112
+page:2015-03-25
+	desc: Ash: This is taking forever!
+	tag: Ash
+	tag: ch-22
+	tag: Dress
+	tag: Emily
+	tag: LaFondue
+	tag: p-111
+page:2015-03-24
+	desc: Ash: Should I have them bring a cake?
+	tag: Ash
+	tag: ch-22
+	tag: Dress
+	tag: Emily
+	tag: LaFondue
+	tag: p-110
 page:2015-03-23
 	desc: Emily: Ok. Let's turn the metaphor on its head.
 	tag: Ash
@@ -115,11 +249,6 @@ page:2015-03-16
 	tag: McArthurRes
 	tag: p-104
 	tag: Suit
-page:2015-03-14
-	desc: Pin grab bag advert
-	tag: Colour
-	tag: Filler
-	tag: Rumisiel
 page:2015-03-13
 	desc: Guest page by [Samantha Roman](http://mfrhourglass.thecomicseries.com/comics/)
 	tag: Ash
@@ -1075,7 +1204,7 @@ page:2014-10-13
 ;page:2014-10-12
 ;page:2014-10-11
 page:2014-10-10
-	desc: <br>**Book 22**<br><br>March ’05
+	desc: <br>**Book 22**<br><br>March -- April ’05
 	tag: Ash
 	tag: ch-22
 	tag: Colour
@@ -1204,6 +1333,7 @@ page:2014-09-19
 	desc: Ash: You taste like a smoker! And tongue? Seriously?!
 	tag: Ash
 	tag: ch-21
+	tag: Lesbian
 	tag: p-104
 	tag: Rumisiel
 	tag: School
@@ -1212,6 +1342,7 @@ page:2014-09-18
 	tag: Annie
 	tag: Ash
 	tag: ch-21
+	tag: Dyke
 	tag: Emily
 	tag: p-103
 	tag: Rumisiel
@@ -1221,8 +1352,10 @@ page:2014-09-17
 	tag: Annie
 	tag: Ash
 	tag: ch-21
+	tag: Dyke
 	tag: Emily
 	tag: Kiss
+	tag: Lesbian
 	tag: p-102
 	tag: Rumisiel
 	tag: School
@@ -1273,6 +1406,7 @@ page:2014-09-09
 	tag: Bed
 	tag: ch-21
 	tag: Flashback
+	tag: Lesbian
 	tag: p-096
 	tag: Rumisiel
 	tag: UptonHouse
@@ -2713,29 +2847,29 @@ page:2013-12-31
 page:2013-12-30
 	desc: This is SUPPOSED to be fun
 	tag: Ash
+	tag: BabyShower
 	tag: ch-20
 	tag: Heather
 	tag: Kate
-	tag: LocationTBA
 	tag: p-038
 page:2013-12-27
 	desc: That is a HEART, NOT A BUTT
 	tag: Ash
+	tag: BabyShower
 	tag: Blush
 	tag: ch-20
 	tag: Heather
 	tag: Kate
 	tag: KateRel1
 	tag: KateRel2
-	tag: LocationTBA
 	tag: p-037
 page:2013-12-26
 	desc: "Episiotomy"
 	tag: Ash
+	tag: BabyShower
 	tag: ch-20
 	tag: Heather
 	tag: Kate
-	tag: LocationTBA
 	tag: p-036
 page:2013-12-25
 	desc: Christmas 2013
@@ -2744,25 +2878,25 @@ page:2013-12-25
 page:2013-12-24
 	desc: Your concern is touching
 	tag: Ash
+	tag: BabyShower
 	tag: ch-20
 	tag: Heather
 	tag: KateRel1
 	tag: KateRel2
-	tag: LocationTBA
 	tag: p-035
 page:2013-12-23
 	desc: Welcome to my shower, Ash!
 	tag: Ash
+	tag: BabyShower
 	tag: ch-20
 	tag: Kate
 	tag: KateRel1
-	tag: LocationTBA
 	tag: p-034
 page:2013-12-20
 	desc: I know two people here. One freaks me out and the other pisses me off.
 	tag: Ash
+	tag: BabyShower
 	tag: ch-20
-	tag: LocationTBA
 	tag: p-033
 page:2013-12-19
 	desc: I have a little reunion and I want to show up in something nicer than my old mini-van
@@ -2800,7 +2934,7 @@ page:2013-12-16
 	tag: Phone
 	tag: UptonHouse
 page:2013-12-13
-	desc: What did you and Dad do on your first date?
+	desc: Ash: What did you and Dad do on your first date?
 	tag: Ash
 	tag: ch-20
 	tag: Marie
@@ -2826,7 +2960,7 @@ page:2013-12-11
 	tag: Shopping
 	tag: Valentine
 page:2013-12-10
-	desc: I don't want too see couples fighting in my store this close to Valentine's Day
+	desc: Shop Assistant: I don't want to see couples fighting in my store this close to Valentine's Day
 	tag: Ash
 	tag: CardShop
 	tag: ch-20
@@ -2836,7 +2970,7 @@ page:2013-12-10
 	tag: Shopping
 	tag: Valentine
 page:2013-12-09
-	desc: Because Emily and I decided we were doing something for Valentine's Day
+	desc: Ash: Because Emily and I decided we were doing something for Valentine's Day
 	tag: Ash
 	tag: CardShop
 	tag: ch-20
@@ -3275,14 +3409,14 @@ page:2013-09-23
 	tag: Rumisiel
 	tag: UptonHouse
 page:2013-09-20
-	desc: Good thing I know you’re gay, or I’d totally think you’re checking me out
+	desc: Missi: Good thing I know you’re gay, or I’d totally think you’re checking me out
 	tag: ch-19
 	tag: Missi
 	tag: p-086
 	tag: Rumisiel
 	tag: UptonHouse
 page:2013-09-19
-	desc: What are you doing here all by yourself?
+	desc: Missi: What are you doing here all by yourself?
 	tag: Canada
 	tag: ch-19
 	tag: Missi
@@ -3297,7 +3431,7 @@ page:2013-09-18
 	tag: p-084
 	tag: Sword
 page:2013-09-17
-	desc: My favorite of the Yank Tanks
+	desc: Harry: My favorite of the Yank Tanks
 	tag: Aries
 	tag: ch-19
 	tag: Emily
@@ -3305,25 +3439,31 @@ page:2013-09-17
 	tag: Mustang
 	tag: p-083
 page:2013-09-16
-	desc: Yeah. But I wanted it to bite HER, not ME!
+	desc: Emily: Yeah. But I wanted it to bite HER, not ME!
 	tag: Aries
+	tag: Lesbian
 	tag: Ash
 	tag: ch-19
 	tag: Emily
 	tag: p-082
 page:2013-09-13
-	desc: I thought the only bad fallout from that party would be from my mom
+	desc: Emily: I thought the only bad fallout from that party would be from my mom
 	tag: Ash
 	tag: ch-19
 	tag: Emily
+	tag: Lesbian
 	tag: p-081
 	tag: School
 page:2013-09-12
-	desc: ... Jenny ... this weekend ... total closet case ... always suspected ...
+	desc: Gossips: ... Jenny ... this weekend ... total closet case ... always suspected ...
 	tag: ch-19
 	tag: Emily
+	tag: GossipGirl1
+	tag: GossipGirl2
+	tag: Lesbian
 	tag: p-080
 	tag: School
+	tag: XR4Ti
 page:2013-09-11
 	desc: I mean, there were some tense moments...
 	tag: Ash
@@ -3729,9 +3869,10 @@ page:2013-07-02
 	tag: Marie
 	tag: p-031
 page:2013-07-01
-	desc: That was so awkward!
+	desc: Ash: **That was so awkward!**
 	tag: Ash
 	tag: ch-19
+	tag: Lesbian
 	tag: p-030
 	tag: Rumisiel
 page:2013-06-28
@@ -4301,7 +4442,7 @@ page:2013-03-26
 	tag: Teacher
 	tag: Tempest
 page:2013-03-25
-	desc: Eighteen. I didn’t think it would affect me this much
+	desc: Eighteen. I didn't think it would affect me this much
 	tag: Ash
 	tag: p-082
 	tag: ch-18
@@ -4315,14 +4456,14 @@ page:2013-03-22
 	tag: Rachel
 	tag: School
 page:2013-03-21
-	desc: College doesn’t really seem like her thing
+	desc: College doesn't really seem like her thing
 	tag: p-080
 	tag: ch-18
 	tag: Emily
 	tag: Rachel
 	tag: School
 page:2013-03-20
-	desc: And that’s why he’ll use a knife
+	desc: And that's why he’ll use a knife
 	tag: Ash
 	tag: p-079
 	tag: ch-18
@@ -4330,7 +4471,7 @@ page:2013-03-20
 	tag: SchoolRoad
 	tag: Snow
 page:2013-03-19
-	desc: You don’t have to stand that far from the road
+	desc: You don't have to stand that far from the road
 	tag: Ash
 	tag: p-078
 	tag: ch-18
@@ -4374,7 +4515,7 @@ page:2013-03-13
 	tag: Tempest
 	tag: Xaphrael
 page:2013-03-12
-	desc: Any news of Ramael’s wherabouts?
+	desc: Any news of Ramael's wherabouts?
 	tag: Cassiel
 	tag: CFS
 	tag: p-073
@@ -4382,7 +4523,7 @@ page:2013-03-12
 	tag: Heaven
 	tag: Xaphrael
 page:2013-03-11
-	desc: A ‘legal gray area’!
+	desc: A 'legal gray area'!
 	tag: Ash
 	tag: p-072
 	tag: ch-18
@@ -4393,38 +4534,38 @@ page:2013-03-11
 page:2013-03-08
 	desc: You have to warn me about these things!
 	tag: Ash
-	tag: p-071
 	tag: ch-18
 	tag: Missi
+	tag: p-071
 	tag: UptonHouse
 page:2013-03-07
 	desc: So explain this again. Nobody won?
 	tag: Ash
-	tag: p-070
 	tag: ch-18
 	tag: Emily
 	tag: Missi
+	tag: p-070
 	tag: Rumisiel
 	tag: Snow
 	tag: UptonHouse
 page:2013-03-06
+	desc: Ivan: You just nullified this whole race!
+	tag: Ash
+	tag: ch-18
+	tag: Ivan
+	tag: OldRoad
 	tag: p-069
-	tag: ch-18
-	tag: Ash
-	tag: Ivan
-	tag: OldRoad
 	tag: Race
 	tag: Snow
-	desc: You just nullified this whole race!
 page:2013-03-05
-	tag: p-068
-	tag: ch-18
+	desc: Time to put the brakes on
 	tag: Ash
+	tag: ch-18
 	tag: Ivan
 	tag: OldRoad
+	tag: p-068
 	tag: Race
 	tag: Snow
-	desc: Time to put the brakes on
 page:2013-03-04
 	desc: I may not be a snow specialist...
 	tag: Ash
@@ -4486,6 +4627,7 @@ page:2013-02-22
 	tag: Ivan
 	tag: Missi
 	tag: Racers
+	tag: RacerFrizz
 	tag: Rumisiel
 	tag: Snow
 page:2013-02-21
@@ -10501,11 +10643,12 @@ page:2010-01-20
 	desc: Ash: Because awkward lesbian grope-fest residue is SUPER dangerous
 	tag: Ash
 	tag: Bed
-	tag: p-017
 	tag: ch-12
 	tag: Emily
 	tag: FullerHome
+	tag: Lesbian
 	tag: MrCuddles
+	tag: p-017
 page:2010-01-19
 	tag: Ash
 	tag: Bed
@@ -13025,7 +13168,7 @@ page:2008-09-12
 	desc: Emily: Good call. Let's get that horrid looking thing off you
 	tag: p-053
 	tag: ch-09
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: Dress
 	tag: Emily
 	tag: Missi
@@ -13037,7 +13180,7 @@ page:2008-09-11
 	tag: Dress
 	tag: Emily
 	tag: Missi
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: p-052
 	tag: Shopping
 page:2008-09-10
@@ -13047,7 +13190,7 @@ page:2008-09-10
 	tag: Dress
 	tag: Emily
 	tag: Missi
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: p-051
 	tag: Shopping
 page:2008-09-09
@@ -13057,7 +13200,7 @@ page:2008-09-09
 	tag: Dress
 	tag: Emily
 	tag: Missi
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: p-050
 	tag: Shopping
 	tag: Thong
@@ -13069,7 +13212,7 @@ page:2008-09-08
 	tag: DressShopAsst
 	tag: Emily
 	tag: Missi
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: p-049
 	tag: Shopping
 page:2008-09-05
@@ -13077,7 +13220,7 @@ page:2008-09-05
 	desc: Missi: Urg! You're so mean! I liked that one too, and now you've ruined it!
 	tag: p-048
 	tag: ch-09
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
@@ -13086,7 +13229,7 @@ page:2008-09-04
 	tag: Ash
 	tag: p-047
 	tag: ch-09
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
@@ -13095,7 +13238,7 @@ page:2008-09-03
 	tag: Ash
 	tag: p-046
 	tag: ch-09
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
@@ -13104,7 +13247,7 @@ page:2008-09-02
 	tag: Ash
 	tag: p-045
 	tag: ch-09
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
@@ -13113,7 +13256,7 @@ page:2008-09-01
 	desc: Ash: Can I be honest with you for a second?
 	tag: p-044
 	tag: ch-09
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
@@ -13122,7 +13265,7 @@ page:2008-08-29
 	desc: Missi: Ah crap. All the dresses I like are starpless!
 	tag: p-043
 	tag: ch-09
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
@@ -13131,7 +13274,7 @@ page:2008-08-28
 	tag: Ash
 	tag: p-042
 	tag: ch-09
-	tag: OhMyDessShop
+	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
 	tag: Shopping
@@ -13269,82 +13412,99 @@ page:2008-08-01
 	tag: Eponine
 	tag: School
 page:2008-07-31
+	desc: Ash: You'd just better hope he is better at filing than his brother
 	tag: Ash
-	tag: p-024
 	tag: ch-09
 	tag: Edward
+	tag: p-024
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-30
+	desc: Edward: Well, THAT'S more excitement than I expected at dinner.
 	tag: Ash
-	tag: p-023
 	tag: ch-09
 	tag: Edward
+	tag: p-023
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-29
+	desc: Vashiel: My, how traditions have changed over the years. How does one be a bridesmaid at their own wedding?
 	tag: Ash
-	tag: p-022
 	tag: ch-09
 	tag: Edward
+	tag: p-022
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-28
+	desc: Ash: It was unexpected, ok? The relationship isn't even that old. Anyway, I agreed to it, and now I have to get some stupid dress. I don't even really want to go.
 	tag: Ash
 	tag: Bubbles
-	tag: p-021
 	tag: ch-09
 	tag: Dress
 	tag: Edward
+	tag: p-021
 	tag: UptonHouse
 page:2008-07-25
+	desc: Edward: Ash. You're not eating, Is something wrong?
 	tag: Ash
-	tag: p-020
 	tag: ch-09
 	tag: Edward
+	tag: p-020
 	tag: UptonHouse
 	tag: Vashiel
+	tag: Wedding
 page:2008-07-24
-	tag: p-019
+	desc: Edward: It's good to have you back, Vashiel. You can just see the joy it brings out in your brother's eyes
 	tag: ch-09
 	tag: Edward
+	tag: p-019
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-23
-	tag: p-018
+	desc: Rumisiel: < Just ask him! You can settle this all now! He's going to say no! It wasn't him! >
 	tag: ch-09
+	tag: p-018
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-22
-	note: Raechiel mentioned
-	tag: p-017
+	desc: Rumisiel: What to do... There has to be another explanation. I mean, he's not even around right now, right? 
 	tag: ch-09
+	tag: p-017
 	tag: Raechiel
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-21
+	desc: Ash: Why do girls do that?
 	tag: Ash
 	tag: p-016
 	tag: ch-09
+	tag: Nissan240SX
 	tag: Emily
 page:2008-07-18
+	desc: Emily: This is nice. I miss this
+	note: "OldRoad" tag debatable: may just be some regular mountainside road
 	tag: Ash
-	tag: p-015
 	tag: ch-09
 	tag: Emily
+	tag: Nissan240SX
+	tag: OldRoad
+	tag: p-015
 page:2008-07-17
+	desc: Rumisiel: That's it. You've protected me, so now's my chance to protect you
 	tag: Alleyway
 	tag: Archon
-	tag: p-014
 	tag: ch-09
+	tag: p-014
 	tag: Raechiel
 	tag: Rumisiel
 	tag: Tempest
+	tag: Watcher
 page:2008-07-16
+	desc: Rumisiel: Whoh! I want one too!
 	tag: Alleyway
 	tag: p-013
 	tag: ch-09
@@ -13355,42 +13515,53 @@ page:2008-07-16
 	tag: Tempest
 	tag: Vashiel
 page:2008-07-15
+	desc: Rumisiel: Oh no... These wounds, I recognize them...
 	tag: Alleyway
 	tag: p-012
 	tag: ch-09
 	tag: Flashback
 	tag: Heaven
 	tag: Raechiel
+	tag: Blood
 	tag: Rumisiel
 	tag: Sword
 	tag: Tempest
 	tag: Vashiel
 page:2008-07-14
+	desc: Rumisiel: Oh. Sorry. I didn't know anyone was here. Was this your beer can?
 	tag: Alleyway
 	tag: Archon
-	tag: p-011
+	tag: Blood
 	tag: ch-09
+	tag: p-011
 	tag: Raechiel
 	tag: Rumisiel
 	tag: Tempest
 page:2008-07-11
+	desc: Rumisiel: It's BEER! It's WONDERFUL! It's...
 	tag: Alleyway
-	tag: p-010
+	tag: Beer
 	tag: ch-09
+	tag: p-010
 	tag: Rumisiel
 	tag: Tempest
 page:2008-07-10
+	desc: Rumisiel: It couldn't be so bad if I just had one would it? I'll look for a sign!
 	tag: Alleyway
-	tag: p-009
 	tag: ch-09
+	tag: p-009
 	tag: Rumisiel
 	tag: Tempest
 page:2008-07-09
-	tag: p-008
+	desc: Rumisiel: If I believe hard enough, this will taste like an ice cold beer
 	tag: ch-09
+	tag: Cola
+	tag: p-008
 	tag: Rumisiel
 	tag: Tempest
+	tag: VendingMachine
 page:2008-07-08
+	desc: Emily: Actually, your brother kind of did ok while you were away
 	tag: Ash
 	tag: p-007
 	tag: ch-09
@@ -13400,6 +13571,7 @@ page:2008-07-08
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-07
+	desc: Emily: Lemonade?
 	tag: p-006
 	tag: ch-09
 	tag: Ash
@@ -13407,8 +13579,8 @@ page:2008-07-07
 	tag: Vashiel
 	tag: UptonHouse
 	tag: Raechiel
-	note: Raechiel mention
 page:2008-07-04
+	desc: Vashiel: IT'S SO GOOD TO BE BACK!!!
 	tag: p-005
 	tag: ch-09
 	tag: Ash
@@ -13416,6 +13588,7 @@ page:2008-07-04
 	tag: Vashiel
 	tag: UptonHouse
 page:2008-07-03
+	desc: Emily: And I pulled the emergency brake, and it just worked. I think I may even have drifted a little before I stopped!
 	tag: p-004
 	tag: ch-09
 	tag: Ash
@@ -13440,6 +13613,7 @@ page:2008-07-01
 	tag: p-002
 	tag: UptonHouse
 page:2008-06-30
+	desc: Emily: You're still in bed? It's almost noon
 	tag: Ash
 	tag: Bed
 	tag: ch-09
@@ -13455,55 +13629,66 @@ page:2008-06-27
 	tag: Rumisiel
 ; book 8
 page:2008-06-26
+	desc: Cassiel: I suppose even a fool does something right now and again.
+	tag: Angel
 	tag: Cassiel
-	tag: p-144
 	tag: ch-08
+	tag: p-144
 	tag: Rumisiel
 page:2008-06-25
+	desc: Kate: It's settled then. I'll mail out the formal invites tomorrow.
 	tag: Aiden
 	tag: Ash
 	tag: Bronwyn
-	tag: p-143
 	tag: ch-08
 	tag: Kate
+	tag: N240Z
 	tag: OldRoad
+	tag: p-143
 	tag: Rumisiel
 page:2008-06-24
+	desc: Kate: I'm so glad! Frankly I don't have much of a wedding party at all. You can bring your family if you want to fill up my side of the aisle.
 	tag: Ash
+	tag: ch-08
+	tag: Emily
+	tag: Kate
+	tag: Missi
+	tag: OldRoad
 	tag: p-142
-	tag: ch-08
-	tag: Emily
-	tag: Kate
-	tag: Missi
-	tag: OldRoad
 page:2008-06-23
+	desc: Ash: < NONONOONONO! I'll just say no! What can she possibly do If I just say no? >
 	tag: Ash
+	tag: ch-08
+	tag: Kate
+	tag: OldRoad
 	tag: p-141
-	tag: ch-08
-	tag: Kate
-	tag: OldRoad
 page:2008-06-20
+	desc: Kate: Will you be the maid of honor at my wedding?
 	tag: Ash
-	tag: p-140
 	tag: ch-08
 	tag: Kate
 	tag: OldRoad
+	tag: p-140
 page:2008-06-19
+	desc: Emily: Kate? Where's...
 	tag: Ash
-	tag: p-139
 	tag: ch-08
 	tag: Emily
+	tag: JaguarXKR
 	tag: Kate
 	tag: Missi
 	tag: OldRoad
+	tag: p-139
 page:2008-06-18
-	desc: I'm going to be sixty, aren't I?
+	desc: Ash: I'm going to be sixty, aren't I?
 	tag: Ash
-	tag: p-138
 	tag: ch-08
+	tag: JaguarXKR
 	tag: OldRoad
+	tag: p-138
 	tag: Rumisiel
 page:2008-06-17
+	desc: Ash: Does saving a relationship count as a good deed even if you practically got us all killed by driving up the hill during a race?
 	tag: Ash
 	tag: p-137
 	tag: ch-08
@@ -13511,146 +13696,193 @@ page:2008-06-17
 	tag: OldRoad
 	tag: Rumisiel
 page:2008-06-16
+	desc: Bronwyn: I'm so sorry! I'm so sorry for everything
 	tag: Aiden
 	tag: Ash
 	tag: Bronwyn
 	tag: Bubbles
-	tag: p-136
 	tag: ch-08
 	tag: Emily
+	tag: Nissan240SX
 	tag: OldRoad
+	tag: p-136
 	tag: Rumisiel
 	tag: Tears
 page:2008-06-13
+	desc: Aiden: You! I have to have a few word with...
+	tag: Nissan240SX
 	tag: Aiden
 	tag: Bronwyn
+	tag: ch-08
+	tag: Monster
+	tag: OldRoad
 	tag: p-135
-	tag: ch-08
-	tag: OldRoad
+	tag: WallaceSign
 page:2008-06-12
+	desc: Ash: I guess
 	tag: Aiden
 	tag: Ash
+	tag: ch-08
+	tag: Monster
+	tag: OldRoad
 	tag: p-134
-	tag: ch-08
-	tag: OldRoad
 page:2008-06-11
+	desc: Ash: I won.
 	tag: Aiden
 	tag: Ash
+	tag: ch-08
+	tag: Monster
+	tag: OldRoad
 	tag: p-133
-	tag: ch-08
-	tag: OldRoad
 page:2008-06-10
+	desc: Ash: The sign!
 	tag: Ash
-	tag: p-132
 	tag: ch-08
+	tag: Monster
+	tag: N240Z		
 	tag: OldRoad
+	tag: p-132
 	tag: Race
 	tag: WallaceSign
 page:2008-06-09
+	desc: Ash: What just happened?
 	tag: Aiden
 	tag: Ash
-	tag: p-131
 	tag: ch-08
+	tag: Monster
+	tag: N240Z		
 	tag: OldRoad
+	tag: p-131
 	tag: Race
 page:2008-06-06
+	desc: Monster: GROWL!
 	tag: Aiden
-	tag: p-130
 	tag: ch-08
+	tag: Monster
+	tag: N240Z		
 	tag: OldRoad
+	tag: p-130
 	tag: Race
 page:2008-06-05
+	desc: Bronwyn? It's just in my head. This is almost over.
 	tag: Aiden
 	tag: Ash
 	tag: Bronwyn
-	tag: p-129
 	tag: ch-08
 	tag: Flashback
+	tag: Monster
+	tag: N240Z	
 	tag: OldRoad
+	tag: p-129
 	tag: Race
 page:2008-06-04
+	desc: Rumisiel: Maybe you didn't hear us!
 	tag: Bronwyn
-	tag: p-128
 	tag: ch-08
 	tag: OldRoad
+	tag: p-128
 	tag: Rumisiel
 	tag: Spirit
+	tag: Wormhole
 page:2008-06-03
+	desc: Spirit: I will not leave so easily!
 	tag: Aiden
 	tag: Bronwyn
-	tag: p-127
 	tag: ch-08
+	tag: N240Z
 	tag: OldRoad
+	tag: p-127
 	tag: Rumisiel
 	tag: Spirit
+	tag: Wormhole
 page:2008-06-02
+	desc: Bronwyn: No! I want Aiden!
 	tag: Bronwyn
-	tag: p-126
 	tag: ch-08
 	tag: OldRoad
+	tag: p-126
 	tag: Rumisiel
 	tag: Spirit
 	tag: Tears
 page:2008-05-30
+	desc: Spirit: Because it's what you want.
 	tag: Bronwyn
-	tag: p-125
 	tag: ch-08
 	tag: OldRoad
+	tag: p-125
 	tag: Spirit
 page:2008-05-29
+	desc: Bronwyn: I can't...
 	tag: Bronwyn
-	tag: p-124
 	tag: ch-08
 	tag: OldRoad
+	tag: p-124
 	tag: Tears
 page:2008-05-28
+	desc: Emily: Did you guys SEE that?!
 	tag: Bronwyn
-	tag: p-123
 	tag: ch-08
 	tag: Emily
+	tag: Nissan240SX
 	tag: OldRoad
+	tag: p-123
 	tag: Race
 	tag: Rumisiel
 page:2008-05-27
+	desc: TURN!!! STOP! ANYTHING!
+	tag: ch-08
+	tag: Emily
+	tag: Nissan240SX
+	tag: OldRoad
 	tag: p-122
-	tag: ch-08
-	tag: Emily
-	tag: OldRoad
 page:2008-05-26
-	tag: p-121
+	desc: Emily: You can do this. I know you know how...
 	tag: ch-08
-	tag: Heart
 	tag: Emily
+	tag: Heart
+	tag: Nissan240SX
 	tag: OldRoad
+	tag: p-121
 page:2008-05-23
 	desc: Bronwyn: Guardrail!!! GUARDRAIL!!!
 	tag: Bronwyn
-	tag: p-120
 	tag: ch-08
 	tag: Emily
+	tag: Nissan240SX
 	tag: OldRoad
+	tag: p-120
 	tag: Rumisiel
 page:2008-05-22
+	desc: Aiden: Too much braking, monster. If I just keep the revs up...
 	tag: Aiden
 	tag: Ash
+	tag: ch-08
+	tag: Monster
+	tag: N240Z		
+	tag: Nissan240SX
+	tag: OldRoad
 	tag: p-119
-	tag: ch-08
-	tag: Emily
-	tag: OldRoad
 page:2008-05-21
+	desc: Emily: No! NO! NO!!!
 	tag: Ash
-	tag: p-118
 	tag: ch-08
 	tag: Emily
+	tag: Monster
+	tag: Nissan240SX
 	tag: OldRoad
+	tag: p-118
 	tag: Race
 page:2008-05-20
+	desc: Aiden: Something's wrong... But what
 	tag: Aiden
 	tag: Ash
-	tag: p-117
 	tag: ch-08
 	tag: Emily
+	tag: Monster
+	tag: N240Z		
+	tag: Nissan240SX
 	tag: OldRoad
+	tag: p-117
 	tag: Spirit
 page:2008-05-19
 	desc: Missi: Do you see something? Who's winning?
@@ -13663,6 +13895,8 @@ page:2008-05-16
 	desc: Emily: Wow. I've never heard you sound so... knowledgeable 
 	tag: ch-08
 	tag: Emily
+	tag: Monster
+	tag: N240Z		
 	tag: OldRoad
 	tag: p-115
 	tag: Race
@@ -13672,6 +13906,7 @@ page:2008-05-15
 	tag: Bronwyn
 	tag: ch-08
 	tag: Emily
+	tag: Nissan240SX
 	tag: OldRoad
 	tag: p-114
 	tag: Rumisiel
@@ -13680,66 +13915,82 @@ page:2008-05-14
 	tag: Ash
 	tag: Bronwyn
 	tag: ch-08
+	tag: Monster
+	tag: N240Z		
+	tag: Nissan240SX
 	tag: OldRoad
 	tag: p-113
 	tag: Race
 	tag: WallaceSign
 page:2008-05-13
+	desc: Ash: He's... Closing on me in the corners. That's MY game. I'm not used to this.
 	tag: Aiden
 	tag: Ash
-	tag: p-112
 	tag: ch-08
+	tag: Monster
+	tag: N240Z	
 	tag: OldRoad
+	tag: p-112
 	tag: Race
 page:2008-05-12
-	tag: p-111
+	desc: Missi: Sweet! Ash takes the lead!
 	tag: ch-08
 	tag: Kate
 	tag: Missi
+	tag: Monster
+	tag: N240Z	
 	tag: OldRoad
+	tag: p-111
 	tag: Race
 page:2008-05-09
 	desc: Aiden: Time's up.
 	tag: Aiden
 	tag: Ash
-	tag: p-110
 	tag: ch-08
 	tag: Missi
+	tag: Monster
+	tag: N240Z
 	tag: OldRoad
+	tag: p-110
 	tag: Race
 page:2008-05-08
+	desc: Rumisiel: I'm a frikkin' angel babe, and I got nothin' to lose. Now GET IN THE CAR!
 	tag: Angel
 	tag: Bronwyn
 	tag: BronwynHome
-	tag: p-109
 	tag: ch-08
 	tag: Emily
+	tag: p-109
 	tag: Rumisiel
 page:2008-05-07
+	desc: Bronwyn: Shut up! Just SHUT UP! You don't know anything! You don't know the spirits! You don't know about the greater universe!
 	tag: Bronwyn
 	tag: BronwynHome
-	tag: p-108
 	tag: ch-08
+	tag: p-108
 	tag: Rumisiel
 	tag: Tears
 page:2008-05-06
+	desc: Emily: What do you mean you don't care?
 	tag: Bronwyn
 	tag: BronwynHome
-	tag: p-107
 	tag: ch-08
 	tag: Emily
+	tag: p-107
 	tag: Rumisiel
 page:2008-05-05
+	desc: Bronwyn: Oh, it's you. What do you want and who is this guy with you?
 	tag: Bronwyn
 	tag: BronwynHome
-	tag: p-106
 	tag: ch-08
 	tag: Emily
+	tag: p-106
 	tag: Rumisiel
 	tag: Spirit
 page:2008-05-02
 	desc: Missi: That's not a stock transmission
 	tag: ch-08
+	tag: JaguarXKR
 	tag: Kate
 	tag: Missi
 	tag: OldRoad
@@ -13749,36 +14000,45 @@ page:2008-05-01
 	tag: BronwynHome
 	tag: ch-08
 	tag: Emily
+	tag: Nissan240SX
 	tag: OldRoad
 	tag: p-104
 	tag: Rumisiel
 	tag: Teleport
 page:2008-04-30
-	tag: p-103
 	desc: Emily: Getting to Bronwyn's house is going to take a lot more than the five minutes we got
 	tag: ch-08
 	tag: Emily
+	tag: Nissan240SX
 	tag: OldRoad
+	tag: p-103
 	tag: Rumisiel
 	tag: Spirit
 page:2008-04-29
 	desc: Emily: FEMININE PROBLEMS?! That's all you could come up with?!
-	tag: p-102
 	tag: ch-08
 	tag: Emily
 	tag: Hit
+	tag: Nissan240SX
 	tag: OldRoad
+	tag: p-102
 	tag: Rumisiel
 page:2008-04-28
+	desc: Rumisiel: No! Emily... Has... Uh... Feminine problems!
 	tag: Aiden
 	tag: Ash
-	tag: p-101
 	tag: ch-08
 	tag: Emily
+	tag: Monster
+	tag: N240Z
 	tag: OldRoad
+	tag: p-101
 	tag: Rumisiel
 page:2008-04-25
+	desc: Rumisiel: Emily and I have to go down first
 	tag: Aiden
+	tag: Monster
+	tag: N240Z
 	tag: Ash
 	tag: p-100
 	tag: ch-08
@@ -13786,6 +14046,7 @@ page:2008-04-25
 	tag: OldRoad
 	tag: Rumisiel
 page:2008-04-24
+	desc: Rumisiel: I tried. I even brought Kate here to see if they were the same. I see a great darkness threatening Aiden, but it is not connected to him directly
 	tag: Aiden
 	tag: ch-08
 	tag: Emily
@@ -13795,126 +14056,154 @@ page:2008-04-24
 	tag: Rumisiel
 	tag: Spirit
 page:2008-04-23
+	desc: Aiden: Sorry... I guess it's time to do this then
 	tag: Aiden
-	tag: p-098
 	tag: ch-08
 	tag: Emily
 	tag: OldRoad
+	tag: N240Z
+	tag: p-098
 	tag: Rumisiel
 	tag: Spirit
 page:2008-04-22
+	desc: Rumisiel: No good. I can't find any connection. They're totally different beasts...
 	tag: Aiden
 	tag: Ash
-	tag: p-097
 	tag: ch-08
+	tag: Monster
 	tag: OldRoad
+	tag: p-097
 	tag: Rumisiel
 page:2008-04-21
+	desc: Aiden: Why you...
 	tag: Aiden
 	tag: Ash
-	tag: p-096
 	tag: ch-08
 	tag: Kate
 	tag: OldRoad
+	tag: p-096
 	tag: Rumisiel
 page:2008-04-18
+	desc: Aiden: Quite a crowd. I didn't expect that. I... Why is SHE here?
 	tag: Aiden
 	tag: Ash
-	tag: p-095
 	tag: ch-08
 	tag: Emily
 	tag: Kate
 	tag: Missi
 	tag: OldRoad
+	tag: p-095
 	tag: Rumisiel
 page:2008-04-17
+	desc: Ash: Who is it this time? The Pope? The Queen of France? The entire cast of Star Wars perhaps?
 	tag: Aiden
 	tag: Ash
-	tag: p-094
 	tag: ch-08
+	tag: N240Z
 	tag: OldRoad
+	tag: p-094
 	tag: Rumisiel
 page:2008-04-16
+	desc: Kate: When this is all over I have a little request I need to make of you.
 	tag: Ash
+	tag: ch-08
+	tag: Kate
+	tag: Missi
+	tag: OldRoad
 	tag: p-093
-	tag: ch-08
-	tag: Kate
-	tag: Missi
-	tag: OldRoad
 page:2008-04-15
+	desc: Missi: TELL THEM!
 	tag: Ash
-	tag: p-092
 	tag: ch-08
 	tag: Kate
 	tag: Missi
 	tag: OldRoad
+	tag: p-092
 page:2008-04-14
+	desc: Ash: What is she doing here?
 	tag: Ash
-	tag: p-091
 	tag: ch-08
+	tag: JaguarXKR
 	tag: Kate
 	tag: OldRoad
+	tag: p-091
 	tag: Rumisiel
 page:2008-04-11
+	desc: Ash: Hold on. I hear another car
 	tag: Ash
-	tag: p-090
 	tag: ch-08
 	tag: Emily
+	tag: JaguarXKR
 	tag: Kate
 	tag: Missi
 	tag: OldRoad
+	tag: p-090
 	tag: Rumisiel
 page:2008-04-10
+	desc: Missi: Maybe a Civic, or better yet a car like my brother's
+	tag: Acura
 	tag: Ash
+	tag: ch-08
+	tag: Emily
+	tag: HondaCivic
+	tag: Missi
+	tag: OldRoad
 	tag: p-089
-	tag: ch-08
-	tag: Emily
-	tag: Missi
-	tag: OldRoad
 page:2008-04-09
+	desc: Emily: So, you like my car?
+	tag: ch-08
+	tag: Emily
+	tag: Missi
+	tag: Nissan240SX
+	tag: OldRoad
 	tag: p-088
-	tag: ch-08
-	tag: Emily
-	tag: Missi
-	tag: OldRoad
 page:2008-04-08
+	desc: Emily: Why is she here?
 	tag: Ash
-	tag: p-087
 	tag: ch-08
 	tag: Emily
 	tag: Missi
 	tag: OldRoad
+	tag: p-087
 	tag: Rumisiel
 page:2008-04-07
+	desc: Emily: Surprised? I picked it up this morning
+	tag: ch-08
+	tag: Emily
+	tag: Nissan240SX
+	tag: OldRoad
 	tag: p-086
-	tag: ch-08
-	tag: Emily
-	tag: OldRoad
 page:2008-04-04
+	desc: Ash: That sound. Turbo. No doubt. That must be Aiden
 	tag: Ash
-	tag: p-085
 	tag: ch-08
 	tag: Emily
+	tag: Nissan240SX
 	tag: OldRoad
+	tag: p-085
 page:2008-04-03
+	desc: Perfect night for a race
 	tag: Ash
-	tag: p-084
 	tag: ch-08
 	tag: Missi
+	tag: Monster
 	tag: OldRoad
+	tag: p-084
 page:2008-04-02
+	desc: Ash: If this is about that damn Aiden thing 
 	tag: Ash
-	tag: p-083
 	tag: ch-08
+	tag: Monster
+	tag: p-083
 	tag: Rumisiel
 	tag: UptonHouse
 page:2008-04-01
 	desc: Ash: What do you want... And why are you up before noon on a weekend?
-	note: <span class="dt">Saturday 10:13am</span> Ash vs Aiden race date set [2008-01-28](#p2008-01-28)
+	note: <span class="dt">Saturday 10:13am</span> (Ash vs Aiden race date set [2008-01-28](#p2008-01-28))
 	tag: Ash
-	tag: p-082
 	tag: ch-08
 	tag: Dates
+	tag: p-082
 	tag: Rumisiel
 	tag: UptonHouse
 page:2008-03-31
@@ -14036,7 +14325,7 @@ page:2008-03-12
 	tag: Kate
 	tag: Rumisiel
 page:2008-03-11
-	desc: Rumiaiel: She... Actually doesn't know I'm here.
+	desc: Rumisiel: She... Actually doesn't know I'm here.
 	tag: Aries
 	tag: p-067
 	tag: ch-08
@@ -14359,7 +14648,7 @@ page:2008-01-16
 	tag: ch-08
 	tag: Emily
 page:2008-01-15
-	desc: I was asking the car
+	desc: Aiden: I was asking the car
 	tag: Aiden
 	tag: AidenHome
 	tag: Ash
@@ -14367,7 +14656,7 @@ page:2008-01-15
 	tag: ch-08
 	tag: Monster
 page:2008-01-14
-	desc: I didn't really expect this many people
+	desc: Aiden: I didn't really expect this many people
 	tag: Aiden
 	tag: AidenHome
 	tag: Ash
@@ -14377,7 +14666,7 @@ page:2008-01-14
 	tag: Missi
 	tag: Rumisiel
 page:2008-01-11
-	desc: Hey, Missi? Want to take a ride?
+	desc: Ash: Hey, Missi? Want to take a ride?
 	tag: Ash
 	tag: p-026
 	tag: ch-08
@@ -14385,18 +14674,18 @@ page:2008-01-11
 	tag: Rumisiel
 	tag: UptonHouse
 page:2008-01-10
-	desc: Missi? Does she... Have to come?
+	desc: Emily: Missi? Does she... Have to come?
 	tag: Ash
-	tag: p-025
 	tag: ch-08
 	tag: Emily
+	tag: p-025
 	tag: UptonHouse
 page:2008-01-09
-	desc: He wants to look under the hood of your car
+	desc: Emily: He wants to look under the hood of your car
 	tag: Ash
-	tag: p-024
 	tag: ch-08
 	tag: Emily
+	tag: p-024
 	tag: UptonHouse
 page:2008-01-08
 	desc: Look, I've gotten a kind of weird proposition, but the decision isn't really mine to make...
@@ -15183,12 +15472,13 @@ page:2007-08-24
 	tag: Shopping
 	desc: Turning on the "whore" factor is my only real option
 page:2007-08-23
-	tag: p-057
+	desc: Molly: I've been getting this serious dyke vibe from her this year
 	tag: ch-07
 	tag: Emily
+	tag: Lesbian
 	tag: Molly
+	tag: p-057
 	tag: Shopping
-	desc: I've been getting this serious dyke vibe from her this year
 page:2007-08-22
 	tag: p-056
 	tag: ch-07
@@ -18922,6 +19212,7 @@ page:2005-12-26
 	tag: Cassi
 	tag: Cassiel
 	tag: ch-03
+	tag: Lesbian
 	tag: p-105
 	tag: Rumisiel
 	tag: UptonHouse	
@@ -21245,7 +21536,7 @@ page:2004-09-08
 	tag: p-095
 	tag: Rumisiel
 page:2004-09-06
-	desc: Snap! Crash!
+	desc: FX: Snap! Crash!
 	tag: ch-01
 	tag: Emily
 	tag: Molly
@@ -21254,7 +21545,7 @@ page:2004-09-06
 	tag: SchoolRoad
 	tag: VW
 page:2004-09-03
-	desc: What, are you her lesbian girlfriend now?
+	desc: Molly: What, are you her lesbian girlfriend now?
 	tag: Ash
 	tag: ch-01
 	tag: Emily

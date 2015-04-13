@@ -22,13 +22,13 @@ AngelGirl	another [CFS](#cfs) minion
 AngelGirl2	yet another [CFS](#cfs) minion
 Angelica	[Kate](#kate)’s sister
 Anna	school kid
-Annie	mouthy schoolkid
+Annie	mouthy dyke-spotter school student
 Archon	class of boss angel & an endangered species
 ArchonKiller	a mystery
 Aries	[’Arry's](#harry) auto workshop
 Arthur	racer boy
-Ash	Ash Upton "King of the Mountain"; our protagonist; drives a Merkur XR4Ti & "The Monster" XR4Ti / Sierra Cosworth hybrid
-Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. never existed -- WoG)
+Ash	Ash Upton "King of the Mountain"; our protagonist; drives a Merkur XR4Ti & "The Monster" an XR4Ti / Sierra Cosworth hybrid
+Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. never existed -- [WoG](#wog))
 AshMale	representation of Ash as male
 Audi	[Edward Upton](#edward)'s car, licence plate DR-U
 AudiS4	Sheldon’s ride
@@ -142,9 +142,10 @@ Kevin	reconnaissance [Sheldonista](#sheldonista)
 KidB	some boy at school
 KidConvertable	tried to pick up Ash at [The Ale House](#alehouse)
 Kiss	... is just a kiss, a sigh is just ...
+LaFondue	a French restaurant specialising in--- fondue!
 LeicesterPark	outdoor wedding venue
 Lisa	waitperson
-LocationTBA	unclear whether Kate's family's or Kate & Harry's place
+BabyShower	venue -- unclear whether Kate's family's or Kate & Harry's place
 Logan	racer, homeschooled, sees angels, drives an RX-7 with a Pinapple engine
 LoganHome	house number: 402
 M3	Brent's car
@@ -166,12 +167,13 @@ MMO	Massive Multiplayer Online game
 ModelGirl	victim of [Cassiel](#cassiel)
 ModelGirl2	fleeing [Cassiel](#cassiel)
 Molly	Molly Taber, bitch/tart (with a heart), drives a [Volkswagen](#vw)
-Monster	The Monster XR: Ash's frankencar, 4 wheel drive racer, built from various Cosworth models: higher spoiler with centre pillar; single right side hood intake. 
+Monster	The Monster XR: Ash's frankencar, 4 wheel drive racer, built from various Cosworth models: higher spoiler with centre pillar; single right side hood intake.
 Morgan	bit of a slapper
 MR2	[Casper's](#casper) car
 MrCuddles	[Missi's](#missi) confidant & comforter
 MrMacMannus	teacher of 19th century literature
 MrMuffy	[Walsh-clan](#dogwalsh) dog with an inquisitive nose
+MrRenault	history teacher 
 MrWalker	auto class teacher
 MsFlanery	teacher
 MsMcArthur	[Emily's](#emily) Mom
@@ -261,7 +263,8 @@ XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI. Twin sy
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
 ; --- Chapters / Books ---
-ch-22	Book 22: March ’05 -
+ch-23	Book 22: April ’05
+ch-22	Book 22: March - April ’05
 ch-21	Book 21: February - March ’05
 ch-20	Book 20: February ’05
 ch-19	Book 19: January ’05
