@@ -50,9 +50,178 @@ baseurl: http://www.misfile.com/?date={0}
 ;
 ; add:-
 ; 	carpark/racetrack on the Cape
-; 
-; 	Race
+; 	
 ;
+page:2015-05-05
+	desc: Ash: You know... You look really good in that. I meant to say. I mean, if your mom wasn't in the next room...
+	tag: Ash
+	tag: ch-23
+	tag: Bubbles
+	tag: Emily
+	tag: McArthurRes
+	tag: p-019
+page:2015-05-04
+	desc: Ash: WOW it feels good to be back in my regular human clothes!
+	tag: Ash
+	tag: ch-23
+	tag: Dress
+	tag: Emily
+	tag: McArthurRes
+	tag: p-018
+page:2015-05-01
+	desc: Lucy: Don't talk like that! Nothing is over yet
+	tag: Ash
+	tag: Baxter
+	tag: ch-23
+	tag: Dress
+	tag: Lucy
+	tag: p-017
+	tag: XR4Ti
+page:2015-04-30
+	desc: Baxter: Good race, by the way. I didn't really get the chance to say anything...
+	tag: Ash
+	tag: Baxter
+	tag: ch-23
+	tag: Dress
+	tag: Emily
+	tag: Lucy
+	tag: p-016
+	tag: XR4Ti
+page:2015-04-29
+	desc: Lucy: You can't just check out. Aren't you at least going to wait for your parents?
+	tag: Ash
+	tag: Baxter
+	tag: ch-23
+	tag: Dress
+	tag: Hospital
+	tag: Lucy
+	tag: p-015
+page:2015-04-28
+	desc: Ash: Actually I... I kind of get where he's coming from
+	tag: Ash
+	tag: Baxter
+	tag: ch-23
+	tag: Dress
+	tag: Hospital
+	tag: Lucy
+	tag: p-014
+page:2015-04-27
+	desc: Ash: Hyper what?
+	tag: Ash
+	tag: ch-23
+	tag: Dress
+	tag: Emily
+	tag: Hospital
+	tag: Lucy
+	tag: p-013
+page:2015-04-25
+	desc: Misfile Movie Kickstarter Ad
+	tag: Ash
+	tag: Filler
+page:2015-04-24
+	desc: Baxter: I think...
+	tag: Ash
+	tag: Baxter
+	tag: ch-23
+	tag: Dress
+	tag: Lucy
+	tag: OldRoad
+	tag: p-012
+	tag: Racers
+	tag: Supra
+page:2015-04-23
+	desc: Baxter: Well... Shit. I thought I had that
+	tag: Ash
+	tag: Baxter
+	tag: ch-23
+	tag: Dress
+	tag: OldRoad
+	tag: p-011
+	tag: Racers
+	tag: Supra
+	tag: XR4Ti
+page:2015-04-22
+	desc: Baxter: Just a few more feet...
+	tag: Ash
+	tag: Dress
+	tag: Baxter
+	tag: ch-23
+	tag: Emily
+	tag: OldRoad
+	tag: p-010
+	tag: Lucy
+	tag: Race
+	tag: Supra
+	tag: XR4Ti
+page:2015-04-21
+	desc: Emily: I'm sure Ash was more interested in...  The car
+	tag: ch-23
+	tag: Emily
+	tag: OldRoad
+	tag: p-009
+	tag: Lucy
+	tag: Race
+	tag: RacerRCapDude
+	tag: RacerWhoDude
+	tag: Supra
+	tag: XR4Ti
+page:2015-04-20
+	desc: Pince-Nez: Plus she spent more time looking at me than Baxter... And not in a "she's competition" kind of way
+	tag: ch-23
+	tag: Emily
+	tag: OldRoad
+	tag: p-008
+	tag: Lucy
+page:2015-04-18
+	desc: Emily: Hey, Ash, you're kind of lucky about when this misfile happened you know?
+	note: Patreon Bonus page
+	tag: Ash
+	tag: AshKids
+	tag: Colour
+	tag: Emily
+	tag: Fire
+	tag: Pregnant
+	tag: Stake
+page:2015-04-17
+	desc: Pince-Nez: You hear something, princess?
+	note: Baxter named
+	tag: ch-23
+	tag: Emily
+	tag: OldRoad
+	tag: p-007
+	tag: Lucy
+page:2015-04-16
+	desc: Ash: Grip! Just PLEASE hold, dammit!
+	tag: Ash
+	tag: ch-23
+	tag: Dress
+	tag: OldRoad
+	tag: p-006
+	tag: Race
+	tag: Supra
+	tag: XR4Ti
+page:2015-04-15
+	desc: Ash: He's heavier than me. I should stop faster! How did I screw that up?!
+	tag: Ash
+	tag: ch-23
+	tag: Dress
+	tag: OldRoad
+	tag: p-005
+	tag: Race
+	tag: Supra
+	tag: XR4Ti
+page:2015-04-14
+	desc: Ash: The Shed!
+	tag: Ash
+	tag: ch-23
+	tag: Corner22
+	tag: Dress
+	tag: OldRoad
+	tag: OldShed
+	tag: p-004
+	tag: Race
+	tag: Supra
+	tag: XR4Ti
 page:2015-04-13
 	desc: Ash: Wait... How is he suddenly driving better. 
 	tag: Ash
@@ -63,18 +232,14 @@ page:2015-04-13
 	tag: Race
 	tag: Supra
 	tag: XR4Ti
-page:2015-04-10
-	desc: Misfile Movie Kickstarter Ad
-	tag: Ash
-	tag: Filler
 page:2015-04-09
-	desc: Supra Driver: Tunes. SO much better
+	desc: Baxter: Tunes. SO much better
+	tag: Baxter
 	tag: ch-23
 	tag: OldRoad
 	tag: p-002
 	tag: Race
 	tag: Supra
-	tag: SupraDriver
 	tag: XR4Ti
 page:2015-04-08
 	desc: Ash: This is so much slower up hill. The lines are different... I should have practiced more
@@ -94,12 +259,12 @@ page:2015-04-07
 	tag: Cover
 	tag: p-000
 page:2015-04-06
-	desc: PinceNez: So what's YOUR excuse for the fancy get up? Are you the Mountain Princess or some shit?
+	desc: Lucy: So what's YOUR excuse for the fancy get up? Are you the Mountain Princess or some shit?
 	tag: ch-22
 	tag: Emily
 	tag: OldRoad
 	tag: p-119
-	tag: PinceNez
+	tag: Lucy
 	tag: Race
 	tag: Starter
 	tag: Supra
@@ -116,42 +281,41 @@ page:2015-04-02
 	desc: Emily: What was that? It was like you were suddenly a different person
 	tag: Ash
 	tag: ch-22
-	tag: Corner22
 	tag: Dress
+	tag: Emily
 	tag: OldRoad
 	tag: p-117
-	tag: PinceNez
-	tag: SupraDriver
 page:2015-04-01
 	desc: Ash: You ever drive in a dress? I'm guessing no.
 	tag: Ash
+	tag: Baxter
 	tag: ch-22
 	tag: Corner22
 	tag: Dress
 	tag: OldRoad
+	tag: OldShed
 	tag: p-116
-	tag: PinceNez
-	tag: SupraDriver
+	tag: Lucy
 page:2015-03-31
 	desc: Ash: This feels so weird...
 	tag: Ash
+	tag: Baxter
 	tag: ch-22
 	tag: Dress
 	tag: Emily
 	tag: OldRoad
 	tag: p-115
-	tag: PinceNez
-	tag: SupraDriver
+	tag: Lucy
 	tag: XR4Ti
 page:2015-03-30
 	desc: Pat: Where IS she? I got this whole road cleared. She said she'd BE here.
+	tag: Baxter
 	tag: ch-22
 	tag: OldRoad
 	tag: p-114
-	tag: PinceNez
+	tag: Lucy
 	tag: RacerB
 	tag: RacerPat
-	tag: SupraDriver
 page:2015-03-27
 	desc: Ash: I do want to win. I REALLY want to win.
 	tag: Ash
@@ -335,7 +499,7 @@ page:2015-02-27
 	tag: School
 page:2015-02-26
 	desc: Pat: What do you mean we can't race on Friday?
-	note: arranging the race vs N
+	note: arranging the race vs Baxter
 	tag: Ash
 	tag: ch-22
 	tag: p-094
@@ -365,30 +529,28 @@ page:2015-02-23
 	tag: Emily
 	tag: p-091
 	tag: XR4Ti
-;page:2015-02-22
-;page:2015-02-21
 page:2015-02-20
 	desc: Emily: Is there, like, a testosterone drip in this aisle?
 	tag: Ash
 	tag: AutoModerZ
+	tag: Baxter
 	tag: ch-22
 	tag: Emily
 	tag: p-090
-	tag: SupraDriver
 page:2015-02-19
 	desc: Ash: Like pulling up next to a random person and trying to make them drag race?
 	tag: Ash
 	tag: AutoModerZ
+	tag: Baxter
 	tag: ch-22
 	tag: p-089
-	tag: SupraDriver
 page:2015-02-18
 	desc: Ash: Sorry I... YOU!
 	tag: Ash
 	tag: AutoModerZ
+	tag: Baxter
 	tag: ch-22
 	tag: p-088
-	tag: SupraDriver
 page:2015-02-17
 	desc: Ash: Pick a place
 	tag: Ash
@@ -404,8 +566,6 @@ page:2015-02-16
 	tag: FullerHome
 	tag: Missi
 	tag: p-086
-;page:2015-02-15
-;page:2015-02-14
 page:2015-02-13
 	desc: Katsucon
 	tag: Filler
@@ -440,19 +600,18 @@ page:2015-02-09
 	tag: OldRoad
 	tag: p-082
 	tag: XR4Ti
-;page:2015-02-08
 page:2015-02-07
 	desc: Donation pin advert
 	tag: Emily
 	tag: Filler
 page:2015-02-06
-	desc: SupraDriver: Holy... She's fast
+	desc: Baxter: Holy... She's fast
 	tag: Ash
+	tag: Baxter
 	tag: ch-22
 	tag: OldRoad
 	tag: p-081
 	tag: Supra
-	tag: SupraDriver
 	tag: WallaceSign
 	tag: XR4Ti
 page:2015-02-05
@@ -464,12 +623,12 @@ page:2015-02-05
 	tag: Uniform
 	tag: XR4Ti
 page:2015-02-04
-	desc: SupraDriver: What gives? You car is clearly set up for racing
+	desc: Baxter: What gives? You car is clearly set up for racing
 	tag: Ash
+	tag: Baxter
 	tag: ch-22
 	tag: p-079
 	tag: Supra
-	tag: SupraDriver
 	tag: Tempest
 	tag: XR4Ti
 page:2015-02-03
@@ -493,8 +652,6 @@ page:2015-02-02
 	tag: TrafficLight
 	tag: Uniform
 	tag: XR4Ti
-;page:2015-02-01
-;page:2015-01-31
 page:2015-01-30
 	desc: Ash: When this place clears out I'll give you the ride of your life
 	tag: Ash
@@ -848,11 +1005,11 @@ page:2014-12-08
 	tag: McArthurRes
 	tag: MsMcArthur
 	tag: p-038
-;page:2014-12-07
 page:2014-12-06
 	desc: Auction: hand colored pin art (swimsuits)
 	tag: Ash
 	tag: Emily
+	tag: Swim
 page:2014-12-05
 	desc: Rumisiel: Gyaaa! Why did I even ask him that stupid question?!
 	tag: Ash
@@ -13101,9 +13258,9 @@ page:2008-09-25
 	tag: TempestHealth
 	tag: Vashiel
 page:2008-09-24
-	tag: p-061
 	tag: ch-09
 	tag: Edward
+	tag: p-061
 	tag: Patient
 	tag: TempestHealth
 	tag: Vashiel
@@ -13142,8 +13299,8 @@ page:2008-09-18
 	tag: p-057
 page:2008-09-17
 	desc: Mom McArthur: Who on earth are you talking to?
-	tag: ch-09
 	tag: Blush
+	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
 	tag: MsMcArthur
@@ -13164,18 +13321,18 @@ page:2008-09-15
 	tag: McArthurRes
 	tag: p-054
 page:2008-09-12
-	tag: Ash
 	desc: Emily: Good call. Let's get that horrid looking thing off you
-	tag: p-053
+	tag: Ash
 	tag: ch-09
-	tag: OhMyDressShop
 	tag: Dress
 	tag: Emily
 	tag: Missi
+	tag: OhMyDressShop
+	tag: p-053
 	tag: Shopping
 page:2008-09-11
-	tag: Ash
 	desc: Ash: What?! You mean I have to pay to look like this?!
+	tag: Ash
 	tag: ch-09
 	tag: Dress
 	tag: Emily
@@ -13184,8 +13341,8 @@ page:2008-09-11
 	tag: p-052
 	tag: Shopping
 page:2008-09-10
-	tag: Ash
 	desc: Emily: So long as you're aware you are going to look like a flowery tart at Kate's wedding
+	tag: Ash
 	tag: ch-09
 	tag: Dress
 	tag: Emily
@@ -13216,149 +13373,158 @@ page:2008-09-08
 	tag: p-049
 	tag: Shopping
 page:2008-09-05
-	tag: Ash
 	desc: Missi: Urg! You're so mean! I liked that one too, and now you've ruined it!
-	tag: p-048
+	tag: Ash
 	tag: ch-09
-	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
+	tag: OhMyDressShop
+	tag: p-048
 	tag: Shopping
 page:2008-09-04
 	desc: Missi: That's not true! They're supposed to make your bust look bigger
 	tag: Ash
-	tag: p-047
 	tag: ch-09
-	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
+	tag: OhMyDressShop
+	tag: p-047
 	tag: Shopping
 page:2008-09-03
 	Desc: Missi: Cool! It's got an empire waistline.
 	tag: Ash
-	tag: p-046
 	tag: ch-09
-	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
+	tag: OhMyDressShop
+	tag: p-046
 	tag: Shopping
 page:2008-09-02
 	desc: Missi: Well I guess I don't need this then...
 	tag: Ash
-	tag: p-045
 	tag: ch-09
-	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
+	tag: OhMyDressShop
+	tag: p-045
 	tag: Shopping
 page:2008-09-01
-	tag: Ash
 	desc: Ash: Can I be honest with you for a second?
-	tag: p-044
+	tag: Ash
 	tag: ch-09
-	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
+	tag: OhMyDressShop
+	tag: p-044
 	tag: Shopping
 page:2008-08-29
-	tag: Ash
 	desc: Missi: Ah crap. All the dresses I like are starpless!
-	tag: p-043
+	tag: Ash
 	tag: ch-09
-	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
+	tag: OhMyDressShop
+	tag: p-043
 	tag: Shopping
 page:2008-08-28
 	desc: Ash: This is a disaster
 	tag: Ash
-	tag: p-042
 	tag: ch-09
-	tag: OhMyDressShop
 	tag: Emily
 	tag: Missi
+	tag: OhMyDressShop
+	tag: p-042
 	tag: Shopping
 page:2008-08-27
-	desc: The Archon of Third Branch has gone missing
+	desc: Xaphrael: The Archon of Third Branch has gone missing
 	tag: Archon
 	tag: Cassiel
 	tag: CFS3
-	tag: p-041
 	tag: ch-09
 	tag: Myrael
+	tag: p-041
 	tag: RailRoad
 	tag: Xaphrael
 page:2008-08-26
+	desc: Xaphrael: Listen very carefully and mark each word, because I'm only going to tell you this once
 	tag: Cassiel
-	tag: p-040
 	tag: ch-09
+	tag: p-040
 	tag: RailRoad
 	tag: Xaphrael
 page:2008-08-25
 	desc: guest cartoon by ??
 	tag: Filler
 page:2008-08-22
+	desc: Xaphrael: You've been spying on Vashiel's brother. I intercepted your report about what he did in that alley
 	tag: Cassiel
-	tag: p-039
 	tag: ch-09
+	tag: Hit
+	tag: p-039
 	tag: RailRoad
 	tag: Xaphrael
 page:2008-08-21
+	desc: Xaphrael: it is no use hiding from me, Cassiel
 	tag: Cassiel
-	tag: p-038
 	tag: ch-09
+	tag: p-038
 	tag: RailRoad
 	tag: Xaphrael
 page:2008-08-20
-	tag: p-037
+	desc: Xaphrael: My sources are my own. Just know that I have eyes everywhere
 	tag: ch-09
+	tag: p-037
 	tag: RailRoad
 	tag: Rumisiel
 	tag: Vashiel
 	tag: Xaphrael
 page:2008-08-19
+	desc: Xaphrael: I can practically see the chain in your mind. Your truth bond is still active.
 	tag: Archon
-	tag: p-036
 	tag: ch-09
 	tag: Chains
+	tag: p-036
 	tag: Raechiel
 	tag: RailRoad
 	tag: Rumisiel
 	tag: Vashiel
 	tag: Xaphrael
 page:2008-08-18
-	tag: Filler
+	desc: Avery Hazelton birth
 	tag: Ash
+	tag: Filler
 	tag: Rumisiel
-	desc: birth
 page:2008-08-15
+	desc: Xaphrael: If you weren't Vashiel's brother, I'd be here with chains
 	tag: Archon
-	tag: p-035
 	tag: ch-09
+	tag: p-035
 	tag: Raechiel
 	tag: RailRoad
 	tag: Rumisiel
 	tag: Vashiel
 	tag: Xaphrael
 page:2008-08-14
-	tag: p-034
+	desc: Xaphrael: It's been a while, my captain
 	tag: ch-09
+	tag: p-034
 	tag: RailRoad
 	tag: Rumisiel
 	tag: Vashiel
 	tag: Xaphrael
 page:2008-08-13
-	tag: p-033
+	desc: Vashiel: Now I'm more confused. Do you WANT me to have killed him?
 	tag: ch-09
+	tag: p-033
 	tag: RailRoad
 	tag: Rumisiel
 	tag: Vashiel
 	tag: Xaphrael
 page:2008-08-12
-	desc: Raechiel mentioned
+	desc: Vashiel: ... What?
 	tag: Archon
-	tag: p-032
 	tag: ch-09
+	tag: p-032
 	tag: Raechiel
 	tag: RailRoad
 	tag: Rumisiel
@@ -13366,50 +13532,58 @@ page:2008-08-12
 page:2008-08-11
 	desc: Rumisiel: Did you kill Raechiel?
 	tag: Archon
-	tag: p-031
 	tag: ch-09
+	tag: p-031
 	tag: Raechiel
 	tag: RailRoad
 	tag: Rumisiel
 	tag: Vashiel
 page:2008-08-08
+	desc: Emily: Anyway we can't go. I'm sure Kate has styles and colors in mind ans we can't do anything until we know what those are
 	tag: Ash
-	tag: p-030
 	tag: ch-09
 	tag: Emily
 	tag: Missi
+	tag: p-030
 	tag: School
 page:2008-08-07
+	desc: Missi: are you busy after school?
 	tag: Ash
-	tag: p-029
 	tag: ch-09
 	tag: Emily
 	tag: Missi
+	tag: p-029
 	tag: School
 page:2008-08-06
+	desc: Emily: Apparently, it's "dress like a whore" day and no one told me
 	tag: Ash
-	tag: p-028
 	tag: ch-09
 	tag: Emily
 	tag: Missi
+	tag: p-028
 	tag: School
 page:2008-08-05
+	desc: Ash: I keep trying to tell myself I shouldn't care
 	tag: Ash
-	tag: p-027
 	tag: ch-09
 	tag: Emily
+	tag: p-027
 	tag: School
 page:2008-08-04
+	desc: Emily: No I hadn't heard about it either. That's creepy
 	tag: Ash
-	tag: p-026
 	tag: ch-09
 	tag: Emily
+	tag: GirlsLocker
+	tag: p-026
 	tag: School
 page:2008-08-01
+	desc: Eponine: I can't believe you are still changing over there. You've got guts, Ash.
 	tag: Ash
-	tag: p-025
 	tag: ch-09
 	tag: Eponine
+	tag: GirlsLocker
+	tag: p-025
 	tag: School
 page:2008-07-31
 	desc: Ash: You'd just better hope he is better at filing than his brother

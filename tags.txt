@@ -35,7 +35,9 @@ AudiS4	Sheldon’s ride
 AuntNatalie	[Emily's](#emily) [mother's](#msmcarthur) sister
 AutoModerZ	automobile supplies emporium
 Bacon	traditional breakfast food
-BaldingDude	party-goer
+BaldingDude	Christmas party-goer
+Bat	"Twinkle, twinkle, little bat/How I wonder what you're at". Found in [graveyards](#graveyard).
+Baxter	racer, drives a Supra, has the effrontery to come from New York (and wear his cap backwards). Companion is [Lucy](#lucy). Suffers from hypertrophic cardiomyopathy
 Beach	"too much sand in my shoes, and the seaweed and salt water ... grossed me out"
 BerkshireCollege	Community College in Pittsfield, MA
 Blobs	floating background -- opaque [Bubbles](#bubbles)?
@@ -74,7 +76,7 @@ CFS3	Third Branch:  (also?) maintaining the physical laws of the Creation
 CFS4	Fourth Branch: takes measurements on Earth and compares them to extrapolations from the filing system
 CFS5	deals with fairly mundane aspects of life on earth. Unimportant, no [Archon](#archon) [[ref](http://www.misfile.com/?date=2007-09-13)]. [Rumisiel](#rumisiel) worked here.
 Chains	unhappy bind-y background
-ChainSaw	for cutting trees or zombies
+ChainSaw	for cutting trees, or zombies
 Chocolate	mmmm!
 Cinema	generic: popcorn sales outlets
 ClockTower	highest central point in [Tempest](#tempest)
@@ -94,7 +96,7 @@ Doris	caterer _extrordinaire!_
 Dream	_"fancyes, dreams and spirits"_
 Dress	Ash in a ...
 Dweeb	Robin to [Colin](#colin)’s Batman
-Edward	Dr Edward Upton, [Ash](#ash)’s father; drives an [Audi](#audi)
+Edward	Dr Edward Upton, [Ash](#ash)’s father; gynaecologist; drives an [Audi](#audi)
 Emily	Emily McArthur, "Blues"; our other protagonist; drives a [Nissan 240SX](#nissan240sx) and a classic [Mustang](#mustang)
 EnriqueSwan	fashion clothes designer
 Eponine	friend of [Ash](#ash) the girl
@@ -111,7 +113,8 @@ Gabriel	archangel, 'father' to [Rumisiel](#rumisiel), [Vashiel](#vashiel)
 GirlA	romantic schoolgirl
 GirlB	romance-questioning schoolgirl
 GoateeKid	customer at [The Ale House](#alehouse) with [KidConvertable](#kidconvertable)
-God	notable by Her absence; clearly has a sense of humour if [Rumisiel](#rumisiel) and [Cassiel](#cassiel) are angels
+God	notable for Her absence; clearly has a sense of humour if [Rumisiel](#rumisiel) and [Cassiel](#cassiel) are angels
+Graveyard	metaphorical, so far.
 GreeneHouse	a party scene for [Jenny Greene](#jennygreene)
 Gyno	exams [Ash](#ash) tries to skip
 Harry	'Harry' (Henry) Walsh, local race scene's auto engineer, owner [Aries](#aries) auto workshop
@@ -183,6 +186,7 @@ N240Z	Nissan 240Z sportscar, junker restored by [Aiden](#aiden)
 Nissan240SX	[Emily's](#emily) car, manual transmission upgrade by [Ash](#ash)
 Nosebleed	you need a girlfriend, laddie!
 OhMyDressShop	women's clothing retailer
+OldShed	at [Corner 22](#corner22) of the [Old Road](#oldroad)
 OldRoad	local race site, a.k.a. the Mountain. [A brief history](http://web.archive.org/web/20060326052520/http://www.misfile.com/?menu=oldroad)
 Oscar	looks surprisingly like [Emily](#emily)
 OscarCar	unidentified model; has a spoiler
@@ -191,8 +195,9 @@ ParkingLot	race/practice ground, after hours
 Party	let’s ...
 Patient	Ms J Random ...
 Period	don’t say ...
-Phone	calling on the ...
+Phone	calling on the tele...
 Photo	the camera never lies
+Lucy	[Baxter's](#baxter) lady, a.k.a. Pince-Nez from her glasses
 Police	the long arm of the law
 Race	what [Ash](#ash) is all about
 RacerA	guy interested in Nitrous Oxide engine enhancement
@@ -234,7 +239,6 @@ Speedway	dirtstrip race track
 Spirit	spooky stuff
 StripMall	"the strip mall parking lot over on Route 2"
 SuicideGuy	tried to check out
-SupraDriver	racer, drives a Supra, has the effrontery to come from New York (and wear his cap backwards)
 Swim	-place & -wear
 Sword	for angelic smitings
 Tarot	playing cards, with mystical properties when used with insight
@@ -263,7 +267,7 @@ XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI. Twin sy
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
 ; --- Chapters / Books ---
-ch-23	Book 22: April ’05
+ch-23	Book 23: April - May ’05
 ch-22	Book 22: March - April ’05
 ch-21	Book 21: February - March ’05
 ch-20	Book 20: February ’05
