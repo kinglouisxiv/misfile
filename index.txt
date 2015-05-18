@@ -52,11 +52,78 @@ baseurl: http://www.misfile.com/?date={0}
 ; 	carpark/racetrack on the Cape
 ; 	
 ;
+page:2015-05-18
+	desc: Rumisiel: Ash! What's wrong? The door is locked!
+	tag: ch-23
+	tag: Ash
+	tag: UptonHouse
+	tag: ToiletRoll
+	tag: Rumisiel
+	tag: p-027
+page:2015-05-15
+	desc: (Boston landmarks: USS Constitution, Bunker Hill Monument, Museum of Science)
+	tag: ch-23
+	tag: Boston
+	tag: MsMcArthur
+	tag: p-026
+page:2015-05-14
+	desc: Emily: Mom? Remember when I was little and we'd go to Boston and [...]
+	tag: ch-23
+	tag: Emily
+	tag: MsMcArthur
+	tag: MomsCar
+	tag: p-025
+page:2015-05-13
+	desc: Emily's Mom: Morning, birthday girl
+	note: Emily's birthday, a Saturday, less than 28 days after the Misfile anniversary
+	tag: Bed
+	tag: Breakfast
+	tag: ch-23
+	tag: Emily
+	tag: McArthurRes
+	tag: MsMcArthur
+	tag: p-024
+page:2015-05-12
+	desc: Ash: Six in on, half a dozen in the other. Is it good or bad?
+	tag: Ash
+	tag: Bed
+	tag: ch-23
+	tag: p-023
+	tag: UptonHouse
+page:2015-05-11
+	desc: Rumisiel: No middle ground
+	tag: Ash
+	tag: ch-23
+	tag: p-022
+	tag: Rumisiel
+	tag: UptonHouse
+page:2015-05-08
+	desc: Misfile film Kickstarter advert
+	tag: Ash
+	tag: Camera
+	tag: Filler
+	tag: Film
+page:2015-05-07
+	desc: Ash: So I find something I actually WANT to do: Something I think is right that helps someone in need, and I risk getting punished for it?
+	tag: Ash
+	tag: ch-23
+	tag: Coin
+	tag: p-021
+	tag: Rumisiel
+	tag: UptonHouse
+page:2015-05-06
+	desc: Rumisiel: I just don't know if that is such a good idea...
+	tag: Ash
+	tag: ch-23
+	tag: p-020
+	tag: Rumisiel
+	tag: UptonHouse
 page:2015-05-05
 	desc: Ash: You know... You look really good in that. I meant to say. I mean, if your mom wasn't in the next room...
 	tag: Ash
-	tag: ch-23
+	tag: Blush
 	tag: Bubbles
+	tag: ch-23
 	tag: Emily
 	tag: McArthurRes
 	tag: p-019
@@ -68,6 +135,10 @@ page:2015-05-04
 	tag: Emily
 	tag: McArthurRes
 	tag: p-018
+page:2015-05-02
+	desc: Misfile movie - kickstarter advert
+	tag: Filler
+	tag: Ash
 page:2015-05-01
 	desc: Lucy: Don't talk like that! Nothing is over yet
 	tag: Ash
@@ -18936,7 +19007,6 @@ page:2006-03-08
 	tag: p-048
 page:2006-03-07
 	desc: You want to play a less one dimensional game, maybe?
-	note: Emily's aunt mentioned
 	tag: Ash
 	tag: AuntNatalie
 	tag: Blush
