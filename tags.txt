@@ -32,10 +32,11 @@ Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and ima
 AshMale	representation of Ash as male
 Audi	[Edward Upton](#edward)'s car, licence plate DR-U
 AudiS4	Sheldon’s ride
-AuntNatalie	[Emily's](#emily) [mother's](#msmcarthur) sister
+AuntNatalie	[Emily's](#emily) [mother's](#ellenmcarthur) sister
 AutoModerZ	automobile supplies emporium
 Bacon	traditional breakfast food
 BaldingDude	Christmas party-goer
+BasicAutoMech	Basic Auto Mechanics -- [Emily's](#emily) first book on cars
 Bat	"Twinkle, twinkle, little bat/How I wonder what you're at". Found in [graveyards](#graveyard).
 Baxter	racer, drives a Supra, has the effrontery to come from New York (and wear his cap backwards). Companion is [Lucy](#lucy). Suffers from hypertrophic cardiomyopathy
 Beach	"too much sand in my shoes, and the seaweed and salt water ... grossed me out"
@@ -97,15 +98,16 @@ Dream	_"fancyes, dreams and spirits"_
 Dress	Ash in a ...
 Dweeb	Robin to [Colin](#colin)’s Batman
 Edward	Dr Edward Upton, [Ash](#ash)’s father; gynaecologist; drives an [Audi](#audi)
+EllenMcArthur	[Emily's](#emily) Mom (officially named Ellen after fan poll May 2015) 
 Emily	Emily McArthur, "Blues"; our other protagonist; drives a [Nissan 240SX](#nissan240sx) and a classic [Mustang](#mustang)
 EnriqueSwan	fashion clothes designer
 Eponine	friend of [Ash](#ash) the girl
 EverythingUnder	lingerie shop 
 FilingTool	5th Branch issue, stored in the ether
 Fillaniel	angel, a [CFS](#cfs) boss, joint administrator of [5th Branch](#cfs5) with Terrael
-Filler	non-story pages: Xmas, Remembrance, crossovers, etc
+Filler	non-story pages: Xmas, Remembrance, crossovers, adverts _etc_
 Fireworks	skyrockets and mortars
-Flashback	sometimes to a past that everyone but [Ash](#ash) and [Emily](#emily) remembers
+Flashback	sometimes to a past that everyone remembers but [Ash](#ash) and [Emily](#emily)
 Fred	footballer at the [School](#school)
 Fresh-Mart	supermarket / store in the Tempest area
 FullerHome	[Missi's](#missi) lair (& [Tom's](#tom) too)
@@ -118,7 +120,7 @@ Graveyard	metaphorical, so far.
 GreeneHouse	a party scene for [Jenny Greene](#jennygreene)
 Gyno	exams [Ash](#ash) tries to skip
 Harry	'Harry' (Henry) Walsh, local race scene's auto engineer, owner [Aries](#aries) auto workshop
-Harvard	new-ish university
+Harvard	a new-ish university
 Heather	Heather Walsh, [Harry's](#harry) niece, drives a yellow ZX3
 HeatherHome	where Heather lurks; (Art Note: doorway has changed)
 Hickey	"love-bite" [Wikipedia](https://en.wikipedia.org/wiki/Hickey)
@@ -164,7 +166,7 @@ MaxSpeed	_Maximum Speed Factor_ -- car racing video game, named  [2009-01-14](ht
 McArthurRes	The McArthur residence -- [Emily's](#emily) home, [house no. 124](http://www.misfile.com/?date=2007-05-29)
 Melissa	Dr Melissa Frist, gynaecologist at [Thorin Medical](#thorin)
 Miata	[Kay's](#kay) ride
-MiniVan	[Mom McArthur's](#msmcarthur) ride
+MiniVan	[Mom McArthur's](#ellenmcarthur) ride
 Missi	Missi Fuller, adopted, hyperactive 15 year-old Freshman in September 2004 -- held back "due to social/immaturity issues" ([WoG](#wog) on the Misfile Forum) so a year older than typical for her class); [Ash](#ash)-crush
 MMO	Massive Multiplayer Online game
 ModelGirl	victim of [Cassiel](#cassiel)
@@ -179,7 +181,6 @@ MrMuffy	[Walsh-clan](#dogwalsh) dog with an inquisitive nose
 MrRenault	history teacher 
 MrWalker	auto class teacher
 MsFlanery	teacher
-MsMcArthur	[Emily's](#emily) Mom
 Mustang	a ’68 fast back, [Emily's](#emily) other ride
 Myrael	missing [Archon](#archon) of [3rd Branch](#cfs3)
 N240Z	Nissan 240Z sportscar, junker restored by [Aiden](#aiden)
@@ -190,7 +191,7 @@ OldShed	at [Corner 22](#corner22) of the [Old Road](#oldroad)
 OldRoad	local race site, a.k.a. the Mountain. [A brief history](http://web.archive.org/web/20060326052520/http://www.misfile.com/?menu=oldroad)
 Oscar	looks surprisingly like [Emily](#emily)
 OscarCar	unidentified model; has a spoiler
-Pager	receive-only text messager
+PagerUnit	receive-only text messager
 ParkingLot	race/practice ground, after hours
 Party	let’s ...
 Patient	Ms J Random ...
@@ -199,6 +200,7 @@ Phone	calling on the tele...
 Photo	the camera never lies
 Lucy	[Baxter's](#baxter) lady, a.k.a. Pince-Nez from her glasses
 Police	the long arm of the law
+Pool	the McArthur house swimming pool  
 Race	what [Ash](#ash) is all about
 RacerA	guy interested in Nitrous Oxide engine enhancement
 RacerB	lightly scrupled, resentful, pro-[Burt](#burt) guy
