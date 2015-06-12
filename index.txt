@@ -51,6 +51,59 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2015-06-12
+	desc: Ash:  Let it be known. If I mysteriously die this week, you get NONE of my stuff
+	tag: Ash
+	tag: Emily
+	tag: Missi
+	tag: School
+	tag: UptonHouse
+page:2015-06-11
+	desc: Missi:  YOOOO! Morning Ash!
+	tag: Ash
+	tag: Blue 
+	tag: Emily
+	tag: Missi
+	tag: Pink
+	tag: School
+page:2015-06-10
+	desc: Ash:  You're in an unusually good mood after a weekend alone with your mom. Is that a new nail color?
+	tag: School
+	tag: Ash
+	tag: Emily
+	tag: Blue 
+	tag: Pink
+page:2015-06-09
+	desc: Emily:  So... Wait. No colleges this trip? Where's my real mom?
+	tag: Boston
+	tag: EllenMcArthur
+	tag: Emily
+page:2015-06-08
+	desc: Emily:  So... Wait. No colleges this trip? Where's my real mom?
+	tag: Boston
+	tag: EllenMcArthur
+	tag: Emily
+page:2015-06-05
+	desc: Auction advert
+	tag: Filler
+	tag: Ash
+	tag: Emily
+page:2015-06-04
+	desc: Rumisiel: You see why we don't generally do this now?
+	tag: Ash
+	tag: Baxter
+	tag: ch-23
+	tag: OldRoad
+	tag: p-040
+	tag: Supra
+page:2015-06-03
+	desc: Baxter: Knowing the universe is spiteful and unfair and withholds justice it could easily dole out without effort on a daily basis is supposed to be a gift?
+	tag: Ash
+	tag: Baxter
+	tag: ch-23
+	tag: OldRoad
+	tag: p-039
+	tag: Rumisiel
 page:2015-06-02
 	desc: Ash: Hold on. This is sort of my fault
 	tag: Ash
