@@ -51,43 +51,139 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
-page:2015-06-12
-	desc: Ash:  Let it be known. If I mysteriously die this week, you get NONE of my stuff
+page:2015-06-27
+	desc: Emily: I kind of like this movie. It speaks to me.
 	tag: Ash
+	tag: Colour
+	tag: DayOne
+	tag: Emily
+	tag: Filler
+	tag: Patreon
+page:2015-06-26
+	desc: Ash: ... Why are those two dudes staring at us?
+	tag: Ash
+	tag: ch-23
+	tag: Monster
+	tag: OldRoad
+	tag: p-053
+	tag: Rumisiel
+page:2015-06-25
+	desc: Rumisiel: I always cut my losses... So trying to fix it is probably the better option
+	tag: Ash
+	tag: ch-23
+	tag: Monster
+	tag: p-052
+	tag: Rumisiel
+	tag: UptonHouse
+page:2015-06-24
+	desc: Rumisiel: Dude! Why didn't you just hit her back?
+	tag: Ash
+	tag: ch-23
+	tag: p-051
+	tag: Rumisiel
+	tag: UptonHouse
+page:2015-06-23
+	desc: Emily: Are you ok? That wasn't fair. Rumisiel deserved that, not you
+	tag: Ash
+	tag: ch-23
+	tag: Emily
+	tag: Lucy
+	tag: p-050
+	tag: UptonHouse
+page:2015-06-22
+	desc: Lucy: So Baxter came back early last night
+	tag: Ash
+	tag: ch-23
+	tag: Hit
+	tag: Lucy
+	tag: p-049
+	tag: UptonHouse
+page:2015-06-19
+	desc: Ash: It's you... You're not THAT creepy...
+	tag: Ash
+	tag: ch-23
+	tag: Lucy
+	tag: p-048
+	tag: UptonHouse
+page:2015-06-18
+	desc: Misfile movie/production stills
+	tag: Ash
+	tag: ChrisHazelton
+	tag: DayOne
+	tag: Emily
+	tag: Filler
+	tag: UptonHouse
+	tag: XR4Ti
+page:2015-06-17
+	desc: Emily: Maybe it's just a guy thing. I just like being pampered now and then
+	tag: Ash
+	tag: ch-23
+	tag: Emily
+	tag: p-047
+	tag: UptonHouse
+page:2015-06-16
+	desc: Misfile movie stills
+	tag: Ash
+	tag: DayOne
+	tag: Emily
+	tag: Filler
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: XR4Ti
+page:2015-06-15
+	desc: Ash: No way! It's not even the girly-ness. I just... I, like, don't even get it. How can anything so stressful sounding be relaxing?
+	tag: Ash
+	tag: ch-23
+	tag: Emily
+	tag: p-046
+	tag: UptonHouse
+page:2015-06-12
+	desc: Ash: Let it be known. If I mysteriously die this week, you get NONE of my stuff
+	tag: Ash
+	tag: ch-23
 	tag: Emily
 	tag: Missi
+	tag: p-045
 	tag: School
 	tag: UptonHouse
 page:2015-06-11
-	desc: Missi:  YOOOO! Morning Ash!
+	desc: Missi: YOOOO! Morning Ash!
 	tag: Ash
 	tag: Blue 
+	tag: ch-23
 	tag: Emily
 	tag: Missi
+	tag: p-044
 	tag: Pink
 	tag: School
 page:2015-06-10
-	desc: Ash:  You're in an unusually good mood after a weekend alone with your mom. Is that a new nail color?
-	tag: School
+	desc: Ash: You're in an unusually good mood after a weekend alone with your mom. Is that a new nail color?
 	tag: Ash
-	tag: Emily
 	tag: Blue 
+	tag: ch-23
+	tag: Emily
+	tag: p-043
 	tag: Pink
+	tag: School
 page:2015-06-09
-	desc: Emily:  So... Wait. No colleges this trip? Where's my real mom?
+	desc: Emily: I wish I'd known in advance. I'd have brought a bathing suit. We could have had a spa day.
 	tag: Boston
+	tag: ch-23
 	tag: EllenMcArthur
 	tag: Emily
+	tag: p-042
 page:2015-06-08
-	desc: Emily:  So... Wait. No colleges this trip? Where's my real mom?
+	desc: Emily: So... Wait. No colleges this trip? Where's my real mom?
 	tag: Boston
+	tag: ch-23
 	tag: EllenMcArthur
 	tag: Emily
+	tag: p-041
 page:2015-06-05
 	desc: Auction advert
-	tag: Filler
 	tag: Ash
 	tag: Emily
+	tag: Filler
 page:2015-06-04
 	desc: Rumisiel: You see why we don't generally do this now?
 	tag: Ash
@@ -119,14 +215,14 @@ page:2015-06-01
 	tag: p-037
 	tag: Rumisiel
 page:2015-05-29
-	desc: Rumisiel: Ok, That's it. You're cured. See ya.
+	desc: Rumisiel: Ok, That's it. You're cured. See ya
 	tag: Baxter
 	tag: ch-23
 	tag: OldRoad
 	tag: p-036
 	tag: Rumisiel
 page:2015-05-28
-	desc: Baxter: This is too much. Just stop fucking with me and leave me alone. I just want to beat SOMEBODY on this road so I can move on.
+	desc: Baxter: This is too much. Just stop fucking with me and leave me alone. I just want to beat SOMEBODY on this road so I can move on
 	tag: Angel
 	tag: Ash
 	tag: Baxter
@@ -168,6 +264,7 @@ page:2015-05-23
 	tag: Ash
 	tag: Colour
 	tag: Filler
+	tag: Patreon
 	tag: Rumisiel
 	tag: UptonHouse
 page:2015-05-22
@@ -222,9 +319,9 @@ page:2015-05-15
 page:2015-05-14
 	desc: Emily: Mom? Remember when I was little and we'd go to Boston and [...]
 	tag: ch-23
+	tag: EllenMcArthur
 	tag: Emily
 	tag: MomsCar
-	tag: EllenMcArthur
 	tag: p-025
 page:2015-05-13
 	desc: Emily's Mom: Morning, birthday girl
@@ -232,9 +329,9 @@ page:2015-05-13
 	tag: Bed
 	tag: Breakfast
 	tag: ch-23
+	tag: EllenMcArthur
 	tag: Emily
 	tag: McArthurRes
-	tag: EllenMcArthur
 	tag: p-024
 page:2015-05-12
 	desc: Ash: Six in on, half a dozen in the other. Is it good or bad?
@@ -381,9 +478,9 @@ page:2015-04-21
 	desc: Emily: I'm sure Ash was more interested in...  The car
 	tag: ch-23
 	tag: Emily
+	tag: Lucy
 	tag: OldRoad
 	tag: p-009
-	tag: Lucy
 	tag: Race
 	tag: RacerRCapDude
 	tag: RacerWhoDude
@@ -393,9 +490,9 @@ page:2015-04-20
 	desc: Pince-Nez: Plus she spent more time looking at me than Baxter... And not in a "she's competition" kind of way
 	tag: ch-23
 	tag: Emily
+	tag: Lucy
 	tag: OldRoad
 	tag: p-008
-	tag: Lucy
 page:2015-04-18
 	desc: Emily: Hey, Ash, you're kind of lucky about when this misfile happened you know?
 	note: Patreon Bonus page
@@ -404,6 +501,7 @@ page:2015-04-18
 	tag: Colour
 	tag: Emily
 	tag: Fire
+	tag: Patreon
 	tag: Pregnant
 	tag: Stake
 page:2015-04-17
@@ -411,9 +509,9 @@ page:2015-04-17
 	note: Baxter named
 	tag: ch-23
 	tag: Emily
+	tag: Lucy
 	tag: OldRoad
 	tag: p-007
-	tag: Lucy
 page:2015-04-16
 	desc: Ash: Grip! Just PLEASE hold, dammit!
 	tag: Ash
@@ -923,8 +1021,6 @@ page:2015-01-26
 	tag: Party
 	tag: Rumisiel
 	tag: Uniform
-;page:2015-01-25
-;page:2015-01-24
 page:2015-01-23
 	desc: Emily: Aaaaaand now she's going to model it
 	note: Emily's birthday 'around now'.
@@ -974,8 +1070,6 @@ page:2015-01-19
 	tag: McArthurRes
 	tag: p-067
 	tag: Phone
-;page:2015-01-18
-;page:2015-01-17
 page:2015-01-16
 	desc: Ash: I admit I thought it was going to be something more...
 	tag: Ash
@@ -13332,27 +13426,30 @@ page:2008-10-24
 	tag: UptonHouse
 page:2008-10-23
 	desc: Rumisiel: You want to go in and, um, like, check on Ash?
-	tag: Bed
-	tag: p-082
 	tag: ch-09
 	tag: Emily
+	tag: p-082
 	tag: Rumisiel
+	tag: Shower
 	tag: UptonHouse
 page:2008-10-22
+	desc: Edward: I haven't seen her up yet. It's almost noon though so feel free to come in and wake her up
 	note: <span class="dt">Saturday</span>
 	tag: Bed
-	tag: p-081
 	tag: ch-09
 	tag: Dates
 	tag: Edward
 	tag: Emily
+	tag: Nissan240SX
+	tag: p-081
 	tag: UptonHouse
 page:2008-10-21
 	desc: Ash: Why can't something good happen just once? Why?
 	tag: Ash
 	tag: Bed
+	tag: Book
 	tag: ch-09
-	tag: Computer
+	tag: Hit
 	tag: p-080
 	tag: Rumisiel
 	tag: Tears
@@ -13360,133 +13457,154 @@ page:2008-10-21
 page:2008-10-20
 	desc: Ash: JUST GET OUT!!!
 	tag: Ash
-	tag: Bed
-	tag: p-079
 	tag: ch-09
-	tag: Computer
+	tag: p-079
 	tag: Rumisiel
 	tag: Tears
 	tag: UptonHouse
 page:2008-10-17
+	desc: Rumisiel: Look, that's seventy two years if I just "keep up the good work". That means they're open to me coming back
 	tag: Ash
-	tag: p-078
 	tag: ch-09
-	tag: Computer
 	tag: Hit
+	tag: p-078
 	tag: Rumisiel
 	tag: UptonHouse
 page:2008-10-16
+	desc: Ash: Rumisiel, bedroom, now! Vashiel, leave us alone for a "chat"!
 	tag: Ash
-	tag: p-077
 	tag: ch-09
+	tag: p-077
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-15
 	desc: Ash: Seventy... Two... Years?!
 	tag: Ash
-	tag: p-076
 	tag: ch-09
+	tag: p-076
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-14
 	desc: Vashiel: The current end date is in seventy two years
 	tag: Ash
-	tag: p-075
 	tag: ch-09
+	tag: p-075
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-13
+	desc: Rumisiel: Because Vashiel has surprise good news about my getting back into Heaven
 	tag: Ash
-	tag: p-074
 	tag: ch-09
 	tag: Nosebleed
+	tag: p-074
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-10
+	desc: Vashiel: I have news about your administrative leave. Nothing offcial, but...
 	tag: Ash
-	tag: p-073
+	tag: Bubbles
 	tag: ch-09
 	tag: Computer
+	tag: p-073
 	tag: Rumisiel
 	tag: Vashiel
 page:2008-10-09
-	tag: p-072
+	desc: I'm sorry, I'm sorry. You want a drink?
 	tag: ch-09
+	tag: p-072
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-08
-	tag: p-071
+	desc: Edward: You Canadians must have more blood stored up in your noses than any other people on the face of the planet
 	tag: ch-09
 	tag: Edward
 	tag: Nosebleed
+	tag: Noseplugs
+	tag: p-071
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-07
-	tag: p-070
+	desc: Vashiel: I'm confused. What ... Exactly ... does Dr Upton do?
 	tag: ch-09
+	tag: Noseplugs
+	tag: p-070
 	tag: Rumisiel
+	tag: Tissue
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-10-06
+	desc: Ash: Well what do you expect me to do? 
 	tag: Ash
+	tag: ch-09
+	tag: Emily
+	tag: McArthurRes
 	tag: p-069
-	tag: ch-09
-	tag: Emily
-	tag: McArthurRes
 page:2008-10-03
+	desc: Emily: Wait. You're a senior, Ash. Have you even LOOKED at colleges?
+	tag: College
 	tag: Ash
+	tag: ch-09
+	tag: Emily
+	tag: McArthurRes
 	tag: p-068
-	tag: ch-09
-	tag: Emily
-	tag: McArthurRes
 page:2008-10-02
+	desc Ash: Yes you are. You're doing that "I'm going to sigh at the end of all my sentences" thing you do
 	tag: Ash
+	tag: ch-09
+	tag: Emily
+	tag: McArthurRes
 	tag: p-067
-	tag: ch-09
-	tag: Emily
-	tag: McArthurRes
 page:2008-10-01
+	desc: Emily: All of us? That's really a relief. I wasn't sure where I was going to come up with the money
 	tag: Ash
-	tag: p-066
 	tag: ch-09
 	tag: Emily
 	tag: McArthurRes
+	tag: p-066
 page:2008-09-30
+	desc: Marie: Oh, my god! You HAVE to let me fit you for dresses! I have just the thing in mind for you
 	tag: Ash
-	tag: p-065
 	tag: ch-09
 	tag: Marie
+	tag: p-065
 	tag: Phone
 	tag: UptonHouse
 page:2008-09-29
+	desc: Marie: Ash! It's so good to hear from you! Did you want to come visit again?
 	tag: Ash
-	tag: p-064
 	tag: ch-09
 	tag: Marie
+	tag: p-064
 	tag: Phone
 	tag: UptonHouse
 page:2008-09-26
-	tag: p-063
-	tag: ch-09
+	desc: Patient: A breast exam
+	tag: Blush
 	tag: Canada
+	tag: ch-09
+	tag: Heaven
 	tag: Nosebleed
+	tag: p-063
 	tag: Patient
 	tag: TempestHealth
 	tag: Vashiel
 page:2008-09-25
-	tag: p-062
+	desc: Edward: Now if you don't mind my nimble fingers are required in the exam room
 	tag: ch-09
 	tag: Edward
+	tag: p-062
+	tag: Nimble
 	tag: Patient
 	tag: TempestHealth
 	tag: Vashiel
 page:2008-09-24
+	desc: Patient: I'll set up an appointment. So, who's the cute new guy at the desk?
 	tag: ch-09
 	tag: Edward
 	tag: p-061
@@ -13494,45 +13612,46 @@ page:2008-09-24
 	tag: TempestHealth
 	tag: Vashiel
 page:2008-09-23
-	desc: Emily: I remember the Boston trip. I was so excited the first time. Now...
+	desc: Emily: < I remember the Boston trip. I was so excited the first time. Now... >
 	tag: Boston
 	tag: ch-09
+	tag: EllenMcArthur
 	tag: Emily
 	tag: McArthurRes
-	tag: EllenMcArthur
 	tag: Nissan240SX
 	tag: p-060
 page:2008-09-22
+	desc: Ellen: What would you like to see first? Harvard? MIT?
 	tag: ch-09
+	tag: EllenMcArthur
 	tag: Emily
 	tag: McArthurRes
-	tag: EllenMcArthur
 	tag: Nissan240SX
 	tag: p-059
 page:2008-09-19
 	desc: Mom McArthur: I'm... I'm a little envious you know
 	tag: ch-09
+	tag: EllenMcArthur
 	tag: Emily
 	tag: McArthurRes
-	tag: EllenMcArthur
 	tag: Nissan240SX
 	tag: p-058
 page:2008-09-18
 	desc: Mom McArthur: Really, Emily, aren't you a bit old for make believe?
 	tag: Blush
 	tag: ch-09
+	tag: EllenMcArthur
 	tag: Emily
 	tag: McArthurRes
-	tag: EllenMcArthur
 	tag: Nissan240SX
 	tag: p-057
 page:2008-09-17
-	desc: Mom McArthur: Who on earth are you talking to?
+	desc: Ellen: Who on earth are you talking to?
 	tag: Blush
 	tag: ch-09
+	tag: EllenMcArthur
 	tag: Emily
 	tag: McArthurRes
-	tag: EllenMcArthur
 	tag: Nissan240SX
 	tag: p-056
 page:2008-09-16
@@ -13647,7 +13766,7 @@ page:2008-09-01
 	tag: p-044
 	tag: Shopping
 page:2008-08-29
-	desc: Missi: Ah crap. All the dresses I like are starpless!
+	desc: Missi: Ah crap. All the dresses I like are strapless!
 	tag: Ash
 	tag: ch-09
 	tag: Emily
@@ -13768,7 +13887,7 @@ page:2008-08-11
 	tag: Rumisiel
 	tag: Vashiel
 page:2008-08-08
-	desc: Emily: Anyway we can't go. I'm sure Kate has styles and colors in mind ans we can't do anything until we know what those are
+	desc: Emily: Anyway we can't go. I'm sure Kate has styles and colors in mind and we can't do anything until we know what those are
 	tag: Ash
 	tag: ch-09
 	tag: Emily
@@ -13876,17 +13995,17 @@ page:2008-07-22
 	desc: Rumisiel: What to do... There has to be another explanation. I mean, he's not even around right now, right?
 	tag: ch-09
 	tag: p-017
-	tag: Raechiel
+	tag: Rake
 	tag: Rumisiel
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-21
 	desc: Ash: Why do girls do that?
 	tag: Ash
-	tag: p-016
 	tag: ch-09
-	tag: Nissan240SX
 	tag: Emily
+	tag: Nissan240SX
+	tag: p-016
 page:2008-07-18
 	desc: Emily: This is nice. I miss this
 	note: "OldRoad" tag debatable: may just be some regular mountainside road
@@ -13894,7 +14013,6 @@ page:2008-07-18
 	tag: ch-09
 	tag: Emily
 	tag: Nissan240SX
-	tag: OldRoad
 	tag: p-015
 page:2008-07-17
 	desc: Rumisiel: That's it. You've protected me, so now's my chance to protect you
@@ -13909,10 +14027,10 @@ page:2008-07-17
 page:2008-07-16
 	desc: Rumisiel: Whoh! I want one too!
 	tag: Alleyway
-	tag: p-013
 	tag: ch-09
 	tag: Flashback
 	tag: Heaven
+	tag: p-013
 	tag: Rumisiel
 	tag: Sword
 	tag: Tempest
@@ -13920,12 +14038,12 @@ page:2008-07-16
 page:2008-07-15
 	desc: Rumisiel: Oh no... These wounds, I recognize them...
 	tag: Alleyway
-	tag: p-012
+	tag: Blood
 	tag: ch-09
 	tag: Flashback
 	tag: Heaven
+	tag: p-012
 	tag: Raechiel
-	tag: Blood
 	tag: Rumisiel
 	tag: Sword
 	tag: Tempest
@@ -13966,36 +14084,36 @@ page:2008-07-09
 page:2008-07-08
 	desc: Emily: Actually, your brother kind of did ok while you were away
 	tag: Ash
-	tag: p-007
 	tag: ch-09
 	tag: Emily
+	tag: p-007
 	tag: Rumisiel
 	tag: Tempest
 	tag: UptonHouse
 	tag: Vashiel
 page:2008-07-07
 	desc: Emily: Lemonade?
-	tag: p-006
-	tag: ch-09
 	tag: Ash
+	tag: ch-09
 	tag: Emily
-	tag: Vashiel
-	tag: UptonHouse
+	tag: p-006
 	tag: Raechiel
+	tag: UptonHouse
+	tag: Vashiel
 page:2008-07-04
 	desc: Vashiel: IT'S SO GOOD TO BE BACK!!!
-	tag: p-005
-	tag: ch-09
 	tag: Ash
+	tag: ch-09
 	tag: Emily
-	tag: Vashiel
+	tag: p-005
 	tag: UptonHouse
+	tag: Vashiel
 page:2008-07-03
 	desc: Emily: And I pulled the emergency brake, and it just worked. I think I may even have drifted a little before I stopped!
-	tag: p-004
-	tag: ch-09
 	tag: Ash
+	tag: ch-09
 	tag: Emily
+	tag: p-004
 	tag: UptonHouse
 page:2008-07-02
 	desc: Emily: Would it help your mood at all if I showed you my breasts?
@@ -14025,10 +14143,10 @@ page:2008-06-30
 	tag: UptonHouse
 page:2008-06-27
 	desc: <br>**Book 9**<br>September ’04<br><br>_On swords — doubt & certainty — wedding wear — seventy two years — Team Misfile — friction & fitting — the incentive_
-	tag: p-000
 	tag: ch-09
 	tag: Colour
 	tag: Cover
+	tag: p-000
 	tag: Rumisiel
 ; book 8
 page:2008-06-26

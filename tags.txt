@@ -46,6 +46,7 @@ Blush	shows happiness / embarrassment / emotion
 Boston	US city
 BostonLogan	Boston Logan airport, identified by the twin pillar control tower
 BoyA	fan of Fuller parties	
+BoysLocker	school changing room for sports
 BreakfastAnytime	ill-named diner (only open 5am-midnight)
 Brent	Brent Westcott, racer from [Falmouth](https://en.wikipedia.org/wiki/Falmouth%2C_Massachusetts), at college in California with [James](#james); drives an [M3](#m3), licence HNDA ETR
 BrentCar	see [M3](#m3)
@@ -80,23 +81,27 @@ Chains	unhappy bind-y background
 ChainSaw	for cutting trees, or zombies
 Chocolate	mmmm!
 Cinema	generic: popcorn sales outlets
+ChrisHazelton	the author/artist himself
 ClockTower	highest central point in [Tempest](#tempest)
 ClothesShop	generic
 Colin	an heroic ‘Everyman’ figure, works at [AutoModerZ](#automoderz); drives a Camaro "with 20 inch rims and a Borla exhaust"
 Colour	page in colour rather than the usual pencil greyscale 
 Computer	generic, probably a consumer grade Windows XP Home box
+Corner22	location of the [Old Shed](#oldshed) on the [Old Road](#oldroad)
 CostumeShop	"Another Face"
 Cover	start of a new book/chapter
 CupidBow	stylised bow and arrow
 DangBlastedIdiot	customer at [The Ale House](#alehouse)
 Dates	entries with days, dates, ages, etc
+DayOne	live-action movie adaptation of the first Misfile book via [Kickstarter](https://www.kickstarter.com/projects/683971833/misfile-day-one)
 Diner	generic: diners, cafe, restaurant
 DMV	Department of Motor Vehicles (?) driver testing site
 DogWalsh	[Dog](#mrmuffy)-owning Walsh clan member
 Doris	caterer _extrordinaire!_
 Dream	_"fancyes, dreams and spirits"_
 Dress	Ash in a ...
-Dweeb	Robin to [Colin](#colin)’s Batman
+Dweeb	Robin to [Colin's](#colin) Batman
+Dyke	[Lesbian](#lesbian)
 Edward	Dr Edward Upton, [Ash](#ash)’s father; gynaecologist; drives an [Audi](#audi)
 EllenMcArthur	[Emily's](#emily) Mom (officially named Ellen after fan poll May 2015) 
 Emily	Emily McArthur, "Blues"; our other protagonist; drives a [Nissan 240SX](#nissan240sx) and a classic [Mustang](#mustang)
@@ -110,10 +115,11 @@ Fireworks	skyrockets and mortars
 Flashback	sometimes to a past that everyone remembers but [Ash](#ash) and [Emily](#emily)
 Fred	footballer at the [School](#school)
 Fresh-Mart	supermarket / store in the Tempest area
-FullerHome	[Missi's](#missi) lair (& [Tom's](#tom) too)
+FullerHome	[Missi Fuller's](#missi) lair (& [Tom Fuller's](#tom))
 Gabriel	archangel, 'father' to [Rumisiel](#rumisiel), [Vashiel](#vashiel)
 GirlA	romantic schoolgirl
 GirlB	romance-questioning schoolgirl
+GirlsLocker	girls changing room for school sports
 GoateeKid	customer at [The Ale House](#alehouse) with [KidConvertable](#kidconvertable)
 God	notable for Her absence; clearly has a sense of humour if [Rumisiel](#rumisiel) and [Cassiel](#cassiel) are angels
 Graveyard	metaphorical, so far.
@@ -149,6 +155,7 @@ KidConvertable	tried to pick up Ash at [The Ale House](#alehouse)
 Kiss	... is just a kiss, a sigh is just ...
 LaFondue	a French restaurant specialising in--- fondue!
 LeicesterPark	outdoor wedding venue
+Lesbian	pertaining to female same-sex relationships
 Lisa	waitperson
 BabyShower	venue -- unclear whether Kate's family's or Kate & Harry's place
 Logan	racer, homeschooled, sees angels, drives an RX-7 with a Pinapple engine
@@ -168,6 +175,7 @@ Melissa	Dr Melissa Frist, gynaecologist at [Thorin Medical](#thorin)
 Miata	[Kay's](#kay) ride
 MiniVan	[Mom McArthur's](#ellenmcarthur) ride
 Missi	Missi Fuller, adopted, hyperactive 15 year-old Freshman in September 2004 -- held back "due to social/immaturity issues" ([WoG](#wog) on the Misfile Forum) so a year older than typical for her class); [Ash](#ash)-crush
+MIT	Massachusetts Institute of Technology
 MMO	Massive Multiplayer Online game
 ModelGirl	victim of [Cassiel](#cassiel)
 ModelGirl2	fleeing [Cassiel](#cassiel)
@@ -195,6 +203,7 @@ PagerUnit	receive-only text messager
 ParkingLot	race/practice ground, after hours
 Party	let’s ...
 Patient	Ms J Random ...
+Patreon	bonus page from [Patreon](http://www.patreon.com/misfile) sponsorship
 Period	don’t say ...
 Phone	calling on the tele...
 Photo	the camera never lies
@@ -204,6 +213,7 @@ Pool	the McArthur house swimming pool
 Race	what [Ash](#ash) is all about
 RacerA	guy interested in Nitrous Oxide engine enhancement
 RacerB	lightly scrupled, resentful, pro-[Burt](#burt) guy
+RacerBandana	a racer guy wearing a bandana on his head
 RacerC	short light hair, dark collar, upper arm patches
 RacerF	dark shiny hair guy
 RacerPat	condescending guy, glasses
@@ -262,9 +272,10 @@ Vashiel	angel, [Rumisiel's](#rumisiel) truthful brother; “of the second order 
 VW	Volkswagen – Beetle, modern edition: [Molly's](#molly) car
 WaitPerson	burger bearer
 WallaceSign	signs from the failed development [Old Road](#oldroad) sometimes used by the racers as meeting points and finish lines for races.
+Watcher	a shape at a window -- probably [Cassiel][#cassiel)?
 Wei	hospital medical worker
-WoG	Word of God: information from Chris Hazelton, not necessarily in the online comics
-Xaphrael	angel, [CFS](#cfs) security?, [Vashiel's](#vashiel) erstwhile comrade
+WoG	Word of God: information from [Chris Hazelton](#chrishazelton), not necessarily in the online comics
+Xaphrael	angel, rank: Captain, [CFS](#cfs) security?, [Vashiel's](#vashiel) erstwhile comrade, scarred face from a duel they fought
 XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI. Twin symmetrical intakes on the hood, simple spoiler
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
