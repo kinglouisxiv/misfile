@@ -27,7 +27,7 @@ Archon	class of boss angel & an endangered species
 ArchonKiller	a mystery
 Aries	[’Arry's](#harry) auto workshop
 Arthur	racer boy
-Ash	Ash Upton "King of the Mountain"; our protagonist; drives a Merkur XR4Ti & "The Monster" an XR4Ti / Sierra Cosworth hybrid
+Ash	Ash Upton "King of the Mountain"; our protagonist; drives a Merkur [XR4Ti](#xr4ti) & ["The Monster"](#monster) an XR4Ti / Sierra Cosworth hybrid
 Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. never existed -- [WoG](#wog))
 AshMale	representation of Ash as male
 Audi	[Edward Upton](#edward)'s car, licence plate DR-U
@@ -38,7 +38,7 @@ Bacon	traditional breakfast food
 BaldingDude	Christmas party-goer
 BasicAutoMech	Basic Auto Mechanics -- [Emily's](#emily) first book on cars
 Bat	"Twinkle, twinkle, little bat/How I wonder what you're at". Found in [graveyards](#graveyard).
-Baxter	racer, drives a Supra, has the effrontery to come from New York (and wear his cap backwards). Companion is [Lucy](#lucy). Suffers from hypertrophic cardiomyopathy
+Baxter	racer, drives a [Supra](#supra), has the effrontery to come from New York (and wear his cap backwards). Companion is [Lucy](#lucy). He suffers from hypertrophic cardiomyopathy
 Beach	"too much sand in my shoes, and the seaweed and salt water ... grossed me out"
 BerkshireCollege	Community College in Pittsfield, MA
 Blobs	floating background -- opaque [Bubbles](#bubbles)?
@@ -251,6 +251,7 @@ Speedway	dirtstrip race track
 Spirit	spooky stuff
 StripMall	"the strip mall parking lot over on Route 2"
 SuicideGuy	tried to check out
+Supra	Toyota Supra mark 4 (A80?), [Baxter's](#baxter) car
 Swim	-place & -wear
 Sword	for angelic smitings
 Tarot	playing cards, with mystical properties when used with insight
@@ -271,6 +272,7 @@ Valentine	"... and 18 a letter of love"
 Vashiel	angel, [Rumisiel's](#rumisiel) truthful brother; “of the second order of holy swords, divine punishment division”
 VW	Volkswagen – Beetle, modern edition: [Molly's](#molly) car
 WaitPerson	burger bearer
+WallaceMine	the pit mine at the top of the [Old Road](#oldroad). Has a narrow dirt track which spirals and switchbacks into it, but no guard rails.
 WallaceSign	signs from the failed development [Old Road](#oldroad) sometimes used by the racers as meeting points and finish lines for races.
 Watcher	a shape at a window -- probably [Cassiel][#cassiel)?
 Wei	hospital medical worker
