@@ -6,8 +6,8 @@
 ; [internal link text](#sometag)
 ; [external link text](http://www.gunnerkrigg.com)
 ;
-;
 Acura	[Tom](#tom) drives an Acura, licence plate: TOMSTER
+Adam	a member of the [Cherubim](#cherubim), with a [cat](#cat) on his shoulder and a bird (eagle?) in proximity
 Aiden	Aiden Brewster, car-whisperer; rebuilds & drives Nissan 240/260/280 series cars
 AidenHome	house number 1066; Aiden lives opposite [Bronwyn](#bronwyn) 		
 AleHouse	bar-bistro on Cape Cod near [Marie Upton's](#marie) [house](#mariehouse)
@@ -27,13 +27,14 @@ Archon	class of boss angel & an endangered species
 ArchonKiller	a mystery
 Aries	[’Arry's](#harry) auto workshop
 Arthur	racer boy
-Ash	Ash Upton "King of the Mountain"; our protagonist; drives a Merkur [XR4Ti](#xr4ti) & ["The Monster"](#monster) an XR4Ti / Sierra Cosworth hybrid
+Ash	Ash Upton "King of the Mountain"; our protagonist; drives a Merkur [XR4Ti](#xr4ti) & ["The Monster XR"](#monster) an XR4Ti / Sierra Cosworth hybrid
 Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. never existed -- [WoG](#wog))
 AshMale	representation of Ash as male
 Audi	[Edward Upton](#edward)'s car, licence plate DR-U
 AudiS4	Sheldon’s ride
 AuntNatalie	[Emily's](#emily) [mother's](#ellenmcarthur) sister
 AutoModerZ	automobile supplies emporium
+BabyShower	venue -- unclear whether Kate's family's or Kate & Harry's place
 Bacon	traditional breakfast food
 BaldingDude	Christmas party-goer
 BasicAutoMech	Basic Auto Mechanics -- [Emily's](#emily) first book on cars
@@ -68,8 +69,8 @@ Casper	'Cas', racer in Cape Cod, friend of [Brent](#brent); drives an MR2
 CasperCar	[MR2](https://en.wikipedia.org/wiki/Toyota_MR2) 
 Cassi	[Cassiel's](#cassiel) dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
 CassiCreepy	alternative disguise used by [Cassiel](#cassiel)
-CassiLunchLady	alternative disguise used by [Cassiel](#cassiel)
 Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-. Lucifer's niece. Also see [Cassi](#cassi)
+CassiLunchLady	alternative disguise used by [Cassiel](#cassiel)
 CatAndMouse	background, associated with [Marie](#marie)
 CFS	Celestial Filing System (properly the _[Celestial Filing Depository](http://web.archive.org/web/20060326052535/http://www.misfile.com/?menu=filing)_). Divided into five branches, four of which have an [Archon](#archon)
 CFS1	First Branch: facets of time, space and celestial motion
@@ -79,9 +80,10 @@ CFS4	Fourth Branch: takes measurements on Earth and compares them to extrapolati
 CFS5	deals with fairly mundane aspects of life on earth. Unimportant, no [Archon](#archon) [[ref](http://www.misfile.com/?date=2007-09-13)]. [Rumisiel](#rumisiel) worked here.
 Chains	unhappy bind-y background
 ChainSaw	for cutting trees, or zombies
+Cherubim	a heavenly being, very different to our regular angels: 'gestalt being, four aspects, unpredictable'. Think the Filing Depot is 'wrong'. Angels worry about them.
 Chocolate	mmmm!
-Cinema	generic: popcorn sales outlets
 ChrisHazelton	the author/artist himself
+Cinema	generic: popcorn sales outlets
 ClockTower	highest central point in [Tempest](#tempest)
 ClothesShop	generic
 Colin	an heroic ‘Everyman’ figure, works at [AutoModerZ](#automoderz); drives a Camaro "with 20 inch rims and a Borla exhaust"
@@ -157,9 +159,9 @@ LaFondue	a French restaurant specialising in--- fondue!
 LeicesterPark	outdoor wedding venue
 Lesbian	pertaining to female same-sex relationships
 Lisa	waitperson
-BabyShower	venue -- unclear whether Kate's family's or Kate & Harry's place
 Logan	racer, homeschooled, sees angels, drives an RX-7 with a Pinapple engine
 LoganHome	house number: 402
+Lucy	[Baxter's](#baxter) lady, a.k.a. Pince-Nez from her glasses
 M3	Brent's car
 M3000GT	Mitsubishi 3000GT VR4 sports car, as driven by James
 Mace	pepper spray
@@ -195,8 +197,8 @@ N240Z	Nissan 240Z sportscar, junker restored by [Aiden](#aiden)
 Nissan240SX	[Emily's](#emily) car, manual transmission upgrade by [Ash](#ash)
 Nosebleed	you need a girlfriend, laddie!
 OhMyDressShop	women's clothing retailer
-OldShed	at [Corner 22](#corner22) of the [Old Road](#oldroad)
 OldRoad	local race site, a.k.a. the Mountain. [A brief history](http://web.archive.org/web/20060326052520/http://www.misfile.com/?menu=oldroad)
+OldShed	at [Corner 22](#corner22) of the [Old Road](#oldroad)
 Oscar	looks surprisingly like [Emily](#emily)
 OscarCar	unidentified model; has a spoiler
 PagerUnit	receive-only text messager
@@ -207,7 +209,6 @@ Patreon	bonus page from [Patreon](http://www.patreon.com/misfile) sponsorship
 Period	don’t say ...
 Phone	calling on the tele...
 Photo	the camera never lies
-Lucy	[Baxter's](#baxter) lady, a.k.a. Pince-Nez from her glasses
 Police	the long arm of the law
 Pool	the McArthur house swimming pool  
 Race	what [Ash](#ash) is all about
@@ -237,6 +238,7 @@ Salesman	car sales dude, but not [Burt](#burt)
 School	Tempest High
 SchoolRoad	the long walk between the Upton home and Tempest High
 Security	private security staff
+Seraph	a class of heavenly being associated with a "great dying". See also [Angel](#angel), [Cherubim](#cherubim)
 ShawsSteak	Shaw's Steakhouse
 Sheldon	Machiavellian racer, drives an [Audi S4](#audis4)
 Sheldonista	Sheldon's bully boys: "just muscle"
@@ -282,6 +284,7 @@ XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI. Twin sy
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
 ; --- Chapters / Books ---
+ch-24	Book 24: May - June ’05
 ch-23	Book 23: April - May ’05
 ch-22	Book 22: March - April ’05
 ch-21	Book 21: February - March ’05
