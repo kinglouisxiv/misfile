@@ -51,6 +51,227 @@ baseurl: http://www.misfile.com/?date={0}
 ; add:-
 ; 	carpark/racetrack on the Cape
 ;
+page:2015-12-04
+	desc: Emily: Look on the bright side. When you finally get your real racing team up and running you'll already have a publicity person
+	tag: Ash
+	tag: Camera
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: p-045
+	tag: School
+page:2015-12-03
+	desc: Emily: It's close by. I'll visit, like all the time. I'll be your rock
+	tag: Ash
+	tag: Camera
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: p-044
+	tag: School
+page:2015-12-02
+	desc: Missi: And then she came right up the road and right after the whole thing came down!
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: p-043
+	tag: School
+page:2015-12-01
+	desc: Emily: Everyone makes their own choices, Ash
+	tag: Adam
+	tag: Ash
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: Landslide
+	tag: Missi
+	tag: p-042
+	tag: Rumisiel
+	tag: WallaceMine
+page:2015-11-30
+	desc: Adam: Fair I suppose. Well then, rather than stand around making things awkward I suppose I'll take my leave
+	tag: Adam
+	tag: Ash
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: p-041
+	tag: Rumisiel
+	tag: WallaceMine
+page:2015-11-27
+	desc: Missi: It's ok, Ash. I don't know who he is but... He sort of just saved my butt
+	tag: Adam
+	tag: Ash
+	tag: Cat
+	tag: ch-24
+	tag: Missi
+	tag: p-040
+	tag: WallaceMine
+page:2015-11-26
+	desc: Rumisiel: What? I thought you said you wanted Turkey for Thanksgiving...
+	note: Thanksgiving 2015
+	tag: Ash
+	tag: Filler
+	tag: Istambul
+	tag: Rumisiel
+page:2015-11-25
+	desc: Adam: Well, this is starting too feel familiar. At least you stopped under your own power this time
+	tag: Adam
+	tag: Ash
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: Monster
+	tag: p-039
+	tag: Rumisiel
+	tag: WallaceMine
+page:2015-11-24
+	desc: Ash: This feeling. Is this joy or fear?
+	tag: Adam
+	tag: Ash
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: Monster
+	tag: p-038
+	tag: WallaceMine
+page:2015-11-23
+	desc: Missi: Who are... Where did you come from
+	tag: Adam
+	tag: Ash
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: Monster
+	tag: p-037
+	tag: WallaceMine
+page:2015-11-22
+	desc: Missi: In my heart I could feel that someone was going over the edge tonight
+	note: Patreon bonus page: "Missifile"
+	tag: Filler
+	tag: Missi
+	tag: Patreon
+	tag: Rumisiel
+page:2015-11-20
+	desc: Adam: In my heart I could feel that someone was going over the edge tonight
+	tag: Adam
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: Monster
+	tag: p-036
+	tag: WallaceMine
+page:2015-11-19
+	desc: Missi: GOTTA get this!
+	tag: Camera
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: Monster
+	tag: p-035
+	tag: WallaceMine
+page:2015-11-18
+	desc: Ash: **So... Frikkin' Awesome...**
+	tag: Ash
+	tag: ch-24
+	tag: Monster
+	tag: p-034
+	tag: Rumisiel
+	tag: WallaceMine
+page:2015-11-17
+	desc: Missi: What are you looking at?
+	tag: Adam
+	tag: Ash
+	tag: Camera
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: Monster
+	tag: p-033
+	tag: WallaceMine
+page:2015-11-16
+	desc: Missi: You've gotta stop grabbing my camera every time they get to the most exciting bits
+	tag: Adam
+	tag: Camera
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: Moon
+	tag: p-032
+	tag: WallaceMine
+page:2015-11-13
+	desc: Ash: This dirt is even looser than my practice track...
+	tag: Ash
+	tag: ch-24
+	tag: Monster
+	tag: p-031
+	tag: Rumisiel
+	tag: WallaceMine
+page:2015-11-12
+	desc: Ash: You ready for the ride of your life?
+	tag: Ash
+	tag: ch-24
+	tag: Monster
+	tag: p-030
+	tag: Rumisiel
+	tag: WallaceMine
+page:2015-11-11
+	desc: Rumisiel: No sign of our "new friend". Where do you want me?
+	tag: Ash
+	tag: Camera
+	tag: ch-24
+	tag: Missi
+	tag: Monster
+	tag: p-029
+	tag: Rumisiel
+	tag: WallaceMine
+page:2015-11-10
+	desc: Missi: Camera check!
+	tag: Ash
+	tag: Camera
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: Monster
+	tag: p-028
+	tag: WallaceMine
+page:2015-11-09
+	desc: Ash: Emily? Hey. What are you doing here at this time of ...
+	tag: Ash
+	tag: Bubbles
+	tag: ch-24
+	tag: Emily
+	tag: Monster
+	tag: p-027
+	tag: UptonHouse
+page:2015-11-06
+	desc: Emily: This is... This is how Ash feels all the time, isn't it?
+	tag: ch-24
+	tag: EllenMcArthur
+	tag: Emily
+	tag: McArthurRes
+	tag: p-026
+page:2015-11-05
+	desc: Emily: No. No, wait. This... I can't just keep digging a deeper hole like this. I'm not gay, ok? That was it. That was the whole point of this.  
+	tag: ch-24
+	tag: EllenMcArthur
+	tag: Emily
+	tag: McArthurRes
+	tag: p-025
+page:2015-11-04
+	desc: Ellen: You seemed pretty intent on some male attention the other day. That's the number for the son of a colleague of mine. Bit of a pretty boy, but SO smart. You could do worse.
+	tag: ch-24
+	tag: EllenMcArthur
+	tag: Emily
+	tag: McArthurRes
+	tag: p-024
 page:2015-11-03
 	desc: Adam: I've met them, you know. ... And I know something you don't know. I have a secret...
 	tag: Adam
@@ -75,7 +296,6 @@ page:2015-10-30
 	tag: Ash
 	tag: ch-24
 	tag: Emily
-	tag: p-021
 	tag: Rumisiel
 	tag: Vashiel
 page:2015-10-29
