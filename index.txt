@@ -46,11 +46,304 @@
 ;   - _e.g._ fillers, guest comics, art pages, special colour pages (for a b&w comic)
 ;
 ;
+;
 baseurl: http://www.misfile.com/?date={0}
 ;
-; add:-
-; 	carpark/racetrack on the Cape
-;
+page:2016-01-22
+	desc: Ash: You!
+	tag: Adam
+	tag: Ash
+	tag: Cat
+	tag: ch-24
+	tag: p-077
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Wrench
+page:2016-01-21
+	desc: Ash: Something's not right
+	tag: Ash
+	tag: ch-24
+	tag: p-076
+	tag: UptonHouse
+	tag: Wrench
+page:2016-01-20
+	desc: Ash: If I hope for something that gives me faith in it. Then that faith can be shattered leaving me worse off than before.
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-075
+	tag: SchoolRoad
+page:2016-01-19
+	desc: Emily: Do you think we can actually turn that key thing to our advantage?
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-075
+	tag: SchoolRoad
+page:2016-01-18
+	desc: Chris turns 40
+	tag: Filler
+page:2016-01-15
+	desc: Cassi: ... Incidentally, what is it exactly that you did?
+	tag: Cassi
+	tag: ch-24
+	tag: Ramael
+	tag: Rumisiel
+	tag: p-074
+	tag: School
+page:2016-01-14
+	desc: Cassi: What's up, lazy boy?
+	tag: Cassi
+	tag: ch-24
+	tag: Rumisiel
+	tag: p-073
+	tag: School
+page:2016-01-13
+	desc: Ash: Seventy five frikkin' dollars. It almost makes me not want to go
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-072
+	tag: School
+page:2016-01-12
+	desc: Ash: What is this?
+	tag: Ash
+	tag: ch-24
+	tag: Form
+	tag: p-071
+	tag: School
+	tag: Teacher
+page:2016-01-11
+	desc: Ash: So... No cakewalk
+	tag: Adam
+	tag: Ash
+	tag: Cake
+	tag: Cat
+	tag: ch-24
+	tag: p-070
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2016-01-08
+	desc: Rumisiel: First I'd have to get, all sneaky like since I'm not allowed
+	tag: Ash
+	tag: ch-24
+	tag: File
+	tag: Heaven
+	tag: p-069
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2016-01-07
+	desc: Rumisiel: What gives? We could have had this out of our hands and been home free!
+	tag: Ash
+	tag: ch-24
+	tag: p-068
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2016-01-06
+	desc: Adam: Where are you off to at this time of night?
+	tag: Adam
+	tag: Angel
+	tag: ch-24
+	tag: Vashiel
+	tag: p-067
+page:2016-01-05
+	desc: Rumisiel: What gives? We could have had this out of our hands and been home free!
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: Bubbles
+	tag: p-066
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-01-04
+	desc: Emily: We're getting off track. The point is we FOUND it. Now we have it... What do we DO with it?
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: FilingTool
+	tag: p-065
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Vashiel
+page:2016-01-01
+	desc: Vashiel: So this is the key to Fifth Branch. Hardly seems like anything.
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: FilingTool
+	tag: p-064
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Vashiel
+page:2015-12-31
+	desc: Emily: Maybe that's it then. Maybe instead of looking for something you forgot we should be looking you've always known you had but never knew was a key.
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-063
+	tag: Rumisiel
+	tag: UptonHouse
+page:2015-12-30
+	desc: Ash: Why are we looking in my room? Adam already turned this place upside down
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-062
+	tag: Rumisiel
+	tag: UptonHouse
+page:2015-12-29
+	desc: Ash: Why are we looking in my room? Adam already turned this place upside down
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-061
+	tag: Rumisiel
+	tag: UptonHouse
+page:2015-12-28
+	desc: Rumisiel: So... You two were pretty close there. If you were gunna kiss or something don't let me stop you.
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-060
+	tag: Pillow
+	tag: Rumisiel
+	tag: UptonHouse
+page:2015-12-26
+	desc: Donation pin advert
+	tag: Ash
+	tag: Angel
+	tag: Filler
+page:2015-12-25
+	desc: Christmas 2015
+	tag: Ash
+	tag: Ychromosome
+	tag: Filler
+page:2015-12-24
+	desc: Rumisiel: Ah, it's cool. You going to kiss now?
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-059
+	tag: Rumisiel
+	tag: UptonHouse
+page:2015-12-23
+	desc: Emily: You can't be using Missi as a yardstick for normal. I'm betting a lot of those aren't actual "friend touches"
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: Missi
+	tag: p-058
+	tag: Rain
+	tag: UptonHouse
+page:2015-12-22
+	desc: Ash: Anyway, if I wanted to run my finger from the top of a girl's head to her toes it'd be like walking through a mine field to not hit a slap zone
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-057
+	tag: Rain
+	tag: UptonHouse
+page:2015-12-21
+	desc: Ash: I want to ask you a question... Promise you wan't get mad?
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-056
+	tag: UptonHouse
+page:2015-12-19
+	desc: Ash: For this month's bonus strip I figured I'd take some reader suggestions
+	tag: Ash
+	tag: Filler
+	tag: Patreon
+page:2015-12-18
+	desc: Rumisiel: Cherubim are closer in order to the divine will of the universe than my order. WE created the filing system to help us understand and order it. THEY already have a sort of innate grasp of it
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-055
+	tag: Rumisiel
+	tag: WallaceMine
+	tag: Heaven
+page:2015-12-17
+	desc: Ash: THIS is why you don't ever get to be part of our plans!
+	tag: Angel
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-054
+	tag: Rumisiel
+	tag: WallaceMine
+page:2015-12-16
+	desc: Rumisiel: You don't mess with them. You don't talk with them. You want something from me? You come to me!
+	tag: Adam
+	tag: Angel
+	tag: Ash
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: p-053
+	tag: Rumisiel
+	tag: WallaceMine
+page:2015-12-15
+	desc: Adam: ... Your argument has merit. I'm sorry for the problems with your files, whatever they may be.
+	tag: Adam
+	tag: Angel
+	tag: Ash
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: p-052
+	tag: Rumisiel
+	tag: WallaceMine
+page:2015-12-14
+	desc: Ash: Then why are you helping... Whoever you are helping?
+	tag: Adam
+	tag: Ash
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: p-051
+	tag: WallaceMine
+page:2015-12-11
+	desc: Adam: You're a terrible liar, you know. And I don't mean you're a liar and that makes you terrible. I mean you're very bad at it
+	tag: Adam
+	tag: Ash
+	tag: Cat
+	tag: ch-24
+	tag: Emily
+	tag: p-050
+	tag: WallaceMine
+page:2015-12-10
+	desc: Adam: Wouldn't want everyone upstairs to know that I stumbled on a couple of misfiled humans now would you?
+	tag: Adam
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-049
+	tag: WallaceMine
+page:2015-12-09
+	desc: Emily: This job... This is going to be impossible
+	tag: Adam
+	tag: Ash
+	tag: ch-24
+	tag: Emily
+	tag: p-048
+	tag: WallaceMine
+page:2015-12-08
+	desc: Rumisiel: Where's Ash?
+	tag: ch-24
+	tag: p-047
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: Vashiel
+page:2015-12-07
+	desc: Emily: Maybe we're being too cautious then
+	tag: Ash
+	tag: Bubbles
+	tag: ch-24
+	tag: Emily
+	tag: p-046
+	tag: School
 page:2015-12-04
 	desc: Emily: Look on the bright side. When you finally get your real racing team up and running you'll already have a publicity person
 	tag: Ash
