@@ -128,6 +128,7 @@ Graveyard	metaphorical, so far.
 GreeneHouse	a party scene for [Jenny Greene](#jennygreene)
 Gyno	exams [Ash](#ash) tries to skip
 Harry	'Harry' (Henry) Walsh, local race scene's auto engineer, owner [Aries](#aries) auto workshop
+HarryJr	[Kate's](#kate] son, Harry. Another [Harry](#harry) may have been involved
 Harvard	a new-ish university
 Heather	Heather Walsh, [Harry's](#harry) niece, drives a yellow ZX3
 HeatherHome	where Heather lurks; (Art Note: doorway has changed)
@@ -138,7 +139,7 @@ IRsensor	remote infrared & motion sensing camera
 Ivan	self-proclaimed 'Ice King'
 JaguarXKR	[Kate's](#kate) ride, tuned by Harry, license "Kate 3"
 James	nailed [Ash](#ash), but only in [flashback](#flashback), drives a [Mitsubishi 3000GT VR4](#m3000gt)
-JamesHouse	set a couple of houses along from the Upton residence. Number 17. Door has changed.
+JamesHouse	set a couple of houses along from the Upton residence. Number 17. Door has changed over the course of the comic.
 Janine	unseen friend of [Missi](#missi)
 Jason	local racer kid
 Jazz	restaurant
@@ -149,7 +150,7 @@ JennySnr	[Jenny](#jenny)’s-the-model's conceited Mom
 Junkyard	source of parts
 JunkyardGuy	supplier of parts
 Kate	'Kamikaze' Kate, the Demon of Greylock Mountain (has mellowed...); drives a Jaguar XKR, licence plate: KATE 3
-KateKid	Kate's son, Harry. Another [Harry](#harry) may have been involved
+KateHouse	[Kate](#kate)'s 'Victorian' styled house
 Kay	Kay Wheeler, model, works for [Marie](#marie), drives a Miata
 Kevin	reconnaissance [Sheldonista](#sheldonista)
 KidB	some boy at school
@@ -274,7 +275,7 @@ Valentine	"... and 18 a letter of love"
 Vashiel	angel, [Rumisiel's](#rumisiel) truthful brother; “of the second order of holy swords, divine punishment division”
 VW	Volkswagen – Beetle, modern edition: [Molly's](#molly) car
 WaitPerson	burger bearer
-WallaceMine	the pit mine at the top of the [Old Road](#oldroad). Has a narrow dirt track which spirals and switchbacks into it, but no guard rails.
+WallaceMine	the pit mine at the top of the [Old Road](#oldroad). Has a narrow dirt track which spirals and switchbacks down into it, but no guard rails.
 WallaceSign	signs from the failed development [Old Road](#oldroad) sometimes used by the racers as meeting points and finish lines for races.
 Watcher	a shape at a window -- probably [Cassiel][#cassiel)?
 Wei	hospital medical worker
@@ -284,8 +285,9 @@ XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI. Twin sy
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
 ; --- Chapters / Books ---
-ch-24	Book 24: May - June ’05
-ch-23	Book 23: April - May ’05
+ch-25	Book 24: Spring ’05
+ch-24	Book 24: Spring ’05
+ch-23	Book 23: Spring ’05
 ch-22	Book 22: March - April ’05
 ch-21	Book 21: February - March ’05
 ch-20	Book 20: February ’05

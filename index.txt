@@ -43,10 +43,428 @@
 ;     - Mac's Bar (specific) is usually not tagged as a Bar (generic) as well
 ;     - Rumisiel &co tagged with Angel only if strongly displaying the Angel nature: wings, halo etc
 ; Meta
-;   - _e.g._ fillers, guest comics, art pages, special colour pages (for a b&w comic)
+;     - _e.g._ fillers, guest comics, art pages, special colour pages (for a b&w comic)
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
+page:2016-06-13
+	desc: Emily: Oh... This isn't just academic, is it?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-050
+	tag: School
+page:2016-06-10
+	desc: Ash: What? Why? What about fighting the good fight?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-049
+	tag: School
+page:2016-06-09
+	desc: Emily: ... Uh, no. I choose to get the good grade
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-048
+	tag: School
+page:2016-06-08
+	desc: Emily: Anyway, your car is up and running again. Aren't you supposed to be happy?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-047
+	tag: School
+page:2016-06-07
+	desc: Ash: Test today?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-046
+	tag: School
+page:2016-06-06
+	desc: Cassi: Really? You... You're... Giving me a compliment?
+	tag: Ash
+	tag: Cassi
+	tag: Cassiel
+	tag: ch-26
+	tag: Emily
+	tag: Fish
+	tag: p-045
+	tag: School
+	tag: Water
+page:2016-06-03
+	desc: Ash: Who's "they"?
+	tag: Ash
+	tag: Cassi
+	tag: Cassiel
+	tag: ch-26
+	tag: Fish
+	tag: p-044
+	tag: School
+	tag: Water
+page:2016-06-02
+	desc: Missi: Holy crap! You've gotta see it! YOU'VE GOTTA SEE IT!
+	tag: Ash
+	tag: ch-26
+	tag: Fish
+	tag: Missi
+	tag: p-043
+	tag: School
+	tag: Water
+page:2016-06-01
+	desc: Emily: \*Sigh\*. I'm not going to let this turn into a fight. It happens too often. You're right about the shirt. I should have thought about it
+	tag: Ash
+	tag: ch-26
+	tag: EllenMcArthur
+	tag: McArthurRes
+	tag: p-042
+	tag: Tears
+	tag: Towel
+page:2016-05-31
+	desc: Emily: You're a bit young to be going senile. We generally call that a "shirt"
+	tag: Ash
+	tag: ch-26
+	tag: EllenMcArthur
+	tag: p-041
+	tag: McArthurRes
+	tag: Towel
+page:2016-05-30
+	desc: Memorial Day 2016
+	tag: Rumisiel
+	tag: Colour
+	tag: Filler
+page:2016-05-28
+	desc: Patreon bonus page: Manual Transmission
+	tag: Ash
+	tag: Colour
+	tag: Emily
+	tag: Filler
+	tag: Newspaper
+	tag: Patreon
+	tag: Thief
+page:2016-05-27
+	desc: Ash: Anyway... All the crap I did... I'm glad I could fix you even with all that. I'd miss you. I'd seriously miss you
+	tag: Ash
+	tag: ch-26
+	tag: Monster
+	tag: p-040
+	tag: UptonHouse
+page:2016-05-26
+	desc: Ash: Sometimes I wonder if Aiden was right. You seem... Cars seem more like someones than somethings
+	tag: Ash
+	tag: ch-26
+	tag: Monster
+	tag: p-039
+	tag: Shower
+	tag: UptonHouse
+page:2016-05-25
+	desc: Emily: We going to fix this thing or what? Wouldn't want my auto shop skills getting rusty
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-038
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-05-24
+	desc: Ash: What? I was joking Why would you... You realise it is really a boy ass right? You're staring at a guy's ass!
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Monster
+	tag: p-037
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-05-23
+	desc: Rumisiel: That's a cool breeze. Do you not like it.
+	tag: Ash
+	tag: ch-26
+	tag: Rumisiel
+	tag: p-036
+	tag: UptonHouse
+page:2016-05-20
+	desc: Ash: New part, Greasy engine bay
+	tag: Ash
+	tag: ch-26
+	tag: Rumisiel
+	tag: p-035
+	tag: UptonHouse
+page:2016-05-19
+	desc: Ash: What gives? Why isn't anyone going inside?
+	tag: Ash
+	tag: Cassi
+	tag: Cassiel
+	tag: ch-26
+	tag: Chain
+	tag: Emily
+	tag: Eponine
+	tag: Lock
+	tag: p-034
+	tag: School
+page:2016-05-18
+	desc: Ash: I don't really see the irony
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-033
+	tag: SchoolRoad
+page:2016-05-17
+	desc: Ash: I was pregnant with a screaming baby. It wouldn't be quiet. Then it invited all its friends in and they were ALL screaming
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-032
+	tag: Pregnant
+	tag: SchoolRoad
+page:2016-05-16
+	desc: Ash: No, they can't come in... There's not enough room for...
+	tag: Ash
+	tag: ch-26
+	tag: Dream
+	tag: p-031
+	tag: UptonHouse
+page:2016-05-13
+	desc: Ash: Not as a girl. That would take me places I'm not willing to go. As I guy I always figured I would though
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-030
+	tag: XR4Ti
+page:2016-05-12
+	desc: Ash: Uh, Kate. Your shirt... I don't think it is buttoned right
+	tag: Ash
+	tag: Blush
+	tag: ch-26
+	tag: Emily
+	tag: HarryJr
+	tag: Kate
+	tag: KateHouse
+	tag: Moon
+	tag: p-029
+	tag: XR4Ti
+page:2016-05-11
+	desc: Kate: Oh, wow! I need a picture of this!
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: HarryJr
+	tag: Kate
+	tag: KateHouse
+	tag: Moon
+	tag: p-028
+page:2016-05-10
+	desc: Emily: And you really think something comparable wouldn't have happened this year regardless?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: KateHouse
+	tag: p-027
+page:2016-05-09
+	desc: Emily: No. Given the stories about my real dad I'm not sure that is a bad thing
+	tag: Ash
+	tag: BabyBottle
+	tag: ch-26
+	tag: Emily
+	tag: HarryJr
+	tag: KateHouse
+	tag: p-026
+page:2016-05-06
+	desc: Ash: I don't think I'd be a good dad anyway
+	tag: Ash
+	tag: BabyBottle
+	tag: ch-26
+	tag: Emily
+	tag: HarryJr
+	tag: KateHouse
+	tag: p-025
+page:2016-05-05
+	desc: Emily: I don't know. It's just... A sweet image. It's oddly attractive
+	tag: Ash
+	tag: BabyBottle
+	tag: ch-26
+	tag: Emily
+	tag: HarryJr
+	tag: KateHouse
+	tag: p-024
+page:2016-05-04
+	desc: Ash: Are you kidding? We're talking Kate here. Even if that isn't wierd creepy on its own. This is practically the nectar of a she demon. I'd probably sprout wings and horns.
+	tag: Ash
+	tag: BabyBottle
+	tag: ch-26
+	tag: Emily
+	tag: HarryJr
+	tag: KateHouse
+	tag: p-023
+	tag: ShoulderAngel
+page:2016-05-03
+	desc: Advert: Misfile Film
+	tag: Ash
+	tag: Emily
+	tag: Filler
+	tag: Rumisiel
+page:2016-05-02
+	desc: Emily: You're taking this pretty well
+	tag: Ash
+	tag: BabyBottle
+	tag: ch-26
+	tag: Emily
+	tag: KateHouse
+	tag: p-022
+page:2016-04-29
+	desc: Emily: You're taking this pretty well
+	tag: Ash
+	tag: ch-26
+	tag: p-021
+	tag: Emily
+	tag: KateHouse
+	tag: HarryJr
+page:2016-04-28
+	desc: Ash: He's wet. So I guess I just... Open it and swap it out?
+	tag: Ash
+	tag: ch-25
+	tag: p-020
+	tag: Emily
+	tag: KateHouse
+	tag: HarryJr
+	tag: Pee
+page:2016-04-27
+	desc: Ash: Why does the bathroom have a midget sink?
+	tag: Ash
+	tag: Bidet
+	tag: ch-25
+	tag: p-019
+	tag: Emily
+	tag: KateHouse
+page:2016-04-26
+	desc: Emily: Why is there a random gear knob with the family photos?
+	tag: Ash
+	tag: ch-25
+	tag: p-018
+	tag: Emily
+	tag: KateHouse
+page:2016-04-25
+	desc: Emily: He's asleep. Don't you want to see the house?
+	tag: Ash
+	tag: ch-25
+	tag: p-017
+	tag: Emily
+	tag: KateHouse
+page:2016-04-23
+	desc: Patreon Bonus page: Baby-Vision
+	tag: Ash
+	tag: Patreon
+	tag: Filler
+	tag: Emily
+page:2016-04-22
+	desc: Kate & Harry: Have fun. Not too much fun. We'll be back before you know it.
+	tag: Ash
+	tag: ch-25
+	tag: p-016
+	tag: Emily
+	tag: KateHouse
+page:2016-04-21
+	desc: Ash: I'm still more afraid of that. It's like a symbol representing all my defeats
+	tag: Ash
+	tag: ch-25
+	tag: p-015
+	tag: Emily
+	tag: JaguarXKR
+	tag: KateHouse
+	tag: XR4Ti
+page:2016-04-20
+	desc: Emily: You brought your backpack? That's unusually studious of you.
+	tag: Ash
+	tag: ch-25
+	tag: p-014
+	tag: Emily
+	tag: KateHouse
+	tag: XR4Ti
+page:2016-04-19
+	desc: Rumisiel: I said I was sorry, right? I wish You'd let me so more to help out now...
+	tag: Ash
+	tag: ch-25
+	tag: p-013
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-04-18
+	desc: Rumisiel: You sure you don't need me the tomorrow?
+	tag: Ash
+	tag: ch-25
+	tag: p-012
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-04-16
+	desc: Pin advert
+	tag: Ash
+	tag: Filler
+	tag: Colour
+page:2016-04-15
+	desc: Kate: Ash! Little Harry's new favorite "aunt". I just ordered your part.
+	tag: Ash
+	tag: ch-25
+	tag: HarryJr
+	tag: Kate
+	tag: KateHouse
+	tag: p-011
+	tag: Phone
+	tag: UptonHouse
+page:2016-04-14
+	desc: Edward: Ash... Do we... Need to have a talk?
+	tag: Ash
+	tag: ch-25
+	tag: Edward
+	tag: p-010
+	tag: UptonHouse
+page:2016-04-13
+	desc: Emily: Me? Why did you pick me?
+	tag: Ash
+	tag: ch-25
+	tag: Emily
+	tag: McArthurRes
+	tag: p-009
+page:2016-04-12
+	desc: Kate: Ash. I haven't had sex with my husband in a VERY long time. I need one night, just one night. You get your part. I get my... bell rung. Everybody wins
+	tag: Aries
+	tag: Ash
+	tag: ch-25
+	tag: Kate
+	tag: p-008
+page:2016-04-11
+	desc: Kate: There's the rub. You see, I have a bit of a trust problem. I know you and Harry didn't get off to the best start...
+	tag: Aries
+	tag: Ash
+	tag: ch-25
+	tag: Kate
+	tag: p-007
+page:2016-04-08
+	desc: Kate: \*Ahem!\*
+	tag: Aries
+	tag: Ash
+	tag: ch-25
+	tag: Harry
+	tag: Kate
+	tag: p-006
+page:2016-04-07
+	desc: Ash: I'm... I'm afraid to ask if it is good news
+	tag: Aries
+	tag: Ash
+	tag: ch-25
+	tag: Harry
+	tag: p-005
+page:2016-04-06
+	desc: Rumisiel: There's always an upside. Just think how fast the next 72 years would fly by in a coma
+	tag: Ash
+	tag: ch-25
+	tag: UptonHouse
+	tag: p-004
+	tag: Rumisiel
+page:2016-04-05
+	desc: Rumisiel: ... Is it working?
+	tag: Ash
+	tag: ch-25
+	tag: UptonHouse
+	tag: p-003
+	tag: Rumisiel
 page:2016-04-04
 	desc: Ash: That's it? No "witty retort"? No offer for a magical head gasket that changes itself for free?
 	tag: Ash
@@ -115,14 +533,14 @@ page:2016-03-24
 	tag: ch-24
 	tag: Harry
 	tag: Kate
-	tag: KateKid
+	tag: HarryJr
 	tag: p-119
 page:2016-03-23
 	desc: Ash: I guess if you are not screaming you are not so bad
 	tag: Aries
 	tag: Ash
 	tag: ch-24
-	tag: KateKid
+	tag: HarryJr
 	tag: p-118
 	tag: Puke
 page:2016-03-22
@@ -131,7 +549,7 @@ page:2016-03-22
 	tag: Ash
 	tag: ch-24
 	tag: Kate
-	tag: KateKid
+	tag: HarryJr
 	tag: Monster
 	tag: p-117
 page:2016-03-21
@@ -140,7 +558,7 @@ page:2016-03-21
 	tag: Ash
 	tag: ch-24
 	tag: Kate
-	tag: KateKid
+	tag: HarryJr
 	tag: Monster
 	tag: p-116
 	tag: UptonHouse
@@ -4171,7 +4589,7 @@ page:2014-06-05
 	tag: Blush
 	tag: ch-21
 	tag: Kate
-	tag: KateKid
+	tag: HarryJr
 	tag: p-031
 page:2014-06-04
 	desc: Kate: Could you hand him to me
@@ -4179,7 +4597,7 @@ page:2014-06-04
 	tag: Ash
 	tag: ch-21
 	tag: Kate
-	tag: KateKid
+	tag: HarryJr
 	tag: p-030
 page:2014-06-03
 	desc: Kate: The baby was up all hours
@@ -4187,7 +4605,7 @@ page:2014-06-03
 	tag: Ash
 	tag: ch-21
 	tag: Kate
-	tag: KateKid
+	tag: HarryJr
 	tag: p-029
 page:2014-06-02
 	desc: Ash: Kate... Is this a bad time?
@@ -4949,13 +5367,13 @@ page:2014-01-16
 	tag: Harry
 	tag: Hospital
 	tag: Kate
-	tag: KateKid
+	tag: HarryJr
 	tag: p-051
 page:2014-01-15
 	desc: So was it a boy or a girl?
 	tag: Ash
 	tag: ch-20
-	tag: KateKid
+	tag: HarryJr
 	tag: p-050
 	tag: Rumisiel
 	tag: UptonHouse
@@ -21996,6 +22414,7 @@ page:2005-10-19
 	tag: ch-03
 	tag: Chains
 	tag: Kate
+	tag: KateHouse
 	tag: p-059
 	tag: Phone
 	tag: Tears
