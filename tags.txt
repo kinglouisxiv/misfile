@@ -133,7 +133,7 @@ Harvard	a new-ish university
 Heather	Heather Walsh, [Harry's](#harry) niece, drives a yellow ZX3
 HeatherHome	where Heather lurks; (Art Note: doorway has changed)
 Hickey	"love-bite" [Wikipedia](https://en.wikipedia.org/wiki/Hickey)
-Hit	punch / kick / strangle / chase / fight
+Hit	punch / slap / kick / strangle / chase / fight
 Iridium	rare transition metal used in high performance [spark plugs](#sparkplugs); see Wikipedia: [Iridium](https://en.wikipedia.org/wiki/Iridium)
 IRsensor	remote infrared & motion sensing camera
 Ivan	self-proclaimed 'Ice King'
@@ -285,7 +285,7 @@ XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI. Twin sy
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	Heather drives a yellow one.
 ; --- Chapters / Books ---
-ch-25	Book 24: Spring ’05
+ch-25	Book 25: Spring ’05
 ch-24	Book 24: Spring ’05
 ch-23	Book 23: Spring ’05
 ch-22	Book 22: March - April ’05
