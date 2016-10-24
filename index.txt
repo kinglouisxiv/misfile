@@ -47,12 +47,390 @@
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
-
+page:2016-10-24
+	desc: Edward: You'll always be my daughter. That'll never change
+	tag: Ash
+	tag: ch-26
+	tag: Edward
+	tag: p-033
+	tag: Tears
+	tag: UptonHouse
+page:2016-10-22
+	desc: Patreon bonus page
+	tag: Ash
+	tag: Emily
+	tag: Patreon
+	tag: Colour
+	tag: XR4Ti
+	tag: Moon
+page:2016-10-21
+	desc: Edward: I always kind of figured the two of you would probably get married some day
+	tag: Ash
+	tag: ch-26
+	tag: Edward
+	tag: James
+	tag: p-032
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-10-20
+	desc: Edward: Well, if you are wondering if I figured out you two had sex the answer is yes...
+	tag: Ash
+	tag: Bubbles
+	tag: ch-26
+	tag: Edward
+	tag: Flashback
+	tag: James
+	tag: p-031
+	tag: UptonHouse
+page:2016-10-19
+	desc: Ash: Dad? Could we... Talk?
+	tag: Ash
+	tag: Bed
+	tag: ch-26
+	tag: Edward
+	tag: p-030
+	tag: UptonHouse
+page:2016-10-18
+	desc: Rumisiel: You sure you want to know? You didn't like some of the stuff you already found out
+	tag: Ash
+	tag: ch-26
+	tag: p-029
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-10-17
+	desc: Rumisiel: Is that a motorcycle website? I thought you hated them
+	tag: Ash
+	tag: ch-26
+	tag: Computer
+	tag: p-028
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-10-14
+	desc: Ellen: I'm your mom, Emily. I know when something is up. It's like a superpower
+	tag: Ellen
+	tag: McArthurRes
+	tag: ch-26
+	tag: Emily
+	tag: Mustang
+	tag: p-027
+page:2016-10-13
+	desc: Ash: You ever tell your mom about the misfile?
+	tag: Ash
+	tag: Cafe225
+	tag: ch-26
+	tag: Emily
+	tag: p-026
+page:2016-10-12
+	desc: Ash: You did what?
+	tag: Ash
+	tag: Cafe225
+	tag: ch-26
+	tag: Emily
+	tag: p-025
+page:2016-10-07
+	desc: Ash: You did what?
+	tag: Ash
+	tag: UptonHouse
+	tag: ch-26
+	tag: Phone
+	tag: Cancer
+	tag: Files
+	tag: Emily
+	tag: p-024
+	tag: TempestHealth
+page:2016-10-06
+	desc: Emily: Ok, it's not creepy to run across you own file in here or anything. What's even in these?
+	tag: Ash
+	tag: ch-26
+	tag: Files
+	tag: Emily
+	tag: p-023
+	tag: TempestHealth
+page:2016-10-05
+	desc: Ash: I don't know if I feel good or bad about this
+	tag: Ash
+	tag: ch-26
+	tag: Rumisiel
+	tag: HappyCones
+	tag: p-022
+	tag: IceCream
+	tag: CatCallDriver
+page:2016-10-04
+	desc: Emily: I'm not sure I'm entirely comfortable with this
+	tag: Ash
+	tag: ch-26
+	tag: Edward
+	tag: Emily
+	tag: p-021
+	tag: TempestHealth
+page:2016-10-03
+	desc: Ash: I'll make it happen
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-020
+	tag: UptonHouse
+page:2016-09-30
+	desc: Emily: Do I need a reason to visit my boyfriend? I thought you liked spending time with me
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-019
+	tag: UptonHouse
+page:2016-09-29
+	desc: Ash: I can't believe he just left... Should I have lied?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Fire
+	tag: p-019
+	tag: UptonHouse
+page:2016-09-28
+	desc: James: What was wrong with it?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: James
+	tag: p-018
+	tag: UptonHouse
+page:2016-09-27
+	desc: Emily: So? How was it?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Helmet
+	tag: James
+	tag: JamesBike
+	tag: p-017
+	tag: UptonHouse
+page:2016-09-26
+	desc: Ash: Oh, this is awful... 
+	tag: Ash
+	tag: ch-26
+	tag: Helmet
+	tag: James
+	tag: JamesBike
+	tag: p-016
+	tag: UptonHouse
+page:2016-09-23
+	desc: Emily: If you do it now, even if it sucks of you, it's done and you can claim to have done it.
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Helmet
+	tag: p-015
+	tag: UptonHouse
+page:2016-09-22
+	desc: Emily: Because I want you to at least try being on that motorcycle. Do it for me.
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Helmet
+	tag: James
+	tag: p-014
+	tag: UptonHouse
+page:2016-09-20
+	desc: Ash: It's... Terrifying. Motorcycles scare the crap out of me, ok?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Helmet
+	tag: James
+	tag: p-013
+	tag: UptonHouse
+page:2016-09-19
+	desc: Ash: Well, at least I can always hear him coming now
+	tag: Ash
+	tag: ch-26
+	tag: Helmet
+	tag: Emily
+	tag: James
+	tag: JamesBike
+	tag: p-012
+	tag: UptonHouse
+page:2016-09-16
+	desc: Ash: Look, it's your life and your habit. Just... Don't drag me into it, ok?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-011
+	tag: Rachel
+	tag: Rumisiel
+	tag: School
+page:2016-09-15
+	desc: Rachel: Come on... I did a strip tease at your birthday party...
+	tag: Ash
+	tag: Blush
+	tag: ch-26
+	tag: Emily
+	tag: p-010
+	tag: Rachel
+	tag: Rumisiel
+	tag: School
+page:2016-09-14
+	desc: Rachel: Hey, hey, you two!
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-009
+	tag: Rachel
+	tag: School
+page:2016-09-13
+	desc: Emily: Something finally trumps your period, huh?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-008
+	tag: SATprimer
+	tag: School
+page:2016-09-12
+	desc: Ash: So... Um... I just realized... You're going local, right? I mean, I know you don't KNOW know yet anymore but imagining life with you at school in, like some other state from me...
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-007
+	tag: SATprimer
+	tag: School
+page:2016-09-09
+	desc: Ash: "SAT Prep?" Already? It's still your junior year
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-006
+	tag: SATprimer
+	tag: School
+page:2016-09-08
+	desc: Rumisiel: I'm going to rashly assume that was you
+	tag: Car
+	tag: Cassie
+	tag: ch-26
+	tag: FlagPole
+	tag: p-005
+	tag: Rumisiel
+	tag: School
+page:2016-09-07
+	desc: Ash: All the interviewers turned out to be aliens and I spent the rest of the dream fighting them to save the planet
+	tag: Ash
+	tag: Car
+	tag: Cassie
+	tag: ch-26
+	tag: Emily
+	tag: FlagPole
+	tag: p-004
+	tag: Rumisiel
+	tag: School
+page:2016-09-06
+	desc: Ash: All the interviewers turned out to be aliens and I spent the rest of the dream fighting them to save the planet
+	tag: Ash
+	tag: ch-26
+	tag: Dream
+	tag: Emily
+	tag: Moon
+	tag: MushroomCloud
+	tag: p-003
+	tag: PlanetEarth
+	tag: SchoolRoad
+	tag: Tentacle
+	tag: UFO
+page:2016-09-05
+	desc: Emily: Look, Ash. I appreciate the attention you give my twins, really, but they are not exactly MY thing.
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Dream
+	tag: RaceSuit
+	tag: p-002
+	tag: SchoolRoad
+page:2016-09-02
+	desc: Emily: Awww. So you and your dad had a moment?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-001
+	tag: SchoolRoad
+page:2016-09-01
+	desc: **Book 26**<br><br>Early Summer ’05 (?)
+	tag: ch-26
+	tag: p-000
+	tag: Cassiel
+	tag: Colour
+	tag: Cover
+page:2016-08-31
+	desc: Ash: I'm going to say goodnight to my dad. Maybe there will even be hugging.
+	tag: Ash
+	tag: ch-25
+	tag: p-104
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-08-30
+	desc: Rumisiel: You worried you may have screwed that up? Feeling guilty? 
+	tag: Ash
+	tag: ch-25
+	tag: p-103
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-08-29
+	desc: Ash: It's an old photo of James and me... Although now I'm beginning to realise it's more like a picture of James and some girl that used to be his best friend that I replaced one day.
+	tag: Ash
+	tag: ch-25
+	tag: James
+	tag: p-102
+	tag: Photo
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-08-27
+	desc: Patreon Bonus: Emily: Wow, Ash... I never thought I'd see you wearing a skirt by choice...
+	tag: Ash
+	tag: ch-25
+	tag: Emily
+	tag: Kilt
+	tag: Patreon
+	tag: Colour
+page:2016-08-26
+	desc: James: \*Sigh\* Maybe I should take that thing back
+	tag: Ash
+	tag: ch-25
+	tag: James
+	tag: JamesBike
+	tag: p-101
+	tag: UptonHouse
+page:2016-08-25
+	desc: Ash: It feels like a hot vibrating machine between my...
+	tag: Ash
+	tag: ch-25
+	tag: James
+	tag: JamesBike
+	tag: p-100
+	tag: UptonHouse
+page:2016-08-24
+	desc: Ash: What were you thinking REALLY?
+	tag: Ash
+	tag: ch-25
+	tag: James
+	tag: JamesBike
+	tag: p-099
+	tag: UptonHouse
+page:2016-08-23
+	desc: James: Yeah, but it is fast. A ride on the back might change your mind
+	tag: Ash
+	tag: ch-25
+	tag: James
+	tag: JamesBike
+	tag: p-098
+	tag: UptonHouse
+page:2016-08-22
+	desc: James: Ash! Check it out! You like it?
+	tag: Ash
+	tag: ch-25
+	tag: James
+	tag: JamesBike
+	tag: p-097
+	tag: UptonHouse
 page:2016-08-19
 	desc: [fx: VrroOoooom...]<br>Ash: Ok, seriously... What kind of jackass...
 	tag: Ash
 	tag: ch-25
-	tag: Motorbike
+	tag: JamesBike
 	tag: p-096
 	tag: UptonHouse
 	tag: WashingMachine
@@ -14451,27 +14829,32 @@ page:2009-08-20
 	tag: Emily
 	tag: McArthurRes
 page:2009-08-19
+	desc: Ash: It was stupid. She just kept hitting me and I finally snapped and whacker her one
 	tag: Ash
 	tag: Bed
-	tag: p-038
+	tag: Blood
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
+	tag: p-038
 	tag: Period
 page:2009-08-18
+	desc: Emily: So you guessed or something?
 	tag: Ash
-	tag: Bed
 	tag: p-037
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-08-17
+	desc: How do you KNOW you bombed it?
 	tag: Ash
 	tag: p-036
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
+	tag: XR4Ti
 page:2009-08-14
+	desc: Missi: Can I make you feel better?
 	tag: Ash
 	tag: p-035
 	tag: ch-11
@@ -14479,6 +14862,7 @@ page:2009-08-14
 	tag: Rumisiel
 	tag: School
 page:2009-08-13
+	desc: Missi: Rumisiel told me
 	tag: Ash
 	tag: p-034
 	tag: ch-11
@@ -14486,7 +14870,8 @@ page:2009-08-13
 	tag: Rumisiel
 	tag: School
 page:2009-08-12
-	desc: <span class="dt">Wednesday</span>
+	desc: Missi: I hear you totally rocked face on some nasty bitch las night. That's so badass!
+	note: Wednesday
 	tag: Ash
 	tag: p-033
 	tag: ch-11
@@ -14495,46 +14880,54 @@ page:2009-08-12
 	tag: Rumisiel
 	tag: School
 page:2009-08-11
-	desc: Math test
+	desc: Ash: &lt;You have to clear your head. You can do this&gt;
 	tag: Ash
-	tag: p-032
+	tag: Blood
 	tag: ch-11
 	tag: Emily
 	tag: Flashback
 	tag: Morgan
+	tag: p-032
 	tag: School
 page:2009-08-10
-	tag: p-031
-	tag: ch-11
+	desc: Rumisiel: If it makes a difference it was a very manly punch
 	tag: Ash
+	tag: Bed
+	tag: ch-11
+	tag: p-031
 	tag: Rumisiel
 	tag: School
-	tag: Bed
 	tag: UptonHouse
 page:2009-08-07
+	desc: Ash: Yes it IS you idiot! I HIT A GIRL!
 	tag: Ash
-	tag: Bed
 	tag: p-030
 	tag: ch-11
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-08-06
+	desc: Ash: You're so lucky I don't hit girls...
 	tag: Ash
 	tag: p-029
 	tag: ch-11
 	tag: Diner
+	tag: Slap
+	tag: Wham
 	tag: Hit
 	tag: Jazz
 	tag: Morgan
 page:2009-08-05
+	desc: Morgan: Well, if he's shopping elsewhere, maybe that should be a message for you
 	tag: Ash
 	tag: p-028
 	tag: ch-11
 	tag: Diner
 	tag: Hit
+	tag: Slap
 	tag: Jazz
 	tag: Morgan
 page:2009-08-04
+	desc: Ash: Little sister?! Tell her who I am, Rumisiel
 	tag: Ash
 	tag: p-027
 	tag: ch-11
@@ -14542,6 +14935,7 @@ page:2009-08-04
 	tag: Jazz
 	tag: Rumisiel
 page:2009-08-03
+	desc: Morgan: Do you like it? I just bought it 
 	tag: Ash
 	tag: p-026
 	tag: ch-11
@@ -14550,6 +14944,7 @@ page:2009-08-03
 	tag: Morgan
 	tag: Rumisiel
 page:2009-07-31
+	desc: Morgan: Yoohoo! Over here!
 	tag: Ash
 	tag: p-025
 	tag: ch-11
@@ -14558,6 +14953,7 @@ page:2009-07-31
 	tag: Morgan
 	tag: Rumisiel
 page:2009-07-30
+	desc: Ash: You remember what to say?
 	tag: Ash
 	tag: p-024
 	tag: ch-11
@@ -14565,6 +14961,7 @@ page:2009-07-30
 	tag: Jazz
 	tag: Rumisiel
 page:2009-07-29
+	desc: Ash: I don't even know how to START doing this one
 	tag: Ash
 	tag: p-023
 	tag: ch-11
@@ -14574,12 +14971,14 @@ page:2009-07-29
 	tag: McArthurRes
 	tag: Rumisiel
 page:2009-07-28
+	desc: Emily: Your grades are substandard because you never do your homework or study. If you weren't smart you'd be failing a lot more than just math
 	tag: Ash
 	tag: p-022
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 page:2009-07-27
+	desc: Rumisiel: So, what do I do while you study?
 	tag: Ash
 	tag: p-021
 	tag: ch-11
@@ -14587,7 +14986,7 @@ page:2009-07-27
 	tag: McArthurRes
 	tag: Rumisiel
 page:2009-07-24
-	desc: Math crisis
+	desc: Ash: I never thought I'd say this. Can we skip driving today and help me with math?
 	tag: Ash
 	tag: p-020
 	tag: ch-11
@@ -14596,31 +14995,37 @@ page:2009-07-24
 	tag: Rumisiel
 	tag: School
 page:2009-07-23
+	desc: Ash: Em! You have to help me out!
 	tag: Ash
 	tag: p-019
 	tag: ch-11
 	tag: Emily
 	tag: School
 page:2009-07-22
+	desc: Emily: That's interesting / But the turbo will alter the powerband
 	tag: Ash
+	tag: Bubbles
 	tag: p-018
 	tag: ch-11
 	tag: Emily
 	tag: Heather
 	tag: McArthurRes
 page:2009-07-21
+	desc: Ash: Speaking of owing, how are you even going to PAY for this dinner?
 	tag: Ash
 	tag: p-017
 	tag: ch-11
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-07-20
+	desc: Ash: Do you have any idea how many kinds of messed up this is?
 	tag: Ash
 	tag: p-016
 	tag: ch-11
 	tag: Rumisiel
 	tag: UptonHouse
 page:2009-07-17
+	desc: Morgan: I DO like a bad boy, but I was asking for a name
 	tag: Ash
 	tag: p-015
 	tag: ch-11
@@ -14629,16 +15034,19 @@ page:2009-07-17
 	tag: TempestHealth
 	tag: UptonHouse
 page:2009-07-16
-	tag: p-014
+	desc: Rumisiel: Vashiel? You here, bro?
 	tag: ch-11
 	tag: Morgan
+	tag: p-014
 	tag: Rumisiel
 	tag: TempestHealth
 page:2009-07-15
+	desc: Ash: How is it?
 	tag: Ash
 	tag: p-013
 	tag: ch-11
 	tag: Emily
+	tag: Nissan240SX
 	tag: Rumisiel
 	tag: TempestHealth
 page:2009-07-14
@@ -14647,57 +15055,74 @@ page:2009-07-14
 	tag: p-012
 	tag: ch-11
 	tag: Emily
+	tag: Nissan240SX
 page:2009-07-13
+	desc: Emily: Where to?
 	tag: Ash
 	tag: p-011
 	tag: ch-11
 	tag: Computer
 	tag: Emily
+	tag: Nissan240SX
 	tag: UptonHouse
 page:2009-07-10
-	note: Misfile window sticker
+	desc: It's a window sticker. I... guess it's ok if you're on Ash and my team. You know, at least for this race it's ok.
 	tag: Ash
 	tag: p-010
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 	tag: Missi
+	tag: TeamMisfile
+	tag: Nissan240SX
+	tag: WindowSticker
 page:2009-07-09
-	tag: p-009
+	desc: Missi: There. Like I said. It's all done
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 	tag: Missi
+	tag: Nissan240SX
+	tag: p-009
 page:2009-07-08
+	desc: Ash: The only numbers kind of driver I know is...
 	tag: Ash
-	tag: Bed
 	tag: p-008
 	tag: ch-11
 	tag: Computer
 	tag: Phone
 	tag: UptonHouse
 page:2009-07-07
+	desc: Ash: I wonder if it HAS helped my driving any
 	tag: Ash
 	tag: p-007
 	tag: ch-11
+	tag: Mirror
 	tag: UptonHouse
 page:2009-07-06
+	desc: Ash: See? That was pretty good
 	tag: Ash
 	tag: p-006
 	tag: ch-11
 	tag: Emily
+	tag: XR4Ti
 page:2009-07-03
+	desc: Emily: Whoa... I'd forgotten how different your car was.
 	tag: Ash
-	tag: p-005
 	tag: ch-11
 	tag: Emily
+	tag: p-005
+	tag: XR4Ti
 page:2009-07-02
+	desc: Emily: My car runs fine
 	tag: Ash
-	tag: p-004
 	tag: ch-11
 	tag: Emily
 	tag: McArthurRes
 	tag: Missi
+	tag: Nissan240SX
+	tag: p-004
+	tag: XR4Ti
 page:2009-07-01
 	desc: Oh, dear lord... / They're not fighting
 	tag: Ash
@@ -14706,16 +15131,18 @@ page:2009-07-01
 	tag: Emily
 	tag: McArthurRes
 	tag: Missi
+	tag: Nissan240SX
 	tag: Rumisiel
 page:2009-06-30
 	desc: Em's Mom: Emily is out back... With that car.
 	tag: Ash
-	tag: p-002
 	tag: ch-11
+	tag: EllenMcArthur
 	tag: Emily
 	tag: McArthurRes
 	tag: Missi
-	tag: EllenMcArthur
+	tag: Nissan240SX
+	tag: p-002
 	tag: Rumisiel
 page:2009-06-29
 	desc: Em's Mom: Hello? Oh... It's you
@@ -14725,8 +15152,9 @@ page:2009-06-29
 	tag: McArthurRes
 	tag: EllenMcArthur
 	tag: Rumisiel
+	tag: XR4Ti
 page:2009-06-26
-	desc: <br>**Book 11**<br>October ’04<br><br>_My enemy’s enemy — Morgan — the plan — the prize — the suspect — petition denied — smell — Emily–Heather race — the demon of speed —_
+	desc: <br>**Book 11**<br>October ’04<br><br>_My enemy’s enemy — Morgan — the plan — the prize — the suspect — petition denied — smell — Emily–Heather race — the demon of speed_
 	auth: Heather has challenged Emily to her first race, but can Ash get her ready in time? Who is this mysterious angel from Vashiel's past?
 	tag: p-000
 	tag: ch-11
@@ -21862,6 +22290,7 @@ page:2006-03-30
 	desc: Neither of you know the first thing about sword fighting!
 	tag: Ash
 	tag: ch-04
+	tag: EveWallace
 	tag: James
 	tag: McArthurRes
 	tag: p-063

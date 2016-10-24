@@ -23,12 +23,12 @@ AngelGirl2	yet another [CFS](#cfs) minion
 Angelica	[Kate](#kate)’s sister
 Anna	school kid
 Annie	mouthy dyke-spotter school student
-Archon	class of boss angel & an endangered species. Carry keys to their Branches of  the file repository embedded in their hands.
+Archon	class of boss angel & an endangered species. Carry keys to their Branches of the file repository embedded in their hands
 ArchonKiller	a mystery
 Aries	[’Arry's](#harry) auto workshop
 Arthur	racer boy
 Ash	Ash Upton "King of the Mountain"; our protagonist; drives a Merkur [XR4Ti](#xr4ti) & ["The Monster XR"](#monster) an XR4Ti / Sierra Cosworth hybrid
-Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. never existed -- [WoG](#wog))
+Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. she never existed -- [WoG](#wog))
 AshMale	representation of Ash as male
 Audi	[Edward Upton](#edward)'s car, licence plate DR-U
 AudiS4	Sheldon’s ride
@@ -57,6 +57,7 @@ BronwynHome	across the road from [AidenHome](#aidenhome)
 Bubbles	happy floaty background
 Burt	Burt Clayton, car & parts sales
 BurtsYard	one place where Burt does business
+Cafe225	café in [Tempest](#tempest)
 CafeMarat	café in [Tempest](#tempest)
 Camera	takes pictures
 Candle	decorative/romantic light & scent source
@@ -103,13 +104,14 @@ Doris	caterer _extrordinaire!_
 Dream	_"fancyes, dreams and spirits"_
 Dress	Ash in a ...
 Dweeb	Robin to [Colin's](#colin) Batman
-Dyke	[Lesbian](#lesbian) (slang)
-Edward	Dr Edward Upton, [Ash](#ash)’s father; gynaecologist; drives an [Audi](#audi)
+Dyke	[Lesbian](#lesbian) (slang, probabaly offensive)
+Edward	Dr Edward Upton, [Ash](#ash)’s father; gynaecologist; drives an [Audi](#audi), practice at [Tempest Health](#tempesthealth)
 EllenMcArthur	[Emily's](#emily) Mom (officially named Ellen after fan poll May 2015) 
 Emily	Emily McArthur, "Blues"; our other protagonist; drives a [Nissan 240SX](#nissan240sx) and a classic [Mustang](#mustang)
 EnriqueSwan	fashion clothes designer
 Eponine	friend of [Ash](#ash) the girl
 EverythingUnder	lingerie shop 
+EveWallace	An exploitative girlfriend of [James's](#james] in his school days and cause of a race-duel with Ash.
 FilingTool	Rumisiel's 5th Branch issue unit includes sound recorder, internet access, possibly 5th Branch key
 Fillaniel	angel, a [CFS](#cfs) boss, joint administrator of [5th Branch](#cfs5) with Terrael
 Filler	non-story pages: Xmas, Remembrance, crossovers, adverts _etc_
@@ -138,7 +140,8 @@ Iridium	rare transition metal used in high performance [spark plugs](#sparkplugs
 IRsensor	remote infrared & motion sensing camera
 Ivan	self-proclaimed 'Ice King'
 JaguarXKR	[Kate's](#kate) ride, tuned by Harry, license "Kate 3"
-James	nailed [Ash](#ash), but only in [flashback](#flashback), drives a [Mitsubishi 3000GT VR4](#m3000gt)
+James	nailed [Ash](#ash), but only in [flashback](#flashback). Drives a [Mitsubishi 3000GT VR4](#m3000gt)
+JamesBike	James’s V-twin motorbike
 JamesHouse	set a couple of houses along from the Upton residence. Number 17. Door has changed over the course of the comic.
 Janine	unseen friend of [Missi](#missi)
 Jason	local racer kid
@@ -168,7 +171,7 @@ M3000GT	Mitsubishi 3000GT VR4 sports car, as driven by James
 Mace	pepper spray
 MacsBar	a bar
 Marie	Marie Upton, [Ash's](#ash) Mom, ex-model, ex-wife of [Edward Upton](#edward)
-MarieHouse	Marie Upton's home, with access to the beach, at [Dennis](https://en.wikipedia.org/wiki/Dennis,_Massachusetts), Cape Cod: [WoG](#wog)
+MarieHouse	Marie Upton's home, number 225, with access to the beach, at [Dennis](https://en.wikipedia.org/wiki/Dennis,_Massachusetts), Cape Cod: [WoG](#wog)
 MarieWork	where Marie runs a fashion/lingerie business
 Mart	generic food store in/around Tempest area ("...ar MAR...")
 Maude	canteen catering & hair advice
@@ -271,20 +274,21 @@ Truro	[town](https://en.wikipedia.org/wiki/Truro,_Massachusetts) on Cape Cod, wi
 Tyler	runs [The Ale House](#alehouse), [Rose's](#rose) brother
 Uniform	Mechanic's uniform: blue shirt, pants and a hat, plus _Team Misfile_ patches
 UptonHouse	[Edward](#edward) and [Ash](#ash) live here
-Valentine	"... and 18 a letter of love"
-Vashiel	angel, [Rumisiel's](#rumisiel) truthful brother; “of the second order of holy swords, divine punishment division”
-VW	Volkswagen – Beetle, modern edition: [Molly's](#molly) car
+Valentine	related to the saint's day on 14 February
+Vashiel	angel, [Rumisiel's](#rumisiel) truthful brother; "of the second order of holy swords, divine punishment division"
+VW	Volkswagen -- Beetle, modern edition: [Molly's](#molly) car
 WaitPerson	burger bearer
 WallaceMine	the pit mine at the top of the [Old Road](#oldroad). Has a narrow dirt track which spirals and switchbacks down into it, but no guard rails.
 WallaceSign	signs from the failed development [Old Road](#oldroad) sometimes used by the racers as meeting points and finish lines for races.
-Watcher	a shape at a window -- probably [Cassiel][#cassiel)?
+Watcher	a shape at a window -- probably [Cassiel](#cassiel)?
 Wei	hospital medical worker
 WoG	Word of God: information from [Chris Hazelton](#chrishazelton), not necessarily in the online comics
 Xaphrael	angel, rank: Captain, [CFS](#cfs) security?, [Vashiel's](#vashiel) erstwhile comrade, scarred face from a duel they fought
 XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI. Twin symmetrical intakes on the hood, simple spoiler
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
-ZX3	Heather drives a yellow one.
+ZX3	[Heather](#heather) drives a yellow one.
 ; --- Chapters / Books ---
+ch-26	Book 26: Early Summer ’05
 ch-25	Book 25: Spring ’05
 ch-24	Book 24: Spring ’05
 ch-23	Book 23: Spring ’05
