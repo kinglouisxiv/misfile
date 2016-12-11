@@ -60,6 +60,7 @@ BurtsYard	one place where Burt does business
 Cafe225	café in [Tempest](#tempest)
 CafeMarat	café in [Tempest](#tempest)
 Camera	takes pictures
+Cancer	[Ellen McArthur](#ellenmcarthur) had a non-malignant tumour when [Emily](#emily) was young. See also [June](#june)
 Candle	decorative/romantic light & scent source
 Cantina32	restaurant in [Tempest's](#tempest) main street
 CapKid	generic: some kid wearing a cap
@@ -101,7 +102,7 @@ Diner	generic: diners, cafe, restaurant
 DMV	Department of Motor Vehicles (?) driver testing site
 DogWalsh	[Dog](#mrmuffy)-owning Walsh clan member
 Doris	caterer _extrordinaire!_
-Dream	_"fancyes, dreams and spirits"_
+Dream	from daydreams to nightmares
 Dress	Ash in a ...
 Dweeb	Robin to [Colin's](#colin) Batman
 Dyke	[Lesbian](#lesbian) (slang, probabaly offensive)
@@ -150,6 +151,7 @@ Jen	waitperson at the [Breakfast Anytime](#breakfastanytime) [diner](#diner)
 Jenny	conceited model
 JennyGreene	member/leader of the Tempest High 'rich bitch squad'
 JennySnr	[Jenny](#jenny)’s-the-model's conceited Mom
+June	friend of [Ellen McArthur](#ellenmcarthur) who [Emily](#emily) stayed with one summer while Ellen had a [tumour](#cancer) removed
 Junkyard	source of parts
 JunkyardGuy	supplier of parts
 Kate	'Kamikaze' Kate, the Demon of Greylock Mountain (has mellowed...); drives a Jaguar XKR, licence plate: KATE 3

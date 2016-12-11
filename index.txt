@@ -47,6 +47,306 @@
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
+page:2016-12-09
+	desc: Rumisiel: OH! I haven't had sex with your daughter, if that helps! 
+	tag: ch-26
+	tag: Edward
+	tag: p-064
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-12-08
+	desc: Ash: Not a single damn woodpecker
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: OldRoad
+	tag: p-063
+	tag: WallaceMine
+page:2016-12-07
+	desc: Emily: What about the traffic circle in the town center?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-062
+	tag: Rumisiel
+	tag: SchoolRoad
+	tag: Woodpecker
+page:2016-12-06
+	desc: Emily: And what SHOULD you be dealing with? James? Your dad? Oh, sorry. I'm being silly. The big picture. Being a boy again
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-062
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2016-12-05
+	desc: Emily: Letting it out is good. Acknowledging you emotions is good. You know guys have have hormonal shifts too
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-061
+	tag: Rumisiel
+	tag: SchoolRoad
+page:2016-12-02
+	desc: Emily: It was awful. There was a lump in my stomach the whole time
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-060
+	tag: SchoolRoad
+page:2016-12-01
+	desc: Emily: ... I could never be a doctor.
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-059
+	tag: SchoolRoad
+page:2016-11-30
+	desc: Rumisiel: Ever since you made me admit my role in your troubles I've had the weirdest feeling
+	tag: Ash
+	tag: ch-26
+	tag: p-058
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-11-29
+	desc: Rumisiel: Ash, am I a terrible person?
+	tag: Ash
+	tag: ch-26
+	tag: p-057
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-11-28
+	desc: Cassiel: What bothers me is that people like you and your family push me aside and make assumptions about me because of my uncle
+	tag: Cassiel
+	tag: ch-26
+	tag: p-056
+	tag: Roof
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-11-26
+	desc: Patreon bonus page: Angel / Devil Ash
+	tag: Filler
+	tag: Patreon
+	tag: Ash
+	tag: AngelAsh
+	tag: DevilAsh
+page:2016-11-25
+	desc: Cassiel: Look, if coming around giving you shit makes you nostalgic I'm only too happy to oblige,
+	tag: Cassiel
+	tag: ch-26
+	tag: p-055
+	tag: Roof
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-11-24
+	desc: Thanksgiving 2016
+	tag: Filler
+	tag: Ash
+	tag: Angel
+	tag: Turkey
+page:2016-11-23
+	desc: Cassiel: "Cassi?" Seriously?
+	tag: Cassiel
+	tag: ch-26
+	tag: p-054
+	tag: Roof
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-11-22
+	desc: Cassiel: Oooooh. Somebody's mopey. Here I came to bring you down and something's already done my job for me
+	tag: Cassiel
+	tag: ch-26
+	tag: p-053
+	tag: Roof
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-11-21
+	desc: Ash: Look, the fact that I'm growing up and able to make the decision to go off on my own and be comfortable wth it is your success, not your failure.
+	tag: Ash
+	tag: ch-26
+	tag: Edward
+	tag: p-052
+	tag: Restaurant215
+	tag: Thursday
+page:2016-11-18
+	desc: Edward: I mean, recently I feel like I'm out of things to provide for you. Your mother got you that job...
+	tag: Ash
+	tag: ch-26
+	tag: Edward
+	tag: Marie
+	tag: p-051
+	tag: Restaurant215
+	tag: Thursday
+page:2016-11-17
+	desc: Edward: I'm not very good at this "fathering" thing am I?
+	tag: Ash
+	tag: ch-26
+	tag: Beer
+	tag: Edward
+	tag: p-050
+	tag: Restaurant215
+	tag: Thursday
+page:2016-11-16
+	desc: Ellen: Weeeeell, I was a fairly sexually active teen as you may have figured out, so there was this one time... 
+	tag: Cancer
+	tag: ch-26
+	tag: EllenMcArthur
+	tag: Emily
+	tag: McArthurRes
+	tag: p-049
+page:2016-11-15
+	desc: Ellen: How did you... Do I want to know? No. It's not important
+	tag: Cancer
+	tag: ch-26
+	tag: EllenMcArthur
+	tag: Emily
+	tag: June
+	tag: McArthurRes
+	tag: p-048
+page:2016-11-13
+	desc: Ellen: Old taxes and financial statements? Honey, none of those will be relevant for your financial aid that far back...
+	tag: Cancer
+	tag: ch-26
+	tag: EllenMcArthur
+	tag: Emily
+	tag: McArthurRes
+	tag: p-047
+page:2016-11-11
+	desc: Ash: Look I keep thinking I need to fix the awkwardness but I don't.
+	tag: Ash
+	tag: ch-26
+	tag: ChiliCheeseFries
+	tag: James
+	tag: p-046
+	tag: Restaurant215
+	tag: Thursday
+page:2016-11-10
+	desc: Edward: See? Isn't this nice? Could you pass me the wine list?
+	tag: Ash
+	tag: ch-26
+	tag: Edward
+	tag: James
+	tag: p-045
+	tag: Restaurant215
+	tag: Thursday
+page:2016-11-09
+	desc: James: Good evening
+	tag: Ash
+	tag: ch-26
+	tag: Edward
+	tag: James
+	tag: p-044
+	tag: Restaurant215
+	tag: Thursday
+page:2016-11-08
+	desc: Edward: Grab your shoes. We're going to dinner
+	tag: Ash
+	tag: ch-26
+	tag: Edward
+	tag: Marie
+	tag: p-043
+	tag: Phone
+	tag: Restaurant215
+	tag: Thursday
+	tag: UptonHouse
+page:2016-11-07
+	desc: Marie: This has to be the oddest phone call I've ever received
+	tag: Ash
+	tag: ch-26
+	tag: Marie
+	tag: MarieHouse
+	tag: p-042
+	tag: Phone
+	tag: UptonHouse
+page:2016-11-04
+	desc: Rumisiel: There's some good news and some bad news.
+	tag: Ash
+	tag: ch-26
+	tag: Cigarette
+	tag: Emily
+	tag: OldRoad
+	tag: p-041
+	tag: Rumisiel
+	tag: XR4Ti
+page:2016-11-03
+	desc: Ash: What the heck is he doing?!
+	tag: Ash
+	tag: ch-26
+	tag: Cigarette
+	tag: Emily
+	tag: OldRoad
+	tag: p-040
+	tag: Rumisiel
+	tag: Surveyor1
+	tag: Surveyor2
+	tag: Plans
+	tag: XR4Ti
+page:2016-11-02
+	desc: Emily: Good idea. I can check the library and the town records and see if any paperwork turns up, you could check the local papers, Rumisiel...
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: OldRoad
+	tag: p-039
+	tag: Rumisiel
+	tag: Surveyor1
+	tag: Surveyor2
+	tag: Plans
+	tag: XR4Ti
+page:2016-11-01
+	desc: Ash: They can't... They can't just do that
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: OldRoad
+	tag: p-038
+	tag: Rumisiel
+	tag: Surveyor1
+	tag: Surveyor2
+	tag: SUV
+	tag: Truck
+	tag: XR4Ti
+page:2016-10-31
+	desc: Hallowe'en: Ash as Kylie from [6Gun Mage!](http://www.6gunmage.com/)
+	tag: Filler
+	tag: Ash
+	tag: Colour
+page:2016-10-28
+	desc: Ash: What the heck is this?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: OldRoad
+	tag: p-037
+	tag: Rumisiel
+	tag: Surveyor1
+	tag: Surveyor2
+	tag: SUV
+	tag: Truck
+	tag: XR4Ti
+page:2016-10-27
+	desc: Ash: I'm just saying I can't help but feel like my life is filled with a lot more offers and parental incentives since I stopped being the person I still wish I was
+	tag: Ash
+	tag: ch-26
+	tag: Edward
+	tag: Emily
+	tag: Marie
+	tag: p-036
+	tag: School
+page:2016-10-26
+	desc: Ash: At least you get a choice. I'm working for my mom in fashion and undergarments whether I like it or not
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-035
+	tag: School
+page:2016-10-25
+	desc: Emily: So, a night of awkward for everyone then?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-034
+	tag: School
 page:2016-10-24
 	desc: Edward: You'll always be my daughter. That'll never change
 	tag: Ash
