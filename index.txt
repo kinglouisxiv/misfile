@@ -47,11 +47,129 @@
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
+
+page:2016-12-30
+	desc: Ash: Haven't you ever wanted to be part of something that outlasts you?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Heather
+	tag: OldRoad
+	tag: p-078
+	tag: Tears
+page:2016-12-29
+	desc: Heather: You're going about this all wrong.
+	tag: Ash
+	tag: ch-26
+	tag: Heather
+	tag: OldRoad
+	tag: p-077
+	tag: Rumisiel
+page:2016-12-28
+	desc: Heather: Oh, no. What's she doing here?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Heather
+	tag: OldRoad
+	tag: p-076
+	tag: Rumisiel
+page:2016-12-27
+	desc: Heather: Your car. It's just... Really old
+	note: not clear which car this is
+	tag: Ash
+	tag: ch-26
+	tag: Heather
+	tag: p-075
+page:2016-12-26
+	desc: Heather: What the hell are you doing here?
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Heather
+	tag: HeatherHome
+	tag: p-074
+	tag: School
+page:2016-12-23
+	desc: Christmas 2016
+	tag: Ash
+	tag: Emily
+	tag: Filler
+	tag: Rumisiel
+page:2016-12-22
+	desc: Ash: You look unusually happy
+	tag: Ash
+	tag: Battery
+	tag: ch-26
+	tag: Emily
+	tag: Nissan240SX
+	tag: p-073
+	tag: School
+page:2016-12-21
+	desc: Cassi: You know I can do anything with that key, right?
+	tag: Cassi
+	tag: Cassiel
+	tag: ch-26
+	tag: Key
+	tag: p-072
+	tag: Rumisiel
+	tag: School
+page:2016-12-20
+	desc: Rumisiel: I know you live in a tent. I know you shower in the school locker room.
+	tag: Cassi
+	tag: Cassiel
+	tag: ch-26
+	tag: Key
+	tag: p-071
+	tag: Rumisiel
+	tag: School
+page:2016-12-19
+	desc: Moving Day!
+	tag: Filler
+page:2016-12-16
+	desc: Archon Killer: Nothing. Nothing! NOTHING!
+	tag: ArchonKiller
+	tag: CFS5
+	tag: CFS
+	tag: ch-26
+	tag: Heaven
+	tag: Key
+	tag: p-070
+page:2016-12-15
+	desc: Ash: I mean I always knew I wouldn't be here to drive it someday,
+	tag: ch-26
+	tag: Ash
+	tag: p-069
+	tag: UptonHouse
+page:2016-12-14
+	desc: Rumisiel: It's kind of a blur now. It was about you and me and sex...
+	tag: ch-26
+	tag: Ash
+	tag: p-068
+	tag: Roof
+	tag: Rumisiel
+	tag: UptonHouse
+page:2016-12-13
+	desc: Ash: Are you still moping up there?
+	tag: ch-26
+	tag: Ash
+	tag: p-067
+	tag: Roof
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: XR4Ti
+page:2016-12-12
+	desc: Edward: My daughter is a beautiful, wonderful girl. She is a thing of dreams and you are a horny teenager with obvious impulse control issues. So what gives?
+	tag: ch-26
+	tag: Edward
+	tag: p-066
+	tag: Rumisiel
+	tag: UptonHouse
 page:2016-12-09
 	desc: Rumisiel: OH! I haven't had sex with your daughter, if that helps! 
 	tag: ch-26
 	tag: Edward
-	tag: p-064
+	tag: p-065
 	tag: Rumisiel
 	tag: UptonHouse
 page:2016-12-08
@@ -60,14 +178,14 @@ page:2016-12-08
 	tag: ch-26
 	tag: Emily
 	tag: OldRoad
-	tag: p-063
+	tag: p-064
 	tag: WallaceMine
 page:2016-12-07
 	desc: Emily: What about the traffic circle in the town center?
 	tag: Ash
 	tag: ch-26
 	tag: Emily
-	tag: p-062
+	tag: p-063
 	tag: Rumisiel
 	tag: SchoolRoad
 	tag: Woodpecker
@@ -602,7 +720,7 @@ page:2016-09-09
 page:2016-09-08
 	desc: Rumisiel: I'm going to rashly assume that was you
 	tag: Car
-	tag: Cassie
+	tag: Cassi
 	tag: ch-26
 	tag: FlagPole
 	tag: p-005
@@ -612,7 +730,7 @@ page:2016-09-07
 	desc: Ash: All the interviewers turned out to be aliens and I spent the rest of the dream fighting them to save the planet
 	tag: Ash
 	tag: Car
-	tag: Cassie
+	tag: Cassi
 	tag: ch-26
 	tag: Emily
 	tag: FlagPole
