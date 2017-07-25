@@ -137,6 +137,7 @@ Heather	Heather Walsh, [Harry's](#harry) niece, drives a yellow ZX3
 HeatherHome	where Heather lurks; (Art Note: doorway has changed)
 Hickey	"love-bite" [Wikipedia](https://en.wikipedia.org/wiki/Hickey)
 Hit	punch / slap / kick / strangle / chase / fight
+HobbyCanyon	a hobby store, covering car modelling to video games (with free popcorn, Rumisiel notes)
 Iridium	rare transition metal used in high performance [spark plugs](#sparkplugs); see Wikipedia: [Iridium](https://en.wikipedia.org/wiki/Iridium)
 IRsensor	remote infrared & motion sensing camera
 Ivan	self-proclaimed 'Ice King'

@@ -47,7 +47,808 @@
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
-
+page: 2017-05-15
+	desc: Rumisiel: Who are you?
+	tag: Cassiel
+	tag: ch-27
+	tag: DrPatriciaWarding
+	tag: OldRoad
+	tag: p-056
+	tag: Rumisiel
+page: 2017-05-13
+	desc: Dakimakura (body pillow case)
+	note: [Kickstarter](https://www.kickstarter.com/projects/683971833/color-the-gray-misfile-and-6gun-mage-art-book) pledge rewards
+	tag: Ash
+	tag: ShoulderAngel
+	tag: Colour
+	tag: Filler
+page: 2017-05-12
+	desc: Missi: Is this it? Is the road saved now?
+	tag: ch-27
+	tag: Emily
+	tag: Missi
+	tag: OldRoad
+	tag: p-055
+page: 2017-05-11
+	desc: Carter Hughes: It's everywhere
+	tag: Ash
+	tag: CarterHughes
+	tag: Cassiel
+	tag: ch-27
+	tag: DrPatriciaWarding
+	tag: OldRoad
+	tag: p-054
+	tag: Rumisiel
+page: 2017-05-10
+	desc: [Misfile, etc, Coloring Book - Kickstarter Advert](https://www.kickstarter.com/projects/683971833/color-the-gray-misfile-and-6gun-mage-art-book)
+	tag: Ash
+	tag: Colour
+	tag: Filler
+page: 2017-05-09
+	desc: Rumisiel: Look, science guy... Can I call you science guy? The plant thing, which is totally here, by the way, it's almost inconsequential
+	tag: Ash
+	tag: CarterHughes
+	tag: Cassiel
+	tag: ch-27
+	tag: DrPatriciaWarding
+	tag: OldRoad
+	tag: p-053
+page: 2017-05-08
+	desc: Rumisiel: Look, science guy... Can I call you science guy? The plant thing, which is totally here, by the way, it's almost inconsequential
+	tag: Ash
+	tag: CarterHughes
+	tag: ch-27
+	tag: Emily
+	tag: OldRoad
+	tag: p-052
+	tag: Rumisiel
+page: 2017-05-05
+	desc: Ash: No, no, no. This IS the spot! Did it die? I don't see a dead plant!
+	tag: Ash
+	tag: CarterHughes
+	tag: ch-27
+	tag: Emily
+	tag: Missi
+	tag: OldRoad
+	tag: p-051
+page: 2017-05-04
+	desc: Rumisiel: Where is it?
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: OldRoad
+	tag: p-050
+	tag: Rumisiel
+page: 2017-05-03
+	desc: Missi: I don't see anyone that looks official yet...
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: Missi
+	tag: OldRoad
+	tag: p-049
+	tag: XR4Ti
+page: 2017-05-02
+	desc: Missi: I made some calls, some invites. Some of it may just have been gossip. 
+	tag: Acura
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: Missi
+	tag: OldRoad
+	tag: p-048
+	tag: Tom
+	tag: XR4Ti
+page: 2017-05-01
+	desc: Emily: You look nervous
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: Missi
+	tag: OldRoad
+	tag: p-047
+	tag: XR4Ti
+page: 2017-04-28
+	desc: Ash: Just... Promise not to grow a goatee
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: p-046
+	tag: School
+page: 2017-04-27
+	desc: Ash: I'm not... Emily? What are you doing here?
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: p-045
+	tag: School
+page: 2017-04-26
+	desc: Missi: Houston, we are go
+	tag: Ash
+	tag: ch-27
+	tag: Phone
+	tag: Missi
+	tag: p-044
+page: 2017-04-25
+	desc: Ash: That's condoms. What exactly are these supposed to advertize?
+	tag: Ash
+	tag: ch-27
+	tag: FeminineHygiene
+	tag: Missi
+	tag: p-043
+	tag: Pharmacy
+	tag: Vampire
+page: 2017-04-24
+	desc: Notebook: I am a stranger in a strange land. So far the natives do not appear to have noticed me, but as I engage in this commonplace ritual I feel as though I am being watched... judged...
+	tag: Ash
+	tag: Pharmacy
+	tag: FeminineHygiene
+	tag: ch-27
+	tag: Missi
+	tag: p-042
+page: 2017-04-21
+	desc: Eponine: It's, like, part of the collective consciousness of this town. Even if it's always been a little silly to me I'm still part of it, and it's part of me. I'd feel sad to see it go.
+	tag: Cassi
+	tag: Cassiel
+	tag: ch-27
+	tag: Eponine
+	tag: EponineHome
+	tag: Fern
+	tag: OldRoad
+	tag: OldRoadFlyer
+	tag: p-041
+page: 2017-04-20
+	desc: Eponine: It's a flyer Ash gave me. Apparently someone is trying to buy up and develop the Old Road
+	tag: Cassi
+	tag: Cassiel
+	tag: ch-27
+	tag: Eponine
+	tag: EponineHome
+	tag: OldRoadFlyer
+	tag: p-040
+page: 2017-04-19
+	desc: Emily: A model of my car. I enjoy my car and my car stuff... Most of the time... When we're not trying to save the road.
+	note: Not actually stated which car, but the thumbnail picture on the side of the box doesn't look very like a Mustang
+	tag: ch-27
+	tag: Nissan240SXModel
+	tag: Emily
+	tag: HobbyCanyon
+	tag: p-039
+	tag: Rumisiel
+page: 2017-04-18
+	desc: Rumisiel: Whatcha doing?
+	tag: ch-27
+	tag: Emily
+	tag: HobbyCanyon
+	tag: p-038
+	tag: Rumisiel
+page: 2017-04-17
+	desc: Missi: You know I'm a better mechanic than Emily! She barely knows anything! I'm so psyched! If you were a boy I would totally have your baby right now!
+	tag: Ash
+	tag: BurgerBarn
+	tag: ch-27
+	tag: Missi
+	tag: p-037
+page:2017-04-14
+	desc: Missi: So what happened? I've been getting all my information about you third person from Rumisiel. We used to hang out. Did I offend you somehow?
+	tag: Ash
+	tag: BurgerBarn
+	tag: ch-27
+	tag: Missi
+	tag: p-036
+page:2017-04-13
+	desc: Ash: Seems... Like an odd venue
+	tag: Ash
+	tag: BurgerBarn
+	tag: ch-27
+	tag: Missi
+	tag: p-035
+page:2017-04-12
+	desc: Ash: You're... Uh... Kind of in my personal space.
+	tag: Ash
+	tag: ch-27
+	tag: Missi
+	tag: p-034
+	tag: School
+page:2017-04-11
+	desc: EllenMcArthur: Let me finish. I'm just saying I know your mom isn't always the person you want to talk to, but sometimes, even if you don't talk, it's nice to know the option is always there.
+	tag: ch-27
+	tag: EllenMcArthur
+	tag: Emily
+	tag: McArthurRes
+	tag: p-033
+page:2017-04-10
+	desc: Emily: No, Just... Mom, I love you but sometimes I just can't talk to you about... Everything, you know?
+	tag: ch-27
+	tag: EllenMcArthur
+	tag: Emily
+	tag: Fridge
+	tag: McArthurRes
+	tag: Moon
+	tag: p-032
+page:2017-04-08
+	desc: Nissan: Nissan main switchboard. How may I direct your call?
+	note: Patreon Bonus Page
+	tag: Ash
+	tag: Colour
+	tag: Filler
+	tag: Patreon
+	tag: Phone
+page:2017-04-07
+	desc: Rumisiel: I think I found it, the cryptic grandma celery or whatever!
+	tag: Angel
+	tag: Ash
+	tag: Cassiel
+	tag: ch-27
+	tag: Cliff
+	tag: OldRoad
+	tag: p-031
+	tag: Rumisiel
+	tag: XR4Ti
+page:2017-04-06
+	desc: Ash: Let's just find some of the other spots you went. I don't know how much time we have
+	tag: Angel
+	tag: Ash
+	tag: ch-27
+	tag: Cliff
+	tag: OldRoad
+	tag: p-030
+	tag: Rumisiel
+page:2017-04-05
+	desc: Rumisiel: Are you scared of birds now? What gives?
+	tag: Angel
+	tag: Ash
+	tag: Bird
+	tag: ch-27
+	tag: Cliff
+	tag: OldRoad
+	tag: p-029
+	tag: Rumisiel
+page:2017-04-04
+	desc: Ash: In this case I'll give you a pass. As bad of an idea as this is it's important to me
+	tag: Angel
+	tag: Ash
+	tag: ch-27
+	tag: Cliff
+	tag: OldRoad
+	tag: p-028
+	tag: Rumisiel
+page:2017-04-03
+	desc: Ash: Seriously? This is one of the cliffs you fell down?
+	tag: Ash
+	tag: ch-27
+	tag: Cliff
+	tag: OldRoad
+	tag: p-027
+	tag: Rumisiel
+page:2017-03-31
+	desc: Ash: I'm just realizing why you two hang out. You're like the poster child of not growing up.
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: Missi
+	tag: p-026
+	tag: Rumisiel
+	tag: School
+page:2017-03-30
+	desc: Ash: What on earth are you eating?
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: Missi
+	tag: YoghurtMelts
+	tag: p-025
+	tag: School
+page:2017-03-29
+	desc: Ash: Oh, sure, at first. Then there will be laws. You can't pump your own gas in New Jersey, you know that? Not even if you want to. You think self-driving cars will be any different?
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: GasPump
+	tag: NewJersey
+	tag: p-024
+	tag: SchoolRoad
+page:2017-03-28
+	desc: Ash: I hate giving up autonomy. Where's the fun in a self driving car. It's like being stuck in a cab. Have you BEEN in a cab lately? Was it fun?
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: Mirror
+	tag: MushroomCloud
+	tag: p-023
+	tag: SchoolRoad
+	tag: Skynet
+page:2017-03-27
+	desc: Ash: Fast enough? People walking here, asshole!
+	note: Close pass by a fast car
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: p-022
+	tag: SchoolRoad
+page:2017-03-24
+	desc: Emily: What's to tell? It was boring. That's why I only did it once. It was just Molly and I ditching.We hid under her house all day trying to keep quiet and I practically got sick from stress
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: p-021
+	tag: SchoolRoad
+page:2017-03-23
+	desc: Emily: Well, at the very least, I am glad you're feeling better
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: p-020
+	tag: SchoolRoad
+page:2017-03-22
+	desc: Ash: Wow! THAT feels like a million times better. Almost feels like I could take on the world today...
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: Emily
+	tag: p-019
+	tag: Period
+	tag: SchoolRoad
+	tag: UptonHouse
+page:2017-03-21
+	desc: Ash: Ok... That's really... I mean, thanks... But on the flip side, you sitting there staring at me all night while I sleep is pretty creepy
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: p-018
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-03-20
+	desc: Rumisiel: She went home a while ago. It was late...
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: p-017
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-03-17
+	desc: Filler: Missi on a pogo stick, eating a muffin
+	tag: Filler
+	tag: Missi
+	tag: Muffin
+	tag: PogoStick
+page:2017-03-16
+	desc: Ash: Real or not, I'm the one here now. There is no you. Get out of my head
+	tag: Ash
+	tag: Ashley
+	tag: ch-27
+	tag: Dream
+	tag: Dress
+	tag: Emily
+	tag: p-016
+page:2017-03-15
+	desc: Ashley: Oh, yes. We need to talk.
+	tag: Ash
+	tag: Ashley
+	tag: ch-27
+	tag: Dream
+	tag: Dress
+	tag: p-015
+page:2017-03-14
+	desc: Emily: Maybe. That girl wouldn't be you though, so what difference does it make how she would or wouldn't feel?
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: Emily
+	tag: p-014
+	tag: UptonHouse
+page:2017-03-13
+	desc: Ash: I guess what bothered me most was just that I was... Happy
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: Emily
+	tag: p-013
+	tag: UptonHouse
+page:2017-03-10
+	desc: Emily: I mean, maybe you're worried I'm taking the masculine role in the relationship.
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: Emily
+	tag: p-012
+	tag: UptonHouse
+page:2017-03-08
+	desc: Computer Status: DEAD
+	tag: Filler
+page:2017-03-07
+	desc: Emily: Ah! That face is a total "yes!". Do tell!
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: Emily
+	tag: p-011
+	tag: UptonHouse
+page:2017-03-06
+	desc: Ash: You'll get in trouble...
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: Emily
+	tag: p-010
+	tag: UptonHouse
+page:2017-03-03
+	desc: Emily: Ash, I'm here because I care. I am really and truly here. Rumisiel said he couldn't wake you up
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: Emily
+	tag: p-009
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-03-02
+	desc: Ash: Emily? Is school out already? Time flies today...
+	note: 11:53 shown on the clock
+	tag: Ash
+	tag: Emily
+	tag: Bed
+	tag: ch-27
+	tag: p-008
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-03-01
+	desc: Ash: I woke up in an ice bath with a nefarious character. I'm checking to make sure I still have my kidneys.
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: p-007
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-02-28
+	desc: Rumisiel: No, no, no! Don't go back to sleep. Get angry! Hit me! Stay with me! The water isn't even that cold! Are you getting chills now too? Here, let me help you out of there.
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: p-006
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-02-27
+	desc: Rumisiel: You ok, Ash?
+	tag: Ash
+	tag: Bath
+	tag: ch-27
+	tag: p-005
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-02-25
+	desc: Patreon Bonus: Transformation!
+	tag: Ash
+	tag: Colour
+	tag: Dress
+	tag: Emily
+	tag: Patreon
+page:2017-02-24
+	desc: Missi: Ash, are you ok? Still hot?
+	tag: Ash
+	tag: Bath
+	tag: ch-27
+	tag: Dream
+	tag: Emily
+	tag: IceCube
+	tag: Kate
+	tag: Missi
+	tag: p-004
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-02-23
+	desc: Kate: Ash! Get your backpack. Your boyfriend is here
+	tag: Ash
+	tag: ch-27
+	tag: Dream
+	tag: Emily
+	tag: Kate
+	tag: Missi
+	tag: p-003
+	tag: Snow
+page:2017-02-22
+	desc: Kate: Good morning, Ash! I'm afraid you took too long and the eggs I made you for breakfast hatched. You'll have to catch them if you want to eat
+	tag: Ash
+	tag: ch-27
+	tag: Chicks
+	tag: Dream
+	tag: Kate
+	tag: Missi
+	tag: p-002
+page:2017-02-21
+	desc: Missi: Get your butt out of bed! It's time for school!
+	tag: Ash
+	tag: Bed
+	tag: ch-27
+	tag: Dream
+	tag: Kate
+	tag: Missi
+	tag: p-001
+page:2017-02-20
+	desc: **Book 27**<br><br>Early Summer ’05 (?)
+	tag: ch-27
+	tag: p-000
+	tag: Emily
+	tag: Colour
+	tag: Cover
+page:2017-02-17
+	desc: Rumisiel: Ash? Uh... It's a lot harder to get the chair back upstairs than it was to get it down
+	tag: Ash
+	tag: Bed
+	tag: ch-26
+	tag: p-111
+	tag: Thermometer
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-02-16
+	desc: Ash: So... I guess... As long as you are here all day... You can pull up a chair... You know... If you want to hang out with a boring old car guy who...
+	tag: Ash
+	tag: Bed
+	tag: ch-26
+	tag: p-110
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-02-15
+	desc: Rumisiel: How? I can't really talk about my past or anything I've done. I don't have much in common with anyone.
+	tag: Ash
+	tag: Bed
+	tag: ch-26
+	tag: p-109
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-02-14
+	desc: Rumisiel: Friends? I don't really HAVE any friends there
+	tag: Bed
+	tag: Ash
+	tag: ch-26
+	tag: p-108
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-02-13
+	desc: Rumisiel: So what's the plan for the day then?
+	tag: Bed
+	tag: Ash
+	tag: ch-26
+	tag: p-107
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-02-10
+	desc: Rumisiel: Just over one hundred... why are you smiling?
+	tag: 100
+	tag: Ash
+	tag: ch-26
+	tag: p-106
+	tag: Rumisiel
+	tag: Thermometer
+	tag: UptonHouse
+page:2017-02-09
+	tag: Ash
+	tag: Bed
+	tag: ch-26
+	tag: UptonHouse
+	tag: p-105
+	tag: Flashback
+	tag: StuntPlane
+	tag: Puke
+	tag: Toilet
+page:2017-02-08
+	desc: Rumisiel: I think your big "Conspiracy" is that guys like boobs
+	tag: Ash
+	tag: ch-26
+	tag: McArthurRes
+	tag: p-104
+	tag: Rumisiel
+	tag: XR4Ti
+page:2017-02-07
+	desc: Ash: Well NOW it doesn't!
+	tag: Ash
+	tag: ch-26
+	tag: McArthurRes
+	tag: p-103
+	tag: Rumisiel
+page:2017-02-03
+	desc: Ash: I... Wha... It's too tight and hot to do the top buttons! Don't tell me you...
+	tag: Ash
+	tag: ch-26
+	tag: McArthurRes
+	tag: p-102
+	tag: Rumisiel
+page:2017-02-02
+	desc: Rumisiel: You look relieved. I never thought I'd see you being relieved to leave Emily's house
+	tag: Ash
+	tag: ch-26
+	tag: McArthurRes
+	tag: p-101
+	tag: Rumisiel
+page:2017-02-01
+	desc: Emily: Well assuming it is what I think it is AND we can find where it came from and more of it we may have something here
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Fern
+	tag: McArthurRes
+	tag: p-100
+	tag: Rumisiel
+page:2017-01-31
+	desc: Emily: Fragile Rock-brake "Cryptogramma stelleri". Status endangered
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Fern
+	tag: McArthurRes
+	tag: p-099
+	tag: Rumisiel
+page:2017-01-30
+	desc: Rumisiel: Well, there's a fern or something ground into the rug there, but if you mean something useful... probably not.
+	tag: Ash
+	tag: ch-26
+	tag: Fern
+	tag: p-098
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-01-27
+	desc: Rumisiel: I was... out
+	tag: Ash
+	tag: ch-26
+	tag: p-097
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-01-26
+	desc: Ash: Hello? Anyone home? Who the heck left the door open?
+	tag: Ash
+	tag: ch-26
+	tag: p-096
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: WhiteRug
+page:2017-01-25
+	desc: Ash: Crap! While I was up there I should have had Jake swing by the Old Road!
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Flash
+	tag: p-095
+page:2017-01-24
+	desc: Emily: Anyway, I'm sorry. Here I just wanted to help you to relax and have a good time and now you're wiping puke off your face in a public restroom
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-094
+page:2017-01-23
+	desc: Emily: I'm actually guessing it's not the first time since he seemed to take it pretty well
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-093
+page:2017-01-20
+	desc: Emily: I'm sorry. It... Didn't turn out quite how I expected it to
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-092
+page:2017-01-19
+	desc: Jake: Well that's no good! Smile for me! You know how many G's we just pulled?
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: JakeElliot
+	tag: p-091
+	tag: StuntPlane
+page:2017-01-18
+	desc: Chris's Birthday
+	tag: Filler
+page:2017-01-17
+	desc: Jake: I can only do this for so long before we are in the trees!
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: JakeElliot
+	tag: p-090
+	tag: StuntPlane
+page:2017-01-16
+	desc: Ash: &lt;My stomach feels... I... Actually...&gt;
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: JakeElliot
+	tag: p-089
+	tag: StuntPlane
+page:2017-01-14
+	desc: "The angels have the phonebox..."
+	tag: Cassiel
+	tag: Filler
+	tag: Patreon
+	tag: PoliceBox
+	tag: Rumisiel
+	tag: Tardis
+page:2017-01-13
+	desc: Jake: Listen to that engine. Don't get a whine like that in a car, do you?
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: JakeElliot
+	tag: p-088
+	tag: StuntPlane
+page:2017-01-12
+	desc: Jake: Comfy back there?
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: JakeElliot
+	tag: p-087
+	tag: StuntPlane
+page:2017-01-11
+	desc: Emily: Give it a chance. I think you'll like it. It will get your mind off your troubles at the very least.
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: p-086
+	tag: StuntPlane
+page:2017-01-10
+	desc: Jake Elliot: It's not the size. It's how you handle the stick.
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: JakeElliot
+	tag: p-085
+	tag: StuntPlane
+page:2017-01-09
+	desc: Emily: See that? It's a stunt plane. It's like the air equivalent of your car... Well newer I guess.
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: JakeElliot
+	tag: p-084
+	tag: StuntPlane
+page:2017-01-06
+	desc: Ash: A plane? You can't afford a plane, You can't even afford to RENT a plane...
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: MileHighClub
+	tag: Nissan240SX
+	tag: p-083
+page:2017-01-05
+	desc: Ash: We're quite a way out of town...
+	tag: Airport
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Nissan240SX
+	tag: p-082
+page:2017-01-04
+	desc: Emily: TAA-DAAAAAA!
+	tag: Ash
+	tag: ch-26
+	tag: Emily
+	tag: Envelope
+	tag: p-081
+	tag: School
+page:2017-01-03
+	desc: Rumisiel: You still awake? I'm... Sorry we didn't find anything
+	tag: Ash
+	tag: ch-26
+	tag: p-080
+	tag: Rumisiel
+	tag: UptonHouse
+page:2017-01-02
+	desc: Emily: Holy crap... Heather is actually human
+	tag: Ash
+	tag: Book
+	tag: ch-26
+	tag: Emily
+	tag: OldRoad
+	tag: p-079
 page:2016-12-30
 	desc: Ash: Haven't you ever wanted to be part of something that outlasts you?
 	tag: Ash
