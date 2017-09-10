@@ -47,6 +47,635 @@
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
+page: 2017-09-08
+	desc: Ash: Jeeze, Missi. You're early I thought you weren't...
+	tag: Ash
+	tag: ch-28
+	tag: GraduationRobe
+	tag: James
+	tag: Missi
+	tag: p-23
+	tag: UptonHouse
+page: 2017-09-07
+	desc: Ash: Well, now I feel crappy. Suddenly I'm the root of all this depression. Look. Stop by tonight. We... Do... Something, just you and me
+	tag: Ash
+	tag: ch-28
+	tag: GraduationRobe
+	tag: Missi
+	tag: p-22
+	tag: School
+	tag: UptonHouse
+page: 2017-09-06
+	desc: Ash: Why are you staring? Are you imagining me naked under a graduation robe?
+	tag: Ash
+	tag: ch-28
+	tag: Missi
+	tag: OldRoad
+	tag: p-21
+	tag: School
+page: 2017-09-05
+	desc: Missi: Tom didn't. He didn't wear anything underneath. He said, like half his class didn't. Even if he was exaggerating there had to be a bunch
+	tag: Ash
+	tag: ch-28
+	tag: Missi
+	tag: p-20
+	tag: School
+page: 2017-09-04
+	desc: Missi: You you going to wear anything under your robe?
+	tag: Ash
+	tag: ch-28
+	tag: Missi
+	tag: p-19
+	tag: School
+page: 2017-09-01
+	desc: Rumisiel: Uh... You aren't looking at me anymore... Is that good or bad?
+	tag: Cassi
+	tag: ch-28
+	tag: p-18
+	tag: Toilet
+	tag: Rumisiel
+	tag: School
+page: 2017-08-31
+	desc: Cassi: Don't! Don't you dare...
+	tag: Cassi
+	tag: ch-28
+	tag: p-17
+	tag: Toilet
+	tag: Rumisiel
+	tag: School
+page: 2017-08-30
+	desc: Cassi: You LOST IT?!
+	tag: Cassi
+	tag: ch-28
+	tag: p-16
+	tag: Toilet
+	tag: Rumisiel
+	tag: School
+page: 2017-08-29
+	desc: Cassi: You, piss boy! / Shake it off and scram!
+	tag: Cassi
+	tag: ch-28
+	tag: p-15
+	tag: Key
+	tag: CFS5
+	tag: Toilet
+	tag: PissBoy
+	tag: Rumisiel
+	tag: School
+page: 2017-08-28
+	desc: Cassi: Well now... That's a little self-important. Why would a nobody like you think that?
+	note: mention of Key to 5th Branch; and Satan
+	tag: Cassi
+	tag: ch-28
+	tag: p-14
+	tag: Key
+	tag: CFS5
+	tag: Satan
+	tag: Rumisiel
+	tag: School
+page: 2017-08-25
+	desc: Cassi: Well, clearly you are in a bad place, so... No
+	tag: Cassi
+	tag: ch-28
+	tag: Kowtow
+	tag: p-13
+	tag: Rumisiel
+	tag: School
+page: 2017-08-24
+	desc: Ash: So you're...
+	tag: Ash
+	tag: ch-28
+	tag: Emily
+	tag: Hand
+	tag: p-12
+	tag: Rumisiel
+	tag: SchoolRoad
+page: 2017-08-23
+	desc: Ash: Does it? Does it really , or does it just distract you? I'm always worried that one day you'll just explode with resentment and it will be my fault 
+	tag: Ash
+	tag: ch-28
+	tag: Emily
+	tag: p-11
+	tag: SchoolRoad
+page: 2017-08-22
+	desc: Rumisiel: What about my hand?
+	tag: Ash
+	tag: ch-28
+	tag: Emily
+	tag: p-10
+	tag: Rumisiel
+	tag: SchoolRoad
+page: 2017-08-21
+	desc: Enjoy the Eclpise / View it safely
+	tag: Colour
+	tag: Eclipse
+	tag: Filler
+	tag: Silhouette 
+page: 2017-08-18
+	desc: Ash: It's my graduation robe... Please don't be depressed
+	tag: Ash
+	tag: ch-28
+	tag: Emily
+	tag: GraduationRobe
+	tag: p-09
+	tag: SchoolRoad
+	tag: UptonHouse
+page: 2017-08-17
+	desc: Emily: Is that for you? What did you get?
+	tag: Ash
+	tag: ch-28
+	tag: Doorbell
+	tag: Emily
+	tag: p-08
+	tag: Package
+	tag: UptonHouse
+page: 2017-08-16
+	desc: Ash: You losing your memory now? Your stupid recorder has been gone for a while now
+	tag: Ash
+	tag: ch-28
+	tag: Emily
+	tag: p-07
+	tag: Rumisiel
+	tag: UptonHouse
+page: 2017-08-15
+	desc: Ash: Putting on some clothes. I don't do "casual naked"... And stop watching. It's creepy.
+	tag: Ash
+	tag: ch-28
+	tag: Emily
+	tag: p-06
+	tag: Rumisiel
+	tag: UptonHouse
+page: 2017-08-14
+	desc: Rumisiel: Look, so long as you're here, I want to talk angel stuff. Ash, Emily, could you give us some privacy for a moment.
+	tag: Ash
+	tag: Bed
+	tag: Cassiel
+	tag: Window
+	tag: ch-28
+	tag: Emily
+	tag: p-05
+	tag: Rumisiel
+	tag: UptonHouse
+page: 2017-08-10
+	desc: Cassiel: And to think I came here to out-nice you. Now I'm just pissed off!
+	tag: Ash
+	tag: Bed
+	tag: Cassiel
+	tag: Window
+	tag: ch-28
+	tag: Emily
+	tag: p-04
+	tag: Rumisiel
+	tag: UptonHouse
+page: 2017-08-09
+	desc: Emily: Awkward as this may be... You looked pretty worried. Was something the matter?
+	tag: Bed
+	tag: Cassiel
+	tag: ch-28
+	tag: Emily
+	tag: p-03
+	tag: Rumisiel
+	tag: UptonHouse
+page: 2017-08-08
+	desc: Rumisiel: Ash! Ash, I...
+	tag: Ash
+	tag: Bed
+	tag: Blush
+	tag: ch-28
+	tag: Emily
+	tag: p-02
+	tag: Rumisiel
+	tag: UptonHouse
+page: 2017-08-07
+	desc: Voice: &nbsp;Take up the Angel's burden...<br>Send forth thy host on wings...<br>&nbsp;Go send they sons to exile...<br>See what thy power brings...
+	note: See [The White Man's Burden ---Kipling](http://historymatters.gmu.edu/d/5478)
+	tag: Rumisiel
+	tag: ch-28
+	tag: Dream
+	tag: UptonHouse
+	tag: p-01
+page: 2017-08-04
+	desc: Chapter 28
+	tag: Ash
+	tag: ch-28
+	tag: CokeCan
+	tag: Colour
+	tag: Cover
+	tag: Emily
+	tag: p-00
+page: 2017-08-03
+	desc: Emily: I guess... I guess it's something I'll never really understand
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: Kiss
+	tag: p-106
+	tag: UptonHouse
+page: 2017-08-02
+	desc: Ash: I could stop by. It's much less creepy for me to come hang out with high school girls after graduation no that I'm not sporting... you know
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: p-105
+	tag: UptonHouse
+page: 2017-08-01
+	desc: Emily: I'm going to miss this...
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: Moon
+	tag: p-105
+	tag: UptonHouse
+page: 2017-07-31
+	desc: Emily: Hello? Am I interrupting?
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: p-104
+	tag: Rumisiel
+	tag: UptonHouse
+page: 2017-07-28
+	desc: Ash: Cassiel? You asked the Queen of Fail for help?
+	tag: Ash
+	tag: ch-27
+	tag: p-103
+	tag: Rumisiel
+	tag: UptonHouse
+page: 2017-07-27
+	desc: Rachel: Yo, Emily. Eating alone? Where's your other half?
+	note: reference to a 'graduation meeting thing' for Ash
+	tag: Emily
+	tag: ch-27
+	tag: p-102
+	tag: Rachel
+	tag: School
+page: 2017-07-26
+	desc: Rumisiel: You're about half an inch from losing it completely. You NEED what I'm offering
+	tag: Cassiel
+	tag: ch-27
+	tag: p-101
+	tag: Rumisiel
+	tag: Woods
+page: 2017-07-25
+	desc: Cassiel: Why on earth should I help you?
+	tag: BowlingAlley
+	tag: Cassiel
+	tag: ch-27
+	tag: p-100
+	tag: Rumisiel
+	tag: Spa
+	tag: Woods
+page: 2017-07-24
+	desc: Rumisiel: Vashiel! Vash! 
+	tag: ch-27
+	tag: p-099
+	tag: Rumisiel
+	tag: Woods
+page: 2017-07-21
+	desc: Ash: Don't say stuff like that in public...
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: p-098
+	tag: School
+page: 2017-07-20
+	desc: Ash: That last worry is the worst kind of worry, because  unlike the other bits that directly involve me there's nothing I can think of to do to even affect that last one
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: p-098
+	tag: School
+page: 2017-07-19
+	desc: Emily: Hey. That is a worried Ash brow
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: p-097
+	tag: School
+page: 2017-07-18
+	desc: Ash: WAIT! Before you go... Rumisiel tole me some really... Heavy stuff is going down with the filing... If I promise not to...
+	tag: Ash
+	tag: Bed
+	tag: Cassie
+	tag: ch-27
+	tag: p-096
+	tag: UptonHouse
+page: 2017-07-14
+	desc: Ash: ... Is that... supposed to be toast?
+	tag: Ash
+	tag: Bed
+	tag: Breakfast
+	tag: Cassie
+	tag: ch-27
+	tag: p-095
+	tag: UptonHouse
+page: 2017-07-13
+	desc: Ash: There you go, thinking again. Always seems to lead to trouble, but I'm beginning to see it as a positive development in your character
+	tag: Ash
+	tag: ch-27
+	tag: Ladder
+	tag: p-094
+	tag: Roof
+	tag: Rumisiel
+	tag: UptonHouse
+page: 2017-07-12
+	desc: Rumisiel: Does that not sound a bit suspicious to you?
+	tag: Ash
+	tag: ch-27
+	tag: p-093
+	tag: Roof
+	tag: Rumisiel
+	tag: UptonHouse
+page: 2017-07-11
+	desc: Ash: My dad giving you a hard time again?
+	tag: Ash
+	tag: ch-27
+	tag: p-092
+	tag: Roof
+	tag: Rumisiel
+	tag: UptonHouse
+	tag: XR4Ti
+page: 2017-07-07
+	desc: Ash: Open it
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: McArthurRes
+	tag: p-091
+	tag: XR4TiModel
+page: 2017-07-06
+	desc: Emily: Come on in. The door is open.
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: McArthurRes
+	tag: p-090
+page: 2017-07-05
+	desc: Rumisiel: So the Archons go missing and then the guy investigating them being missing disappears and that doesn't bother you on some level?
+	tag: Ash
+	tag: Cassiel
+	tag: ch-27
+	tag: p-089
+	tag: Rumisiel
+page: 2017-07-04
+	desc: 4th July 2017
+	tag: Colour
+	tag: Filler
+	tag: Firework
+	tag: Rumisiel
+page: 2017-07-03
+	desc: Rumisiel: Uh... You knocked down, like, four trees on the way here. It was a pretty easy follow
+	tag: Cassiel
+	tag: ch-27
+	tag: p-088
+	tag: Rumisiel
+page: 2017-06-30
+	desc: Cassiel: Stupid Ash and her stupid "thank you"...
+	tag: Cassiel
+	tag: ch-27
+	tag: p-087
+	tag: Rumisiel
+page: 2017-06-29
+	desc: Ash: You helped us, and I KNOW it wasn't FOR us, but you still deserve thanks
+	tag: Ash
+	tag: Cassi
+	tag: ch-27
+	tag: p-086
+	tag: School
+page: 2017-06-28
+	desc: Ash: ... Everyone keeps saying that ... But I'm not the only one who saved the Old Road
+	tag: Ash
+	tag: ch-27
+	tag: Cassi
+	tag: p-085
+	tag: School
+page: 2017-06-27
+	desc: Ash: This is, I think, my least favorite thing about warm weather
+	tag: Ash
+	tag: ch-27
+	tag: Cassi
+	tag: Eponine
+	tag: p-084
+	tag: Rumisiel
+	tag: School
+	tag: Swim
+page: 2017-06-26
+	desc: Ash: This is, I think, my least favorite thing about warm weather
+	tag: Ash
+	tag: ch-27
+	tag: Eponine
+	tag: p-083
+	tag: School
+	tag: Swim
+page: 2017-06-24
+	desc: Banana Hammock
+	tag: Ash
+	tag: Filler
+	tag: Emily
+	tag: Rumisiel
+	tag: Patreon
+page: 2017-06-23
+	desc: Ash: I just... I need to know it's for you and not for me
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: p-082
+page: 2017-06-22
+	desc: Emily: What gives?
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: p-081
+page: 2017-06-21
+	desc: Emily: Huh? Why? I thought you'd want me to...
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: p-080
+	tag: Rumisiel
+page: 2017-06-19
+	desc: Emily: **I AM THE CHAMPION**
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: p-079
+	tag: Rumisiel
+page: 2017-06-16
+	desc: Rumisiel: That's not... You tricky bitch!
+	tag: Ash
+	tag: BinaryBackground
+	tag: ch-27
+	tag: FullerHome
+	tag: p-078
+	tag: Rumisiel
+page: 2017-06-15
+	desc: Ash: Look, I've spent the last year and a half trying to make things the same; trying to get things back to the way they used to be
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: p-077
+	tag: Rumisiel
+page: 2017-06-14
+	desc: Rumisiel: Come on. Just 'cause you got beat by a REAL girl doesn't mean you've got to sulk by the window
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: p-077
+	tag: Rumisiel
+page: 2017-06-13
+	desc: Missi: ASH! You came! Rumisiel send you weren't going to make it 
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: FullerHome
+	tag: p-076
+	tag: Rumisiel
+	tag: XTremeRacer
+page: 2017-06-12
+	desc: Missi: ASH! You came! Rumisiel send you weren't going to make it 
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: Missi
+	tag: p-075
+page: 2017-06-09
+	desc: Ash: This is familiar. Just me, my car, the road
+	tag: Ash
+	tag: ch-27
+	tag: OldRoad
+	tag: p-074
+	tag: Moon
+page: 2017-06-08
+	desc: Rumisiel: Missi is going to try to throw another shindig tonight. You want in?
+	tag: Ash
+	tag: ch-27
+	tag: OldRoad
+	tag: p-073
+	tag: Rumisiel
+	tag: School
+page: 2017-06-06
+	desc: Rumisiel: It's isn't though. You've just got a narrow perspective
+	tag: Ash
+	tag: ch-27
+	tag: p-072
+	tag: Rumisiel
+	tag: School
+page: 2017-06-05
+	desc: Rumisiel: Earth to Ash. Come in, space cadet
+	tag: Ash
+	tag: ch-27
+	tag: School
+	tag: Rumisiel
+	tag: p-071
+page: 2017-06-02
+	desc: Missi: Ash, I... I told Emily last night... But it's harder with you
+	tag: Ash
+	tag: ch-27
+	tag: SchoolRoad
+	tag: Missi
+	tag: p-070
+page: 2017-06-01
+	desc: Missi: I can't believe he threw you out... I mean PHYSICALLY picked you up and THREW you out of his room
+	tag: Ash
+	tag: ch-27
+	tag: SchoolRoad
+	tag: Missi
+	tag: p-069
+page: 2017-05-31
+	desc: Tom: What the hell, Missi? Are you still four years old? And, Ash, if you wanted to see the goods you could have just asked
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: Missi
+	tag: Naked
+	tag: p-068
+	tag: Tom
+page: 2017-05-30
+	desc: Ash: Stop. I never said...
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: Missi
+	tag: p-067
+	tag: Underpants
+page: 2017-05-29
+	desc: Ash: Do not make me empathise with your brother. I've gotten way too much crap from him over the years to start trying to understand his motivations now.
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: Missi
+	tag: p-066
+page: 2017-05-26
+	desc: Ash: Did... You let my Dad know where I was? He has to be freaking out
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: Missi
+	tag: p-065
+page: 2017-05-25
+	desc: Ash: I, uh... Why am I in my underwear?
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: Missi
+	tag: p-064
+page: 2017-05-24
+	desc: Ash: Oh come on. This dream again?
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: Missi
+	tag: p-063
+page: 2017-05-23
+	desc: Missi: You know, Ash has a really nice butt from this angle
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: FullerHome
+	tag: Missi
+	tag: p-062
+	tag: Sleep
+page: 2017-05-22
+	desc: Missi: Hey! You two coming back inside or what?
+	tag: Ash
+	tag: ch-27
+	tag: Cricket
+	tag: Emily
+	tag: FullerHome
+	tag: Missi
+	tag: Moon
+	tag: p-061
+	tag: Sleep
+page: 2017-05-19
+	desc: Emily: You don't want to go to the party? We don't have to go to the party
+	tag: Ash
+	tag: ch-27
+	tag: Emily
+	tag: FullerHome
+	tag: p-060
+page: 2017-05-18
+	desc: Ash: I hate this body. It intrudes in my life in the most awkward ways in the most awkward moments. Every time I find some calm it's like "by the way, you're a GIRL."
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: p-059
+	tag: Emily
+page: 2017-05-17
+	desc: Emily: Hey! Ash? You coming in?
+	tag: Ash
+	tag: ch-27
+	tag: FullerHome
+	tag: p-058
+	tag: Emily
+	tag: Missi
+	tag: Rumisiel
+page: 2017-05-16
+	desc: Rumisiel: But... But why would you have any interest in this place?
+	tag: Cassiel
+	tag: ch-27
+	tag: OldRoad
+	tag: p-057
+	tag: Rumisiel
 page: 2017-05-15
 	desc: Rumisiel: Who are you?
 	tag: Cassiel
