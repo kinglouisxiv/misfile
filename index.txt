@@ -47,6 +47,74 @@
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
+page: 2017-09-20
+	desc: Ash: Yeah... We just did  this. I'm going to put some clothes on.
+	tag: Ash
+	tag: ch-28
+	tag: GraduationRobe
+	tag: James
+	tag: Missi
+	tag: p-31
+	tag: UptonHouse
+page: 2017-09-19
+	desc: Missi: Nah. It's ok. I'll work it into a threesome. Before you ask, yes, I'm kidding. I don't share well in bed.
+	tag: Ash
+	tag: ch-28
+	tag: GraduationRobe
+	tag: James
+	tag: Missi
+	tag: p-30
+	tag: UptonHouse
+page: 2017-09-18
+	desc: Ash: Ok, it's funny, but not THAT funny
+	tag: Ash
+	tag: ch-28
+	tag: GraduationRobe
+	tag: James
+	tag: p-29
+	tag: UptonHouse
+page: 2017-09-15
+	desc: James: He didn't... Take advantage, did he?
+	tag: Ash
+	tag: ch-28
+	tag: GraduationRobe
+	tag: James
+	tag: p-28
+	tag: Therapist
+	tag: UptonHouse
+page: 2017-09-14
+	desc: James: No. You're still my friend. But I would say that I think you were happier then
+	tag: Ash
+	tag: ch-28
+	tag: GraduationRobe
+	tag: James
+	tag: p-27
+	tag: Therapist
+	tag: UptonHouse
+page: 2017-09-13
+	desc: Ash: Would it hurt you if I said I wasn't that Ash any more, if I didn't even know what it was like to be that Ash anymore?
+	tag: Ash
+	tag: ch-28
+	tag: GraduationRobe
+	tag: James
+	tag: p-26
+	tag: UptonHouse
+page: 2017-09-12
+	desc: James: Look at that collar. The neck line is open. If you are not wearing a shirt it's a dead givaway. 
+	tag: Ash
+	tag: ch-28
+	tag: GraduationRobe
+	tag: James
+	tag: p-25
+	tag: UptonHouse
+page: 2017-09-11
+	desc: James: Are you naked under that thing?
+	tag: Ash
+	tag: ch-28
+	tag: GraduationRobe
+	tag: James
+	tag: p-24
+	tag: UptonHouse
 page: 2017-09-08
 	desc: Ash: Jeeze, Missi. You're early I thought you weren't...
 	tag: Ash
