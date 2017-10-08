@@ -47,6 +47,127 @@
 ;
 baseurl: http://www.misfile.com/?date={0}
 ;
+page: 2017-10-06
+	desc: Missi: So... A deal is still a deal, right?
+	tag: Ash
+	tag: ch-28
+	tag: James
+	tag: Missi
+	tag: p-42
+	tag: Pizza
+	tag: Pyjamas
+	tag: UptonHouse
+	tag: Wager
+page: 2017-10-05
+	desc: Ash: I don't like them, something feels... Off
+	tag: Ash
+	tag: ch-28
+	tag: Cloud
+	tag: James
+	tag: Missi
+	tag: p-42
+	tag: Pyjamas
+	tag: UptonHouse
+	tag: Wager
+page: 2017-10-04
+	desc: Missi: You comfortable? You ready for the show?
+	tag: Ash
+	tag: Blush
+	tag: ch-28
+	tag: James
+	tag: Missi
+	tag: p-41
+	tag: Pyjamas
+	tag: UptonHouse
+	tag: Wager
+page: 2017-10-03
+	desc: Ash: You really think you're going to find something in MY drawers?
+	tag: Ash
+	tag: ch-28
+	tag: Missi
+	tag: p-40
+	tag: UptonHouse
+	tag: Wager
+page: 2017-10-02
+	desc: Ash: Wait... A double loss? You're not seriously going to hold me to...
+	tag: Ash
+	tag: ch-28
+	tag: GasCard
+	tag: James
+	tag: Missi
+	tag: p-39
+	tag: UptonHouse
+	tag: Wager
+page: 2017-09-29
+	desc: Missi: YOU SHALL NOT PASS!
+	tag: Ash
+	tag: ch-28
+	tag: Crash
+	tag: GTPrimeGame
+	tag: James
+	tag: Missi
+	tag: p-38
+	tag: UptonHouse
+	tag: Wager
+page: 2017-09-28
+	desc: Ash: How are you...
+	tag: Ash
+	tag: ch-28
+	tag: GTPrimeGame
+	tag: Missi
+	tag: p-37
+	tag: UptonHouse
+	tag: Wager
+page: 2017-09-27
+	desc: James: Ok, remember, you're in "separate cars". No touching each other. No verbal taunting. Any crash counts as a loss.
+	tag: Ash
+	tag: ch-28
+	tag: GTPrimeGame
+	tag: James
+	tag: Missi
+	tag: p-36
+	tag: UptonHouse
+	tag: Wager
+page: 2017-09-26
+	desc: Missi: Wait... Why a Subaru?
+	tag: Ash
+	tag: ch-28
+	tag: GTPrimeGame
+	tag: James
+	tag: Missi
+	tag: p-35
+	tag: UptonHouse
+	tag: Wager
+page: 2017-09-25
+	desc: Ash: No. Back me up, James. Without the opening in the front they're not REALLY boxer shorts. Ergo they are pyjamas. Prosecution, your witness.
+	tag: Ash
+	tag: ch-28
+	tag: GTPrimeGame
+	tag: James
+	tag: Missi
+	tag: p-34
+	tag: Pyjamas
+	tag: Sleepware
+	tag: UptonHouse
+	tag: Wager
+page: 2017-09-22
+	desc: Ash: There. This is far more comfortable. Who wants to race?
+	tag: Ash
+	tag: ch-28
+	tag: GTPrimeGame
+	tag: James
+	tag: Missi
+	tag: p-33
+	tag: Pyjamas
+	tag: Sleepware
+	tag: UptonHouse
+page: 2017-09-21
+	desc: James: So, um, does that mean you're...
+	tag: ch-28
+	tag: James
+	tag: Missi
+	tag: p-32
+	tag: UptonHouse
 page: 2017-09-20
 	desc: Ash: Yeah... We just did  this. I'm going to put some clothes on.
 	tag: Ash
@@ -160,46 +281,46 @@ page: 2017-09-01
 	tag: Cassi
 	tag: ch-28
 	tag: p-18
-	tag: Toilet
 	tag: Rumisiel
 	tag: School
+	tag: Toilet
 page: 2017-08-31
 	desc: Cassi: Don't! Don't you dare...
 	tag: Cassi
 	tag: ch-28
 	tag: p-17
-	tag: Toilet
 	tag: Rumisiel
 	tag: School
+	tag: Toilet
 page: 2017-08-30
 	desc: Cassi: You LOST IT?!
 	tag: Cassi
 	tag: ch-28
 	tag: p-16
-	tag: Toilet
 	tag: Rumisiel
 	tag: School
+	tag: Toilet
 page: 2017-08-29
 	desc: Cassi: You, piss boy! / Shake it off and scram!
 	tag: Cassi
-	tag: ch-28
-	tag: p-15
-	tag: Key
 	tag: CFS5
-	tag: Toilet
+	tag: ch-28
+	tag: Key
+	tag: p-15
 	tag: PissBoy
 	tag: Rumisiel
 	tag: School
+	tag: Toilet
 page: 2017-08-28
 	desc: Cassi: Well now... That's a little self-important. Why would a nobody like you think that?
 	note: mention of Key to 5th Branch; and Satan
 	tag: Cassi
-	tag: ch-28
-	tag: p-14
-	tag: Key
 	tag: CFS5
-	tag: Satan
+	tag: ch-28
+	tag: Key
+	tag: p-14
 	tag: Rumisiel
+	tag: Satan
 	tag: School
 page: 2017-08-25
 	desc: Cassi: Well, clearly you are in a bad place, so... No
