@@ -88,7 +88,7 @@ ChrisHazelton	the author/artist himself
 Cinema	generic: popcorn sales outlets
 ClockTower	highest central point in [Tempest](#tempest)
 ClothesShop	generic
-Colin	an heroic ‘Everyman’ figure, works at [AutoModerZ](#automoderz); drives a Camaro "with 20 inch rims and a Borla exhaust"
+Colin	an heroic 'Everyman' figure, works at [AutoModerZ](#automoderz); drives a Camaro "with 20 inch rims and a Borla exhaust"
 Colour	page in colour rather than the usual pencil greyscale 
 Computer	generic, probably a consumer grade Windows XP Home box
 Corner22	location of the [Old Shed](#oldshed) on the [Old Road](#oldroad)
@@ -97,11 +97,13 @@ Cover	start of a new book/chapter
 CupidBow	stylised bow and arrow
 DangBlastedIdiot	customer at [The Ale House](#alehouse)
 Dates	entries with days, dates, ages, etc
+DaveDAngelo	Dave D'Angelo, racer in Greene, close cut frizzy-looking hair. Drives a Subaru WRX. Sidekick [Doug](#doug)
 DayOne	live-action movie adaptation of the first Misfile book via [Kickstarter](https://www.kickstarter.com/projects/683971833/misfile-day-one)
 Diner	generic: diners, cafe, restaurant
-DMV	Department of Motor Vehicles (?) driver testing site
 DogWalsh	[Dog](#mrmuffy)-owning Walsh clan member
 Doris	caterer _extrordinaire!_
+Doug	racer (?) in [Greene](#greene), lip tuft beard, sidekick to [Dave D'Angelo](#davedangelo)
+DMV	Department of Motor Vehicles (?) driver testing site
 Dream	from daydreams to nightmares
 Dress	Ash in a ...
 Dweeb	Robin to [Colin's](#colin) Batman
@@ -112,8 +114,8 @@ Emily	Emily McArthur, "Blues"; our other protagonist; drives a [Nissan 240SX](#n
 EnriqueSwan	fashion clothes designer
 Eponine	friend of [Ash](#ash) the girl
 EverythingUnder	lingerie shop 
-EveWallace	An exploitative girlfriend of [James's](#james] in his school days and cause of a race-duel with Ash.
-FilingTool	Rumisiel's 5th Branch issue unit includes sound recorder, internet access, possibly 5th Branch key
+EveWallace	An exploitative girlfriend of [James](#james) in his school days, cause of a race-duel with [Ash](#ash).
+FilingTool	Rumisiel's 5th Branch issue unit includes sound recorder, internet access, possibly 5th Branch Key
 Fillaniel	angel, a [CFS](#cfs) boss, joint administrator of [5th Branch](#cfs5) with Terrael
 Filler	non-story pages: Xmas, Remembrance, crossovers, adverts _etc_
 Fireworks	skyrockets and mortars
@@ -259,6 +261,7 @@ SomeMom	trying to get a word in edgeways
 Speedway	dirtstrip race track
 Spirit	spooky stuff
 StripMall	"the strip mall parking lot over on Route 2"
+SubaruWRX	[Dave D'Angelo's](#davedangelo) car
 SuicideGuy	tried to check out
 Supra	Toyota Supra mark 4 (A80?), [Baxter's](#baxter) car
 Swim	-place & -wear
@@ -271,6 +274,7 @@ TempestHealth	[Dr Upton's](#edward) workplace
 Terrael	angel, co-administrator of [5th Branch](#cfs5) with [Fillaniel](#fillaneal)
 Teshiel	hefty angel, once answered truthfully by [Vashiel](#vashiel)
 Thorin	Thorin Medical practice, [Dr Frist's](#melissa) workplace
+ThreshingStreet	racing venue (?) 'off the state road' close to [Greene](#greene)
 Tom	Tom Fuller, [Missi's](#missi) brother, adopted. [Ash's](#ash) early rival. Drives an Acura
 TriangleMall	a mall (!)
 Truro	[town](https://en.wikipedia.org/wiki/Truro,_Massachusetts) on Cape Cod, with beachfront parking areas suitable for racing
