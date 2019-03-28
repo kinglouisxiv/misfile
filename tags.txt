@@ -60,31 +60,31 @@ BurtsYard	one place where Burt does business
 Cafe225	café in [Tempest](#tempest)
 CafeMarat	café in [Tempest](#tempest)
 Camera	takes pictures
-Cancer	[Ellen McArthur](#ellenmcarthur) had a non-malignant tumour when [Emily](#emily) was young. See also [June](#june)
-Candle	decorative/romantic light & scent source
-Cantina32	restaurant in [Tempest's](#tempest) main street
-CapKid	generic: some kid wearing a cap
-CardShop	selling greeting cards
-CarSale	car sale lots
-CasHome	where Casper lives, somewhere on Cape Cod
-Casper	'Cas', racer in Cape Cod, friend of [Brent](#brent); drives an MR2
-CasperCar	[MR2](https://en.wikipedia.org/wiki/Toyota_MR2) 
+Cancer	[Ellen McArthur](#ellenmcarthur) had a non-malignant tumour when [Emily](#emily) was young. See also [June](#june).
+Candle	decorative/romantic light & scent source.
+Cantina32	restaurant in [Tempest's](#tempest) main street.
+CapKid	generic: some kid wearing a cap.
+CardShop	selling greeting cards.
+CarSale	car sale lots.
+CasHome	where Casper lives, somewhere on Cape Cod.
+Casper	'Cas', racer in Cape Cod, friend of [Brent](#brent); drives an MR2.
+CasperCar	[MR2](https://en.wikipedia.org/wiki/Toyota_MR2).
 Cassi	[Cassiel's](#cassiel) dark-haired 'mortal schoolgirl' guise for stalking/harassing [Rumisiel](#rumisiel)
-CassiCreepy	alternative disguise used by [Cassiel](#cassiel)
-Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-. Lucifer's niece. Also see [Cassi](#cassi)
-CassiLunchLady	alternative disguise used by [Cassiel](#cassiel)
-CatAndMouse	background, associated with [Marie](#marie)
-CFS	Celestial Filing System (properly the _[Celestial Filing Depository](http://web.archive.org/web/20060326052535/http://www.misfile.com/?menu=filing)_). Divided into five branches, four of which have an [Archon](#archon)
-CFS1	First Branch: facets of time, space and celestial motion
-CFS2	Second Branch: maintaining physical laws of the Creation
-CFS3	Third Branch:  (also?) maintaining the physical laws of the Creation 
-CFS4	Fourth Branch: takes measurements on Earth and compares them to extrapolations from the filing system
+CassiCreepy	alternative disguise used by [Cassiel](#cassiel).
+Cassiel	angel, works for [4th Branch](#cfs4) of the [CFS](#cfs), [Rumisiel](#rumisiel)’s ex-. Lucifer's niece. Also see [Cassi](#cassi).
+CassiLunchLady	alternative disguise used by [Cassiel](#cassiel).
+CatAndMouse	background, associated with [Marie](#marie).
+CFS	Celestial Filing System (properly the _[Celestial Filing Depository](http://web.archive.org/web/20060326052535/http://www.misfile.com/?menu=filing)_). Divided into five branches, four of which have an [Archon](#archon).
+CFS1	First Branch: facets of time, space and celestial motion.
+CFS2	Second Branch: maintaining physical laws of the Creation.
+CFS3	Third Branch:  (also?) maintaining the physical laws of the Creation. 
+CFS4	Fourth Branch: takes measurements on Earth and compares them to extrapolations from the filing system.
 CFS5	Fifth Branch: deals with fairly mundane aspects of life on earth. Unimportant, no [Archon](#archon) [[ref](http://www.misfile.com/?date=2007-09-13)]. [Rumisiel](#rumisiel) worked here.
 Chains	unhappy bind-y background
 ChainSaw	for cutting trees, or zombies
-Cherubim	very different from our regular angels: 'gestalt being, four aspects, unpredictable', also four wings. Think the Filing Depot is 'wrong'. Angels worry about them.
+Cherubim	very different from our regular angels: 'gestalt being, four aspects, unpredictable', also four wings. Think the Filing Depot is *wrong*. Regular angels worry about them.
 Chocolate	mmmm!
-ChrisHazelton	the author/artist himself
+ChrisHazelton	the author & artist himself
 Cinema	generic: popcorn sales outlets
 ClockTower	highest central point in [Tempest](#tempest)
 ClothesShop	generic
@@ -95,6 +95,7 @@ Corner22	location of the [Old Shed](#oldshed) on the [Old Road](#oldroad)
 CostumeShop	"Another Face"
 Cover	start of a new book/chapter
 CupidBow	stylised bow and arrow
+DanCreed	track team jock bullied Ash before the Misfile - mentioned not seen
 DangBlastedIdiot	customer at [The Ale House](#alehouse)
 Dates	entries with days, dates, ages, etc
 DaveDAngelo	Dave D'Angelo, racer in Greene, close cut frizzy-looking hair. Drives a Subaru WRX. Sidekick [Doug](#doug)
@@ -110,10 +111,11 @@ Dweeb	Robin to [Colin's](#colin) Batman
 Dyke	[Lesbian](#lesbian) (slang, probabaly offensive)
 Edward	Dr Edward Upton, [Ash](#ash)’s father; gynaecologist; drives an [Audi](#audi), practice at [Tempest Health](#tempesthealth)
 EllenMcArthur	[Emily's](#emily) Mom (officially named Ellen after fan poll May 2015) 
-Emily	Emily McArthur, "Blues"; our other protagonist; drives a [Nissan 240SX](#nissan240sx) and a classic [Mustang](#mustang)
+Emily	Emily McArthur, "Blues" in a notable fanfic; our other protagonist; drives a [Nissan 240SX](#nissan240sx) and a classic [Mustang](#mustang)
+EmilyMD	[Emily](#emily) portrayed in white coat and forehead reflector when she is being particularly analytic/intellectual 
 EnriqueSwan	fashion clothes designer
 Eponine	friend of [Ash](#ash) the girl
-EverythingUnder	lingerie shop 
+EverythingUnder	lingerie shop
 EveWallace	An exploitative girlfriend of [James](#james) in his school days, cause of a race-duel with [Ash](#ash).
 FilingTool	Rumisiel's 5th Branch issue unit includes sound recorder, internet access, possibly 5th Branch Key
 Fillaniel	angel, a [CFS](#cfs) boss, joint administrator of [5th Branch](#cfs5) with Terrael
@@ -247,15 +249,16 @@ Salesman	car sales dude, but not [Burt](#burt)
 School	Tempest High
 SchoolRoad	the long walk between the Upton home and Tempest High
 Security	private security staff
-Seraph	or Seraphim -- a class of angel with six wings and made of pure flame. Associated with a "great dying" on Earth. See also [Angel](#angel), [Cherubim](#cherubim)
-ShawsSteak	Shaw's Steakhouse
-Sheldon	Machiavellian racer, drives an [Audi S4](#audis4)
-Sheldonista	Sheldon's bully boys: "just muscle"
-ShopAsst	shop staff
-Shopping	recreational retail therapy
-ShoulderAngel	conscience avatars
-Shower	steaminess and high emotions
-Shrimpy	rich bitch party-goer who hasn't quite 'got' the memo
+Seraph	or Seraphim -- a class of angel with six wings and made of pure flame. Associated with a "great dying" on Earth. See also [Angel](#angel), [Cherubim](#cherubim).
+ShawsSteak	Shaw's Steakhouse.
+Sheldon	Machiavellian racer, drives an [Audi S4](#audis4).
+Sheldonista	Sheldon's bully boys: "just muscle".
+ShopAsst	shop staff.
+Shopping	recreational retail therapy.
+ShoulderAngel	conscience avatars.
+Shower	steaminess and high emotions.
+Shrimpy	rich bitch party-goer who hasn't quite 'got' the memo.
+Sleepover	sharing a bedroom overnight, sleep optional.
 Smoothie	puréed fruit drink
 SomeMom	trying to get a word in edgeways
 Speedway	dirtstrip race track
@@ -276,6 +279,7 @@ Teshiel	hefty angel, once answered truthfully by [Vashiel](#vashiel)
 Thorin	Thorin Medical practice, [Dr Frist's](#melissa) workplace
 ThreshingStreet	racing venue (?) 'off the state road' close to [Greene](#greene)
 Tom	Tom Fuller, [Missi's](#missi) brother, adopted. [Ash's](#ash) early rival. Drives an Acura
+TORRSalumni	The [Old Road](#oldroad) Racing Society Alumni
 TriangleMall	a mall (!)
 Truro	[town](https://en.wikipedia.org/wiki/Truro,_Massachusetts) on Cape Cod, with beachfront parking areas suitable for racing
 Tyler	runs [The Ale House](#alehouse), [Rose's](#rose) brother
@@ -295,6 +299,11 @@ XR4Ti	Ash's day-to-day street racing car, a Merkur, licence plate XR4TI. Twin sy
 Z4	rear-wheel drive sporty convertible coveted by [Molly](#molly)
 ZX3	[Heather](#heather) drives a yellow one.
 ; --- Chapters / Books ---
+ch-31	Book 31: All good things...
+ch-30	Book 30: Graduation
+ch-29	Book 29: Early Summer ’05
+ch-28	Book 28: Early Summer ’05
+ch-27	Book 27: Early Summer ’05
 ch-26	Book 26: Early Summer ’05
 ch-25	Book 25: Spring ’05
 ch-24	Book 24: Spring ’05
