@@ -187,33 +187,33 @@ McArthurRes	The McArthur residence -- [Emily's](#emily) home, [house no. 124](ht
 Melissa	Dr Melissa Frist, gynaecologist at [Thorin Medical](#thorin)
 Miata	[Kay's](#kay) ride
 MiniVan	[Mom McArthur's](#ellenmcarthur) ride
-Missi	Missi Fuller, adopted, hyperactive 15 year-old Freshman in September 2004 -- held back "due to social/immaturity issues" ([WoG](#wog) on the Misfile Forum) so a year older than typical for her class); [Ash](#ash)-crush
-MIT	Massachusetts Institute of Technology
-MMO	Massive Multiplayer Online game
-ModelGirl	victim of [Cassiel](#cassiel)
-ModelGirl2	fleeing [Cassiel](#cassiel)
-Molly	Molly Taber, bitch/tart (with a heart), drives a [Volkswagen](#vw)
+Missi	Missi Fuller, adopted, hyperactive 15 year-old Freshman in September 2004 -- held back "due to social/immaturity issues" ([WoG](#wog) on the Misfile Forum) so a year older than typical for her class); [Ash](#ash)-crush.
+MIT	Massachusetts Institute of Technology.
+MMO	Massive Multiplayer Online game.
+ModelGirl	victim of [Cassiel](#cassiel).
+ModelGirl2	fleeing [Cassiel](#cassiel).
+Molly	Molly Taber, bitch/tart (with a heart), drives a [Volkswagen](#vw).
 Monster	The Monster XR: Ash's frankencar, 4 wheel drive racer, built from various Cosworth models: higher spoiler with centre pillar; single right side hood intake.
-Morgan	bit of a slapper
-MR2	[Casper's](#casper) car
-MrCuddles	[Missi's](#missi) confidant & comforter
-MrMacMannus	teacher of 19th century literature
-MrMuffy	[Walsh-clan](#dogwalsh) dog with an inquisitive nose
-MrRenault	history teacher 
-MrWalker	auto class teacher
-MsFlanery	teacher
-Mustang	a ’68 fast back, [Emily's](#emily) other ride
-Myrael	missing [Archon](#archon) of [3rd Branch](#cfs3)
-N240Z	Nissan 240Z sportscar, junker restored by [Aiden](#aiden)
-Nissan240SX	[Emily's](#emily) car, manual transmission upgrade by [Ash](#ash)
-Nosebleed	you need a girlfriend, laddie!
+Morgan	bit of a slapper.
+MR2	[Casper's](#casper) car.
+MrCuddles	[Missi's](#missi) confidant & comforter.
+MrMacMannus	teacher of 19th century literature.
+MrMuffy	[Walsh-clan](#dogwalsh) dog with an inquisitive nose.
+MrRenault	history teacher.
+MrWalker	auto class teacher.
+MsFlanery	teacher.
+Mustang	a ’68 fast back, [Emily's](#emily) other ride.
+Myrael	missing [Archon](#archon) of [3rd Branch](#cfs3).
+N240Z	Nissan 240Z sportscar, junker restored by [Aiden](#aiden).
+Nissan240SX	[Emily's](#emily) car, manual transmission upgrade by [Ash](#ash).
+Nosebleed	(you need a girlfriend, laddie!)
 OhMyDressShop	women's clothing retailer
-OldRoad	local race site, a.k.a. the Mountain. [A brief history](http://web.archive.org/web/20060326052520/http://www.misfile.com/?menu=oldroad)
-OldShed	at [Corner 22](#corner22) of the [Old Road](#oldroad)
-Oscar	looks surprisingly like [Emily](#emily)
-OscarCar	unidentified model; has a spoiler
-PagerUnit	receive-only text messager
-ParkingLot	race/practice ground, after hours
+OldRoad	local race site, a.k.a. the Mountain. [A brief history](http://web.archive.org/web/20060326052520/http://www.misfile.com/?menu=oldroad).
+OldShed	at [Corner 22](#corner22) of the [Old Road](#oldroad).
+Oscar	looks surprisingly like [Emily](#emily).
+OscarCar	unidentified model; has a spoiler.
+PagerUnit	receive-only text messager.
+ParkingLot	race/practice ground, after hours.
 Party	let’s ...
 Patient	Ms J Random ...
 Patreon	bonus page from [Patreon](http://www.patreon.com/misfile) sponsorship
@@ -268,25 +268,26 @@ SubaruWRX	[Dave D'Angelo's](#davedangelo) car
 SuicideGuy	tried to check out
 Supra	Toyota Supra mark 4 (A80?), [Baxter's](#baxter) car
 Swim	-place & -wear
-Sword	for angelic smitings
-Tarot	playing cards, with mystical properties when used with insight
-Teacher	generic, unnamed, of math, gym, sport, _etc_
-Tears	and crying
-Tempest	small (pop ~8,000) town, est. 1876, in western Massachusetts. Scene of most of the action
-TempestHealth	[Dr Upton's](#edward) workplace
-Terrael	angel, co-administrator of [5th Branch](#cfs5) with [Fillaniel](#fillaneal)
-Teshiel	hefty angel, once answered truthfully by [Vashiel](#vashiel)
-Thorin	Thorin Medical practice, [Dr Frist's](#melissa) workplace
-ThreshingStreet	racing venue (?) 'off the state road' close to [Greene](#greene)
-Tom	Tom Fuller, [Missi's](#missi) brother, adopted. [Ash's](#ash) early rival. Drives an Acura
-TORRSalumni	The [Old Road](#oldroad) Racing Society Alumni
-TriangleMall	a mall (!)
-Truro	[town](https://en.wikipedia.org/wiki/Truro,_Massachusetts) on Cape Cod, with beachfront parking areas suitable for racing
-Tyler	runs [The Ale House](#alehouse), [Rose's](#rose) brother
-Uniform	Mechanic's uniform: blue shirt, pants and a hat, plus _Team Misfile_ patches
-UptonHouse	[Edward](#edward) and [Ash](#ash) live here
-Valentine	related to the saint's day on 14 February
-Vashiel	angel, [Rumisiel's](#rumisiel) truthful brother; "of the second order of holy swords, divine punishment division"
+Sword	For angelic smitings.
+Tarot	Playing cards, with mystical properties when used with insight.
+Teacher	Generic, unnamed -- of math, gym, sport, _etc_.
+Tears	(and generally crying.)
+Tempest	Small (pop ~8,000) town, est. 1876, in western Massachusetts. Scene of most of the action.
+TempestHealth	[Dr Upton's](#edward) workplace.
+Terrael	Angel, co-administrator of [5th Branch](#cfs5) with [Fillaniel](#fillaneal).
+Teshiel	Hefty angel, once answered truthfully by [Vashiel](#vashiel).
+Thorin	Thorin Medical practice, [Dr Frist's](#melissa) workplace.
+ThreshingStreet	Racing venue (?) 'off the state road' close to [Greene](#greene).
+Tom	Tom Fuller, [Missi's](#missi) brother, adopted. [Ash's](#ash) early rival. Drives an Acura.
+TORRSalumni	The [Old Road](#oldroad) Racing Society Alumni -- proposed by Ash.
+TriangleMall	a mall.
+Truro	[Town on Cape Cod](https://en.wikipedia.org/wiki/Truro,_Massachusetts), with beachfront parking areas suitable for racing.
+Tyler	Runs [The Ale House](#alehouse), [Rose's](#rose) brother.
+Uniform	Mechanic's uniform: blue shirt, pants and a hat, plus _Team Misfile_ patches.
+UptonHouse	[Edward](#edward) and [Ash](#ash) live here.
+Urtheniel	Angel, [Rumisiel's](#rumisiel) former weed dealer.
+Valentine	Related to the saint's day on 14 February.
+Vashiel	Angel, [Rumisiel's](#rumisiel) truthful brother; "of the second order of holy swords, divine punishment division"
 VW	Volkswagen -- Beetle, modern edition: [Molly's](#molly) car
 WaitPerson	burger bearer
 WallaceMine	the pit mine at the top of the [Old Road](#oldroad). Has a narrow dirt track which spirals and switchbacks down into it, but no guard rails.
