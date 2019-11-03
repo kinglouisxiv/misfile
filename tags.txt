@@ -28,6 +28,8 @@ ArchonKiller	a mystery
 Aries	[’Arry's](#harry) auto workshop
 Arthur	racer boy
 Ash	Ash Upton "King of the Mountain"; our protagonist; drives a Merkur [XR4Ti](#xr4ti) & ["The Monster XR"](#monster) an XR4Ti / Sierra Cosworth hybrid
+Ash-f	female post-refile Ash created by Rumisiel’s congress with a photocopier
+Ash-m	male post-refile Ash created by Rumisiel’s congress with a Post-It pad
 Ashley	forum's name for Ash's truly female alter-ego, seen in flashbacks and imagination (N.B. she never existed -- [WoG](#wog))
 AshMale	representation of Ash as male
 Audi	[Edward Upton](#edward)'s car, licence plate DR-U
@@ -65,7 +67,6 @@ Candle	decorative/romantic light & scent source.
 Cantina32	restaurant in [Tempest's](#tempest) main street.
 CapKid	generic: some kid wearing a cap.
 CardShop	selling greeting cards.
-CarSale	car sale lots.
 CasHome	where Casper lives, somewhere on Cape Cod.
 Casper	'Cas', racer in Cape Cod, friend of [Brent](#brent); drives an MR2.
 CasperCar	[MR2](https://en.wikipedia.org/wiki/Toyota_MR2).
@@ -80,7 +81,7 @@ CFS2	Second Branch: maintaining physical laws of the Creation.
 CFS3	Third Branch:  (also?) maintaining the physical laws of the Creation. 
 CFS4	Fourth Branch: takes measurements on Earth and compares them to extrapolations from the filing system.
 CFS5	Fifth Branch: deals with fairly mundane aspects of life on earth. Unimportant, no [Archon](#archon) [[ref](http://www.misfile.com/?date=2007-09-13)]. [Rumisiel](#rumisiel) worked here.
-Chains	unhappy bind-y background
+ChainsBG	unhappy bind-y background
 ChainSaw	for cutting trees, or zombies
 Cherubim	very different from our regular angels: 'gestalt being, four aspects, unpredictable', also four wings. Think the Filing Depot is *wrong*. Regular angels worry about them.
 Chocolate	mmmm!
@@ -108,7 +109,7 @@ DMV	Department of Motor Vehicles (?) driver testing site
 Dream	from daydreams to nightmares
 Dress	Ash in a ...
 Dweeb	Robin to [Colin's](#colin) Batman
-Dyke	[Lesbian](#lesbian) (slang, probabaly offensive)
+Dyke	[Lesbian](#lesbian) (slang, probably offensive)
 Edward	Dr Edward Upton, [Ash](#ash)’s father; gynaecologist; drives an [Audi](#audi), practice at [Tempest Health](#tempesthealth)
 EllenMcArthur	[Emily's](#emily) Mom (officially named Ellen after fan poll May 2015) 
 Emily	Emily McArthur, "Blues" in a notable fanfic; our other protagonist; drives a [Nissan 240SX](#nissan240sx) and a classic [Mustang](#mustang)
@@ -135,7 +136,7 @@ Graveyard	metaphorical, so far.
 GreeneHouse	a party scene for [Jenny Greene](#jennygreene)
 Gyno	exams [Ash](#ash) tries to skip
 Harry	'Harry' (Henry) Walsh, local race scene's auto engineer, owner [Aries](#aries) auto workshop
-HarryJr	[Kate's](#kate] son, Harry. Another [Harry](#harry) may have been involved
+HarryJr	[Kate's](#kate) son, Harry. Another [Harry](#harry) may have been involved
 Harvard	a new-ish university
 Heather	Heather Walsh, [Harry's](#harry) niece, drives a yellow ZX3
 HeatherHome	where Heather lurks; (Art Note: doorway has changed)
@@ -155,12 +156,14 @@ Jazz	restaurant
 Jen	waitperson at the [Breakfast Anytime](#breakfastanytime) [diner](#diner)
 Jenny	conceited model
 JennyGreene	member/leader of the Tempest High 'rich bitch squad'
-JennySnr	[Jenny](#jenny)’s-the-model's conceited Mom
+JennySnr	[Jenny](#jenny)-the-model’s conceited Mom
 June	friend of [Ellen McArthur](#ellenmcarthur) who [Emily](#emily) stayed with one summer while Ellen had a [tumour](#cancer) removed
 Junkyard	source of parts
 JunkyardGuy	supplier of parts
 Kate	'Kamikaze' Kate, the Demon of Greylock Mountain (has mellowed...); drives a Jaguar XKR, licence plate: KATE 3
 KateHouse	[Kate](#kate)'s 'Victorian' styled house
+KateRel1	elderly relative of [Kate's](#kate)
+KateRel2	another elderly relative of [Kate's](#kate)
 Kay	Kay Wheeler, model, works for [Marie](#marie), drives a Miata
 Kevin	reconnaissance [Sheldonista](#sheldonista)
 KidB	some boy at school
