@@ -45,7 +45,7 @@
 ; Meta
 ;     - _e.g._ fillers, guest comics, art pages, special colour pages (for a b&w comic)
 ;
-baseurl: http://www.misfile.com/?date={0}
+baseurl: http://www.misfile.com/misfile/{0}
 ;
 page: 2019-08-28
 	desc: THE END <br><br> [And so Misfile ends, with Rumisiel farting rainbows...].
